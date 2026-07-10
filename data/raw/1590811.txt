@@ -1,0 +1,346 @@
+=== Talishar game 1590811 — 07/07/2026 21:37:42 ===
+
+Ehecalt played Weave Lightning
+Resolving play ability of Weave Lightning.
+Ehecalt played Sizzle
+Resolving play ability of Sizzle.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+BooZookiD's turn 1 has begun.
+BooZookiD played Ravenous Rabble
+🎯Briar was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️BooZookiD reveals Starlight Road
+Ehecalt passed
+BooZookiD passed
+Ehecalt auto-passed
+Ehecalt is about to take 2 damage from Ravenous Rabble
+Ehecalt took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+BooZookiD played Flowing Stormstrike
+🎯Briar was chosen as the target.
+Resolving play ability of Flowing Stormstrike.
+Ehecalt passed
+Ehecalt blocked with Weave Lightning
+BooZookiD activated Oscilio
+Card chosen: Cloud Cover
+Resolving activated ability of Oscilio.
+BooZookiD activated Flowing Stormstrike
+BooZookiD pitched Starlight Road
+BooZookiD activated Flowing Stormstrike
+Resolving activated ability of Flowing Stormstrike.
+Resolving activated ability of Flowing Stormstrike.
+BooZookiD passed
+Ehecalt passed
+Ehecalt is about to take 4 damage from Flowing Stormstrike
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+Processing hit effect for Flowing Stormstrike
+The chain link was resolved.
+BooZookiD passed
+BooZookiD passed
+The combat chain was closed.
+BooZookiD passed
+BooZookiD passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 1 has begun.
+Ehecalt played Scar for a Scar
+🎯Oscilio was chosen as the target.
+Scar for a Scar gains Go Again!
+Embodiment of Lightning grants go again
+Resolving play ability of Scar for a Scar.
+BooZookiD passed
+Ehecalt passed
+BooZookiD played Voltic Veil from arsenal
+BooZookiD pitched Electrostatic Discharge
+Resolving play ability of Voltic Veil.
+Voltic Veil is dealing 1 arcane damage
+BooZookiD is dealing 1 arcane damage from Voltic Veil
+Ehecalt took 1 damage
+Ehecalt passed
+BooZookiD passed
+BooZookiD is about to take 4 damage from Scar for a Scar
+BooZookiD took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt played Ravenous Rabble
+🎯Oscilio was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Ehecalt reveals Sprout Strength
+BooZookiD passed
+Ehecalt played Lightning Press from arsenal
+Ehecalt's Ravenous Rabble was targeted
+BooZookiD played Voltic Veil
+BooZookiD pitched Electrostatic Discharge
+BooZookiD activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Resolving play ability of Voltic Veil.
+Voltic Veil is dealing 2 arcane damage
+BooZookiD is dealing 2 arcane damage from Voltic Veil
+Ehecalt took 2 damage
+Resolving play ability of Lightning Press.
+Ehecalt passed
+BooZookiD passed
+BooZookiD is about to take 7 damage from Ravenous Rabble
+BooZookiD took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+BooZookiD's turn 2 has begun.
+BooZookiD passed
+BooZookiD passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 2 has begun.
+Ehecalt played Quick Succession from arsenal
+Resolving play ability of Quick Succession.
+Ehecalt played Arcanic Shockwave
+🎯Oscilio was chosen as the target.
+👁️‍🗨️Lightning Surge is revealed
+BooZookiD: Thinking... Please bear with me!
+BooZookiD activated Oscilio
+Card chosen: Starlight Road
+Resolving activated ability of Oscilio.
+BooZookiD played Flash Bolt
+BooZookiD pitched Constella Uplift
+Ehecalt's Briar was targeted
+BooZookiD activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Resolving play ability of Flash Bolt.
+Flash Bolt is dealing 4 arcane damage
+Ehecalt pitched Quick Succession
+Helm of Might and Magic was destroyed and prevented 1 arcane damage.
+BooZookiD is dealing 2 arcane damage from Flash Bolt
+Ehecalt took 2 damage
+BooZookiD activated Voltic Vanguard
+Resolving activated ability of Voltic Vanguard.
+Resolving play ability of Arcanic Shockwave.
+Arcanic Shockwave is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Arcanic Shockwave
+BooZookiD took 0 damage
+BooZookiD passed
+BooZookiD blocked with Lightning Surge and Lightning Surge
+Ehecalt passed
+BooZookiD passed
+BooZookiD is about to take 0 damage from Arcanic Shockwave
+BooZookiD took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Sprout Strength
+Resolving play ability of Sprout Strength.
+Ehecalt played Lightning Surge
+🎯Oscilio was chosen as the target.
+Embodiment of Lightning grants go again
+Resolving play ability of Lightning Surge.
+BooZookiD passed
+BooZookiD blocked with Unyielding Grip
+Ehecalt passed
+BooZookiD passed
+BooZookiD is about to take 5 damage from Lightning Surge
+BooZookiD took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt activated Star Fall
+🎯Oscilio was chosen as the target.
+Resolving activated ability of Star Fall.
+BooZookiD passed
+BooZookiD blocked with Blade Beckoner Plating
+Ehecalt passed
+BooZookiD passed
+BooZookiD is about to take 1 damage from Star Fall
+BooZookiD took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+BooZookiD's turn 3 has begun.
+BooZookiD played Flittering Charge from arsenal
+🎯Briar was chosen as the target.
+Resolving play ability of Flittering Charge.
+Ehecalt passed
+Ehecalt blocked with Rush of Power
+BooZookiD passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Flittering Charge
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+BooZookiD auto-passed
+BooZookiD auto-passed
+The combat chain was closed.
+BooZookiD auto-passed
+BooZookiD passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 3 has begun.
+Ehecalt played Rush of Power
+🎯Oscilio was chosen as the target.
+Resolving play ability of Rush of Power.
+BooZookiD passed
+BooZookiD blocked with Meteoric Impact
+Ehecalt played Lightning Press
+Ehecalt's Rush of Power was targeted
+Resolving play ability of Lightning Press.
+Ehecalt passed
+BooZookiD passed
+BooZookiD is about to take 3 damage from Rush of Power
+BooZookiD took 3 damage
+Combat resolved with a hit for 3 damage
+Processing hit effect for Rush of Power
+Rush of Power is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Rush of Power
+BooZookiD took 1 damage
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+BooZookiD's turn 4 has begun.
+BooZookiD played Scar for a Scar
+🎯Briar was chosen as the target.
+Scar for a Scar gains Go Again!
+Resolving play ability of Scar for a Scar.
+Ehecalt passed
+Ehecalt blocked with Arcanic Shockwave
+BooZookiD passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Scar for a Scar
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+BooZookiD played Scar for a Scar
+🎯Briar was chosen as the target.
+Scar for a Scar gains Go Again!
+Resolving play ability of Scar for a Scar.
+Ehecalt passed
+Ehecalt blocked with Static Shock
+BooZookiD passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Scar for a Scar
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+BooZookiD played Snatch
+🎯Briar was chosen as the target.
+Resolving play ability of Snatch.
+Ehecalt passed
+Ehecalt blocked with Arcanic Shockwave and Second Strike
+BooZookiD passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+BooZookiD auto-passed
+BooZookiD auto-passed
+The combat chain was closed.
+BooZookiD auto-passed
+BooZookiD passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 4 has begun.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+BooZookiD: Thinking... Please bear with me!
+BooZookiD activated Oscilio
+Card chosen: Sigil of Lightning
+Resolving activated ability of Oscilio.
+BooZookiD played Constella Uplift
+Ehecalt's Briar was targeted
+BooZookiD activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Resolving play ability of Constella Uplift.
+Constella Uplift is dealing 2 arcane damage
+BooZookiD is dealing 2 arcane damage from Constella Uplift
+Ehecalt took 2 damage
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+BooZookiD's turn 5 has begun.
+BooZookiD activated Oscilio
+Card chosen: Lightning Press
+Resolving activated ability of Oscilio.
+BooZookiD played Comet Collision
+Ehecalt's Briar was targeted
+BooZookiD activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Resolving play ability of Comet Collision.
+Comet Collision is dealing 5 arcane damage
+Ehecalt pitched Quick Succession
+BooZookiD is dealing 4 arcane damage from Comet Collision
+Ehecalt took 4 damage
+BooZookiD (BooZookiD) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+BooZookiD: Good Game!
+Ehecalt: Good Game!
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Weave Lightning, Quick Succession, Ravenous Rabble, Scar For A Scar
+[BooZookiD #1] Weave Lightning, Quick Succession, Ravenous Rabble, Scar For A Scar
+[Ehecalt #1] Quick Succession, Ravenous Rabble, Scar For A Scar
+[BooZookiD #2] Sprout Strength, Quick Succession, Lightning Surge, Arcanic Shockwave
+[Ehecalt #2] Sprout Strength, Quick Succession, Lightning Surge, Arcanic Shockwave
+[BooZookiD #3] Rush Of Power, Rush Of Power, Lightning Press, Sprout Strength
+[Ehecalt #3] Rush Of Power, Lightning Press, Sprout Strength
+[BooZookiD #4] Second Strike, Arcanic Shockwave, Static Shock, Arcanic Shockwave
+[BooZookiD #5] Static Shock, Quick Succession, Quick Succession, Entwine Lightning
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] Lightning Press
+[BooZookiD #1] Lightning Press
+[Ehecalt #1] Lightning Press
+[BooZookiD #2] Quick Succession
+[Ehecalt #2] Quick Succession
+[BooZookiD #3] (vide)
+[Ehecalt #3] (vide)
+[BooZookiD #4] Sprout Strength
+[Ehecalt #4] Sprout Strength
+[BooZookiD #5] Sprout Strength
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=20 opp=18 myDeck=33 oppDeck=36
+[BooZookiD #1] me=20 opp=18 myDeck=33 oppDeck=36
+[Ehecalt #1] me=14 opp=18 myDeck=33 oppDeck=32
+[BooZookiD #2] me=11 opp=15 myDeck=29 oppDeck=34
+[Ehecalt #2] me=11 opp=15 myDeck=29 oppDeck=30
+[BooZookiD #3] me=9 opp=10 myDeck=26 oppDeck=30
+[Ehecalt #3] me=8 opp=10 myDeck=26 oppDeck=26
+[BooZookiD #4] me=8 opp=6 myDeck=22 oppDeck=26
+[Ehecalt #4] me=6 opp=6 myDeck=22 oppDeck=22
+[BooZookiD #5] me=4 opp=6 myDeck=18 oppDeck=21
+
+=== META ===
+schema: v1
+captured_with: TLG v1.10.3
+game_url: https://talishar.net/game/play/1590811
+captured_at: 2026-07-07T19:29:16.357Z
+format: sage
+vs_ai: non
+me: Ehecalt
+opponent: BooZookiD
+my_hero: Briar (briar)
+opp_hero: Oscilio (oscilio)
+my_start_life: 20
+opp_start_life: 18
+my_start_deck_size: 36
+opp_start_deck_size: 36
+my_equipment: head=Helm Of Might And Magic (helm_of_might_and_magic) | chest=Blossom Of Spring (blossom_of_spring) | arms=Swiftstrike Bracers (swiftstrike_bracers) | legs=Nullrune Boots (nullrune_boots) | weaponL=Star Fall (star_fall)
+opp_equipment: head=Voltic Vanguard (voltic_vanguard) | chest=Blade Beckoner Plating (blade_beckoner_plating) | arms=Unyielding Grip (unyielding_grip) | legs=Twinkle Toes (twinkle_toes) | weaponL=Volzar Meteor Storm (volzar_meteor_storm)
+
+=== TIMESTAMPS ===
+0-0:1783452573,1-1:1783452575,2-2:1783452576,3-3:1783452578,4-5:1783452579,6-7:1783452586,8-9:1783452587,10-10:1783452589,11-11:1783452592,12-12:1783452596,13-17:1783452597,18-18:1783452599,19-20:1783452602,21-21:1783452604,22-23:1783452618,24-24:1783452619,25-25:1783452620,26-26:1783452622,27-28:1783452623,29-29:1783452624,30-30:1783452625,31-32:1783452627,33-36:1783452628,37-37:1783452630,38-40:1783452632,41-43:1783452634,44-45:1783452636,46-47:1783452668,48-49:1783452679,50-50:1783452681,51-51:1783452682,52-52:1783452683,53-53:1783452684,54-54:1783452685,55-56:1783452686,57-58:1783452690,59-59:1783452691,60-63:1783452692,64-64:1783452694,65-66:1783452695,67-67:1783452697,68-68:1783452699,69-69:1783452701,70-70:1783452703,71-71:1783452704,72-72:1783452707,73-73:1783452708,74-74:1783452709,75-75:1783452710,76-77:1783452711,78-79:1783452714,80-80:1783452715,81-81:1783452716,82-85:1783452718,86-86:1783452720,87-89:1783452722,90-91:1783452724,92-93:1783452725,94-95:1783452726,96-97:1783452727,98-98:1783452732,99-99:1783452735,100-101:1783452738,102-102:1783452740,103-103:1783452752,104-111:1783452789,112-113:1783452790,114-114:1783452804,115-117:1783452806,118-118:1783452809,119-119:1783452810,120-123:1783452811,124-125:1783452826,126-126:1783452828,127-131:1783452829,132-134:1783452831,135-135:1783452833,136-138:1783452834,139-139:1783452837,140-141:1783452840,142-146:1783452842,147-147:1783452844,148-149:1783452847,150-150:1783452848,151-152:1783452849,153-153:1783452851,154-158:1783452852,159-160:1783452854,161-161:1783452855,162-163:1783452856,164-165:1783452857,166-167:1783452858,168-168:1783452860,169-170:1783452869,171-175:1783452870,176-178:1783452871,179-183:1783452872,184-185:1783452874,186-186:1783452875,187-188:1783452918,189-191:1783452919,192-192:1783452923,193-196:1783452924,197-206:1783452926,207-208:1783452927,209-212:1783452928,213-214:1783452939,215-220:1783452940,221-224:1783452941,225-226:1783452948,227-232:1783452949,233-235:1783452950,236-237:1783452958,238-250:1783452959,251-252:1783452960,253-253:1783452977,254-254:1783452996,255-256:1783452997,257-257:1783453027,258-259:1783453028,260-262:1783453029,263-264:1783453032,265-266:1783453034,267-268:1783453035,269-270:1783453036,271-271:1783453037,272-272:1783453039,273-273:1783453040,274-275:1783453041,276-277:1783453042,278-282:1783453048,283-283:1783453053,284-284:1783453058
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1590811","deckId":"","turns":5,"result":0,"winner":2,"firstPlayer":1,"opposingHero":"oscilio","yourHero":"briar","startingLife":20,"opponentHero":"oscilio","opponentStartingLife":18,"cardResults":[{"cardId":"arcane_seeds__life_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Arcane Seeds // Life","pitchValue":1,"numCopies":2},{"cardId":"arcanic_shockwave_red","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Arcanic Shockwave","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"entwine_lightning_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Entwine Lightning","pitchValue":1,"numCopies":2},{"cardId":"lightning_press_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Press","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_surge_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Lightning Surge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"nimblism_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Nimblism","pitchValue":1,"numCopies":2},{"cardId":"path_of_same_ends_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Path of Same Ends","pitchValue":1,"numCopies":2},{"cardId":"quick_succession_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"quick_succession_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Quick Succession","pitchValue":2,"numCopies":2},{"cardId":"ravenous_rabble_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Ravenous Rabble","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"rush_of_power_red","played":"1","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Rush of Power","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"scar_for_a_scar_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Scar for a Scar","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sizzle_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sizzle","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"snatch_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Snatch","pitchValue":1,"numCopies":2},{"cardId":"sprout_strength_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sprout Strength","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"static_shock_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Static Shock","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"stinging_sprite_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Stinging Sprite","pitchValue":1,"numCopies":2},{"cardId":"weave_lightning_red","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Weave Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"arcanic_shockwave_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Arcanic Shockwave","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"second_strike_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Second Strike","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"briar","cardName":"Briar","numCopies":1},{"cardId":"star_fall","cardName":"Star Fall","numCopies":1},{"cardId":"helm_of_might_and_magic","cardName":"Helm of Might and Magic","numCopies":1},{"cardId":"blossom_of_spring","cardName":"Blossom of Spring","numCopies":1},{"cardId":"swiftstrike_bracers","cardName":"Swiftstrike Bracers","numCopies":1},{"cardId":"nullrune_boots","cardName":"Nullrune Boots","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"star_fall","played":"0","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Star Fall","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":18,"turnNo":0},"turn_1":{"cardsUsed":3,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"11","damageDealt":"3","damageBlocked":"2","damagePrevented":"0","damageTaken":"6","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":11,"opponentLifeAtTurnEnd":15,"turnNo":1},"turn_2":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"16","damageDealt":"5","damageBlocked":"0","damagePrevented":"2","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":9,"opponentLifeAtTurnEnd":10,"turnNo":2},"turn_3":{"cardsUsed":2,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"4","damageBlocked":"3","damagePrevented":"0","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":8,"opponentLifeAtTurnEnd":6,"turnNo":3},"turn_4":{"cardsUsed":0,"cardsBlocked":"4","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"10","damagePrevented":"0","damageTaken":"2","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":4,"opponentLifeAtTurnEnd":6,"turnNo":4},"turn_5":{"cardsUsed":0,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"1","damageTaken":"6","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":5}},"yourTime":"208","totalTime":495,"totalDamageThreatened":34,"totalDamageDealt":12,"totalLifeGained":0,"totalDamageBlocked":15,"totalDamagePrevented":2,"totalLifeLost":0,"averageDamageThreatenedPerTurn":8.5,"averageDamageDealtPerTurn":3,"averageDamageThreatenedPerCard":3.4,"averageResourcesUsedPerTurn":0.25,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":12.25,"averageValuePerTurn":12.75,"totalDamageThreatened_NoLast":34,"totalDamageDealt_NoLast":12,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":5,"totalDamagePrevented_NoLast":2,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":11.33,"averageDamageDealtPerTurn_NoLast":4,"averageDamageThreatenedPerCard_NoLast":3.4,"averageResourcesUsedPerTurn_NoLast":0.33,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":13,"averageValuePerTurn_NoLast":13.67,"fullLog":""},"2":{"gameId":"1590811","deckId":"","turns":5,"result":1,"winner":2,"firstPlayer":0,"opposingHero":"briar","yourHero":"oscilio","startingLife":18,"opponentHero":"briar","opponentStartingLife":20,"cardResults":[{"cardId":"cloud_cover_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Cloud Cover","pitchValue":1,"numCopies":2},{"cardId":"comet_collision_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Comet Collision","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"constella_contemplation_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Constella Contemplation","pitchValue":2,"numCopies":2},{"cardId":"constella_uplift_yellow","played":"1","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Constella Uplift","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"electrostatic_discharge_red","played":"0","blocked":"0","pitched":"2","hits":"0","discarded":"0","charged":"0","cardName":"Electrostatic Discharge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"entwine_lightning_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Entwine Lightning","pitchValue":1,"numCopies":2},{"cardId":"flash_bolt_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Flash Bolt","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"flittering_charge_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Flittering Charge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"flowing_stormstrike_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Flowing Stormstrike","pitchValue":1,"numCopies":2,"activated":"2","passiveTriggered":"0"},{"cardId":"lightning_press_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Lightning Press","pitchValue":1,"numCopies":2},{"cardId":"lightning_surge_red","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Surge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"meteoric_impact_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Meteoric Impact","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Ravenous Rabble","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"scar_for_a_scar_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Scar for a Scar","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_lightning_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sigil of Lightning","pitchValue":3,"numCopies":2},{"cardId":"snatch_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Snatch","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"starlight_road_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Starlight Road","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"strike_twice_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Strike Twice","pitchValue":1,"numCopies":2},{"cardId":"voltic_veil_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Voltic Veil","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"flittering_forcefield_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Flittering Forcefield","pitchValue":1,"numCopies":2}],"character":[{"cardId":"oscilio","cardName":"Oscilio","numCopies":1},{"cardId":"volzar_meteor_storm","cardName":"Volzar, Meteor Storm","numCopies":1},{"cardId":"voltic_vanguard","cardName":"Voltic Vanguard","numCopies":1},{"cardId":"blade_beckoner_plating","cardName":"Blade Beckoner Plating","numCopies":1},{"cardId":"unyielding_grip","cardName":"Unyielding Grip","numCopies":1},{"cardId":"twinkle_toes","cardName":"Twinkle Toes","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"oscilio","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Oscilio","pitchValue":0,"katsuDiscard":"0","activated":"4","passiveTriggered":"0"},{"cardId":"volzar_meteor_storm","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Volzar, Meteor Storm","pitchValue":0,"katsuDiscard":"0","activated":"4","passiveTriggered":"0"},{"cardId":"voltic_vanguard","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Voltic Vanguard","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"unyielding_grip","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Unyielding Grip","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"blade_beckoner_plating","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Plating","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":18,"opponentLifeAtTurnEnd":20,"turnNo":0},"turn_1":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"1","cardsLeft":"0","damageThreatened":"8","damageDealt":"6","damageBlocked":"0","damagePrevented":"0","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":15,"opponentLifeAtTurnEnd":11,"turnNo":1},"turn_2":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"3","damageDealt":"3","damageBlocked":"0","damagePrevented":"8","damageTaken":"5","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":10,"opponentLifeAtTurnEnd":9,"turnNo":2},"turn_3":{"cardsUsed":2,"cardsBlocked":"2","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"8","damageDealt":"3","damageBlocked":"9","damagePrevented":"2","damageTaken":"4","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":6,"opponentLifeAtTurnEnd":8,"turnNo":3},"turn_4":{"cardsUsed":3,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"12","damageDealt":"2","damageBlocked":"3","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":6,"opponentLifeAtTurnEnd":4,"turnNo":4},"turn_5":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"6","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":5}},"yourTime":"287","totalTime":495,"totalDamageThreatened":31,"totalDamageDealt":14,"totalLifeGained":0,"totalDamageBlocked":12,"totalDamagePrevented":10,"totalLifeLost":0,"averageDamageThreatenedPerTurn":7.75,"averageDamageDealtPerTurn":3.5,"averageDamageThreatenedPerCard":3.1,"averageResourcesUsedPerTurn":1.5,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":10.75,"averageValuePerTurn":13.25,"totalDamageThreatened_NoLast":19,"totalDamageDealt_NoLast":12,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":9,"totalDamagePrevented_NoLast":10,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":6.33,"averageDamageDealtPerTurn_NoLast":4,"averageDamageThreatenedPerCard_NoLast":2.71,"averageResourcesUsedPerTurn_NoLast":2,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":9.33,"averageValuePerTurn_NoLast":12.67,"fullLog":""}}}

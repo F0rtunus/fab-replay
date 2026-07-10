@@ -1,0 +1,656 @@
+=== Talishar game 1622040 — 10/07/2026 14:56:00 ===
+
+🎲 you rolled 6 and TrueAngel rolled 7.
+TrueAngel chooses who goes first.
+TrueAngel will go first.
+TrueAngel: Hello, good luck have fun!
+TrueAngel wants to enable chat
+Ehecalt: Good luck, have fun
+TrueAngel played Oath of Loyalty
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Oath of Loyalty.
+Ehecalt passed
+Ehecalt blocked with Lightning Surge and Lightning Surge
+TrueAngel passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Oath of Loyalty
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+TrueAngel played Ignite
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Ignite.
+Ehecalt passed
+Ehecalt blocked with Jack Be Nimble
+TrueAngel passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from
+Ehecalt took 0 damage
+Combat resolved with no hit
+Ehecalt requests to undo the last action
+The chain link was resolved.
+Ehecalt requests to undo the last action
+TrueAngel allowed undoing the last action
+Ehecalt requests to undo the last action
+TrueAngel allowed undoing the last action
+TrueAngel played Ignite
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Ignite.
+Ehecalt: Sorry!
+Ehecalt passed
+Ehecalt blocked with Nimby
+TrueAngel: No problem!
+TrueAngel passed
+Ehecalt passed
+Ehecalt is about to take 0 damage from Ignite
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+TrueAngel activated Kunai of Retribution
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving activated ability of Kunai of Retribution.
+Ehecalt passed
+TrueAngel passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Kunai of Retribution
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+TrueAngel played Rising Resentment
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Rising Resentment.
+Ehecalt passed
+Ehecalt blocked with Jack Be Nimble
+TrueAngel activated Flick Knives
+TrueAngel's Kunai of Retribution was targeted
+Ehecalt's Aurora, Legacy of Tempest was targeted
+Resolving activated ability of Flick Knives.
+Ehecalt is about to take 1 damage from Kunai of Retribution
+Ehecalt took 1 damage
+TrueAngel activated Cindra, Dracai of Retribution
+Resolving activated ability of Cindra, Dracai of Retribution.
+TrueAngel passed
+Ehecalt passed
+Ehecalt is about to take 0 damage from Rising Resentment
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+TrueAngel passed
+TrueAngel passed
+The combat chain was closed.
+TrueAngel passed
+TrueAngel passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 1 has begun.
+Ehecalt played Skyward Serenade
+Selected modes for Skyward Serenade are: Create an Embodiment of Lightning, and Search for Skyzyk
+Resolving play ability of Skyward Serenade.
+Skyzyk was banished.
+🔄Ehecalt deck was shuffled
+Ehecalt played Skyzyk
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Embodiment of Lightning grants go again
+Resolving play ability of Skyzyk.
+TrueAngel passed
+Ehecalt passed
+TrueAngel played Shelter from the Storm
+Defense Reaction was chosen.
+Resolving play ability of Shelter from the Storm.
+Ehecalt passed
+TrueAngel passed
+TrueAngel is about to take 0 damage from Skyzyk
+TrueAngel took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Nimblism
+Resolving play ability of Nimblism.
+Ehecalt played Snatch
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Snatch.
+TrueAngel passed
+TrueAngel blocked with Lava Burst and Dragonscaler Flight Path
+Ehecalt passed
+TrueAngel passed
+TrueAngel is about to take 3 damage from Snatch
+TrueAngel took 3 damage
+Combat resolved with a hit for 3 damage
+Processing hit effect for Snatch
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+TrueAngel's turn 1 has begun.
+TrueAngel played Snatch
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Snatch.
+Ehecalt passed
+TrueAngel passed
+Ehecalt auto-passed
+Ehecalt is about to take 4 damage from Snatch
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+Processing hit effect for Snatch
+The chain link was resolved.
+TrueAngel passed
+TrueAngel passed
+The combat chain was closed.
+TrueAngel passed
+TrueAngel passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 2 has begun.
+Ehecalt played Arc Lightning
+Resolving play ability of Arc Lightning.
+TrueAngel's Cindra, Dracai of Retribution was targeted by Arc Lightning
+Arc Lightning is dealing 1 arcane damage
+Claw of Vynserakai was destroyed and prevented 1 arcane damage.
+Ehecalt is dealing 0 arcane damage from Arc Lightning
+TrueAngel took 0 damage
+Ehecalt played Quick Succession
+Resolving play ability of Quick Succession.
+TrueAngel's Cindra, Dracai of Retribution was targeted by Arc Lightning
+Arc Lightning is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Arc Lightning
+TrueAngel took 1 damage
+Ehecalt played Rush of Power
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Rush of Power.
+TrueAngel passed
+Ehecalt passed
+TrueAngel passed
+TrueAngel is about to take 5 damage from Rush of Power
+TrueAngel took 5 damage
+Combat resolved with a hit for 5 damage
+Processing hit effect for Rush of Power
+Rush of Power is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Rush of Power
+TrueAngel took 1 damage
+The chain link was resolved.
+TrueAngel's Cindra, Dracai of Retribution was targeted by Arc Lightning
+Arc Lightning is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Arc Lightning
+TrueAngel took 1 damage
+Ehecalt played Fry
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Fry.
+TrueAngel passed
+Ehecalt passed
+TrueAngel passed
+TrueAngel is about to take 4 damage from Fry
+TrueAngel took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+TrueAngel's Cindra, Dracai of Retribution was targeted by Arc Lightning
+Arc Lightning is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Arc Lightning
+TrueAngel took 1 damage
+Ehecalt activated Scorpio, Comet Tail
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving activated ability of Scorpio, Comet Tail.
+TrueAngel passed
+Ehecalt passed
+TrueAngel passed
+TrueAngel is about to take 1 damage from Scorpio, Comet Tail
+TrueAngel took 1 damage
+Combat resolved with a hit for 1 damage
+Processing hit effect for Scorpio, Comet Tail
+Scorpio, Comet Tail is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Scorpio, Comet Tail
+TrueAngel took 1 damage
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+TrueAngel's turn 2 has begun.
+TrueAngel activated Kunai of Retribution
+🎯Aurora, Legacy of Tempest was chosen as the target.
+TrueAngel pitched Take the Tempo
+Resolving activated ability of Kunai of Retribution.
+Ehecalt passed
+Ehecalt blocked with Aether Ironweave
+TrueAngel passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Kunai of Retribution
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+TrueAngel played Lava Vein Loyalty
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Lava Vein Loyalty.
+Ehecalt passed
+TrueAngel activated Flick Knives
+TrueAngel's Kunai of Retribution was targeted
+Ehecalt's Aurora, Legacy of Tempest was targeted
+Resolving activated ability of Flick Knives.
+Ehecalt is about to take 1 damage from Kunai of Retribution
+Ehecalt took 1 damage
+TrueAngel gained 1 resource from Blood Splattered Vest
+TrueAngel passed
+Ehecalt played Sigil of Suffering from arsenal
+Sigil of Suffering only checks for arcane damage when it resolves.
+Resolving play ability of Sigil of Suffering.
+Sigil of Suffering is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Sigil of Suffering
+TrueAngel took 1 damage
+Sigil of Suffering gets +1 defense
+TrueAngel passed
+Ehecalt passed
+Ehecalt is about to take 0 damage from
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+TrueAngel played Hunt the Hunter
+🎯Aurora, Legacy of Tempest was chosen as the target.
+🎯Ehecalt is now marked!
+Resolving play ability of Hunt the Hunter.
+Ehecalt passed
+Ehecalt blocked with Grasp of the Arknight
+TrueAngel activated Dragonscaler Flight Path
+TrueAngel's Hunt the Hunter was targeted
+Resolving activated ability of Dragonscaler Flight Path.
+TrueAngel passed
+Ehecalt played Sigil of Suffering
+Sigil of Suffering only checks for arcane damage when it resolves.
+Resolving play ability of Sigil of Suffering.
+Sigil of Suffering is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Sigil of Suffering
+TrueAngel took 1 damage
+Sigil of Suffering gets +1 defense
+TrueAngel requests to undo the last action
+Ehecalt allowed undoing the last action
+Ehecalt played Sigil of Suffering
+TrueAngel activated Cindra, Dracai of Retribution
+Resolving activated ability of Cindra, Dracai of Retribution.
+Sigil of Suffering only checks for arcane damage when it resolves.
+Resolving play ability of Sigil of Suffering.
+Sigil of Suffering is dealing 1 arcane damage
+Claw of Vynserakai was destroyed and prevented 1 arcane damage.
+Ehecalt is dealing 0 arcane damage from Sigil of Suffering
+TrueAngel took 0 damage
+Sigil of Suffering gets +1 defense
+TrueAngel requests to undo the last action
+TrueAngel: Sorry!
+TrueAngel passed
+Ehecalt allowed undoing the last action
+Sigil of Suffering only checks for arcane damage when it resolves.
+Resolving play ability of Sigil of Suffering.
+Sigil of Suffering is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Sigil of Suffering
+TrueAngel took 1 damage
+Sigil of Suffering gets +1 defense
+TrueAngel passed
+Ehecalt passed
+Ehecalt is about to take 0 damage from
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+TrueAngel played Hunt to the Ends of Rathe
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Hunt to the Ends of Rathe.
+Ehecalt passed
+TrueAngel activated Cindra, Dracai of Retribution
+Resolving activated ability of Cindra, Dracai of Retribution.
+TrueAngel passed
+Ehecalt passed
+Ehecalt is about to take 4 damage from Hunt to the Ends of Rathe
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+Ehecalt loses their mark
+The chain link was resolved.
+TrueAngel passed
+TrueAngel passed
+The combat chain was closed.
+TrueAngel passed
+TrueAngel passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 3 has begun.
+Ehecalt played Nimby
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Nimby.
+👁️‍🗨️Nimblism is revealed
+🔄Ehecalt deck was shuffled
+TrueAngel passed
+Ehecalt activated Snapdragon Scalers
+Resolving activated ability of Snapdragon Scalers.
+Ehecalt passed
+TrueAngel passed
+TrueAngel is about to take 3 damage from Nimby
+TrueAngel took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Nimblism
+Resolving play ability of Nimblism.
+Ehecalt played Ravenous Rabble
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Ehecalt reveals Lightning Surge
+TrueAngel passed
+Ehecalt passed
+TrueAngel passed
+TrueAngel is about to take 7 damage from Ravenous Rabble
+TrueAngel took 7 damage
+Combat resolved with a hit for 7 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+TrueAngel's turn 3 has begun.
+TrueAngel played Rising Resentment
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Rising Resentment.
+Ehecalt passed
+TrueAngel passed
+Ehecalt passed
+Ehecalt is about to take 3 damage from Rising Resentment
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+Processing hit effect for Rising Resentment
+Card chosen: Fire Tenet: Strike First
+Fire Tenet: Strike First was banished.
+The chain link was resolved.
+TrueAngel played Fire Tenet: Strike First
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Fire Tenet: Strike First.
+Ehecalt passed
+TrueAngel passed
+Ehecalt passed
+Ehecalt is about to take 3 damage from Fire Tenet: Strike First
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+TrueAngel played Burning Blade Dance
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Burning Blade Dance.
+Ehecalt passed
+Ehecalt blocked with Crown of Providence and Quick Succession
+TrueAngel played Ancestral Empowerment from arsenal
+Resolving play ability of Ancestral Empowerment.
+TrueAngel passed
+Ehecalt passed
+Ehecalt is about to take 1 damage from Burning Blade Dance
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+Processing hit effect for Burning Blade Dance
+Ehecalt is about to take 1 damage from Claw of Vynserakai
+Ehecalt took 1 damage
+The chain link was resolved.
+TrueAngel played Draco Fire
+Resolving play ability of Draco Fire.
+TrueAngel activated Kunai of Retribution
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving activated ability of Kunai of Retribution.
+Ehecalt passed
+TrueAngel passed
+Ehecalt auto-passed
+Ehecalt is about to take 3 damage from Kunai of Retribution
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+TrueAngel played Hot on Their Heels
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Hot on Their Heels.
+Ehecalt passed
+TrueAngel activated Flick Knives
+TrueAngel's Kunai of Retribution was targeted
+Ehecalt's Aurora, Legacy of Tempest was targeted
+Resolving activated ability of Flick Knives.
+Ehecalt is about to take 1 damage from Kunai of Retribution
+Ehecalt took 1 damage
+TrueAngel passed
+Ehecalt passed
+Ehecalt is about to take 3 damage from Hot on Their Heels
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+Processing hit effect for Hot on Their Heels
+🎯Ehecalt is now marked!
+TrueAngel activated Cindra, Dracai of Retribution
+Resolving activated ability of Cindra, Dracai of Retribution.
+The chain link was resolved.
+TrueAngel passed
+TrueAngel passed
+The combat chain was closed.
+TrueAngel passed
+TrueAngel passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 4 has begun.
+Ehecalt played Quick Succession from arsenal
+Resolving play ability of Quick Succession.
+Ehecalt played Lightning Surge
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Lightning Surge.
+TrueAngel passed
+Ehecalt passed
+TrueAngel passed
+TrueAngel is about to take 5 damage from Lightning Surge
+TrueAngel took 5 damage
+Combat resolved with a hit for 5 damage
+The chain link was resolved.
+Ehecalt played Ravenous Rabble
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Ehecalt reveals Skyzyk
+TrueAngel passed
+TrueAngel blocked with Art of the Dragon: Blood
+Ehecalt passed
+TrueAngel passed
+TrueAngel is about to take 2 damage from Ravenous Rabble
+TrueAngel took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+Ehecalt played Snatch
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Snatch.
+TrueAngel passed
+TrueAngel blocked with Blaze Headlong and Blood Splattered Vest
+Ehecalt passed
+TrueAngel passed
+TrueAngel is about to take 1 damage from Snatch
+TrueAngel took 1 damage
+Combat resolved with a hit for 1 damage
+Processing hit effect for Snatch
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+TrueAngel's turn 4 has begun.
+TrueAngel played Draco Fire
+Resolving play ability of Draco Fire.
+TrueAngel activated Kunai of Retribution
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving activated ability of Kunai of Retribution.
+Ehecalt passed
+TrueAngel passed
+Ehecalt auto-passed
+Ehecalt is about to take 3 damage from Kunai of Retribution
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+Ehecalt loses their mark
+The chain link was resolved.
+TrueAngel played Rising Resentment
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Rising Resentment.
+Ehecalt passed
+TrueAngel played Ancestral Empowerment from arsenal
+Resolving play ability of Ancestral Empowerment.
+TrueAngel activated Flick Knives
+TrueAngel's Kunai of Retribution was targeted
+Ehecalt's Aurora, Legacy of Tempest was targeted
+Resolving activated ability of Flick Knives.
+Ehecalt is about to take 1 damage from Kunai of Retribution
+Ehecalt took 1 damage
+TrueAngel passed
+Ehecalt passed
+Ehecalt is about to take 4 damage from Rising Resentment
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+Processing hit effect for Rising Resentment
+The chain link was resolved.
+TrueAngel passed
+TrueAngel passed
+The combat chain was closed.
+TrueAngel passed
+TrueAngel passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 5 has begun.
+Ehecalt played Jack Be Nimble
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Jack Be Nimble.
+Nimblism was banished.
+TrueAngel passed
+TrueAngel: Are you there?
+TrueAngel: Hello
+TrueAngel: Are you there?
+Ehecalt passed
+TrueAngel played Shelter from the Storm from arsenal
+Resolving play ability of Shelter from the Storm.
+Ehecalt passed
+TrueAngel passed
+TrueAngel is about to take 0 damage from Jack Be Nimble
+TrueAngel took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt played Path of Same Ends
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Path of Same Ends.
+Ehecalt: Sorry!
+Path of Same Ends is dealing 1 arcane damage
+Claw of Vynserakai was destroyed and prevented 1 arcane damage.
+Ehecalt is dealing 0 arcane damage from Path of Same Ends
+TrueAngel took 0 damage
+TrueAngel passed
+TrueAngel blocked with Flick Knives and Mask of Momentum
+Ehecalt activated Path of Same Ends
+Ehecalt pitched Rush of Power
+Resolving activated ability of Path of Same Ends.
+Ehecalt passed
+TrueAngel passed
+TrueAngel is about to take 0 damage from Path of Same Ends
+TrueAngel took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt played Skyzyk from arsenal
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Skyzyk.
+TrueAngel passed
+TrueAngel blocked with Lava Burst
+Ehecalt played Lightning Press
+Ehecalt's Skyzyk was targeted
+Resolving play ability of Lightning Press.
+Ehecalt passed
+TrueAngel passed
+TrueAngel is about to take 3 damage from Skyzyk
+TrueAngel took 3 damage
+Ehecalt (Ehecalt) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+Ehecalt: Good Game!
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Nimby, Jack Be Nimble, Lightning Surge, Lightning Surge
+[Ehecalt #1] Sigil Of Suffering, Snatch, Nimblism, Skyward Serenade
+[TrueAngel #1] Quick Succession, Fry, Arc Lightning, Rush Of Power
+[Ehecalt #2] Quick Succession, Fry, Arc Lightning, Rush Of Power
+[TrueAngel #2] Ravenous Rabble, Nimby, Sigil Of Suffering, Quick Succession
+[Ehecalt #3] Ravenous Rabble, Nimby, Quick Succession
+[TrueAngel #3] Lightning Surge, Snatch, Quick Succession, Ravenous Rabble
+[Ehecalt #4] Lightning Surge, Snatch, Ravenous Rabble
+[TrueAngel #4] Lightning Press, Rush Of Power, Path Of Same Ends, Jack Be Nimble
+[Ehecalt #5] Lightning Press, Rush Of Power, Path Of Same Ends, Jack Be Nimble
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[Ehecalt #1] (vide)
+[TrueAngel #1] Sigil Of Suffering
+[Ehecalt #2] Sigil Of Suffering
+[TrueAngel #2] Sigil Of Suffering
+[Ehecalt #3] (vide)
+[TrueAngel #3] Quick Succession
+[Ehecalt #4] Quick Succession
+[TrueAngel #4] (vide)
+[Ehecalt #5] Skyzyk
+
+=== FIELD SNAPSHOTS (permanents/tokens en jeu : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: (vide)
+[TrueAngel #1] me: (vide) | opp: (vide)
+[Ehecalt #2] me: (vide) | opp: (vide)
+[TrueAngel #2] me: (vide) | opp: (vide)
+[Ehecalt #3] me: (vide) | opp: Fealty
+[TrueAngel #3] me: (vide) | opp: Fealty
+[Ehecalt #4] me: (vide) | opp: Fealty
+[TrueAngel #4] me: (vide) | opp: (vide)
+[Ehecalt #5] me: (vide) | opp: Fealty, Fealty
+
+=== GRAVEYARD SNAPSHOTS (cimetière : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Ehecalt #1] me: Jack Be Nimble, Nimby, Lightning Surge, Lightning Surge | opp: Rising Resentment, Ignite, Oath Of Loyalty
+[TrueAngel #1] me: Snatch, Nimblism, Skyzyk, Skyward Serenade, Jack Be Nimble, Nimby, Lightning Surge, Lightning Surge | opp: Lava Burst, Shelter From The Storm, Rising Resentment, Ignite, Oath Of Loyalty
+[Ehecalt #2] me: Snatch, Nimblism, Skyzyk, Skyward Serenade, Jack Be Nimble, Nimby, Lightning Surge, Lightning Surge | opp: Snatch, Lava Burst, Shelter From The Storm, Rising Resentment, Ignite, Oath Of Loyalty
+[TrueAngel #2] me: Fry, Rush Of Power, Quick Succession, Arc Lightning, Snatch, Nimblism, Skyzyk, Skyward Serenade, Jack Be Nimble, Nimby, Lightning Surge, Lightning Surge | opp: Claw Of Vynserakai, Snatch, Lava Burst, Shelter From The Storm, Rising Resentment, Ignite, Oath Of Loyalty
+[Ehecalt #3] me: Sigil Of Suffering, Sigil Of Suffering, Fry, Rush Of Power, Quick Succession, Arc Lightning, Snatch, Nimblism, Skyzyk, Skyward Serenade, Jack Be Nimble, Nimby, Lightning Surge, Lightning Surge | opp: Hunt To The Ends Of Rathe, Hunt The Hunter, Lava Vein Loyalty, Dragonscaler Flight Path, Snatch, Lava Burst, Shelter From The Storm, Rising Resentment, Ignite, Oath Of Loyalty
+[TrueAngel #3] me: Ravenous Rabble, Nimblism, Nimby, Snapdragon Scalers, Sigil Of Suffering, Sigil Of Suffering, Fry, Rush Of Power, Quick Succession, Arc Lightning, Snatch, Nimblism, Skyzyk, Skyward Serenade, Jack Be Nimble, Nimby, Lightning Surge, Lightning Surge | opp: Hunt To The Ends Of Rathe, Hunt The Hunter, Lava Vein Loyalty, Dragonscaler Flight Path, Snatch, Lava Burst, Shelter From The Storm, Rising Resentment, Ignite, Oath Of Loyalty
+[Ehecalt #4] me: Quick Succession, Crown Of Providence, Ravenous Rabble, Nimblism, Nimby, Snapdragon Scalers, Sigil Of Suffering, Sigil Of Suffering, Fry, Rush Of Power, Quick Succession, Arc Lightning, Snatch, Nimblism, Skyzyk, Skyward Serenade, Jack Be Nimble, Nimby, Lightning Surge, Lightning Surge | opp: Hot On Their Heels, Burning Blade Dance, Fire Tenet Strike First, Rising Resentment, Draco Fire, Ancestral Empowerment, Hunt To The Ends Of Rathe, Hunt The Hunter, Lava Vein Loyalty, Dragonscaler Flight Path, Snatch, Lava Burst, Shelter From The Storm, Rising Resentment, Ignite, Oath Of Loyalty
+[TrueAngel #4] me: (vide) | opp: (vide)
+[Ehecalt #5] me: Snatch, Ravenous Rabble, Lightning Surge, Quick Succession, Quick Succession, Crown Of Providence, Ravenous Rabble, Nimblism, Nimby, Snapdragon Scalers, Sigil Of Suffering, Sigil Of Suffering, Fry, Rush Of Power, Quick Succession, Arc Lightning, Snatch, Nimblism, Skyzyk, Skyward Serenade, Jack Be Nimble, Nimby, Lightning Surge, Lightning Surge | opp: Rising Resentment, Kunai Of Retribution, Ancestral Empowerment, Draco Fire, Blaze Headlong, Art Of The Dragon Blood, Blood Splattered Vest, Hot On Their Heels, Burning Blade Dance, Fire Tenet Strike First, Rising Resentment, Draco Fire, Ancestral Empowerment, Hunt To The Ends Of Rathe, Hunt The Hunter, Lava Vein Loyalty, Dragonscaler Flight Path, Snatch, Lava Burst, Shelter From The Storm, Rising Resentment, Ignite, Oath Of Loyalty
+
+=== BANISH SNAPSHOTS (banni : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: (vide)
+[TrueAngel #1] me: (vide) | opp: (vide)
+[Ehecalt #2] me: (vide) | opp: (vide)
+[TrueAngel #2] me: (vide) | opp: (vide)
+[Ehecalt #3] me: (vide) | opp: (vide)
+[TrueAngel #3] me: (vide) | opp: (vide)
+[Ehecalt #4] me: (vide) | opp: (vide)
+[TrueAngel #4] me: (vide) | opp: (vide)
+[Ehecalt #5] me: (vide) | opp: (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=40 opp=40 myDeck=56 oppDeck=57
+[Ehecalt #1] me=38 opp=40 myDeck=52 oppDeck=53
+[TrueAngel #1] me=38 opp=37 myDeck=47 oppDeck=53
+[Ehecalt #2] me=34 opp=37 myDeck=47 oppDeck=50
+[TrueAngel #2] me=34 opp=22 myDeck=43 oppDeck=50
+[Ehecalt #3] me=29 opp=20 myDeck=43 oppDeck=47
+[TrueAngel #3] me=29 opp=10 myDeck=38 oppDeck=47
+[Ehecalt #4] me=14 opp=10 myDeck=38 oppDeck=41
+[TrueAngel #4] me=? opp=?
+[Ehecalt #5] me=6 opp=2 myDeck=33 oppDeck=36
+
+=== META ===
+schema: v1
+captured_with: TLG v1.12.0
+game_url: https://talishar.net/game/play/1622040
+captured_at: 2026-07-10T12:34:48.644Z
+format: compcc
+vs_ai: non
+me: Ehecalt
+opponent: TrueAngel
+my_hero: Aurora, Legacy of Tempest (aurora_legacy_of_tempest)
+opp_hero: Cindra Dracai Of Retribution (cindra_dracai_of_retribution)
+my_start_life: 40
+opp_start_life: 40
+my_start_deck_size: 56
+opp_start_deck_size: 57
+my_equipment: head=Crown Of Providence (crown_of_providence) | chest=Aether Ironweave (aether_ironweave) | arms=Grasp Of The Arknight (grasp_of_the_arknight) | legs=Snapdragon Scalers (snapdragon_scalers) | weaponL=Scorpio Comet Tail (scorpio_comet_tail)
+opp_equipment: head=Mask Of Momentum (mask_of_momentum) | chest=Blood Splattered Vest (blood_splattered_vest) | arms=Flick Knives (flick_knives) | legs=Dragonscaler Flight Path (dragonscaler_flight_path) | weaponL=Claw Of Vynserakai (claw_of_vynserakai) | weaponR=Kunai Of Retribution (kunai_of_retribution)
+
+=== TIMESTAMPS ===
+0-4:1783686923,5-5:1783686926,6-8:1783686947,9-10:1783686955,11-15:1783686957,16-16:1783686958,17-18:1783686960,19-19:1783686961,20-21:1783686966,22-28:1783686968,29-30:1783686970,31-31:1783686972,32-32:1783686973,33-34:1783686974,35-35:1783686975,36-36:1783686979,37-38:1783686981,39-39:1783686985,40-40:1783686987,41-44:1783686988,45-45:1783686989,46-48:1783686991,49-49:1783687002,50-54:1783687007,55-55:1783687014,56-58:1783687030,59-60:1783687038,61-61:1783687040,62-63:1783687043,64-66:1783687045,67-67:1783687049,68-68:1783687051,69-69:1783687053,70-73:1783687054,74-74:1783687055,75-77:1783687056,78-79:1783687057,80-81:1783687059,82-82:1783687071,83-83:1783687074,84-84:1783687076,85-86:1783687077,87-89:1783687081,90-90:1783687083,91-91:1783687099,92-92:1783687101,93-93:1783687102,94-94:1783687104,95-95:1783687106,96-96:1783687107,97-100:1783687111,101-101:1783687116,102-102:1783687118,103-104:1783687120,105-105:1783687121,106-107:1783687122,108-108:1783687123,109-110:1783687129,111-111:1783687131,112-116:1783687133,117-119:1783687134,120-122:1783687136,123-124:1783687139,125-126:1783687142,127-127:1783687161,128-128:1783687171,129-133:1783687174,134-134:1783687175,135-135:1783687177,136-138:1783687178,139-142:1783687179,143-143:1783687181,144-145:1783687184,146-146:1783687185,147-149:1783687187,150-150:1783687188,151-152:1783687189,153-155:1783687190,156-157:1783687191,158-158:1783687193,159-159:1783687209,160-160:1783687210,161-164:1783687214,165-168:1783687215,169-170:1783687216,171-173:1783687217,174-175:1783687219,176-176:1783687221,177-177:1783687223,178-178:1783687224,179-182:1783687225,183-184:1783687226,185-187:1783687227,188-189:1783687230,190-190:1783687232,191-191:1783687233,192-192:1783687234,193-196:1783687235,197-203:1783687236,204-206:1783687237,207-208:1783687238,209-210:1783687259,211-211:1783687261,212-212:1783687262,213-214:1783687267,215-219:1783687268,220-220:1783687269,221-222:1783687272,223-223:1783687273,224-224:1783687279,225-225:1783687283,226-227:1783687284,228-230:1783687289,231-231:1783687295,232-232:1783687296,233-233:1783687299,234-239:1783687302,240-240:1783687304,241-244:1783687305,245-245:1783687307,246-249:1783687344,250-251:1783687353,252-252:1783687358,253-253:1783687359,254-254:1783687362,255-255:1783687364,256-256:1783687365,257-262:1783687373,263-263:1783687375,264-264:1783687378,265-265:1783687382,266-267:1783687385,268-270:1783687388,271-274:1783687390,275-275:1783687397,276-276:1783687400,277-278:1783687415,279-284:1783687418,285-285:1783687421,286-289:1783687422,290-290:1783687423,291-292:1783687425,293-293:1783687426,294-294:1783687429,295-296:1783687431,297-297:1783687435,298-302:1783687436,303-303:1783687437,304-306:1783687438,307-308:1783687439,309-310:1783687440,311-312:1783687442,313-313:1783687443,314-315:1783687445,316-316:1783687447,317-317:1783687456,318-318:1783687460,319-319:1783687468,320-323:1783687470,324-324:1783687471,325-325:1783687472,326-327:1783687473,328-328:1783687475,329-330:1783687476,331-331:1783687478,332-332:1783687480,333-333:1783687483,334-334:1783687487,335-338:1783687492,339-339:1783687493,340-341:1783687496,342-342:1783687497,343-344:1783687498,345-346:1783687500,347-348:1783687502,349-349:1783687503,350-350:1783687518,351-351:1783687519,352-355:1783687527,356-356:1783687529,357-358:1783687532,359-359:1783687533,360-361:1783687535,362-362:1783687536,363-363:1783687542,364-364:1783687545,365-368:1783687546,369-369:1783687547,370-371:1783687554,372-372:1783687555,373-374:1783687562,375-375:1783687587,376-376:1783687588,377-377:1783687593,378-381:1783687594,382-382:1783687601,383-384:1783687602,385-385:1783687616,386-386:1783687618,387-387:1783687619,388-389:1783687621,390-390:1783687622,391-391:1783687623,392-396:1783687625,397-397:1783687630,398-399:1783687632,400-400:1783687633,401-401:1783687634,402-408:1783687651,409-412:1783687654,413-417:1783687669,418-420:1783687670,421-422:1783687672,423-424:1783687674,425-425:1783687678,426-426:1783687697,427-428:1783687700,429-429:1783687704,430-430:1783687736,431-431:1783687745,432-436:1783687763,437-438:1783687765,439-439:1783687774,440-440:1783687775,441-442:1783687795,443-443:1783687797,444-447:1783687799,448-448:1783687800,449-450:1783687801,451-451:1783687802,452-453:1783687825,454-454:1783687829,455-458:1783687831,459-459:1783687832,460-462:1783687833,463-465:1783687834,466-467:1783687836,468-468:1783687837,469-469:1783687838,470-471:1783687839,472-472:1783687840,473-473:1783687844,474-479:1783687862,480-480:1783687866,481-482:1783687870,483-483:1783687885,484-484:1783687913,485-485:1783687950,486-486:1783687953,487-487:1783687975,488-489:1783687979,490-492:1783687981,493-493:1783687984,494-497:1783687985,498-498:1783687987,499-499:1783687991,500-501:1783687998,502-502:1783688005,503-504:1783688006,505-506:1783688008,507-508:1783688010,509-509:1783688013,510-510:1783688014,511-512:1783688062,513-513:1783688082,514-514:1783688083,515-515:1783688086,516-516:1783688089,517-517:1783688091,518-518:1783688093,519-522:1783688094,523-523:1783688096,524-525:1783688097,526-526:1783688100,527-527:1783688103,528-528:1783688106,529-531:1783688108,532-533:1783688112,534-535:1783688113,536-536:1783688115,537-537:1783688116,538-541:1783688117,542-542:1783688119,543-544:1783688120,545-545:1783688122,546-547:1783688133,548-548:1783688134,549-549:1783688135,550-550:1783688137,551-551:1783688138,552-556:1783688155,557-557:1783688159
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1622040","deckId":"","turns":5,"result":1,"winner":1,"firstPlayer":0,"opposingHero":"cindra_dracai_of_retribution","yourHero":"aurora_legacy_of_tempest","startingLife":40,"opponentHero":"cindra_dracai_of_retribution","opponentStartingLife":40,"cardResults":[{"cardId":"arc_lightning_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Arc Lightning","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"current_funnel_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Current Funnel","pitchValue":3,"numCopies":3},{"cardId":"enlightened_strike_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Enlightened Strike","pitchValue":1,"numCopies":3},{"cardId":"fry_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Fry","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"jack_be_nimble_red","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Jack Be Nimble","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_surge_red","played":"1","blocked":"2","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Lightning Surge","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"nimblism_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Nimblism","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"nimby_red","played":"1","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Nimby","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"path_of_same_ends_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Path of Same Ends","pitchValue":1,"numCopies":3,"activated":"1","passiveTriggered":"0"},{"cardId":"quick_succession_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"quick_succession_yellow","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Ravenous Rabble","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"rush_of_power_red","played":"1","blocked":"0","pitched":"1","hits":"1","discarded":"0","charged":"0","cardName":"Rush of Power","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"second_strike_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Second Strike","pitchValue":1,"numCopies":3},{"cardId":"skyward_serenade_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Skyward Serenade","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"skyzyk_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Skyzyk","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_suffering_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sigil of Suffering","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"tempestuous_kiss_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Tempestuous Kiss","pitchValue":1,"numCopies":3},{"cardId":"snatch_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Snatch","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_press_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Press","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"aurora_legacy_of_tempest","cardName":"Aurora, Legacy of Tempest","numCopies":1},{"cardId":"scorpio_comet_tail","cardName":"Scorpio, Comet Tail","numCopies":1},{"cardId":"crown_of_providence","cardName":"Crown of Providence","numCopies":1},{"cardId":"aether_ironweave","cardName":"Aether Ironweave","numCopies":1},{"cardId":"grasp_of_the_arknight","cardName":"Grasp of the Arknight","numCopies":1},{"cardId":"snapdragon_scalers","cardName":"Snapdragon Scalers","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"scorpio_comet_tail","played":"0","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Scorpio, Comet Tail","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"aether_ironweave","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Aether Ironweave","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"grasp_of_the_arknight","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Grasp of the Arknight","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"snapdragon_scalers","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Snapdragon Scalers","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"crown_of_providence","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Crown of Providence","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"4","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"9","damagePrevented":"0","damageTaken":"2","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":38,"opponentLifeAtTurnEnd":40,"turnNo":0},"turn_1":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"11","damageDealt":"3","damageBlocked":"0","damagePrevented":"0","damageTaken":"4","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":34,"opponentLifeAtTurnEnd":37,"turnNo":1},"turn_2":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"16","damageDealt":"15","damageBlocked":"0","damagePrevented":"0","damageTaken":"5","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":29,"opponentLifeAtTurnEnd":20,"turnNo":2},"turn_3":{"cardsUsed":5,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"12","damageDealt":"12","damageBlocked":"9","damagePrevented":"0","damageTaken":"15","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":14,"opponentLifeAtTurnEnd":10,"turnNo":3},"turn_4":{"cardsUsed":4,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"14","damageDealt":"8","damageBlocked":"4","damagePrevented":"0","damageTaken":"8","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":6,"opponentLifeAtTurnEnd":2,"turnNo":4},"turn_5":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"14","damageDealt":"3","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":5}},"yourTime":"534","totalTime":1209,"totalDamageThreatened":67,"totalDamageDealt":41,"totalLifeGained":0,"totalDamageBlocked":22,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":13.4,"averageDamageDealtPerTurn":8.2,"averageDamageThreatenedPerCard":5.15,"averageResourcesUsedPerTurn":0.2,"averageCardsLeftOverPerTurn":0.2,"averageCombatValuePerTurn":16,"averageValuePerTurn":16,"totalDamageThreatened_NoLast":53,"totalDamageDealt_NoLast":38,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":22,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":13.25,"averageDamageDealtPerTurn_NoLast":9.5,"averageDamageThreatenedPerCard_NoLast":5.89,"averageResourcesUsedPerTurn_NoLast":0,"averageCardsLeftOverPerTurn_NoLast":0.25,"averageCombatValuePerTurn_NoLast":16.5,"averageValuePerTurn_NoLast":16.5,"fullLog":""},"2":{"gameId":"1622040","deckId":"","turns":5,"result":0,"winner":1,"firstPlayer":1,"opposingHero":"aurora_legacy_of_tempest","yourHero":"cindra_dracai_of_retribution","startingLife":40,"opponentHero":"aurora_legacy_of_tempest","opponentStartingLife":40,"cardResults":[{"cardId":"ancestral_empowerment_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Ancestral Empowerment","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"art_of_the_dragon_blood_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Art of the Dragon: Blood","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"art_of_the_dragon_fire_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Art of the Dragon: Fire","pitchValue":1,"numCopies":2},{"cardId":"blaze_headlong_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blaze Headlong","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"burning_blade_dance_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Burning Blade Dance","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"display_loyalty_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Display Loyalty","pitchValue":1,"numCopies":3},{"cardId":"draco_fire_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Draco Fire","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"fire_tenet_strike_first_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Fire Tenet: Strike First","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"hot_on_their_heels_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Hot on Their Heels","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"hunt_the_hunter_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Hunt the Hunter","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"hunt_to_the_ends_of_rathe_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Hunt to the Ends of Rathe","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"ignite_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Ignite","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"lava_burst_red","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lava Burst","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"lava_vein_loyalty_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lava Vein Loyalty","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"oath_of_loyalty_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Oath of Loyalty","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"rising_resentment_red","played":"3","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Rising Resentment","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"ronin_renegade_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Ronin Renegade","pitchValue":1,"numCopies":3},{"cardId":"shelter_from_the_storm_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Shelter from the Storm","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sink_below_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sink Below","pitchValue":1,"numCopies":3},{"cardId":"snatch_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Snatch","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"take_the_tempo_red","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Take the Tempo","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"throw_dagger_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Throw Dagger","pitchValue":3,"numCopies":2}],"character":[{"cardId":"cindra_dracai_of_retribution","cardName":"Cindra, Dracai of Retribution","numCopies":1},{"cardId":"claw_of_vynserakai","cardName":"Claw of Vynserakai","numCopies":1},{"cardId":"kunai_of_retribution","cardName":"Kunai of Retribution","numCopies":1},{"cardId":"mask_of_momentum","cardName":"Mask of Momentum","numCopies":1},{"cardId":"blood_splattered_vest","cardName":"Blood Splattered Vest","numCopies":1},{"cardId":"flick_knives","cardName":"Flick Knives","numCopies":1},{"cardId":"dragonscaler_flight_path","cardName":"Dragonscaler Flight Path","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"kunai_of_retribution","played":"0","blocked":"0","pitched":"0","hits":"3","discarded":"0","charged":"0","cardName":"Kunai of Retribution","pitchValue":0,"katsuDiscard":"0","activated":"4","passiveTriggered":"0"},{"cardId":"flick_knives","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Flick Knives","pitchValue":0,"katsuDiscard":"0","activated":"4","passiveTriggered":"0"},{"cardId":"cindra_dracai_of_retribution","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Cindra, Dracai of Retribution","pitchValue":0,"katsuDiscard":"0","activated":"3","passiveTriggered":"0"},{"cardId":"dragonscaler_flight_path","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Dragonscaler Flight Path","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"blood_splattered_vest","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blood Splattered Vest","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"mask_of_momentum","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Mask of Momentum","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"11","damageDealt":"2","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":40,"opponentLifeAtTurnEnd":38,"turnNo":0},"turn_1":{"cardsUsed":2,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"2","damageThreatened":"4","damageDealt":"4","damageBlocked":"8","damagePrevented":"0","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":37,"opponentLifeAtTurnEnd":34,"turnNo":1},"turn_2":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"14","damageDealt":"5","damageBlocked":"0","damagePrevented":"1","damageTaken":"15","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":29,"turnNo":2},"turn_3":{"cardsUsed":6,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"19","damageDealt":"15","damageBlocked":"0","damagePrevented":"0","damageTaken":"12","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":10,"opponentLifeAtTurnEnd":14,"turnNo":3},"turn_4":{"cardsUsed":3,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"8","damageDealt":"8","damageBlocked":"6","damagePrevented":"0","damageTaken":"8","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":2,"opponentLifeAtTurnEnd":6,"turnNo":4},"turn_5":{"cardsUsed":1,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"10","damagePrevented":"1","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":5}},"yourTime":"675","totalTime":1209,"totalDamageThreatened":56,"totalDamageDealt":34,"totalLifeGained":0,"totalDamageBlocked":24,"totalDamagePrevented":2,"totalLifeLost":0,"averageDamageThreatenedPerTurn":9,"averageDamageDealtPerTurn":6.4,"averageDamageThreatenedPerCard":3.21,"averageResourcesUsedPerTurn":0.4,"averageCardsLeftOverPerTurn":0.4,"averageCombatValuePerTurn":13.8,"averageValuePerTurn":14.2,"totalDamageThreatened_NoLast":56,"totalDamageDealt_NoLast":34,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":14,"totalDamagePrevented_NoLast":1,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":11.25,"averageDamageDealtPerTurn_NoLast":8,"averageDamageThreatenedPerCard_NoLast":3.75,"averageResourcesUsedPerTurn_NoLast":0.5,"averageCardsLeftOverPerTurn_NoLast":0.5,"averageCombatValuePerTurn_NoLast":14.75,"averageValuePerTurn_NoLast":15,"fullLog":""}}}

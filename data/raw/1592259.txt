@@ -1,0 +1,230 @@
+=== Talishar game 1592259 — 08/07/2026 00:02:15 ===
+
+Card chosen: Deathly Wail
+Deathly Wail was banished.
+FleshBloodingto played Malefic Incantation
+Resolving play ability of Malefic Incantation.
+FleshBloodingto passed
+FleshBloodingto passed priority. Attempting to end turn.
+FleshBloodingto lost 1 life due to Blood Debt
+═══════════════
+Ehecalt's turn 1 has begun.
+Ehecalt played Nimblism
+Resolving play ability of Nimblism.
+Ehecalt played Arcanic Shockwave
+🎯Vynnset was chosen as the target.
+Resolving play ability of Arcanic Shockwave.
+FleshBloodingto passed
+Ehecalt passed
+FleshBloodingto played Reduce to Runechant from arsenal
+Resolving play ability of Reduce to Runechant.
+Ehecalt passed
+FleshBloodingto passed
+FleshBloodingto is about to take 4 damage from Arcanic Shockwave
+FleshBloodingto took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+FleshBloodingto's turn 1 has begun.
+Card chosen: Deep Recesses of Existence
+Deep Recesses of Existence was banished.
+FleshBloodingto played Beseech the Demigon
+Vynnset's pain makes a runechant unpreventable!
+Resolving play ability of Beseech the Demigon.
+FleshBloodingto played Deathly Wail
+🎯Briar was chosen as the target.
+Runechant is dealing 1 arcane damage.
+FleshBloodingto is dealing 1 arcane damage from Runechant
+Ehecalt took 1 damage
+Runechant is dealing 1 arcane damage.
+FleshBloodingto is dealing 1 arcane damage from Runechant
+Ehecalt took 1 damage
+Runechant is dealing 1 arcane damage.
+FleshBloodingto is dealing 1 arcane damage from Runechant
+Ehecalt took 1 damage
+Resolving play ability of Deathly Wail.
+Ehecalt passed
+FleshBloodingto activated Sutcliffe's Suede Hides
+FleshBloodingto pitched Vexing Malice
+Resolving activated ability of Sutcliffe's Suede Hides.
+FleshBloodingto passed
+Ehecalt played Sigil of Suffering from arsenal
+Sigil of Suffering only checks for arcane damage when it resolves.
+Resolving play ability of Sigil of Suffering.
+Sigil of Suffering is dealing 1 arcane damage
+Ehecalt is dealing 0 arcane damage from Sigil of Suffering
+FleshBloodingto took 0 damage
+FleshBloodingto passed
+Ehecalt passed
+Ehecalt is about to take 6 damage from Deathly Wail
+Ehecalt took 6 damage
+Combat resolved with a hit for 6 damage
+The chain link was resolved.
+FleshBloodingto passed
+The combat chain was closed.
+FleshBloodingto played Envelop in Darkness
+Resolving play ability of Envelop in Darkness.
+FleshBloodingto played Deep Recesses of Existence
+🎯Briar was chosen as the target.
+Runechant is dealing 1 arcane damage.
+FleshBloodingto is dealing 1 arcane damage from Runechant
+Ehecalt took 1 damage
+Runechant is dealing 1 arcane damage.
+FleshBloodingto is dealing 1 arcane damage from Runechant
+Ehecalt took 1 damage
+Runechant is dealing 1 arcane damage.
+FleshBloodingto is dealing 1 arcane damage from Runechant
+Ehecalt took 1 damage
+Runechant is dealing 1 arcane damage.
+FleshBloodingto is dealing 1 arcane damage from Runechant
+Ehecalt took 1 damage
+Resolving play ability of Deep Recesses of Existence.
+Ehecalt passed
+Ehecalt blocked with Blade Beckoner Gauntlets, Blade Beckoner Helm, and Static Shock
+FleshBloodingto passed
+Ehecalt passed
+Ehecalt is about to take 2 damage from Deep Recesses of Existence
+Ehecalt took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+FleshBloodingto auto-passed
+FleshBloodingto auto-passed
+The combat chain was closed.
+Deathly Wail was banished.
+Sigil of Suffering was banished.
+FleshBloodingto auto-passed
+FleshBloodingto passed priority. Attempting to end turn.
+FleshBloodingto lost 1 life due to Blood Debt
+═══════════════
+Ehecalt's turn 2 has begun.
+Ehecalt played Weave Lightning
+Resolving play ability of Weave Lightning.
+Ehecalt played Arcanic Shockwave
+🎯Vynnset was chosen as the target.
+👁️‍🗨️Quick Succession is revealed
+Resolving play ability of Arcanic Shockwave.
+Arcanic Shockwave is dealing 1 arcane damage
+FleshBloodingto pitched Deep Recesses of Existence
+Ehecalt is dealing 0 arcane damage from Arcanic Shockwave
+FleshBloodingto took 0 damage
+FleshBloodingto passed
+FleshBloodingto blocked with Vantom Banshee and Blade Beckoner Helm
+Ehecalt passed
+FleshBloodingto passed
+FleshBloodingto is about to take 3 damage from Arcanic Shockwave
+FleshBloodingto took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt activated Blossom of Spring
+Resolving activated ability of Blossom of Spring.
+Ehecalt activated Star Fall
+🎯Vynnset was chosen as the target.
+Resolving activated ability of Star Fall.
+FleshBloodingto passed
+FleshBloodingto blocked with Blade Beckoner Helm
+Ehecalt passed
+FleshBloodingto passed
+FleshBloodingto is about to take 1 damage from Star Fall
+FleshBloodingto took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+FleshBloodingto's turn 2 has begun.
+Card chosen: Mauvrion Skies
+Mauvrion Skies was banished.
+FleshBloodingto played Malefic Incantation
+Resolving play ability of Malefic Incantation.
+FleshBloodingto passed
+FleshBloodingto passed priority. Attempting to end turn.
+FleshBloodingto lost 1 life due to Blood Debt
+═══════════════
+Ehecalt's turn 3 has begun.
+Ehecalt played Quick Succession from arsenal
+Resolving play ability of Quick Succession.
+Ehecalt played Nimblism
+Resolving play ability of Nimblism.
+Ehecalt played Lightning Surge
+🎯Vynnset was chosen as the target.
+Embodiment of Lightning grants go again
+Resolving play ability of Lightning Surge.
+FleshBloodingto passed
+FleshBloodingto blocked with Malefic Incantation and Deathly Wail
+Ehecalt played Lightning Press
+Ehecalt's Lightning Surge was targeted
+Resolving play ability of Lightning Press.
+Ehecalt passed
+FleshBloodingto passed
+FleshBloodingto is about to take 6 damage from Lightning Surge
+FleshBloodingto took 6 damage
+Combat resolved with a hit for 6 damage
+The chain link was resolved.
+Ehecalt activated Star Fall
+🎯Vynnset was chosen as the target.
+Ehecalt pitched Quick Succession
+Resolving activated ability of Star Fall.
+FleshBloodingto passed
+FleshBloodingto blocked with Envelop in Darkness and Envelop in Darkness
+Ehecalt passed
+FleshBloodingto conceded the game.
+Ehecalt (Ehecalt) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Arcanic Shockwave, Sigil Of Suffering, Arcanic Shockwave, Nimblism
+[Ehecalt #1] Arcanic Shockwave, Sigil Of Suffering, Arcanic Shockwave, Nimblism
+[FleshBloodingto #1] Arcanic Shockwave, Quick Succession, Static Shock, Weave Lightning
+[Ehecalt #2] Arcanic Shockwave, Quick Succession, Weave Lightning
+[FleshBloodingto #2] Lightning Surge, Nimblism, Quick Succession, Lightning Press
+[Ehecalt #3] Lightning Surge, Nimblism, Quick Succession, Lightning Press
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[Ehecalt #1] (vide)
+[FleshBloodingto #1] (vide)
+[Ehecalt #2] (vide)
+[FleshBloodingto #2] Quick Succession
+[Ehecalt #3] Quick Succession
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=20 opp=20 myDeck=36 oppDeck=36
+[Ehecalt #1] me=20 opp=19 myDeck=36 oppDeck=33
+[FleshBloodingto #1] me=? opp=?
+[Ehecalt #2] me=5 opp=13 myDeck=33 oppDeck=30
+[FleshBloodingto #2] me=5 opp=9 myDeck=29 oppDeck=31
+[Ehecalt #3] me=5 opp=8 myDeck=29 oppDeck=27
+
+=== META ===
+schema: v1
+captured_with: TLG v1.10.4
+game_url: https://talishar.net/game/play/1592259
+captured_at: 2026-07-07T21:58:46.216Z
+format: sage
+vs_ai: non
+me: FleshBloodingto
+opponent: Player 2
+my_hero: Briar (briar)
+opp_hero: Vynnset (vynnset)
+my_start_life: 20
+opp_start_life: 20
+my_start_deck_size: 36
+opp_start_deck_size: 36
+my_equipment: head=Blade Beckoner Helm (blade_beckoner_helm) | chest=Blossom Of Spring (blossom_of_spring) | arms=Blade Beckoner Gauntlets (blade_beckoner_gauntlets) | legs=Nullrune Boots (nullrune_boots) | weaponL=Star Fall (star_fall)
+opp_equipment: head=Blade Beckoner Helm (blade_beckoner_helm) | chest=Garland Of Spring (garland_of_spring) | arms=Runehold Release (runehold_release) | legs=Sutcliffes Suede Hides (sutcliffes_suede_hides) | weaponL=Flail Of Agony (flail_of_agony) | weaponR=Arcane Lantern (arcane_lantern)
+
+=== TIMESTAMPS ===
+0-6:1783461564,7-8:1783461565,9-10:1783461568,11-13:1783461573,14-14:1783461583,15-15:1783461585,16-17:1783461587,18-18:1783461588,19-28:1783461589,29-30:1783461590,31-32:1783461594,33-33:1783461596,34-35:1783461598,36-38:1783461601,39-47:1783461603,48-48:1783461607,49-49:1783461608,50-50:1783461610,51-51:1783461611,52-52:1783461612,53-56:1783461614,57-58:1783461615,59-59:1783461616,60-64:1783461618,65-67:1783461619,68-68:1783461621,69-71:1783461622,72-83:1783461625,84-86:1783461653,87-94:1783461655,95-95:1783461658,96-101:1783461661,102-103:1783461665,104-105:1783461667,106-108:1783461668,109-111:1783461671,112-113:1783461676,114-114:1783461678,115-119:1783461680,120-121:1783461682,122-123:1783461683,124-126:1783461684,127-128:1783461688,129-129:1783461689,130-134:1783461690,135-137:1783461692,138-139:1783461693,140-141:1783461694,142-143:1783461696,144-145:1783461697,146-150:1783461698,151-152:1783461704,153-154:1783461706,155-157:1783461707,158-158:1783461708,159-160:1783461713,161-163:1783461715,164-164:1783461716,165-169:1783461717,170-171:1783461720,172-173:1783461721,174-175:1783461725,176-176:1783461726,177-179:1783461730
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1592259","deckId":"","turns":3,"result":1,"winner":1,"firstPlayer":0,"opposingHero":"vynnset","yourHero":"briar","startingLife":20,"opponentHero":"vynnset","opponentStartingLife":20,"cardResults":[{"cardId":"arcane_seeds__life_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Arcane Seeds // Life","pitchValue":1,"numCopies":2},{"cardId":"arcanic_shockwave_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Arcanic Shockwave","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"entwine_lightning_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Entwine Lightning","pitchValue":1,"numCopies":2},{"cardId":"lightning_press_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Press","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_surge_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Lightning Surge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"nimblism_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Nimblism","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"path_of_same_ends_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Path of Same Ends","pitchValue":1,"numCopies":2},{"cardId":"quick_succession_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Quick Succession","pitchValue":1,"numCopies":2},{"cardId":"quick_succession_yellow","played":"1","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Ravenous Rabble","pitchValue":1,"numCopies":2},{"cardId":"rush_of_power_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Rush of Power","pitchValue":1,"numCopies":2},{"cardId":"scar_for_a_scar_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Scar for a Scar","pitchValue":1,"numCopies":2},{"cardId":"sizzle_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sizzle","pitchValue":1,"numCopies":2},{"cardId":"snatch_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Snatch","pitchValue":1,"numCopies":2},{"cardId":"sprout_strength_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sprout Strength","pitchValue":1,"numCopies":2},{"cardId":"static_shock_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Static Shock","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"stinging_sprite_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Stinging Sprite","pitchValue":1,"numCopies":2},{"cardId":"weave_lightning_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Weave Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_suffering_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sigil of Suffering","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"arcanic_shockwave_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Arcanic Shockwave","pitchValue":2,"numCopies":2}],"character":[{"cardId":"briar","cardName":"Briar","numCopies":1},{"cardId":"star_fall","cardName":"Star Fall","numCopies":1},{"cardId":"blade_beckoner_helm","cardName":"Blade Beckoner Helm","numCopies":1},{"cardId":"blossom_of_spring","cardName":"Blossom of Spring","numCopies":1},{"cardId":"blade_beckoner_gauntlets","cardName":"Blade Beckoner Gauntlets","numCopies":1},{"cardId":"nullrune_boots","cardName":"Nullrune Boots","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"blade_beckoner_gauntlets","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Gauntlets","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"blade_beckoner_helm","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Helm","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"blossom_of_spring","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blossom of Spring","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"star_fall","played":"0","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Star Fall","pitchValue":0,"katsuDiscard":"0","activated":"2","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":19,"turnNo":0},"turn_1":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"7","damageDealt":"4","damageBlocked":"0","damagePrevented":"0","damageTaken":"15","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":5,"opponentLifeAtTurnEnd":13,"turnNo":1},"turn_2":{"cardsUsed":3,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"11","damageDealt":"4","damageBlocked":"8","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":5,"opponentLifeAtTurnEnd":8,"turnNo":2},"turn_3":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"11","damageDealt":"6","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":3}},"yourTime":"86","totalTime":179,"totalDamageThreatened":29,"totalDamageDealt":14,"totalLifeGained":0,"totalDamageBlocked":8,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":9.67,"averageDamageDealtPerTurn":4.67,"averageDamageThreatenedPerCard":2.9,"averageResourcesUsedPerTurn":0.67,"averageCardsLeftOverPerTurn":0.33,"averageCombatValuePerTurn":12.33,"averageValuePerTurn":12.33,"totalDamageThreatened_NoLast":18,"totalDamageDealt_NoLast":8,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":8,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":9,"averageDamageDealtPerTurn_NoLast":4,"averageDamageThreatenedPerCard_NoLast":3,"averageResourcesUsedPerTurn_NoLast":0.5,"averageCardsLeftOverPerTurn_NoLast":0.5,"averageCombatValuePerTurn_NoLast":13,"averageValuePerTurn_NoLast":13,"fullLog":""},"2":{"gameId":"1592259","deckId":"","turns":3,"result":0,"winner":1,"firstPlayer":1,"opposingHero":"briar","yourHero":"vynnset","startingLife":20,"opponentHero":"briar","opponentStartingLife":20,"cardResults":[{"cardId":"beseech_the_demigon_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Beseech the Demigon","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"deathly_wail_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Deathly Wail","pitchValue":3,"numCopies":2},{"cardId":"deathly_wail_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Deathly Wail","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"deathly_wail_yellow","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Deathly Wail","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"deep_recesses_of_existence_blue","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Deep Recesses of Existence","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"envelop_in_darkness_blue","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Envelop in Darkness","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"envelop_in_darkness_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Envelop in Darkness","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"envelop_in_darkness_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Envelop in Darkness","pitchValue":2,"numCopies":1},{"cardId":"malefic_incantation_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Malefic Incantation","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"malefic_incantation_yellow","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Malefic Incantation","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"mauvrion_skies_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Mauvrion Skies","pitchValue":1,"numCopies":2},{"cardId":"oath_of_the_arknight_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Oath of the Arknight","pitchValue":3,"numCopies":2},{"cardId":"putrid_stirrings_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Putrid Stirrings","pitchValue":1,"numCopies":2},{"cardId":"reduce_to_runechant_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Reduce to Runechant","pitchValue":1,"numCopies":2},{"cardId":"reduce_to_runechant_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Reduce to Runechant","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"runeblood_incantation_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Runeblood Incantation","pitchValue":1,"numCopies":2},{"cardId":"sigil_of_silphidae_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sigil of Silphidae","pitchValue":3,"numCopies":1},{"cardId":"sigil_of_suffering_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sigil of Suffering","pitchValue":1,"numCopies":2},{"cardId":"vantom_banshee_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Vantom Banshee","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"vantom_banshee_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Vantom Banshee","pitchValue":2,"numCopies":2},{"cardId":"vexing_malice_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Vexing Malice","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"vynnset","cardName":"Vynnset","numCopies":1},{"cardId":"flail_of_agony","cardName":"Flail of Agony","numCopies":1},{"cardId":"arcane_lantern","cardName":"Arcane Lantern","numCopies":1},{"cardId":"blade_beckoner_helm","cardName":"Blade Beckoner Helm","numCopies":1},{"cardId":"garland_of_spring","cardName":"Garland of Spring","numCopies":1},{"cardId":"runehold_release","cardName":"Runehold Release","numCopies":1},{"cardId":"sutcliffes_suede_hides","cardName":"Sutcliffe's Suede Hides","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"sutcliffes_suede_hides","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sutcliffe's Suede Hides","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"blade_beckoner_helm","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Helm","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"-1","lifeAtTurnEnd":19,"opponentLifeAtTurnEnd":20,"turnNo":0},"turn_1":{"cardsUsed":5,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"23","damageDealt":"15","damageBlocked":"3","damagePrevented":"1","damageTaken":"4","lifeGained":"0","lifeLost":"-2","lifeAtTurnEnd":13,"opponentLifeAtTurnEnd":5,"turnNo":1},"turn_2":{"cardsUsed":1,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"5","damagePrevented":"1","damageTaken":"4","lifeGained":"0","lifeLost":"-1","lifeAtTurnEnd":8,"opponentLifeAtTurnEnd":5,"turnNo":2},"turn_3":{"cardsUsed":0,"cardsBlocked":"4","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"5","damagePrevented":"0","damageTaken":"6","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":3}},"yourTime":"93","totalTime":179,"totalDamageThreatened":23,"totalDamageDealt":15,"totalLifeGained":0,"totalDamageBlocked":13,"totalDamagePrevented":2,"totalLifeLost":-4,"averageDamageThreatenedPerTurn":7.67,"averageDamageDealtPerTurn":5,"averageDamageThreatenedPerCard":3.83,"averageResourcesUsedPerTurn":0.67,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":12,"averageValuePerTurn":11.67,"totalDamageThreatened_NoLast":23,"totalDamageDealt_NoLast":15,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":8,"totalDamagePrevented_NoLast":2,"totalLifeLost_NoLast":-4,"averageDamageThreatenedPerTurn_NoLast":11.5,"averageDamageDealtPerTurn_NoLast":7.5,"averageDamageThreatenedPerCard_NoLast":3.83,"averageResourcesUsedPerTurn_NoLast":1,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":15.5,"averageValuePerTurn_NoLast":15,"fullLog":""}}}

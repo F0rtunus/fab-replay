@@ -1,0 +1,63 @@
+=== Talishar game 908070 — 07/07/2026 10:00:00 ===
+
+🎲 you rolled 5 and Opponent rolled 3.
+Ehecalt will go first.
+Ehecalt's turn 1 has begun.
+Ehecalt played Brutal Assault
+Opponent is about to take 4 damage from Brutal Assault
+Opponent took 4 damage
+Ehecalt passed priority. Attempting to end turn.
+Opponent's turn 2 has begun.
+Opponent played Sink Below
+Opponent pitched Ravenous Rabble
+Ehecalt took 3 damage
+Opponent passed priority. Attempting to end turn.
+Ehecalt's turn 3 has begun.
+Ehecalt played Bloodrush Bellow
+Ehecalt played Barraging Beatdown from arsenal
+Opponent is about to take 7 damage from Barraging Beatdown
+Opponent took 7 damage
+Ehecalt passed priority. Attempting to end turn.
+Opponent's turn 4 has begun.
+Opponent conceded the game.
+Ehecalt (Briar) won! 🎉
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Brutal Assault, Bloodrush Bellow, Sink Below, Wounded Bull
+[Ehecalt #1] Bloodrush Bellow, Sink Below, Wounded Bull
+[Ehecalt #3] Wounded Bull, Command and Conquer
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[Ehecalt #1] Barraging Beatdown
+[Ehecalt #3] (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=40 opp=40 myDeck=30 oppDeck=30
+[Ehecalt #1] me=40 opp=40 myDeck=30 oppDeck=30
+[Opponent #2] me=40 opp=36 myDeck=29 oppDeck=30
+[Ehecalt #3] me=37 opp=36 myDeck=28 oppDeck=29
+
+=== META ===
+schema: v1
+captured_with: TLG v1.9.3
+game_url: https://talishar.net/game/play/908070
+captured_at: 2026-07-07T10:15:00.000Z
+format: blitz
+vs_ai: non
+me: Ehecalt
+opponent: Opponent
+my_hero: Briar (ELE001)
+opp_hero: Briar (ELE001)
+my_start_life: 40
+opp_start_life: 40
+my_start_deck_size: 30
+opp_start_deck_size: 30
+my_equipment: head=Snapdragon Scalers (ELE003) | chest=Nullrune Robe (WTR001)
+opp_equipment: head=Snapdragon Scalers (ELE003)
+
+=== TIMESTAMPS ===
+0-10:1783440000,11-40:1783440180
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"winner":1,"firstPlayer":1,"turns":3,"totalDamageDealt":11,"totalDamageThreatened":14,"totalDamageBlocked":3,"totalDamagePrevented":0,"totalLifeGained":0,"totalLifeLost":3,"averageValuePerTurn":3.5,"averageDamageThreatenedPerTurn":7,"averageDamageDealtPerTurn":5.5,"averageDamageThreatenedPerCard":2.8,"averageResourcesUsedPerTurn":3,"averageCardsLeftOverPerTurn":0.5,"averageCombatValuePerTurn":5,"turnResults":{"1":{"turnNo":1,"damageThreatened":4,"damageDealt":4,"damageTaken":0,"damageBlocked":0,"cardsPitched":1,"cardsUsed":2,"resourcesUsed":3,"lifeAtTurnEnd":40},"3":{"turnNo":3,"damageThreatened":10,"damageDealt":7,"damageTaken":3,"damageBlocked":3,"cardsPitched":2,"cardsUsed":3,"resourcesUsed":3,"lifeAtTurnEnd":37}},"cardResults":[{"cardName":"Brutal Assault","played":1,"blocked":0,"pitched":0,"hits":1},{"cardName":"Bloodrush Bellow","played":1,"blocked":0,"pitched":0,"hits":0},{"cardName":"Barraging Beatdown","played":1,"blocked":0,"pitched":0,"hits":1}]},"2":{"winner":1,"firstPlayer":1,"turns":3,"totalDamageDealt":3,"totalDamageThreatened":5,"totalDamageBlocked":0,"cardResults":[{"cardName":"Sink Below","played":1,"pitched":0,"blocked":0,"hits":0}]}}}

@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Configuration de prévisualisation locale (chemins machine-spécifiques)
+.claude/
+
+# Ancien viewer standalone mono-partie — remplacé par index.html + build/standalone.html
+fab-replay-viewer-standalone-4.html

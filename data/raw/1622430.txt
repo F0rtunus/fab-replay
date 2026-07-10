@@ -1,0 +1,543 @@
+=== Talishar game 1622430 — 10/07/2026 15:38:23 ===
+
+Bofurkle played Bittering Thorns
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Bofurkle pitched Gravekeeping
+Resolving play ability of Bittering Thorns.
+Bofurkle: Be right back
+Ehecalt passed
+Ehecalt blocked with Snatch and Enlightened Strike
+Bofurkle passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Bofurkle passed
+Bofurkle passed
+The combat chain was closed.
+Bofurkle played Shelter from the Storm
+Shelter from the Storm was discarded
+Bofurkle requests to undo the last action
+Ehecalt allowed undoing the last action
+Bofurkle passed
+Bofurkle passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 1 has begun.
+Ehecalt played Flittering Charge
+🎯Ira, Scarlet Revenger was chosen as the target.
+Resolving play ability of Flittering Charge.
+Bofurkle passed
+Ehecalt played Consign To Cosmos // Shock
+Selected mode for Consign To Cosmos // Shock is: Shock
+Bofurkle's Ira, Scarlet Revenger was targeted
+Bofurkle played Shelter from the Storm from arsenal
+Resolving play ability of Shelter from the Storm.
+Resolving play ability of Consign To Cosmos // Shock.
+Consign To Cosmos // Shock is dealing 1 arcane damage
+Bofurkle pitched Dual Threat
+Ehecalt is dealing 0 arcane damage from Consign To Cosmos // Shock
+Bofurkle took 0 damage
+Ehecalt passed
+Bofurkle passed
+Bofurkle is about to take 0 damage from Flittering Charge
+Bofurkle took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Meteoric Impact
+Ehecalt pitched Electrostatic Discharge
+Bofurkle's Ira, Scarlet Revenger was targeted
+Resolving play ability of Meteoric Impact.
+Meteoric Impact is dealing 5 arcane damage
+Ehecalt requests to undo the last action
+Bofurkle allowed undoing the last action
+The combat chain was closed.
+Ehecalt played Meteoric Impact
+Ehecalt pitched Electrostatic Discharge
+Bofurkle's Ira, Scarlet Revenger was targeted
+Ehecalt activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Resolving play ability of Meteoric Impact.
+Meteoric Impact is dealing 6 arcane damage
+Bofurkle pitched Overcrowded
+Ehecalt is dealing 3 arcane damage from Meteoric Impact
+Bofurkle took 3 damage
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Bofurkle's turn 1 has begun.
+Bofurkle activated Harmonized Kodachi
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Bofurkle pitched Dual Threat
+Resolving activated ability of Harmonized Kodachi.
+Ehecalt passed
+Bofurkle passed
+Ehecalt passed
+Ehecalt is about to take 1 damage from Harmonized Kodachi
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Bofurkle activated Harmonized Kodachi
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving activated ability of Harmonized Kodachi.
+Ehecalt passed
+Bofurkle passed
+Ehecalt passed
+Ehecalt is about to take 2 damage from Harmonized Kodachi
+Ehecalt took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+Bofurkle passed
+Bofurkle passed
+The combat chain was closed.
+Bofurkle passed
+Bofurkle passed priority. Attempting to end turn.
+Ehecalt activated Oscilio, Constella Intelligence
+Card chosen: Echoflash
+Bofurkle's Ira, Scarlet Revenger was targeted by Echoflash
+Oscilio, Constella Intelligence is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Oscilio, Constella Intelligence
+Bofurkle took 1 damage
+Resolving activated ability of Oscilio, Constella Intelligence.
+Ehecalt played Constella Uplift
+Bofurkle's Ira, Scarlet Revenger was targeted
+Ehecalt activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Resolving play ability of Constella Uplift.
+Constella Uplift is dealing 2 arcane damage
+Ehecalt is dealing 2 arcane damage from Constella Uplift
+Bofurkle took 2 damage
+Ehecalt played Sigil of Brilliance
+Resolving play ability of Sigil of Brilliance.
+Bofurkle passed
+Bofurkle passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 2 has begun.
+Ehecalt played Snatch
+🎯Ira, Scarlet Revenger was chosen as the target.
+Resolving play ability of Snatch.
+Bofurkle passed
+Ehecalt passed
+Bofurkle passed
+Bofurkle is about to take 4 damage from Snatch
+Bofurkle took 4 damage
+Combat resolved with a hit for 4 damage
+Processing hit effect for Snatch
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Bofurkle's turn 2 has begun.
+Bofurkle activated Harmonized Kodachi
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Bofurkle pitched Pouncing Qi
+Resolving activated ability of Harmonized Kodachi.
+Ehecalt passed
+Bofurkle passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Harmonized Kodachi
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Bofurkle played Cut Through
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Cut Through.
+Ehecalt passed
+Bofurkle passed
+Ehecalt auto-passed
+Ehecalt is about to take 5 damage from Cut Through
+Ehecalt took 5 damage
+Combat resolved with a hit for 5 damage
+The chain link was resolved.
+Bofurkle activated Harmonized Kodachi
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving activated ability of Harmonized Kodachi.
+Ehecalt passed
+Bofurkle passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Harmonized Kodachi
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Bofurkle played Bittering Thorns from arsenal
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Ehecalt activated Oscilio, Constella Intelligence
+Card chosen: Astral Bridge
+Resolving activated ability of Oscilio, Constella Intelligence.
+Resolving play ability of Bittering Thorns.
+Ehecalt passed
+Ehecalt blocked with Lightning Greaves and Comet Collision
+Bofurkle passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Bittering Thorns
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Bofurkle activated Fyendal's Spring Tunic
+Resolving activated ability of Fyendal's Spring Tunic.
+Bofurkle played Censor
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Censor.
+Ehecalt passed
+Bofurkle passed
+Ehecalt auto-passed
+Ehecalt is about to take 5 damage from Censor
+Ehecalt took 5 damage
+Combat resolved with a hit for 5 damage
+Processing hit effect for Censor
+📣Gone in a Flash was chosen
+The chain link was resolved.
+Bofurkle passed
+Bofurkle passed
+The combat chain was closed.
+Bofurkle passed
+Bofurkle passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 3 has begun.
+Ehecalt played Lightning Surge from arsenal
+🎯Ira, Scarlet Revenger was chosen as the target.
+Resolving play ability of Lightning Surge.
+Bofurkle passed
+Bofurkle blocked with Sound the Alarm
+Ehecalt passed
+Bofurkle passed
+Bofurkle is about to take 1 damage from Lightning Surge
+Bofurkle took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt played Lightning Surge
+🎯Ira, Scarlet Revenger was chosen as the target.
+Resolving play ability of Lightning Surge.
+Bofurkle passed
+Ehecalt played Sigil of Solace
+Ehecalt gained 3 life
+Resolving play ability of Sigil of Solace.
+Ehecalt passed
+Bofurkle passed
+Bofurkle is about to take 4 damage from Lightning Surge
+Bofurkle took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Bofurkle's turn 3 has begun.
+Bofurkle activated Harmonized Kodachi
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Bofurkle pitched Rotten Remains
+Resolving activated ability of Harmonized Kodachi.
+Ehecalt passed
+Bofurkle passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Harmonized Kodachi
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Bofurkle activated Harmonized Kodachi
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving activated ability of Harmonized Kodachi.
+Ehecalt passed
+Bofurkle passed
+Ehecalt auto-passed
+Ehecalt is about to take 2 damage from Harmonized Kodachi
+Ehecalt took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+Bofurkle played Cut Through from arsenal
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Cut Through.
+Ehecalt passed
+Bofurkle passed
+Ehecalt auto-passed
+Ehecalt is about to take 4 damage from Cut Through
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Bofurkle played Gravekeeping
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Gravekeeping.
+Card chosen: Enlightened Strike
+Enlightened Strike was banished.
+Bofurkle requests to undo the last action
+Ehecalt allowed undoing the last action
+Bofurkle played Gravekeeping
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Gravekeeping.
+Card chosen: Sigil of Brilliance
+Sigil of Brilliance was banished.
+Ehecalt passed
+Ehecalt blocked with Crown of Providence
+⤵️ A card was put on the bottom of the deck.
+Bofurkle passed
+Ehecalt activated Oscilio, Constella Intelligence
+Card chosen: Echoflash
+Bofurkle's Ira, Scarlet Revenger was targeted by Echoflash
+Oscilio, Constella Intelligence is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Oscilio, Constella Intelligence
+Bofurkle took 1 damage
+Resolving activated ability of Oscilio, Constella Intelligence.
+Bofurkle passed
+Ehecalt passed
+Ehecalt is about to take 3 damage from Gravekeeping
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Bofurkle passed
+Bofurkle passed
+The combat chain was closed.
+Bofurkle passed
+Bofurkle passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 4 has begun.
+Ehecalt played Gone in a Flash from arsenal
+🎯Ira, Scarlet Revenger was chosen as the target.
+Resolving play ability of Gone in a Flash.
+Bofurkle passed
+Ehecalt passed
+Bofurkle played Shelter from the Storm
+Defense Reaction was chosen.
+Resolving play ability of Shelter from the Storm.
+Ehecalt passed
+Bofurkle passed
+Bofurkle is about to take 0 damage from Gone in a Flash
+Bofurkle took 0 damage
+Combat resolved with no hit
+Ehecalt activated Old Knocker
+Ehecalt activated Lightning Greaves
+Ehecalt undid their last action
+Resolving activated ability of Old Knocker.
+Ehecalt activated Lightning Greaves
+Resolving activated ability of Lightning Greaves.
+Ehecalt played Sigil of Brilliance
+Resolving play ability of Sigil of Brilliance.
+The chain link was resolved.
+Ehecalt played Gone in a Flash
+🎯Ira, Scarlet Revenger was chosen as the target.
+Resolving play ability of Gone in a Flash.
+Bofurkle passed
+Ehecalt played Constella Uplift
+Bofurkle's Ira, Scarlet Revenger was targeted
+Ehecalt requests to undo the last action
+Bofurkle allowed undoing the last action
+Ehecalt passed
+Bofurkle passed
+Bofurkle is about to take 4 damage from Gone in a Flash
+Bofurkle took 4 damage
+Combat resolved with a hit for 4 damage
+Ehecalt played Constella Uplift
+Bofurkle's Ira, Scarlet Revenger was targeted
+Resolving play ability of Constella Uplift.
+The chain link was resolved.
+Ehecalt played Gone in a Flash
+🎯Ira, Scarlet Revenger was chosen as the target.
+Resolving play ability of Gone in a Flash.
+Bofurkle passed
+Ehecalt passed
+Bofurkle passed
+Bofurkle is about to take 4 damage from Gone in a Flash
+Bofurkle took 4 damage
+Combat resolved with a hit for 4 damage
+Ehecalt activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Ehecalt played Constella Contemplation
+Bofurkle's Ira, Scarlet Revenger was targeted
+Resolving play ability of Constella Contemplation.
+Constella Contemplation is dealing 2 arcane damage
+Bofurkle pitched Whirling Mist Blossom
+Ehecalt is dealing 0 arcane damage from Constella Contemplation
+Bofurkle took 0 damage
+The chain link was resolved.
+Ehecalt played Gone in a Flash
+🎯Ira, Scarlet Revenger was chosen as the target.
+Resolving play ability of Gone in a Flash.
+Bofurkle passed
+Bofurkle blocked with The Weakest Link
+Ehecalt passed
+Bofurkle passed
+Bofurkle is about to take 1 damage from Gone in a Flash
+Bofurkle took 1 damage
+Combat resolved with a hit for 1 damage
+Ehecalt played Starlight Road
+Resolving play ability of Starlight Road.
+The chain link was resolved.
+Ehecalt played Gone in a Flash
+🎯Ira, Scarlet Revenger was chosen as the target.
+Embodiment of Lightning grants go again
+Resolving play ability of Gone in a Flash.
+Bofurkle passed
+Ehecalt passed
+Bofurkle passed
+Bofurkle is about to take 4 damage from Gone in a Flash
+Bofurkle took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Bofurkle's turn 4 has begun.
+Bofurkle played Enlightened Strike from arsenal
+🎯Oscilio, Constella Intelligence was chosen as the target.
+⤵️ A card was put on the bottom of the deck.
+Selected mode for Enlightened Strike is: Buff Power
+Resolving play ability of Enlightened Strike.
+Ehecalt passed
+Bofurkle passed
+Ehecalt auto-passed
+Ehecalt is about to take 7 damage from Enlightened Strike
+Ehecalt took 7 damage
+Combat resolved with a hit for 7 damage
+The chain link was resolved.
+Bofurkle passed
+Bofurkle passed
+The combat chain was closed.
+Bofurkle passed
+Bofurkle passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 5 has begun.
+Ehecalt played Scar for a Scar
+🎯Ira, Scarlet Revenger was chosen as the target.
+Scar for a Scar gains Go Again!
+Resolving play ability of Scar for a Scar.
+Bofurkle passed
+Bofurkle blocked with Rowdy Locals
+Ehecalt passed
+Bofurkle passed
+Bofurkle is about to take 1 damage from Scar for a Scar
+Bofurkle took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt played Ravenous Rabble
+🎯Ira, Scarlet Revenger was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Ehecalt reveals Astral Bridge
+Bofurkle passed
+Bofurkle blocked with Pouncing Qi
+Ehecalt played Lightning Press
+Ehecalt's Ravenous Rabble was targeted
+Resolving play ability of Lightning Press.
+Ehecalt passed
+Bofurkle passed
+Bofurkle is about to take 4 damage from Ravenous Rabble
+Bofurkle took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt played Flowstate Embodiment
+🎯Ira, Scarlet Revenger was chosen as the target.
+Resolving play ability of Flowstate Embodiment.
+Bofurkle passed
+Bofurkle blocked with Rowdy Locals
+Ehecalt activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Ehecalt played Consign To Cosmos // Shock from arsenal
+Selected mode for Consign To Cosmos // Shock is: Shock
+Bofurkle's Ira, Scarlet Revenger was targeted
+Bofurkle conceded the game.
+Ehecalt (Ehecalt) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Meteoric Impact, Enlightened Strike, Snatch, Electrostatic Discharge
+[Ehecalt #1] Meteoric Impact, Electrostatic Discharge, Consign To Cosmos  Shock, Flittering Charge
+[Bofurkle #1] Echoflash, Snatch, Constella Uplift, Lightning Surge
+[Ehecalt #2] Snatch, Lightning Surge
+[Bofurkle #2] Lightning Surge, Comet Collision, Sigil Of Solace, Astral Bridge
+[Ehecalt #3] Lightning Surge, Sigil Of Solace, Gone In A Flash
+[Bofurkle #3] Constella Contemplation, Echoflash, Meteoric Impact, Constella Uplift
+[Ehecalt #4] Constella Contemplation, Constella Uplift, Starlight Road, Sigil Of Brilliance
+[Bofurkle #4] Flowstate Embodiment, Scar For A Scar, Snatch, Ravenous Rabble
+[Ehecalt #5] Flowstate Embodiment, Scar For A Scar, Snatch, Ravenous Rabble
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[Ehecalt #1] (vide)
+[Bofurkle #1] (vide)
+[Ehecalt #2] (vide)
+[Bofurkle #2] Lightning Surge
+[Ehecalt #3] Lightning Surge
+[Bofurkle #3] Gone In A Flash
+[Ehecalt #4] Gone In A Flash
+[Bofurkle #4] Consign To Cosmos  Shock
+[Ehecalt #5] (vide)
+
+=== FIELD SNAPSHOTS (permanents/tokens en jeu : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: (vide)
+[Bofurkle #1] me: (vide) | opp: (vide)
+[Ehecalt #2] me: Sigil Of Brilliance | opp: (vide)
+[Bofurkle #2] me: (vide) | opp: (vide)
+[Ehecalt #3] me: Censor | opp: (vide)
+[Bofurkle #3] me: (vide) | opp: (vide)
+[Ehecalt #4] me: (vide) | opp: (vide)
+[Bofurkle #4] me: Sigil Of Brilliance | opp: (vide)
+[Ehecalt #5] me: (vide) | opp: (vide)
+
+=== GRAVEYARD SNAPSHOTS (cimetière : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Ehecalt #1] me: Enlightened Strike, Snatch | opp: Bittering Thorns
+[Bofurkle #1] me: Meteoric Impact, Flittering Charge, Consign To Cosmos  Shock, Enlightened Strike, Snatch | opp: Shelter From The Storm, Bittering Thorns
+[Ehecalt #2] me: Constella Uplift, Echoflash, Meteoric Impact, Flittering Charge, Consign To Cosmos  Shock, Enlightened Strike, Snatch | opp: Shelter From The Storm, Bittering Thorns
+[Bofurkle #2] me: Snatch, Sigil Of Brilliance, Constella Uplift, Echoflash, Meteoric Impact, Flittering Charge, Consign To Cosmos  Shock, Enlightened Strike, Snatch | opp: Shelter From The Storm, Bittering Thorns
+[Ehecalt #3] me: Comet Collision, Astral Bridge, Snatch, Sigil Of Brilliance, Constella Uplift, Echoflash, Meteoric Impact, Flittering Charge, Consign To Cosmos  Shock, Enlightened Strike, Snatch | opp: Censor, Bittering Thorns, Cut Through, Shelter From The Storm, Bittering Thorns
+[Bofurkle #3] me: Lightning Surge, Lightning Surge, Sigil Of Solace, Comet Collision, Astral Bridge, Snatch, Sigil Of Brilliance, Constella Uplift, Echoflash, Meteoric Impact, Flittering Charge, Consign To Cosmos  Shock, Enlightened Strike, Snatch | opp: Sound The Alarm, Censor, Bittering Thorns, Cut Through, Shelter From The Storm, Bittering Thorns
+[Ehecalt #4] me: Crown Of Providence, Echoflash, Lightning Surge, Lightning Surge, Sigil Of Solace, Comet Collision, Astral Bridge, Snatch, Constella Uplift, Echoflash, Meteoric Impact, Flittering Charge, Consign To Cosmos  Shock, Enlightened Strike, Snatch | opp: Gravekeeping, Cut Through, Sound The Alarm, Censor, Bittering Thorns, Cut Through, Shelter From The Storm, Bittering Thorns
+[Bofurkle #4] me: Gone In A Flash, Starlight Road, Constella Contemplation, Constella Uplift, Lightning Greaves, Old Knocker, Crown Of Providence, Echoflash, Lightning Surge, Lightning Surge, Sigil Of Solace, Comet Collision, Astral Bridge, Snatch, Constella Uplift, Echoflash, Meteoric Impact, Flittering Charge, Consign To Cosmos  Shock, Enlightened Strike, Snatch | opp: The Weakest Link, Shelter From The Storm, Gravekeeping, Cut Through, Sound The Alarm, Censor, Bittering Thorns, Cut Through, Shelter From The Storm, Bittering Thorns
+[Ehecalt #5] me: (vide) | opp: (vide)
+
+=== BANISH SNAPSHOTS (banni : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: (vide)
+[Bofurkle #1] me: (vide) | opp: (vide)
+[Ehecalt #2] me: (vide) | opp: (vide)
+[Bofurkle #2] me: (vide) | opp: (vide)
+[Ehecalt #3] me: (vide) | opp: (vide)
+[Bofurkle #3] me: (vide) | opp: (vide)
+[Ehecalt #4] me: Sigil Of Brilliance | opp: (vide)
+[Bofurkle #4] me: Sigil Of Brilliance | opp: (vide)
+[Ehecalt #5] me: (vide) | opp: (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=36 opp=40 myDeck=56 oppDeck=56
+[Ehecalt #1] me=36 opp=40 myDeck=54 oppDeck=54
+[Bofurkle #1] me=36 opp=37 myDeck=51 oppDeck=56
+[Ehecalt #2] me=33 opp=34 myDeck=50 oppDeck=53
+[Bofurkle #2] me=33 opp=30 myDeck=46 oppDeck=53
+[Ehecalt #3] me=21 opp=30 myDeck=45 oppDeck=50
+[Bofurkle #3] me=24 opp=25 myDeck=41 oppDeck=50
+[Ehecalt #4] me=14 opp=24 myDeck=40 oppDeck=47
+[Bofurkle #4] me=14 opp=11 myDeck=35 oppDeck=48
+[Ehecalt #5] me=? opp=?
+
+=== META ===
+schema: v1
+captured_with: TLG v1.12.0
+game_url: https://talishar.net/game/play/1622430
+captured_at: 2026-07-10T13:21:23.746Z
+format: compcc
+vs_ai: non
+me: Respiratore
+opponent: Player 2
+my_hero: Oscilio, Constella Intelligence (oscilio_constella_intelligence)
+opp_hero: Ira Scarlet Revenger (ira_scarlet_revenger)
+my_start_life: 36
+opp_start_life: 40
+my_start_deck_size: 56
+opp_start_deck_size: 56
+my_equipment: head=Crown Of Providence (crown_of_providence) | chest=Old Knocker (old_knocker) | arms=Bracers Of Belief (bracers_of_belief) | legs=Lightning Greaves (lightning_greaves) | weaponL=Volzar Meteor Storm (volzar_meteor_storm)
+opp_equipment: head=Mask Of The Swarming Claw (mask_of_the_swarming_claw) | chest=Fyendals Spring Tunic (fyendals_spring_tunic) | arms=Nullrune Gloves (nullrune_gloves) | legs=Tide Flippers (tide_flippers) | weaponL=Harmonized Kodachi (harmonized_kodachi) | weaponR=Harmonized Kodachi R (harmonized_kodachi_r)
+
+=== TIMESTAMPS ===
+0-1:1783689823,2-2:1783689825,3-3:1783689831,4-4:1783689885,5-6:1783689893,7-11:1783689896,12-12:1783689897,13-14:1783689899,15-15:1783689900,16-17:1783689901,18-18:1783689903,19-19:1783689904,20-21:1783689905,22-23:1783689908,24-25:1783689915,26-26:1783689920,27-27:1783689921,28-30:1783689924,31-31:1783689928,32-32:1783689930,33-34:1783689931,35-37:1783689935,38-42:1783689937,43-43:1783689939,44-44:1783689941,45-46:1783689942,47-48:1783689943,49-50:1783689944,51-51:1783689945,52-52:1783689947,53-53:1783689949,54-54:1783689951,55-56:1783689952,57-57:1783689954,58-58:1783689957,59-60:1783689959,61-63:1783689963,64-65:1783689965,66-67:1783689970,68-69:1783689971,70-70:1783689973,71-71:1783689978,72-72:1783689981,73-73:1783689982,74-77:1783689984,78-78:1783689985,79-80:1783689986,81-81:1783689988,82-82:1783690002,83-83:1783690004,84-87:1783690005,88-88:1783690007,89-90:1783690008,91-93:1783690010,94-94:1783690013,95-96:1783690017,97-97:1783690024,98-99:1783690026,100-100:1783690041,101-102:1783690043,103-103:1783690044,104-104:1783690047,105-106:1783690051,107-108:1783690054,109-109:1783690060,110-110:1783690063,111-112:1783690065,113-114:1783690084,115-116:1783690093,117-117:1783690096,118-118:1783690100,119-119:1783690106,120-123:1783690108,124-124:1783690110,125-125:1783690112,126-127:1783690113,128-128:1783690114,129-130:1783690115,131-132:1783690117,133-134:1783690119,135-135:1783690121,136-136:1783690122,137-137:1783690124,138-142:1783690125,143-143:1783690146,144-145:1783690148,146-146:1783690151,147-147:1783690159,148-152:1783690161,153-153:1783690170,154-155:1783690172,156-156:1783690174,157-157:1783690176,158-162:1783690178,163-163:1783690180,164-165:1783690182,166-166:1783690187,167-167:1783690189,168-168:1783690191,169-169:1783690195,170-171:1783690200,172-176:1783690202,177-178:1783690204,179-179:1783690206,180-181:1783690207,182-182:1783690213,183-183:1783690218,184-188:1783690221,189-189:1783690222,190-190:1783690226,191-191:1783690228,192-193:1783690229,194-194:1783690230,195-196:1783690231,197-198:1783690233,199-200:1783690234,201-201:1783690235,202-203:1783690242,204-208:1783690244,209-209:1783690245,210-211:1783690246,212-212:1783690247,213-213:1783690248,214-214:1783690250,215-216:1783690252,217-217:1783690253,218-221:1783690254,222-224:1783690256,225-227:1783690258,228-229:1783690261,230-231:1783690262,232-232:1783690263,233-233:1783690270,234-234:1783690275,235-239:1783690276,240-242:1783690278,243-243:1783690280,244-244:1783690282,245-249:1783690283,250-250:1783690285,251-252:1783690286,253-253:1783690287,254-254:1783690289,255-259:1783690290,260-260:1783690292,261-262:1783690294,263-263:1783690296,264-265:1783690305,266-266:1783690310,267-267:1783690318,268-269:1783690320,270-270:1783690324,271-272:1783690326,273-274:1783690329,275-275:1783690333,276-276:1783690334,277-277:1783690339,278-279:1783690340,280-280:1783690343,281-282:1783690345,283-283:1783690348,284-284:1783690350,285-288:1783690354,289-289:1783690356,290-291:1783690357,292-292:1783690358,293-294:1783690359,295-296:1783690361,297-298:1783690362,299-299:1783690364,300-300:1783690366,301-301:1783690369,302-302:1783690371,303-303:1783690372,304-304:1783690375,305-305:1783690376,306-309:1783690377,310-310:1783690385,311-311:1783690387,312-312:1783690390,313-313:1783690393,314-314:1783690394,315-315:1783690396,316-316:1783690400,317-317:1783690404,318-318:1783690406,319-320:1783690407,321-321:1783690408,322-322:1783690412,323-324:1783690431,325-325:1783690433,326-326:1783690436,327-327:1783690437,328-331:1783690438,332-333:1783690440,334-334:1783690456,335-335:1783690459,336-337:1783690461,338-338:1783690465,339-339:1783690467,340-340:1783690471,341-344:1783690472,345-345:1783690475,346-346:1783690478,347-348:1783690481,349-350:1783690507,351-353:1783690512,354-354:1783690516,355-356:1783690517,357-357:1783690521,358-359:1783690523,360-360:1783690539,361-364:1783690542,365-365:1783690543,366-366:1783690551,367-367:1783690560,368-369:1783690570,370-371:1783690574,372-372:1783690577,373-373:1783690579,374-377:1783690580,378-378:1783690581,379-381:1783690584,382-383:1783690586,384-385:1783690588,386-388:1783690589,389-389:1783690591,390-390:1783690592,391-391:1783690599,392-396:1783690601,397-397:1783690602,398-399:1783690603,400-402:1783690604,403-404:1783690606,405-406:1783690612,407-407:1783690613,408-408:1783690615,409-410:1783690618,411-411:1783690622,412-415:1783690623,416-416:1783690627,417-418:1783690628,419-419:1783690629,420-422:1783690665,423-423:1783690668,424-424:1783690670,425-425:1783690673,426-430:1783690674,431-431:1783690676,432-433:1783690678,434-434:1783690681,435-436:1783690684,437-437:1783690687,438-438:1783690691,439-441:1783690692,442-444:1783690699
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1622430","deckId":"","turns":5,"result":1,"winner":1,"firstPlayer":0,"opposingHero":"ira_scarlet_revenger","yourHero":"oscilio_constella_intelligence","startingLife":36,"opponentHero":"ira_scarlet_revenger","opponentStartingLife":40,"cardResults":[{"cardId":"astral_bridge_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Astral Bridge","pitchValue":1,"numCopies":3},{"cardId":"comet_collision_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Comet Collision","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"consign_to_cosmos__shock_yellow","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Consign To Cosmos // Shock","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"constella_contemplation_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Constella Contemplation","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"constella_uplift_yellow","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Constella Uplift","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"echoflash_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Echoflash","pitchValue":2,"numCopies":3},{"cardId":"electrostatic_discharge_red","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Electrostatic Discharge","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"enlightened_strike_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Enlightened Strike","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"entwine_lightning_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Entwine Lightning","pitchValue":1,"numCopies":3},{"cardId":"flittering_charge_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Flittering Charge","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"flowstate_embodiment_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Flowstate Embodiment","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"gone_in_a_flash_red","played":"5","blocked":"0","pitched":"0","hits":"4","discarded":"0","charged":"0","cardName":"Gone in a Flash","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_press_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Press","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_surge_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Lightning Surge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Ravenous Rabble","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"scar_for_a_scar_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Scar for a Scar","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_brilliance_yellow","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sigil of Brilliance","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_solace_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sigil of Solace","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"snatch_red","played":"1","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Snatch","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"starlight_road_blue","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Starlight Road","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"meteoric_impact_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Meteoric Impact","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"oscilio_constella_intelligence","cardName":"Oscilio, Constella Intelligence","numCopies":1},{"cardId":"volzar_meteor_storm","cardName":"Volzar, Meteor Storm","numCopies":1},{"cardId":"crown_of_providence","cardName":"Crown of Providence","numCopies":1},{"cardId":"old_knocker","cardName":"Old Knocker","numCopies":1},{"cardId":"bracers_of_belief","cardName":"Bracers of Belief","numCopies":1},{"cardId":"lightning_greaves","cardName":"Lightning Greaves","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"volzar_meteor_storm","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Volzar, Meteor Storm","pitchValue":0,"katsuDiscard":"0","activated":"4","passiveTriggered":"0"},{"cardId":"oscilio_constella_intelligence","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Oscilio, Constella Intelligence","pitchValue":0,"katsuDiscard":"0","activated":"3","passiveTriggered":"0"},{"cardId":"lightning_greaves","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Greaves","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"crown_of_providence","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Crown of Providence","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"old_knocker","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Old Knocker","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"4","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":36,"opponentLifeAtTurnEnd":40,"turnNo":0},"turn_1":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"11","damageDealt":"3","damageBlocked":"0","damagePrevented":"0","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":33,"opponentLifeAtTurnEnd":34,"turnNo":1},"turn_2":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"2","damageThreatened":"7","damageDealt":"7","damageBlocked":"0","damagePrevented":"0","damageTaken":"12","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":21,"opponentLifeAtTurnEnd":30,"turnNo":2},"turn_3":{"cardsUsed":3,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"8","damageDealt":"5","damageBlocked":"4","damagePrevented":"0","damageTaken":"10","lifeGained":"3","lifeLost":"0","lifeAtTurnEnd":14,"opponentLifeAtTurnEnd":24,"turnNo":3},"turn_4":{"cardsUsed":9,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"23","damageDealt":"14","damageBlocked":"2","damagePrevented":"0","damageTaken":"7","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":7,"opponentLifeAtTurnEnd":11,"turnNo":4},"turn_5":{"cardsUsed":5,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"11","damageDealt":"5","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":5}},"yourTime":"562","totalTime":910,"totalDamageThreatened":60,"totalDamageDealt":34,"totalLifeGained":3,"totalDamageBlocked":10,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":12,"averageDamageDealtPerTurn":6.8,"averageDamageThreatenedPerCard":4,"averageResourcesUsedPerTurn":0.4,"averageCardsLeftOverPerTurn":0.4,"averageCombatValuePerTurn":13.2,"averageValuePerTurn":13.8,"totalDamageThreatened_NoLast":49,"totalDamageDealt_NoLast":29,"totalLifeGained_NoLast":3,"totalDamageBlocked_NoLast":10,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":12.25,"averageDamageDealtPerTurn_NoLast":7.25,"averageDamageThreatenedPerCard_NoLast":4.45,"averageResourcesUsedPerTurn_NoLast":0.5,"averageCardsLeftOverPerTurn_NoLast":0.5,"averageCombatValuePerTurn_NoLast":13.75,"averageValuePerTurn_NoLast":14.5,"fullLog":""},"2":{"gameId":"1622430","deckId":"","turns":5,"result":0,"winner":1,"firstPlayer":1,"opposingHero":"oscilio_constella_intelligence","yourHero":"ira_scarlet_revenger","startingLife":40,"opponentHero":"oscilio_constella_intelligence","opponentStartingLife":36,"cardResults":[{"cardId":"aspect_of_tiger_mind_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Aspect of Tiger: Mind","pitchValue":3,"numCopies":3},{"cardId":"back_heel_kick_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Back Heel Kick","pitchValue":3,"numCopies":1},{"cardId":"bittering_thorns_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Bittering Thorns","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"censor_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Censor","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"command_and_conquer_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Command and Conquer","pitchValue":1,"numCopies":3},{"cardId":"crane_dance_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Crane Dance","pitchValue":3,"numCopies":1},{"cardId":"cut_through_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Cut Through","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"dual_threat_yellow","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Dual Threat","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"enlightened_strike_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Enlightened Strike","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"erase_face_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Erase Face","pitchValue":1,"numCopies":1},{"cardId":"gravekeeping_red","played":"1","blocked":"0","pitched":"1","hits":"1","discarded":"0","charged":"0","cardName":"Gravekeeping","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"legacy_of_ikaru_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Legacy of Ikaru","pitchValue":3,"numCopies":1},{"cardId":"looking_for_a_scrap_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Looking for a Scrap","pitchValue":1,"numCopies":2},{"cardId":"one_two_punch_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"One-Two Punch","pitchValue":3,"numCopies":1},{"cardId":"overcrowded_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Overcrowded","pitchValue":3,"numCopies":1},{"cardId":"pain_in_the_backside_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Pain in the Backside","pitchValue":1,"numCopies":3},{"cardId":"pouncing_qi_blue","played":"0","blocked":"1","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Pouncing Qi","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"recoil_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Recoil","pitchValue":3,"numCopies":1},{"cardId":"rising_knee_thrust_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Rising Knee Thrust","pitchValue":3,"numCopies":1},{"cardId":"rotten_remains_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Rotten Remains","pitchValue":3,"numCopies":1,"activated":"0","passiveTriggered":"0"},{"cardId":"rowdy_locals_blue","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Rowdy Locals","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"rushing_river_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Rushing River","pitchValue":3,"numCopies":1},{"cardId":"shelter_from_the_storm_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Shelter from the Storm","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sound_the_alarm_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sound the Alarm","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"the_weakest_link_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"The Weakest Link","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"warmongers_diplomacy_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Warmonger's Diplomacy","pitchValue":3,"numCopies":3},{"cardId":"whirling_mist_blossom_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Whirling Mist Blossom","pitchValue":2,"numCopies":3}],"character":[{"cardId":"ira_scarlet_revenger","cardName":"Ira, Scarlet Revenger","numCopies":1},{"cardId":"harmonized_kodachi","cardName":"Harmonized Kodachi","numCopies":1},{"cardId":"harmonized_kodachi_r","cardName":"Harmonized Kodachi","numCopies":1},{"cardId":"mask_of_the_swarming_claw","cardName":"Mask of the Swarming Claw","numCopies":1},{"cardId":"fyendals_spring_tunic","cardName":"Fyendal's Spring Tunic","numCopies":1},{"cardId":"nullrune_gloves","cardName":"Nullrune Gloves","numCopies":1},{"cardId":"tide_flippers","cardName":"Tide Flippers","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"harmonized_kodachi","played":"0","blocked":"0","pitched":"0","hits":"3","discarded":"0","charged":"0","cardName":"Harmonized Kodachi","pitchValue":0,"katsuDiscard":"0","activated":"3","passiveTriggered":"0"},{"cardId":"harmonized_kodachi_r","played":"0","blocked":"0","pitched":"0","hits":"3","discarded":"0","charged":"0","cardName":"Harmonized Kodachi","pitchValue":0,"katsuDiscard":"0","activated":"3","passiveTriggered":"0"},{"cardId":"fyendals_spring_tunic","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Fyendal's Spring Tunic","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"4","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":40,"opponentLifeAtTurnEnd":36,"turnNo":0},"turn_1":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"3","damageDealt":"3","damageBlocked":"4","damagePrevented":"4","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":34,"opponentLifeAtTurnEnd":33,"turnNo":1},"turn_2":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"4","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"16","damageDealt":"12","damageBlocked":"0","damagePrevented":"0","damageTaken":"7","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":30,"opponentLifeAtTurnEnd":21,"turnNo":2},"turn_3":{"cardsUsed":2,"cardsBlocked":"1","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"3","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"12","damageDealt":"10","damageBlocked":"3","damagePrevented":"0","damageTaken":"5","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":24,"opponentLifeAtTurnEnd":14,"turnNo":3},"turn_4":{"cardsUsed":2,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"7","damageBlocked":"7","damagePrevented":"2","damageTaken":"14","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":11,"opponentLifeAtTurnEnd":7,"turnNo":4},"turn_5":{"cardsUsed":0,"cardsBlocked":"3","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"6","damagePrevented":"0","damageTaken":"5","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":5}},"yourTime":"348","totalTime":910,"totalDamageThreatened":42,"totalDamageDealt":32,"totalLifeGained":0,"totalDamageBlocked":20,"totalDamagePrevented":6,"totalLifeLost":0,"averageDamageThreatenedPerTurn":7.6,"averageDamageDealtPerTurn":6.4,"averageDamageThreatenedPerCard":2.92,"averageResourcesUsedPerTurn":1.8,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":11.6,"averageValuePerTurn":12.8,"totalDamageThreatened_NoLast":42,"totalDamageDealt_NoLast":32,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":14,"totalDamagePrevented_NoLast":6,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":9.5,"averageDamageDealtPerTurn_NoLast":8,"averageDamageThreatenedPerCard_NoLast":3.17,"averageResourcesUsedPerTurn_NoLast":2.25,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":13,"averageValuePerTurn_NoLast":14.5,"fullLog":""}}}

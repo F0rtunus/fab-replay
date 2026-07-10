@@ -1,0 +1,350 @@
+=== Talishar game 1595653 — 08/07/2026 07:07:15 ===
+
+RoyC activated Blossom of Spring
+Resolving activated ability of Blossom of Spring.
+RoyC activated Death Dealer
+Resolving activated ability of Death Dealer.
+RoyC played Snap Shot from arsenal
+🎯Briar was chosen as the target.
+👁️‍🗨️Fry is revealed
+Resolving play ability of Snap Shot.
+Ehecalt passed
+Ehecalt blocked with Snatch
+RoyC passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Snap Shot
+Ehecalt took 0 damage
+Combat resolved with no hit
+RoyC activated Death Dealer
+RoyC pitched Weave Lightning
+Resolving activated ability of Death Dealer.
+The chain link was resolved.
+RoyC played Fry
+🎯Briar was chosen as the target.
+Resolving play ability of Fry.
+Ehecalt passed
+Ehecalt blocked with Arcanic Shockwave
+RoyC passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Fry
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+RoyC passed
+The combat chain was closed.
+RoyC played Arctic Incarceration
+Resolving play ability of Arctic Incarceration.
+RoyC activated Patch the Hole
+Resolving activated ability of Patch the Hole.
+RoyC auto-passed
+RoyC passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 1 has begun.
+Ehecalt played Snatch
+🎯Lexi was chosen as the target.
+Ehecalt pitched Lightning Surge
+Ehecalt pitched Stinging Sprite
+Ehecalt pitched Quick Succession
+Resolving play ability of Snatch.
+RoyC passed
+Ehecalt passed
+RoyC passed
+RoyC is about to take 4 damage from Snatch
+RoyC took 4 damage
+Combat resolved with a hit for 4 damage
+Processing hit effect for Snatch
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+RoyC's turn 1 has begun.
+RoyC played Scar for a Scar
+🎯Briar was chosen as the target.
+Scar for a Scar gains Go Again!
+Resolving play ability of Scar for a Scar.
+Ehecalt passed
+RoyC passed
+Ehecalt auto-passed
+Ehecalt is about to take 4 damage from Scar for a Scar
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+RoyC passed
+The combat chain was closed.
+RoyC activated Lexi
+Lexi turns Second Strike face up.
+Resolving activated ability of Lexi: The next attack gains go again.
+RoyC played Skyzyk
+🎯Briar was chosen as the target.
+Resolving play ability of Skyzyk.
+Ehecalt passed
+RoyC passed
+Ehecalt auto-passed
+Ehecalt is about to take 4 damage from Skyzyk
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+RoyC played Second Strike from arsenal
+🎯Briar was chosen as the target.
+Resolving play ability of Second Strike.
+Ehecalt passed
+RoyC passed
+Ehecalt auto-passed
+Ehecalt is about to take 4 damage from Second Strike
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+RoyC passed
+The combat chain was closed.
+RoyC activated Death Dealer
+RoyC pitched Dry Powder Shot
+Resolving activated ability of Death Dealer.
+RoyC played Fry
+🎯Briar was chosen as the target.
+Resolving play ability of Fry.
+Ehecalt passed
+Ehecalt blocked with Sprout Strength
+RoyC passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Fry
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+RoyC played Dazzling Crescendo from arsenal
+🎯Briar was chosen as the target.
+Resolving play ability of Dazzling Crescendo.
+Ehecalt passed
+RoyC passed
+Ehecalt auto-passed
+Ehecalt is about to take 4 damage from Dazzling Crescendo
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+RoyC auto-passed
+RoyC auto-passed
+The combat chain was closed.
+RoyC auto-passed
+RoyC passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 2 has begun.
+Ehecalt played Entwine Lightning from arsenal
+🎯Lexi was chosen as the target.
+👁️‍🗨️Weave Lightning is revealed
+Resolving play ability of Entwine Lightning.
+RoyC passed
+Ehecalt passed
+RoyC passed
+RoyC is about to take 4 damage from Entwine Lightning
+RoyC took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Weave Lightning
+Resolving play ability of Weave Lightning.
+Ehecalt played Path of Same Ends
+🎯Lexi was chosen as the target.
+Resolving play ability of Path of Same Ends.
+Path of Same Ends is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Path of Same Ends
+RoyC took 1 damage
+RoyC passed
+Ehecalt passed
+RoyC passed
+RoyC is about to take 6 damage from Path of Same Ends
+RoyC took 6 damage
+Combat resolved with a hit for 6 damage
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Sizzle
+Resolving play ability of Sizzle.
+Ehecalt activated Blossom of Spring
+Resolving activated ability of Blossom of Spring.
+Ehecalt activated Star Fall
+🎯Lexi was chosen as the target.
+Resolving activated ability of Star Fall.
+RoyC passed
+RoyC blocked with Blade Beckoner Boots
+Ehecalt passed
+RoyC passed
+RoyC is about to take 3 damage from Star Fall
+RoyC took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+RoyC's turn 2 has begun.
+RoyC played Ice Quake
+RoyC pitched Weave Lightning
+Resolving play ability of Ice Quake.
+RoyC played Sizzle
+Resolving play ability of Sizzle.
+RoyC played Entwine Lightning
+🎯Briar was chosen as the target.
+Resolving play ability of Entwine Lightning.
+Ehecalt passed
+Ehecalt blocked with Burn Up // Shock, Quick Succession, Blade Beckoner Boots, Blade Beckoner Gauntlets, and Blade Beckoner Helm
+RoyC passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Entwine Lightning
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+RoyC auto-passed
+RoyC auto-passed
+The combat chain was closed.
+RoyC auto-passed
+RoyC passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 3 has begun.
+Ehecalt played Scar for a Scar
+🎯Lexi was chosen as the target.
+Embodiment of Lightning grants go again
+Resolving play ability of Scar for a Scar.
+RoyC passed
+RoyC blocked with Entwine Lightning and Lightning Surge
+Ehecalt passed
+RoyC passed
+RoyC is about to take 0 damage from Scar for a Scar
+RoyC took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt played Static Shock
+🎯Lexi was chosen as the target.
+Resolving play ability of Static Shock.
+RoyC passed
+RoyC blocked with Dry Powder Shot
+Ehecalt passed
+RoyC passed
+RoyC is about to take 1 damage from Static Shock
+RoyC took 1 damage
+Combat resolved with a hit for 1 damage
+Processing hit effect for Static Shock
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+RoyC's turn 3 has begun.
+RoyC played Arctic Incarceration
+Resolving play ability of Arctic Incarceration.
+RoyC auto-passed
+RoyC passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 4 has begun.
+Ehecalt played Stinging Sprite
+🎯Lexi was chosen as the target.
+Ehecalt pitched Lightning Press
+Ehecalt pitched Sigil of Suffering
+Ehecalt pitched Sizzle
+Resolving play ability of Stinging Sprite.
+RoyC's Lexi was targeted by Stinging Sprite
+Stinging Sprite is dealing 1 arcane damage
+RoyC pitched Sizzle
+Ehecalt is dealing 0 arcane damage from Stinging Sprite
+RoyC took 0 damage
+RoyC passed
+RoyC blocked with Snap Shot
+Ehecalt passed
+RoyC passed
+RoyC is about to take 0 damage from Stinging Sprite
+RoyC took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+RoyC's turn 4 has begun.
+RoyC played Ravenous Rabble
+🎯Briar was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️RoyC reveals Lightning Press
+Ehecalt passed
+RoyC passed
+Ehecalt played Sigil of Suffering
+Sigil of Suffering only checks for arcane damage when it resolves.
+Resolving play ability of Sigil of Suffering.
+Sigil of Suffering is dealing 1 arcane damage
+RoyC pitched Lightning Press
+Ehecalt is dealing 0 arcane damage from Sigil of Suffering
+RoyC took 0 damage
+RoyC passed
+Ehecalt played Burn Up // Shock
+Selected mode for Burn Up // Shock is: Shock
+RoyC's Lexi was targeted
+Resolving play ability of Burn Up // Shock.
+Burn Up // Shock is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Burn Up // Shock
+RoyC took 1 damage
+Ehecalt (Ehecalt) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+Ehecalt: Good Game!
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Quick Succession, Arcanic Shockwave, Snatch, Snatch
+[Ehecalt #1] Quick Succession, Snatch, Stinging Sprite, Lightning Surge
+[RoyC #1] Path Of Same Ends, Sprout Strength, Sizzle, Weave Lightning
+[RoyC #2] Burn Up  Shock, Scar For A Scar, Quick Succession, Static Shock
+[Ehecalt #3] Scar For A Scar, Static Shock
+[RoyC #3] Sizzle, Sigil Of Suffering, Stinging Sprite, Lightning Press
+[Ehecalt #4] Sizzle, Sigil Of Suffering, Stinging Sprite, Lightning Press
+[RoyC #4] Rush Of Power, Sigil Of Suffering, Ravenous Rabble, Burn Up  Shock
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[Ehecalt #1] (vide)
+[RoyC #1] (vide)
+[Ehecalt #2] (vide)
+[RoyC #2] (vide)
+[Ehecalt #3] (vide)
+[RoyC #3] (vide)
+[Ehecalt #4] (vide)
+[RoyC #4] (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=20 opp=20 myDeck=36 oppDeck=36
+[Ehecalt #1] me=20 opp=20 myDeck=34 oppDeck=32
+[RoyC #1] me=? opp=?
+[Ehecalt #2] me=? opp=?
+[RoyC #2] me=? opp=?
+[Ehecalt #3] me=4 opp=2 myDeck=28 oppDeck=25
+[RoyC #3] me=4 opp=1 myDeck=24 oppDeck=25
+[Ehecalt #4] me=4 opp=1 myDeck=24 oppDeck=21
+[RoyC #4] me=4 opp=1 myDeck=23 oppDeck=22
+
+=== META ===
+schema: v1
+captured_with: TLG v1.10.4
+game_url: https://talishar.net/game/play/1595653
+captured_at: 2026-07-08T04:58:52.151Z
+format: sage
+vs_ai: non
+me: Ehecalt
+opponent: RoyC
+my_hero: Briar (briar)
+opp_hero: Lexi (lexi)
+my_start_life: 20
+opp_start_life: 20
+my_start_deck_size: 36
+opp_start_deck_size: 36
+my_equipment: head=Blade Beckoner Helm (blade_beckoner_helm) | chest=Blossom Of Spring (blossom_of_spring) | arms=Blade Beckoner Gauntlets (blade_beckoner_gauntlets) | legs=Blade Beckoner Boots (blade_beckoner_boots) | weaponL=Star Fall (star_fall)
+opp_equipment: head=Patch The Hole (patch_the_hole) | chest=Blossom Of Spring (blossom_of_spring) | arms=Bulls Eye Bracers (bulls_eye_bracers) | legs=Blade Beckoner Boots (blade_beckoner_boots) | weaponL=Death Dealer (death_dealer)
+
+=== TIMESTAMPS ===
+0-0:1783486733,1-1:1783486735,2-2:1783486736,3-3:1783486738,4-5:1783486746,6-7:1783486764,8-9:1783486768,10-14:1783486771,15-15:1783486773,16-16:1783486775,17-17:1783486776,18-18:1783486781,19-20:1783486783,21-21:1783486785,22-23:1783486788,24-28:1783486792,29-29:1783486799,30-32:1783486804,33-33:1783486806,34-37:1783486809,38-39:1783486811,40-41:1783486819,42-42:1783486821,43-43:1783486822,44-45:1783486823,46-46:1783486839,47-47:1783486840,48-51:1783486841,52-58:1783486843,59-60:1783486847,61-64:1783486849,65-65:1783486851,66-71:1783486856,72-73:1783486858,74-76:1783486860,77-79:1783486867,80-80:1783486871,81-86:1783486876,87-89:1783486878,90-90:1783486882,91-96:1783486884,97-98:1783486885,99-99:1783486886,100-101:1783486888,102-104:1783486894,105-106:1783486912,107-112:1783486914,113-115:1783486916,116-116:1783486919,117-129:1783486920,130-131:1783486934,132-133:1783486935,134-134:1783486937,135-135:1783486938,136-140:1783486939,141-144:1783486941,145-147:1783486944,148-148:1783486945,149-150:1783486946,151-151:1783486947,152-152:1783486948,153-156:1783486950,157-157:1783486951,158-161:1783486952,162-163:1783486954,164-166:1783486955,167-168:1783486959,169-169:1783486961,170-174:1783486962,175-177:1783486963,178-181:1783486964,182-182:1783486982,183-183:1783486983,184-184:1783486985,185-185:1783486986,186-186:1783486987,187-188:1783486989,189-189:1783486990,190-191:1783487037,192-196:1783487043,197-204:1783487047,205-206:1783487048,207-208:1783487050,209-210:1783487089,211-211:1783487091,212-216:1783487095,217-219:1783487097,220-221:1783487112,222-222:1783487114,223-226:1783487115,227-235:1783487117,236-241:1783487119,242-243:1783487127,244-244:1783487128,245-245:1783487129,246-246:1783487130,247-248:1783487132,249-249:1783487151,250-252:1783487156,253-254:1783487160,255-255:1783487161,256-259:1783487163,260-262:1783487165,263-265:1783487167,266-267:1783487170,268-269:1783487172,270-270:1783487182,271-271:1783487185,272-272:1783487195,273-273:1783487203,274-274:1783487205,275-277:1783487214,278-280:1783487219,281-281:1783487220,282-284:1783487222,285-286:1783487223,287-290:1783487225,291-291:1783487232
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1595653","deckId":"","turns":4,"result":1,"winner":1,"firstPlayer":0,"opposingHero":"lexi","yourHero":"briar","startingLife":20,"opponentHero":"lexi","opponentStartingLife":20,"cardResults":[{"cardId":"arcane_seeds__life_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Arcane Seeds // Life","pitchValue":1,"numCopies":2},{"cardId":"arcanic_shockwave_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Arcanic Shockwave","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"entwine_lightning_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Entwine Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_press_red","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Press","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_surge_red","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Surge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"nimblism_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Nimblism","pitchValue":1,"numCopies":2},{"cardId":"path_of_same_ends_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Path of Same Ends","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"quick_succession_red","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"quick_succession_yellow","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Ravenous Rabble","pitchValue":1,"numCopies":2},{"cardId":"rush_of_power_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Rush of Power","pitchValue":1,"numCopies":2},{"cardId":"scar_for_a_scar_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Scar for a Scar","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sizzle_red","played":"1","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Sizzle","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"snatch_red","played":"1","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Snatch","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sprout_strength_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sprout Strength","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"static_shock_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Static Shock","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"stinging_sprite_red","played":"1","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Stinging Sprite","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"weave_lightning_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Weave Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_suffering_red","played":"1","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Sigil of Suffering","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"burn_up__shock_red","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Burn Up // Shock","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"briar","cardName":"Briar","numCopies":1},{"cardId":"star_fall","cardName":"Star Fall","numCopies":1},{"cardId":"blade_beckoner_helm","cardName":"Blade Beckoner Helm","numCopies":1},{"cardId":"blossom_of_spring","cardName":"Blossom of Spring","numCopies":1},{"cardId":"blade_beckoner_gauntlets","cardName":"Blade Beckoner Gauntlets","numCopies":1},{"cardId":"blade_beckoner_boots","cardName":"Blade Beckoner Boots","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"blossom_of_spring","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blossom of Spring","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"star_fall","played":"0","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Star Fall","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"blade_beckoner_boots","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Boots","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"blade_beckoner_gauntlets","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Gauntlets","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"blade_beckoner_helm","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Helm","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"5","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":20,"turnNo":0},"turn_1":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"3","cardsDiscarded":"0","resourcesUsed":"3","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"4","damageDealt":"4","damageBlocked":"0","damagePrevented":"0","damageTaken":"16","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":4,"opponentLifeAtTurnEnd":16,"turnNo":1},"turn_2":{"cardsUsed":4,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"16","damageDealt":"14","damageBlocked":"3","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":4,"opponentLifeAtTurnEnd":2,"turnNo":2},"turn_3":{"cardsUsed":2,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"8","damageDealt":"1","damageBlocked":"10","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":4,"opponentLifeAtTurnEnd":1,"turnNo":3},"turn_4":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"3","cardsDiscarded":"0","resourcesUsed":"3","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"4","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":4,"opponentLifeAtTurnEnd":1,"turnNo":4}},"yourTime":"237","totalTime":503,"totalDamageThreatened":32,"totalDamageDealt":19,"totalLifeGained":0,"totalDamageBlocked":18,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":8,"averageDamageDealtPerTurn":4.75,"averageDamageThreatenedPerCard":2.91,"averageResourcesUsedPerTurn":1.75,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":11.25,"averageValuePerTurn":11.25,"totalDamageThreatened_NoLast":28,"totalDamageDealt_NoLast":19,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":18,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":9.33,"averageDamageDealtPerTurn_NoLast":6.33,"averageDamageThreatenedPerCard_NoLast":4,"averageResourcesUsedPerTurn_NoLast":1.33,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":13.67,"averageValuePerTurn_NoLast":13.67,"fullLog":""},"2":{"gameId":"1595653","deckId":"","turns":4,"result":0,"winner":1,"firstPlayer":1,"opposingHero":"briar","yourHero":"lexi","startingLife":20,"opponentHero":"briar","opponentStartingLife":20,"cardResults":[{"cardId":"dazzling_crescendo_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Dazzling Crescendo","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"dry_powder_shot_red","played":"0","blocked":"1","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Dry Powder Shot","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"electrify_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Electrify","pitchValue":3,"numCopies":2},{"cardId":"entwine_lightning_red","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Entwine Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"fry_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Fry","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_press_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Lightning Press","pitchValue":1,"numCopies":2},{"cardId":"lightning_surge_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Surge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Ravenous Rabble","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"scar_for_a_scar_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Scar for a Scar","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"second_strike_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Second Strike","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sizzle_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sizzle","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"skyzyk_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Skyzyk","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"snap_shot_blue","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Snap Shot","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"snap_shot_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Snap Shot","pitchValue":1,"numCopies":2},{"cardId":"snap_shot_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Snap Shot","pitchValue":2,"numCopies":2},{"cardId":"swift_shot_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Swift Shot","pitchValue":1,"numCopies":2},{"cardId":"weave_lightning_red","played":"0","blocked":"0","pitched":"2","hits":"0","discarded":"0","charged":"0","cardName":"Weave Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"winters_bite_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Winter's Bite","pitchValue":2,"numCopies":2},{"cardId":"arctic_incarceration_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Arctic Incarceration","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"ice_quake_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Ice Quake","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"lexi","cardName":"Lexi","numCopies":1},{"cardId":"death_dealer","cardName":"Death Dealer","numCopies":1},{"cardId":"patch_the_hole","cardName":"Patch the Hole","numCopies":1},{"cardId":"blossom_of_spring","cardName":"Blossom of Spring","numCopies":1},{"cardId":"bulls_eye_bracers","cardName":"Bull's Eye Bracers","numCopies":1},{"cardId":"blade_beckoner_boots","cardName":"Blade Beckoner Boots","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"blossom_of_spring","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blossom of Spring","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"death_dealer","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Death Dealer","pitchValue":0,"katsuDiscard":"0","activated":"3","passiveTriggered":"0"},{"cardId":"patch_the_hole","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Patch the Hole","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"lexi","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lexi","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"blade_beckoner_boots","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Boots","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"5","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":20,"turnNo":0},"turn_1":{"cardsUsed":5,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"19","damageDealt":"16","damageBlocked":"0","damagePrevented":"0","damageTaken":"4","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":16,"opponentLifeAtTurnEnd":4,"turnNo":1},"turn_2":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"10","damageDealt":"0","damageBlocked":"2","damagePrevented":"0","damageTaken":"14","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":2,"opponentLifeAtTurnEnd":4,"turnNo":2},"turn_3":{"cardsUsed":1,"cardsBlocked":"3","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"7","damagePrevented":"0","damageTaken":"1","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":1,"opponentLifeAtTurnEnd":4,"turnNo":3},"turn_4":{"cardsUsed":1,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"3","damagePrevented":"2","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":1,"opponentLifeAtTurnEnd":4,"turnNo":4}},"yourTime":"266","totalTime":503,"totalDamageThreatened":34,"totalDamageDealt":16,"totalLifeGained":0,"totalDamageBlocked":12,"totalDamagePrevented":2,"totalLifeLost":0,"averageDamageThreatenedPerTurn":7.25,"averageDamageDealtPerTurn":4,"averageDamageThreatenedPerCard":2.42,"averageResourcesUsedPerTurn":0.5,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":10.25,"averageValuePerTurn":10.75,"totalDamageThreatened_NoLast":34,"totalDamageDealt_NoLast":16,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":9,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":9.67,"averageDamageDealtPerTurn_NoLast":5.33,"averageDamageThreatenedPerCard_NoLast":3.22,"averageResourcesUsedPerTurn_NoLast":0.67,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":12.67,"averageValuePerTurn_NoLast":12.67,"fullLog":""}}}

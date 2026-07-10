@@ -1,0 +1,272 @@
+=== Talishar game 1604324 — 08/07/2026 23:58:45 ===
+
+🎲 you rolled 8 and Cazed rolled 11.
+Cazed chooses who goes first.
+you will go first.
+Ehecalt played Nimblism
+Resolving play ability of Nimblism.
+Ehecalt played Ravenous Rabble
+🎯Fai was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Ehecalt reveals Arcane Seeds // Life
+Cazed passed
+Ehecalt passed
+Cazed undid their last action
+Ehecalt played Ravenous Rabble
+🎯Fai was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Ehecalt reveals Arcane Seeds // Life
+Cazed passed
+Cazed blocked with Blaze Headlong, Fire that Burns Within, and Flamecall Awakening
+Ehecalt passed
+Cazed passed
+Cazed is about to take 1 damage from Ravenous Rabble
+Cazed took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Weave Lightning
+Resolving play ability of Weave Lightning.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Cazed's turn 1 has begun.
+Cazed played Ronin Renegade
+🎯Briar was chosen as the target.
+Resolving play ability of Ronin Renegade.
+Ehecalt passed
+Cazed passed
+Ehecalt auto-passed
+Ehecalt is about to take 3 damage from Ronin Renegade
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Cazed played Ronin Renegade
+🎯Briar was chosen as the target.
+Resolving play ability of Ronin Renegade.
+Ehecalt passed
+Cazed passed
+Ehecalt auto-passed
+Ehecalt is about to take 3 damage from Ronin Renegade
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Cazed passed
+Cazed passed
+The combat chain was closed.
+Cazed passed
+Cazed passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 1 has begun.
+Ehecalt played Sizzle from arsenal
+Resolving play ability of Sizzle.
+Ehecalt played Rush of Power
+🎯Fai was chosen as the target.
+Embodiment of Lightning grants go again
+Resolving play ability of Rush of Power.
+Cazed passed
+Ehecalt passed
+Cazed played Wax On from arsenal
+Resolving play ability of Wax On.
+Ehecalt passed
+Cazed passed
+Cazed is about to take 2 damage from Rush of Power
+Cazed took 2 damage
+Combat resolved with a hit for 2 damage
+Processing hit effect for Rush of Power
+Rush of Power is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Rush of Power
+Cazed took 1 damage
+The chain link was resolved.
+Ehecalt played Arcane Seeds // Life
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Arcane Seeds // Life
+Selected mode for Arcane Seeds // Life is: Both
+Resolving play ability of Arcane Seeds // Life.
+Ehecalt gained 1 life
+Ehecalt played Stinging Sprite
+🎯Fai was chosen as the target.
+Embodiment of Lightning grants go again
+Runechant is dealing 1 arcane damage.
+Cazed pitched Dragon Power
+Ehecalt is dealing 0 arcane damage from Runechant
+Cazed took 0 damage
+Runechant is dealing 1 arcane damage.
+Ehecalt is dealing 0 arcane damage from Runechant
+Cazed took 0 damage
+Resolving play ability of Stinging Sprite.
+Cazed's Fai was targeted by Stinging Sprite
+Stinging Sprite is dealing 1 arcane damage
+Ehecalt is dealing 0 arcane damage from Stinging Sprite
+Cazed took 0 damage
+Cazed passed
+Ehecalt passed
+Cazed passed
+Cazed is about to take 3 damage from Stinging Sprite
+Cazed took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+Cazed played Arcane Polarity
+Cazed gained 4 life
+Resolving play ability of Arcane Polarity.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Cazed's turn 2 has begun.
+Cazed played Phoenix Flame
+🎯Briar was chosen as the target.
+Resolving play ability of Phoenix Flame.
+Ehecalt passed
+Cazed passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Phoenix Flame
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Cazed activated Searing Emberblade
+🎯Briar was chosen as the target.
+Cazed pitched Rising Resentment
+Resolving activated ability of Searing Emberblade.
+Ehecalt passed
+Ehecalt blocked with Blade Beckoner Helm
+Cazed passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Searing Emberblade
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Cazed activated Fai
+Resolving activated ability of Fai.
+Card chosen: Phoenix Flame
+Cazed played Phoenix Flame
+🎯Briar was chosen as the target.
+Resolving play ability of Phoenix Flame.
+Ehecalt passed
+Cazed passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Phoenix Flame
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Cazed passed
+Cazed passed
+The combat chain was closed.
+Cazed passed
+Cazed passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 2 has begun.
+Ehecalt played Quick Succession from arsenal
+Resolving play ability of Quick Succession.
+Ehecalt played Stinging Sprite
+🎯Fai was chosen as the target.
+Resolving play ability of Stinging Sprite.
+Cazed's Fai was targeted by Stinging Sprite
+Stinging Sprite is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Stinging Sprite
+Cazed took 1 damage
+Cazed passed
+Ehecalt passed
+Cazed passed
+Cazed is about to take 4 damage from Stinging Sprite
+Cazed took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt activated Blossom of Spring
+Resolving activated ability of Blossom of Spring.
+Ehecalt played Path of Same Ends
+🎯Fai was chosen as the target.
+Resolving play ability of Path of Same Ends.
+Path of Same Ends is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Path of Same Ends
+Cazed took 1 damage
+Cazed passed
+Cazed blocked with Rising Resentment
+Ehecalt played Lightning Press
+Ehecalt's Path of Same Ends was targeted
+Resolving play ability of Lightning Press.
+Ehecalt passed
+Cazed passed
+Cazed is about to take 5 damage from Path of Same Ends
+Cazed took 5 damage
+Combat resolved with a hit for 5 damage
+The chain link was resolved.
+Ehecalt activated Star Fall
+🎯Fai was chosen as the target.
+Resolving activated ability of Star Fall.
+Cazed passed
+Cazed blocked with Pouncing Paws and Tearing Shuko
+Ehecalt passed
+Cazed passed
+Cazed is about to take 1 damage from Star Fall
+Cazed took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Cazed's turn 3 has begun.
+Cazed activated Searing Emberblade
+🎯Briar was chosen as the target.
+Cazed conceded the game.
+Ehecalt (Ehecalt) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+Ehecalt: Good Game!
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Nimblism, Weave Lightning, Ravenous Rabble, Sizzle
+[Cazed #1] Arcane Seeds  Life, Rush Of Power, Quick Succession, Stinging Sprite
+[Ehecalt #1] Arcane Seeds  Life, Rush Of Power, Quick Succession, Stinging Sprite
+[Cazed #2] Lightning Press, Stinging Sprite, Lightning Surge, Path Of Same Ends
+[Ehecalt #2] Lightning Press, Stinging Sprite, Lightning Surge, Path Of Same Ends
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[Cazed #1] Sizzle
+[Ehecalt #1] Sizzle
+[Cazed #2] Quick Succession
+[Ehecalt #2] (vide)
+[Cazed #3] (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=20 opp=20 myDeck=36 oppDeck=35
+[Cazed #1] me=20 opp=19 myDeck=32 oppDeck=32
+[Ehecalt #1] me=14 opp=19 myDeck=32 oppDeck=29
+[Cazed #2] me=15 opp=17 myDeck=28 oppDeck=30
+[Ehecalt #2] me=? opp=?
+[Cazed #3] me=? opp=?
+
+=== META ===
+schema: v1
+captured_with: TLG v1.10.4
+game_url: https://talishar.net/game/play/1604324
+captured_at: 2026-07-08T21:44:50.773Z
+format: sage
+vs_ai: non
+me: Ehecalt
+opponent: Cazed
+my_hero: Briar (briar)
+opp_hero: Fai (fai)
+my_start_life: 20
+opp_start_life: 20
+my_start_deck_size: 40
+opp_start_deck_size: 40
+my_equipment: head=Blade Beckoner Helm (blade_beckoner_helm) | chest=Blossom Of Spring (blossom_of_spring) | arms=Blade Beckoner Gauntlets (blade_beckoner_gauntlets) | legs=Blade Beckoner Boots (blade_beckoner_boots) | weaponL=Star Fall (star_fall)
+opp_equipment: head=Mask Of The Swarming Claw (mask_of_the_swarming_claw) | chest=Double Cross Strap (double_cross_strap) | arms=Tearing Shuko (tearing_shuko) | legs=Pouncing Paws (pouncing_paws) | weaponL=Searing Emberblade (searing_emberblade)
+
+=== TIMESTAMPS ===
+0-2:1783547149,3-3:1783547172,4-4:1783547181,5-6:1783547185,7-7:1783547187,8-8:1783547191,9-9:1783547198,10-10:1783547201,11-11:1783547204,12-13:1783547206,14-14:1783547210,15-15:1783547213,16-17:1783547253,18-18:1783547280,19-22:1783547282,23-23:1783547286,24-24:1783547295,25-26:1783547297,27-27:1783547301,28-29:1783547305,30-31:1783547326,32-33:1783547340,34-34:1783547344,35-35:1783547346,36-40:1783547349,41-41:1783547355,42-43:1783547363,44-44:1783547366,45-45:1783547368,46-50:1783547372,51-51:1783547375,52-53:1783547412,54-54:1783547413,55-56:1783547417,57-58:1783547425,59-59:1783547437,60-60:1783547443,61-63:1783547445,64-64:1783547447,65-65:1783547472,66-66:1783547474,67-67:1783547476,68-68:1783547478,69-69:1783547479,70-73:1783547481,74-75:1783547484,76-77:1783547488,78-78:1783547493,79-79:1783547494,80-80:1783547495,81-81:1783547496,82-82:1783547498,83-83:1783547499,84-85:1783547504,86-88:1783547512,89-89:1783547516,90-92:1783547527,93-93:1783547531,94-95:1783547532,96-97:1783547535,98-98:1783547545,99-100:1783547555,101-101:1783547565,102-102:1783547573,103-106:1783547578,107-107:1783547579,108-109:1783547580,110-110:1783547582,111-112:1783547584,113-113:1783547585,114-115:1783547587,116-117:1783547589,118-119:1783547591,120-121:1783547605,122-122:1783547611,123-123:1783547612,124-128:1783547614,129-129:1783547619,130-131:1783547624,132-132:1783547626,133-133:1783547629,134-135:1783547632,136-140:1783547633,141-141:1783547641,142-142:1783547643,143-144:1783547662,145-146:1783547667,147-147:1783547670,148-148:1783547671,149-153:1783547672,154-154:1783547675,155-156:1783547676,157-157:1783547677,158-159:1783547681,160-161:1783547682,162-162:1783547685,163-163:1783547687,164-165:1783547689,166-167:1783547691,168-168:1783547696,169-170:1783547722,171-171:1783547730,172-172:1783547732,173-176:1783547733,177-177:1783547735,178-178:1783547737,179-179:1783547741,180-180:1783547743,181-181:1783547744,182-183:1783547745,184-184:1783547748,185-185:1783547761,186-187:1783547763,188-189:1783547770,190-190:1783547772,191-191:1783547774,192-192:1783547778,193-193:1783547779,194-197:1783547780,198-198:1783547783,199-200:1783547786,201-201:1783547788,202-203:1783547833,204-204:1783547834,205-208:1783547836,209-209:1783547838,210-211:1783547840,212-212:1783547841,213-214:1783547842,215-216:1783547845,217-221:1783547909,222-222:1783547917
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1604324","deckId":"","turns":3,"result":1,"winner":1,"firstPlayer":1,"opposingHero":"fai","yourHero":"briar","startingLife":20,"opponentHero":"fai","opponentStartingLife":20,"cardResults":[{"cardId":"arcane_seeds__life_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Arcane Seeds // Life","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"arcanic_shockwave_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Arcanic Shockwave","pitchValue":1,"numCopies":2},{"cardId":"entwine_lightning_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Entwine Lightning","pitchValue":1,"numCopies":2},{"cardId":"lightning_press_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Press","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_surge_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Lightning Surge","pitchValue":1,"numCopies":2},{"cardId":"nimblism_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Nimblism","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"path_of_same_ends_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Path of Same Ends","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"quick_succession_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"quick_succession_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Quick Succession","pitchValue":2,"numCopies":2},{"cardId":"ravenous_rabble_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Ravenous Rabble","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"rush_of_power_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Rush of Power","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"scar_for_a_scar_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Scar for a Scar","pitchValue":1,"numCopies":2},{"cardId":"sizzle_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sizzle","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"snatch_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Snatch","pitchValue":1,"numCopies":2},{"cardId":"sprout_strength_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sprout Strength","pitchValue":1,"numCopies":2},{"cardId":"static_shock_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Static Shock","pitchValue":1,"numCopies":2},{"cardId":"stinging_sprite_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Stinging Sprite","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"weave_lightning_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Weave Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"burn_up__shock_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Burn Up // Shock","pitchValue":1,"numCopies":2},{"cardId":"sigil_of_suffering_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sigil of Suffering","pitchValue":1,"numCopies":2}],"character":[{"cardId":"briar","cardName":"Briar","numCopies":1},{"cardId":"star_fall","cardName":"Star Fall","numCopies":1},{"cardId":"blade_beckoner_helm","cardName":"Blade Beckoner Helm","numCopies":1},{"cardId":"blossom_of_spring","cardName":"Blossom of Spring","numCopies":1},{"cardId":"blade_beckoner_gauntlets","cardName":"Blade Beckoner Gauntlets","numCopies":1},{"cardId":"blade_beckoner_boots","cardName":"Blade Beckoner Boots","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"blade_beckoner_helm","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Helm","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"blossom_of_spring","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blossom of Spring","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"star_fall","played":"0","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Star Fall","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"1","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":19,"turnNo":0},"turn_1":{"cardsUsed":5,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"14","damageDealt":"6","damageBlocked":"0","damagePrevented":"0","damageTaken":"6","lifeGained":"1","lifeLost":"0","lifeAtTurnEnd":15,"opponentLifeAtTurnEnd":17,"turnNo":1},"turn_2":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"16","damageDealt":"12","damageBlocked":"2","damagePrevented":"0","damageTaken":"2","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":13,"opponentLifeAtTurnEnd":5,"turnNo":2},"turn_3":{"cardsUsed":0,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":3}},"yourTime":"234","totalTime":717,"totalDamageThreatened":37,"totalDamageDealt":19,"totalLifeGained":1,"totalDamageBlocked":2,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":15,"averageDamageDealtPerTurn":9,"averageDamageThreatenedPerCard":3.75,"averageResourcesUsedPerTurn":0.5,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":16,"averageValuePerTurn":16.5,"totalDamageThreatened_NoLast":21,"totalDamageDealt_NoLast":7,"totalLifeGained_NoLast":1,"totalDamageBlocked_NoLast":0,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":14,"averageDamageDealtPerTurn_NoLast":6,"averageDamageThreatenedPerCard_NoLast":3.5,"averageResourcesUsedPerTurn_NoLast":0,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":14,"averageValuePerTurn_NoLast":15,"fullLog":""},"2":{"gameId":"1604324","deckId":"","turns":3,"result":0,"winner":1,"firstPlayer":0,"opposingHero":"briar","yourHero":"fai","startingLife":20,"opponentHero":"briar","opponentStartingLife":20,"cardResults":[{"cardId":"art_of_the_dragon_fire_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Art of the Dragon: Fire","pitchValue":1,"numCopies":2},{"cardId":"blaze_headlong_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blaze Headlong","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"brand_with_cinderclaw_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Brand with Cinderclaw","pitchValue":3,"numCopies":2},{"cardId":"brand_with_cinderclaw_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Brand with Cinderclaw","pitchValue":1,"numCopies":2},{"cardId":"brand_with_cinderclaw_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Brand with Cinderclaw","pitchValue":2,"numCopies":2},{"cardId":"cinderskin_devotion_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Cinderskin Devotion","pitchValue":3,"numCopies":2},{"cardId":"display_loyalty_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Display Loyalty","pitchValue":1,"numCopies":2},{"cardId":"dragon_power_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Dragon Power","pitchValue":3,"numCopies":2},{"cardId":"enflame_the_firebrand_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Enflame the Firebrand","pitchValue":1,"numCopies":2},{"cardId":"fire_that_burns_within_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Fire that Burns Within","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"flamecall_awakening_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Flamecall Awakening","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lava_burst_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Lava Burst","pitchValue":1,"numCopies":2},{"cardId":"lava_vein_loyalty_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Lava Vein Loyalty","pitchValue":3,"numCopies":2},{"cardId":"phoenix_flame_red","played":"2","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Phoenix Flame","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"rise_from_the_ashes_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Rise from the Ashes","pitchValue":1,"numCopies":2},{"cardId":"rising_resentment_blue","played":"0","blocked":"1","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Rising Resentment","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"rising_resentment_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Rising Resentment","pitchValue":1,"numCopies":2},{"cardId":"ronin_renegade_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Ronin Renegade","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"arcane_polarity_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Arcane Polarity","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"wax_on_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Wax On","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"fai","cardName":"Fai","numCopies":1},{"cardId":"searing_emberblade","cardName":"Searing Emberblade","numCopies":1},{"cardId":"mask_of_the_swarming_claw","cardName":"Mask of the Swarming Claw","numCopies":1},{"cardId":"double_cross_strap","cardName":"Double Cross Strap","numCopies":1},{"cardId":"tearing_shuko","cardName":"Tearing Shuko","numCopies":1},{"cardId":"pouncing_paws","cardName":"Pouncing Paws","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"searing_emberblade","played":"0","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Searing Emberblade","pitchValue":0,"katsuDiscard":"0","activated":"2","passiveTriggered":"0"},{"cardId":"fai","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Fai","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"pouncing_paws","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Pouncing Paws","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"tearing_shuko","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Tearing Shuko","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"3","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"6","damagePrevented":"0","damageTaken":"1","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":19,"opponentLifeAtTurnEnd":20,"turnNo":0},"turn_1":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"6","damageDealt":"6","damageBlocked":"0","damagePrevented":"0","damageTaken":"6","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":17,"opponentLifeAtTurnEnd":15,"turnNo":1},"turn_2":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"3","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"4","damageDealt":"2","damageBlocked":"5","damagePrevented":"3","damageTaken":"12","lifeGained":"4","lifeLost":"0","lifeAtTurnEnd":5,"opponentLifeAtTurnEnd":13,"turnNo":2},"turn_3":{"cardsUsed":0,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"4","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":3}},"yourTime":"483","totalTime":717,"totalDamageThreatened":10,"totalDamageDealt":8,"totalLifeGained":4,"totalDamageBlocked":11,"totalDamagePrevented":3,"totalLifeLost":0,"averageDamageThreatenedPerTurn":5,"averageDamageDealtPerTurn":4,"averageDamageThreatenedPerCard":3.33,"averageResourcesUsedPerTurn":1.5,"averageCardsLeftOverPerTurn":0.5,"averageCombatValuePerTurn":7.5,"averageValuePerTurn":11,"totalDamageThreatened_NoLast":6,"totalDamageDealt_NoLast":6,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":6,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":6,"averageDamageDealtPerTurn_NoLast":6,"averageDamageThreatenedPerCard_NoLast":6,"averageResourcesUsedPerTurn_NoLast":0,"averageCardsLeftOverPerTurn_NoLast":1,"averageCombatValuePerTurn_NoLast":6,"averageValuePerTurn_NoLast":6,"fullLog":""}}}

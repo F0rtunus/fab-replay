@@ -1,0 +1,417 @@
+=== Talishar game 1615897 — 09/07/2026 23:34:10 ===
+
+Ehecalt played Arcane Seeds // Life
+Selected mode for Arcane Seeds // Life is: Both
+Resolving play ability of Arcane Seeds // Life.
+Ehecalt gained 1 life
+Ehecalt played Stinging Sprite
+🎯Oscilio was chosen as the target.
+Runechant is dealing 1 arcane damage.
+Ehecalt is dealing 1 arcane damage from Runechant
+jtbruhn94 took 1 damage
+Runechant is dealing 1 arcane damage.
+Ehecalt is dealing 1 arcane damage from Runechant
+jtbruhn94 took 1 damage
+jtbruhn94 activated Oscilio
+Card chosen: Constella Uplift
+jtbruhn94 undid their last action
+jtbruhn94 activated Oscilio
+Card chosen: Lightning Press
+Resolving activated ability of Oscilio.
+Resolving play ability of Stinging Sprite.
+jtbruhn94's Oscilio was targeted by Stinging Sprite
+Stinging Sprite is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Stinging Sprite
+jtbruhn94 took 1 damage
+jtbruhn94 passed
+Ehecalt played Lightning Press
+Ehecalt's Stinging Sprite was targeted
+jtbruhn94 played Cloud Cover
+Resolving play ability of Cloud Cover.
+Resolving play ability of Lightning Press.
+Ehecalt passed
+jtbruhn94 played Arcane Polarity
+jtbruhn94 gained 4 life
+Resolving play ability of Arcane Polarity.
+Ehecalt passed
+jtbruhn94 activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Ehecalt passed
+jtbruhn94 played Constella Uplift
+Ehecalt's Briar was targeted
+Resolving play ability of Constella Uplift.
+Constella Uplift is dealing 2 arcane damage
+Helm of Might and Magic was destroyed and prevented 1 arcane damage.
+jtbruhn94 is dealing 1 arcane damage from Constella Uplift
+Ehecalt took 1 damage
+Ehecalt passed
+jtbruhn94 passed
+jtbruhn94 is about to take 6 damage from Stinging Sprite
+jtbruhn94 took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+jtbruhn94's turn 1 has begun.
+jtbruhn94 played Scar for a Scar
+🎯Briar was chosen as the target.
+Scar for a Scar gains Go Again!
+Resolving play ability of Scar for a Scar.
+Ehecalt passed
+jtbruhn94 passed
+Ehecalt auto-passed
+Ehecalt is about to take 4 damage from Scar for a Scar
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+jtbruhn94 played Flittering Charge
+🎯Briar was chosen as the target.
+Resolving play ability of Flittering Charge.
+Ehecalt passed
+jtbruhn94 passed
+Ehecalt auto-passed
+Ehecalt is about to take 4 damage from Flittering Charge
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+jtbruhn94 played Electrostatic Discharge
+Resolving play ability of Electrostatic Discharge.
+The chain link was resolved.
+jtbruhn94 played Lightning Surge
+🎯Briar was chosen as the target.
+Resolving play ability of Lightning Surge.
+Ehecalt passed
+jtbruhn94 passed
+Ehecalt auto-passed
+Ehecalt is about to take 7 damage from Lightning Surge
+Ehecalt took 7 damage
+Combat resolved with a hit for 7 damage
+The chain link was resolved.
+jtbruhn94 passed
+jtbruhn94 passed
+The combat chain was closed.
+jtbruhn94 passed
+jtbruhn94 passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 1 has begun.
+Ehecalt played Entwine Lightning
+🎯Oscilio was chosen as the target.
+👁️‍🗨️Path of Same Ends is revealed
+jtbruhn94 activated Oscilio
+Card chosen: Sigil of Lightning
+Resolving activated ability of Oscilio.
+Resolving play ability of Entwine Lightning.
+jtbruhn94 passed
+Ehecalt passed
+jtbruhn94 passed
+jtbruhn94 is about to take 4 damage from Entwine Lightning
+jtbruhn94 took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt played Second Strike
+🎯Oscilio was chosen as the target.
+Resolving play ability of Second Strike.
+jtbruhn94 passed
+Ehecalt passed
+jtbruhn94 passed
+jtbruhn94 is about to take 4 damage from Second Strike
+jtbruhn94 took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt played Scar for a Scar
+🎯Oscilio was chosen as the target.
+Scar for a Scar gains Go Again!
+Resolving play ability of Scar for a Scar.
+jtbruhn94 passed
+Ehecalt passed
+jtbruhn94 passed
+jtbruhn94 is about to take 4 damage from Scar for a Scar
+jtbruhn94 took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt activated Blossom of Spring
+Resolving activated ability of Blossom of Spring.
+Ehecalt played Path of Same Ends
+🎯Oscilio was chosen as the target.
+Resolving play ability of Path of Same Ends.
+Path of Same Ends is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Path of Same Ends
+jtbruhn94 took 1 damage
+jtbruhn94 passed
+jtbruhn94 blocked with Flittering Charge
+Ehecalt passed
+jtbruhn94 auto-passed
+jtbruhn94 is about to take 1 damage from Path of Same Ends
+jtbruhn94 took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt activated Star Fall
+🎯Oscilio was chosen as the target.
+Resolving activated ability of Star Fall.
+jtbruhn94 passed
+jtbruhn94 blocked with Blade Beckoner Gauntlets
+Ehecalt passed
+jtbruhn94 passed
+jtbruhn94 is about to take 0 damage from Star Fall
+jtbruhn94 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt played Snatch from arsenal
+🎯Oscilio was chosen as the target.
+Resolving play ability of Snatch.
+jtbruhn94 passed
+Ehecalt passed
+jtbruhn94 played Lightning Press
+jtbruhn94's Path of Same Ends was targeted
+jtbruhn94 activated Twinkle Toes
+jtbruhn94 activated Voltic Vanguard
+Resolving activated ability of Voltic Vanguard.
+Resolving activated ability of Twinkle Toes.
+Resolving play ability of Lightning Press.
+Ehecalt passed
+jtbruhn94 passed
+jtbruhn94 is about to take 4 damage from Snatch
+jtbruhn94 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+jtbruhn94's turn 2 has begun.
+jtbruhn94 played Snatch
+🎯Briar was chosen as the target.
+Resolving play ability of Snatch.
+Ehecalt passed
+Ehecalt blocked with Quick Succession
+jtbruhn94 passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Snatch
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+Processing hit effect for Snatch
+The chain link was resolved.
+jtbruhn94 auto-passed
+jtbruhn94 auto-passed
+The combat chain was closed.
+jtbruhn94 auto-passed
+jtbruhn94 passed priority. Attempting to end turn.
+jtbruhn94 passed
+═══════════════
+Ehecalt's turn 2 has begun.
+jtbruhn94 undid their last action
+jtbruhn94 passed
+Ehecalt passed
+Ehecalt is about to take 1 damage from Snatch
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+Processing hit effect for Snatch
+The chain link was resolved.
+jtbruhn94 auto-passed
+jtbruhn94 auto-passed
+The combat chain was closed.
+jtbruhn94 auto-passed
+jtbruhn94 passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 2 has begun.
+Ehecalt played Weave Lightning
+Resolving play ability of Weave Lightning.
+Ehecalt played Entwine Lightning
+🎯Oscilio was chosen as the target.
+👁️‍🗨️Quick Succession is revealed
+jtbruhn94 activated Oscilio
+Card chosen: Constella Contemplation
+Resolving activated ability of Oscilio.
+jtbruhn94 played Voltic Veil
+jtbruhn94 pitched Sigil of Lightning
+jtbruhn94 activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Resolving play ability of Voltic Veil.
+Voltic Veil is dealing 2 arcane damage
+jtbruhn94 is dealing 2 arcane damage from Voltic Veil
+Ehecalt took 2 damage
+Resolving play ability of Entwine Lightning.
+jtbruhn94 passed
+jtbruhn94 blocked with Meteoric Impact
+Ehecalt passed
+jtbruhn94 passed
+jtbruhn94 is about to take 4 damage from Entwine Lightning
+jtbruhn94 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt activated Star Fall
+🎯Oscilio was chosen as the target.
+Ehecalt pitched Quick Succession
+Resolving activated ability of Star Fall.
+jtbruhn94 passed
+jtbruhn94 blocked with Entwine Lightning
+Ehecalt passed
+jtbruhn94 auto-passed
+jtbruhn94 is about to take 0 damage from Star Fall
+jtbruhn94 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+jtbruhn94's turn 3 has begun.
+jtbruhn94 played Ravenous Rabble from arsenal
+🎯Briar was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️jtbruhn94 reveals Tap Lessons Past
+Ehecalt passed
+Ehecalt blocked with Sprout Strength and Burn Up // Shock
+jtbruhn94 passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+jtbruhn94 passed
+jtbruhn94 passed
+The combat chain was closed.
+jtbruhn94 passed
+jtbruhn94 passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 3 has begun.
+Ehecalt activated Star Fall
+🎯Oscilio was chosen as the target.
+Ehecalt pitched Sprout Strength
+Resolving activated ability of Star Fall.
+jtbruhn94 passed
+jtbruhn94 blocked with Flowing Stormstrike
+Ehecalt passed
+jtbruhn94 auto-passed
+jtbruhn94 is about to take 0 damage from
+jtbruhn94 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+jtbruhn94's turn 4 has begun.
+jtbruhn94 played Ravenous Rabble
+🎯Briar was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️jtbruhn94 reveals Strike Twice
+Ehecalt passed
+Ehecalt blocked with Weave Lightning and Scar for a Scar
+jtbruhn94 passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Ravenous Rabble
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+jtbruhn94 passed
+jtbruhn94 passed
+The combat chain was closed.
+jtbruhn94 activated Garland of Spring
+Resolving activated ability of Garland of Spring.
+jtbruhn94 played Tap Lessons Past
+Ehecalt's Briar was targeted
+Resolving play ability of Tap Lessons Past.
+Tap Lessons Past is dealing 4 arcane damage
+Ehecalt pitched Ravenous Rabble
+jtbruhn94 is dealing 3 arcane damage from Tap Lessons Past
+Ehecalt took 3 damage
+Constella Contemplation was put on the bottom of the deck
+jtbruhn94 (jtbruhn94) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+Ehecalt: Good Game!
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Stinging Sprite, Lightning Press, Snatch
+[jtbruhn94 #1] Scar For A Scar, Path Of Same Ends, Second Strike, Entwine Lightning
+[Ehecalt #1] Scar For A Scar, Path Of Same Ends, Second Strike, Entwine Lightning
+[jtbruhn94 #2] Quick Succession, Entwine Lightning, Quick Succession, Weave Lightning
+[Ehecalt #2] Entwine Lightning, Quick Succession, Weave Lightning
+[jtbruhn94 #3] Burn Up  Shock, Lightning Press, Sprout Strength, Sprout Strength
+[Ehecalt #3] Lightning Press, Sprout Strength
+[jtbruhn94 #4] Path Of Same Ends, Ravenous Rabble, Weave Lightning, Scar For A Scar
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[jtbruhn94 #1] Snatch
+[Ehecalt #1] Snatch
+[jtbruhn94 #2] (vide)
+[Ehecalt #2] (vide)
+[jtbruhn94 #3] (vide)
+[Ehecalt #3] (vide)
+[jtbruhn94 #4] Lightning Press
+
+=== FIELD SNAPSHOTS (permanents/tokens en jeu : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[jtbruhn94 #1] me: Embodiment Of Earth | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: (vide)
+[jtbruhn94 #2] me: Embodiment Of Earth | opp: (vide)
+[Ehecalt #2] me: (vide) | opp: (vide)
+[jtbruhn94 #3] me: (vide) | opp: (vide)
+[Ehecalt #3] me: (vide) | opp: (vide)
+[jtbruhn94 #4] me: (vide) | opp: (vide)
+
+=== GRAVEYARD SNAPSHOTS (cimetière : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[jtbruhn94 #1] me: Stinging Sprite, Helm Of Might And Magic, Lightning Press, Arcane Seeds  Life | opp: Constella Uplift, Arcane Polarity, Cloud Cover, Lightning Press
+[Ehecalt #1] me: Stinging Sprite, Helm Of Might And Magic, Lightning Press, Arcane Seeds  Life | opp: Lightning Surge, Flittering Charge, Scar For A Scar, Electrostatic Discharge, Constella Uplift, Arcane Polarity, Cloud Cover, Lightning Press
+[jtbruhn94 #2] me: Snatch, Path Of Same Ends, Blossom Of Spring, Scar For A Scar, Second Strike, Entwine Lightning, Stinging Sprite, Helm Of Might And Magic, Lightning Press, Arcane Seeds  Life | opp: Flittering Charge, Lightning Press, Voltic Vanguard, Twinkle Toes, Sigil Of Lightning, Lightning Surge, Flittering Charge, Scar For A Scar, Electrostatic Discharge, Constella Uplift, Arcane Polarity, Cloud Cover, Lightning Press
+[Ehecalt #2] me: Quick Succession, Snatch, Path Of Same Ends, Blossom Of Spring, Scar For A Scar, Second Strike, Entwine Lightning, Stinging Sprite, Helm Of Might And Magic, Lightning Press, Arcane Seeds  Life | opp: Snatch, Flittering Charge, Lightning Press, Voltic Vanguard, Twinkle Toes, Sigil Of Lightning, Lightning Surge, Flittering Charge, Scar For A Scar, Electrostatic Discharge, Constella Uplift, Arcane Polarity, Cloud Cover, Lightning Press
+[jtbruhn94 #3] me: Entwine Lightning, Weave Lightning, Quick Succession, Snatch, Path Of Same Ends, Blossom Of Spring, Scar For A Scar, Second Strike, Entwine Lightning, Stinging Sprite, Helm Of Might And Magic, Lightning Press, Arcane Seeds  Life | opp: Entwine Lightning, Meteoric Impact, Voltic Veil, Constella Contemplation, Snatch, Flittering Charge, Lightning Press, Voltic Vanguard, Twinkle Toes, Sigil Of Lightning, Lightning Surge, Flittering Charge, Scar For A Scar, Electrostatic Discharge, Constella Uplift, Arcane Polarity, Cloud Cover, Lightning Press
+[Ehecalt #3] me: Burn Up  Shock, Sprout Strength, Entwine Lightning, Weave Lightning, Quick Succession, Snatch, Path Of Same Ends, Blossom Of Spring, Scar For A Scar, Second Strike, Entwine Lightning, Stinging Sprite, Helm Of Might And Magic, Lightning Press, Arcane Seeds  Life | opp: Ravenous Rabble, Entwine Lightning, Meteoric Impact, Voltic Veil, Constella Contemplation, Snatch, Flittering Charge, Lightning Press, Voltic Vanguard, Twinkle Toes, Sigil Of Lightning, Lightning Surge, Flittering Charge, Scar For A Scar, Electrostatic Discharge, Constella Uplift, Arcane Polarity, Cloud Cover, Lightning Press
+[jtbruhn94 #4] me: Burn Up  Shock, Sprout Strength, Entwine Lightning, Weave Lightning, Quick Succession, Snatch, Path Of Same Ends, Blossom Of Spring, Scar For A Scar, Second Strike, Entwine Lightning, Stinging Sprite, Helm Of Might And Magic, Lightning Press, Arcane Seeds  Life | opp: Flowing Stormstrike, Ravenous Rabble, Entwine Lightning, Meteoric Impact, Voltic Veil, Constella Contemplation, Snatch, Flittering Charge, Lightning Press, Voltic Vanguard, Twinkle Toes, Sigil Of Lightning, Lightning Surge, Flittering Charge, Scar For A Scar, Electrostatic Discharge, Constella Uplift, Arcane Polarity, Cloud Cover, Lightning Press
+
+=== BANISH SNAPSHOTS (banni : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[jtbruhn94 #1] me: (vide) | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: (vide)
+[jtbruhn94 #2] me: (vide) | opp: (vide)
+[Ehecalt #2] me: (vide) | opp: (vide)
+[jtbruhn94 #3] me: (vide) | opp: (vide)
+[Ehecalt #3] me: (vide) | opp: (vide)
+[jtbruhn94 #4] me: (vide) | opp: (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=20 opp=18 myDeck=36 oppDeck=36
+[jtbruhn94 #1] me=20 opp=16 myDeck=32 oppDeck=32
+[Ehecalt #1] me=5 opp=16 myDeck=32 oppDeck=28
+[jtbruhn94 #2] me=5 opp=2 myDeck=28 oppDeck=27
+[Ehecalt #2] me=4 opp=2 myDeck=28 oppDeck=24
+[jtbruhn94 #3] me=2 opp=2 myDeck=25 oppDeck=23
+[Ehecalt #3] me=2 opp=2 myDeck=25 oppDeck=19
+[jtbruhn94 #4] me=2 opp=2 myDeck=22 oppDeck=19
+
+=== META ===
+schema: v1
+captured_with: TLG v1.12.0
+game_url: https://talishar.net/game/play/1615897
+captured_at: 2026-07-09T21:24:03.881Z
+format: sage
+vs_ai: non
+me: jtbruhn94
+opponent: Player 2
+my_hero: Briar (briar)
+opp_hero: Oscilio (oscilio)
+my_start_life: 20
+opp_start_life: 18
+my_start_deck_size: 36
+opp_start_deck_size: 36
+my_equipment: head=Helm Of Might And Magic (helm_of_might_and_magic) | chest=Blossom Of Spring (blossom_of_spring) | arms=Swiftstrike Bracers (swiftstrike_bracers) | legs=Nullrune Boots (nullrune_boots) | weaponL=Star Fall (star_fall)
+opp_equipment: head=Voltic Vanguard (voltic_vanguard) | chest=Garland Of Spring (garland_of_spring) | arms=Blade Beckoner Gauntlets (blade_beckoner_gauntlets) | legs=Twinkle Toes (twinkle_toes) | weaponL=Volzar Meteor Storm (volzar_meteor_storm)
+
+=== TIMESTAMPS ===
+0-0:1783632320,1-1:1783632321,2-3:1783632322,4-5:1783632327,6-8:1783632339,9-11:1783632343,12-12:1783632348,13-14:1783632360,15-15:1783632361,16-16:1783632362,17-17:1783632364,18-19:1783632370,20-22:1783632374,23-23:1783632381,24-25:1783632382,26-26:1783632385,27-27:1783632386,28-28:1783632388,29-29:1783632389,30-30:1783632390,31-32:1783632392,33-33:1783632393,34-34:1783632395,35-35:1783632396,36-36:1783632401,37-38:1783632402,39-40:1783632403,41-43:1783632408,44-48:1783632410,49-51:1783632411,52-54:1783632412,55-56:1783632415,57-59:1783632418,60-60:1783632419,61-61:1783632421,62-67:1783632434,68-69:1783632436,70-70:1783632437,71-71:1783632439,72-76:1783632440,77-77:1783632441,78-78:1783632442,79-79:1783632444,80-81:1783632445,82-82:1783632446,83-83:1783632466,84-88:1783632467,89-92:1783632468,93-94:1783632469,95-96:1783632470,97-98:1783632472,99-99:1783632474,100-100:1783632478,101-101:1783632479,102-102:1783632480,103-103:1783632482,104-104:1783632487,105-105:1783632488,106-109:1783632493,110-110:1783632497,111-112:1783632498,113-113:1783632500,114-114:1783632501,115-115:1783632502,116-119:1783632504,120-120:1783632505,121-122:1783632506,123-124:1783632507,125-125:1783632508,126-126:1783632509,127-130:1783632510,131-131:1783632511,132-132:1783632513,133-133:1783632514,134-134:1783632515,135-137:1783632517,138-138:1783632525,139-141:1783632529,142-143:1783632543,144-148:1783632545,149-149:1783632547,150-151:1783632552,152-152:1783632554,153-154:1783632556,155-155:1783632557,156-159:1783632558,160-160:1783632559,161-162:1783632560,163-163:1783632567,164-164:1783632574,165-165:1783632576,166-166:1783632577,167-167:1783632580,168-168:1783632583,169-170:1783632584,171-171:1783632585,172-172:1783632586,173-173:1783632587,174-175:1783632589,176-177:1783632590,178-180:1783632592,181-183:1783632593,184-185:1783632595,186-188:1783632597,189-190:1783632635,191-205:1783632638,206-206:1783632641,207-207:1783632643,208-218:1783632647,219-220:1783632655,221-221:1783632656,222-222:1783632663,223-224:1783632664,225-225:1783632665,226-226:1783632683,227-227:1783632684,228-228:1783632686,229-229:1783632692,230-230:1783632695,231-234:1783632697,235-237:1783632702,238-239:1783632709,240-240:1783632710,241-245:1783632711,246-247:1783632715,248-249:1783632716,250-251:1783632719,252-257:1783632720,258-260:1783632721,261-264:1783632722,265-266:1783632724,267-267:1783632726,268-268:1783632728,269-270:1783632737,271-275:1783632739,276-276:1783632741,277-278:1783632742,279-279:1783632743,280-283:1783632744,284-285:1783632751,286-286:1783632753,287-287:1783632759,288-289:1783632788,290-294:1783632790,295-295:1783632792,296-297:1783632793,298-300:1783632795,301-302:1783632797,303-304:1783632800,305-305:1783632803,306-306:1783632805,307-308:1783632815,309-313:1783632817,314-314:1783632819,315-316:1783632820,317-317:1783632821,318-318:1783632822,319-319:1783632823,320-321:1783632824,322-323:1783632825,324-326:1783632828,327-329:1783632837,330-330:1783632844
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1615897","deckId":"","turns":4,"result":0,"winner":2,"firstPlayer":1,"opposingHero":"oscilio","yourHero":"briar","startingLife":20,"opponentHero":"oscilio","opponentStartingLife":18,"cardResults":[{"cardId":"arcane_seeds__life_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Arcane Seeds // Life","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"arcanic_shockwave_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Arcanic Shockwave","pitchValue":1,"numCopies":2},{"cardId":"entwine_lightning_red","played":"2","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Entwine Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_press_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Press","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_surge_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Lightning Surge","pitchValue":1,"numCopies":2},{"cardId":"nimblism_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Nimblism","pitchValue":1,"numCopies":2},{"cardId":"path_of_same_ends_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Path of Same Ends","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"quick_succession_red","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"quick_succession_yellow","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Ravenous Rabble","pitchValue":1,"numCopies":2},{"cardId":"rush_of_power_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Rush of Power","pitchValue":1,"numCopies":2},{"cardId":"scar_for_a_scar_red","played":"1","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Scar for a Scar","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sizzle_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sizzle","pitchValue":1,"numCopies":2},{"cardId":"snatch_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Snatch","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sprout_strength_red","played":"0","blocked":"1","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Sprout Strength","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"static_shock_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Static Shock","pitchValue":1,"numCopies":2},{"cardId":"stinging_sprite_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Stinging Sprite","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"weave_lightning_red","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Weave Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"second_strike_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Second Strike","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"burn_up__shock_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Burn Up // Shock","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"briar","cardName":"Briar","numCopies":1},{"cardId":"star_fall","cardName":"Star Fall","numCopies":1},{"cardId":"helm_of_might_and_magic","cardName":"Helm of Might and Magic","numCopies":1},{"cardId":"blossom_of_spring","cardName":"Blossom of Spring","numCopies":1},{"cardId":"swiftstrike_bracers","cardName":"Swiftstrike Bracers","numCopies":1},{"cardId":"nullrune_boots","cardName":"Nullrune Boots","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"blossom_of_spring","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blossom of Spring","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"star_fall","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Star Fall","pitchValue":0,"katsuDiscard":"0","activated":"3","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"9","damageDealt":"6","damageBlocked":"0","damagePrevented":"1","damageTaken":"1","lifeGained":"1","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":16,"turnNo":0},"turn_1":{"cardsUsed":5,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"22","damageDealt":"14","damageBlocked":"0","damagePrevented":"0","damageTaken":"15","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":5,"opponentLifeAtTurnEnd":2,"turnNo":1},"turn_2":{"cardsUsed":2,"cardsBlocked":"1","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"9","damageDealt":"0","damageBlocked":"3","damagePrevented":"0","damageTaken":"1","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":2,"opponentLifeAtTurnEnd":2,"turnNo":2},"turn_3":{"cardsUsed":0,"cardsBlocked":"2","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"1","damageDealt":"0","damageBlocked":"4","damagePrevented":"0","damageTaken":"2","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":2,"opponentLifeAtTurnEnd":2,"turnNo":3},"turn_4":{"cardsUsed":0,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"4","damagePrevented":"1","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":4}},"yourTime":"213","totalTime":523,"totalDamageThreatened":41,"totalDamageDealt":20,"totalLifeGained":1,"totalDamageBlocked":7,"totalDamagePrevented":1,"totalLifeLost":0,"averageDamageThreatenedPerTurn":10.67,"averageDamageDealtPerTurn":4.67,"averageDamageThreatenedPerCard":3.56,"averageResourcesUsedPerTurn":1,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":13,"averageValuePerTurn":13,"totalDamageThreatened_NoLast":40,"totalDamageDealt_NoLast":20,"totalLifeGained_NoLast":1,"totalDamageBlocked_NoLast":3,"totalDamagePrevented_NoLast":1,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":15.5,"averageDamageDealtPerTurn_NoLast":7,"averageDamageThreatenedPerCard_NoLast":4.43,"averageResourcesUsedPerTurn_NoLast":1,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":17,"averageValuePerTurn_NoLast":17,"fullLog":""},"2":{"gameId":"1615897","deckId":"","turns":4,"result":1,"winner":2,"firstPlayer":0,"opposingHero":"briar","yourHero":"oscilio","startingLife":18,"opponentHero":"briar","opponentStartingLife":20,"cardResults":[{"cardId":"cloud_cover_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Cloud Cover","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"comet_collision_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Comet Collision","pitchValue":1,"numCopies":2},{"cardId":"constella_contemplation_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Constella Contemplation","pitchValue":2,"numCopies":2},{"cardId":"constella_uplift_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Constella Uplift","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"electrostatic_discharge_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Electrostatic Discharge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"entwine_lightning_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Entwine Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"flash_bolt_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Flash Bolt","pitchValue":1,"numCopies":2},{"cardId":"flittering_charge_red","played":"1","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Flittering Charge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"flowing_stormstrike_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Flowing Stormstrike","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_press_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Press","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_surge_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Lightning Surge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"meteoric_impact_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Meteoric Impact","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Ravenous Rabble","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"scar_for_a_scar_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Scar for a Scar","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_lightning_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Sigil of Lightning","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"snatch_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Snatch","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"starlight_road_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Starlight Road","pitchValue":3,"numCopies":2},{"cardId":"strike_twice_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Strike Twice","pitchValue":1,"numCopies":2},{"cardId":"tap_lessons_past_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Tap Lessons Past","pitchValue":1,"numCopies":1,"activated":"0","passiveTriggered":"0"},{"cardId":"voltic_veil_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Voltic Veil","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"arcane_polarity_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Arcane Polarity","pitchValue":1,"numCopies":1,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"oscilio","cardName":"Oscilio","numCopies":1},{"cardId":"volzar_meteor_storm","cardName":"Volzar, Meteor Storm","numCopies":1},{"cardId":"voltic_vanguard","cardName":"Voltic Vanguard","numCopies":1},{"cardId":"garland_of_spring","cardName":"Garland of Spring","numCopies":1},{"cardId":"blade_beckoner_gauntlets","cardName":"Blade Beckoner Gauntlets","numCopies":1},{"cardId":"twinkle_toes","cardName":"Twinkle Toes","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"oscilio","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Oscilio","pitchValue":0,"katsuDiscard":"0","activated":"3","passiveTriggered":"0"},{"cardId":"volzar_meteor_storm","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Volzar, Meteor Storm","pitchValue":0,"katsuDiscard":"0","activated":"2","passiveTriggered":"0"},{"cardId":"blade_beckoner_gauntlets","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Gauntlets","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"twinkle_toes","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Twinkle Toes","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"voltic_vanguard","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Voltic Vanguard","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"garland_of_spring","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Garland of Spring","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"2","damageDealt":"1","damageBlocked":"0","damagePrevented":"3","damageTaken":"6","lifeGained":"4","lifeLost":"0","lifeAtTurnEnd":16,"opponentLifeAtTurnEnd":20,"turnNo":0},"turn_1":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"15","damageDealt":"15","damageBlocked":"0","damagePrevented":"0","damageTaken":"14","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":2,"opponentLifeAtTurnEnd":5,"turnNo":1},"turn_2":{"cardsUsed":2,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"4","damageDealt":"1","damageBlocked":"4","damagePrevented":"4","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":2,"opponentLifeAtTurnEnd":2,"turnNo":2},"turn_3":{"cardsUsed":2,"cardsBlocked":"2","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"6","damageDealt":"2","damageBlocked":"5","damagePrevented":"4","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":2,"opponentLifeAtTurnEnd":2,"turnNo":3},"turn_4":{"cardsUsed":2,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"8","damageDealt":"3","damageBlocked":"1","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":4}},"yourTime":"310","totalTime":523,"totalDamageThreatened":27,"totalDamageDealt":19,"totalLifeGained":4,"totalDamageBlocked":9,"totalDamagePrevented":11,"totalLifeLost":0,"averageDamageThreatenedPerTurn":8.33,"averageDamageDealtPerTurn":6,"averageDamageThreatenedPerCard":6.25,"averageResourcesUsedPerTurn":0.33,"averageCardsLeftOverPerTurn":0.33,"averageCombatValuePerTurn":11.33,"averageValuePerTurn":14,"totalDamageThreatened_NoLast":21,"totalDamageDealt_NoLast":17,"totalLifeGained_NoLast":4,"totalDamageBlocked_NoLast":4,"totalDamagePrevented_NoLast":7,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":9.5,"averageDamageDealtPerTurn_NoLast":8,"averageDamageThreatenedPerCard_NoLast":6.33,"averageResourcesUsedPerTurn_NoLast":0,"averageCardsLeftOverPerTurn_NoLast":0.5,"averageCombatValuePerTurn_NoLast":11.5,"averageValuePerTurn_NoLast":13.5,"fullLog":"<span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arcane_seeds__life_red.webp')\" onmouseout='HideCardDetail()'>Arcane Seeds // Life</span></b></span><BR>Selected mode for <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arcane_seeds__life_red.webp')\" onmouseout='HideCardDetail()'>Arcane Seeds // Life</span></b> is: Both<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arcane_seeds__life_red.webp')\" onmouseout='HideCardDetail()'>Arcane Seeds // Life</span></b>.<BR>Player 1 gained 1 life<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/stinging_sprite_red.webp')\" onmouseout='HideCardDetail()'>Stinging Sprite</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b> was chosen as the target.<BR><b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/runechant.webp')\" onmouseout='HideCardDetail()'>Runechant</span></b> is dealing 1 arcane damage.<BR><span style='color:<PLAYER2COLOR>;'>Player 1 is dealing 1 arcane damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/runechant.webp')\" onmouseout='HideCardDetail()'>Runechant</span></b></span><BR>Player 2 took 1 damage<BR><b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/runechant.webp')\" onmouseout='HideCardDetail()'>Runechant</span></b> is dealing 1 arcane damage.<BR><span style='color:<PLAYER2COLOR>;'>Player 1 is dealing 1 arcane damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/runechant.webp')\" onmouseout='HideCardDetail()'>Runechant</span></b></span><BR>Player 2 took 1 damage<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b></span><BR>Card chosen: <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/constella uplift yellow.webp')\" onmouseout='HideCardDetail()'>Constella Uplift</span></b><BR>Player 2 undid their last action<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b></span><BR>Card chosen: <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/lightning press red.webp')\" onmouseout='HideCardDetail()'>Lightning Press</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b>.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/stinging_sprite_red.webp')\" onmouseout='HideCardDetail()'>Stinging Sprite</span></b>.<BR>Player 2's <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b> was targeted by <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/stinging_sprite_red.webp')\" onmouseout='HideCardDetail()'>Stinging Sprite</span></b><BR><b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/stinging_sprite_red.webp')\" onmouseout='HideCardDetail()'>Stinging Sprite</span></b> is dealing 1 arcane damage<BR><span style='color:<PLAYER2COLOR>;'>Player 1 is dealing 1 arcane damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/stinging_sprite_red.webp')\" onmouseout='HideCardDetail()'>Stinging Sprite</span></b></span><BR>Player 2 took 1 damage<BR>Player 2 passed<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/lightning_press_red.webp')\" onmouseout='HideCardDetail()'>Lightning Press</span></b></span><BR>Player 1's <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/stinging_sprite_red.webp')\" onmouseout='HideCardDetail()'>Stinging Sprite</span></b> was targeted<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/cloud_cover_red.webp')\" onmouseout='HideCardDetail()'>Cloud Cover</span></b></span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/cloud_cover_red.webp')\" onmouseout='HideCardDetail()'>Cloud Cover</span></b>.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/lightning_press_red.webp')\" onmouseout='HideCardDetail()'>Lightning Press</span></b>.<BR>Player 1 passed<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arcane_polarity_red.webp')\" onmouseout='HideCardDetail()'>Arcane Polarity</span></b></span><BR>Player 2 gained 4 life<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arcane_polarity_red.webp')\" onmouseout='HideCardDetail()'>Arcane Polarity</span></b>.<BR>Player 1 passed<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/volzar_meteor_storm.webp')\" onmouseout='HideCardDetail()'>Volzar, Meteor Storm</span></b></span><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/volzar_meteor_storm.webp')\" onmouseout='HideCardDetail()'>Volzar, Meteor Storm</span></b>.<BR>Player 1 passed<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/constella_uplift_yellow.webp')\" onmouseout='HideCardDetail()'>Constella Uplift</span></b></span><BR>Player 1's <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/briar.webp')\" onmouseout='HideCardDetail()'>Briar</span></b> was targeted<BR>Resolving play ability of <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/constella_uplift_yellow.webp')\" onmouseout='HideCardDetail()'>Constella Uplift</span></b>.<BR><b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/constella_uplift_yellow.webp')\" onmouseout='HideCardDetail()'>Constella Uplift</span></b> is dealing 2 arcane damage<BR><b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/helm_of_might_and_magic.webp')\" onmouseout='HideCardDetail()'>Helm of Might and Magic</span></b> was destroyed and prevented 1 arcane damage.<BR><span style='color:<PLAYER1COLOR>;'>Player 2 is dealing 1 arcane damage from <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/constella_uplift_yellow.webp')\" onmouseout='HideCardDetail()'>Constella Uplift</span></b></span><BR>Player 1 took 1 damage<BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 6 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/stinging_sprite_red.webp')\" onmouseout='HideCardDetail()'>Stinging Sprite</span></b><BR>Player 2 took 3 damage<BR>Combat resolved with a hit for 3 damage<BR>The chain link was resolved.<BR>Player 1 auto-passed<BR>Player 1 auto-passed<BR>The combat chain was closed.<BR>Player 1 auto-passed<BR>Player 1 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 2's turn 1 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/scar_for_a_scar_red.webp')\" onmouseout='HideCardDetail()'>Scar for a Scar</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/briar.webp')\" onmouseout='HideCardDetail()'>Briar</span></b> was chosen as the target.<BR><b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/scar_for_a_scar_red.webp')\" onmouseout='HideCardDetail()'>Scar for a Scar</span></b> gains Go Again!<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/scar_for_a_scar_red.webp')\" onmouseout='HideCardDetail()'>Scar for a Scar</span></b>.<BR>Player 1 passed<BR>Player 2 passed<BR>Player 1 auto-passed<BR>Player 1 is about to take 4 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/scar_for_a_scar_red.webp')\" onmouseout='HideCardDetail()'>Scar for a Scar</span></b><BR>Player 1 took 4 damage<BR>Combat resolved with a hit for 4 damage<BR>The chain link was resolved.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flittering_charge_red.webp')\" onmouseout='HideCardDetail()'>Flittering Charge</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/briar.webp')\" onmouseout='HideCardDetail()'>Briar</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flittering_charge_red.webp')\" onmouseout='HideCardDetail()'>Flittering Charge</span></b>.<BR>Player 1 passed<BR>Player 2 passed<BR>Player 1 auto-passed<BR>Player 1 is about to take 4 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flittering_charge_red.webp')\" onmouseout='HideCardDetail()'>Flittering Charge</span></b><BR>Player 1 took 4 damage<BR>Combat resolved with a hit for 4 damage<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/electrostatic_discharge_red.webp')\" onmouseout='HideCardDetail()'>Electrostatic Discharge</span></b></span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/electrostatic_discharge_red.webp')\" onmouseout='HideCardDetail()'>Electrostatic Discharge</span></b>.<BR>The chain link was resolved.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/lightning_surge_red.webp')\" onmouseout='HideCardDetail()'>Lightning Surge</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/briar.webp')\" onmouseout='HideCardDetail()'>Briar</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/lightning_surge_red.webp')\" onmouseout='HideCardDetail()'>Lightning Surge</span></b>.<BR>Player 1 passed<BR>Player 2 passed<BR>Player 1 auto-passed<BR>Player 1 is about to take 7 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/lightning_surge_red.webp')\" onmouseout='HideCardDetail()'>Lightning Surge</span></b><BR>Player 1 took 7 damage<BR>Combat resolved with a hit for 7 damage<BR>The chain link was resolved.<BR>Player 2 passed<BR>Player 2 passed<BR>The combat chain was closed.<BR>Player 2 passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 1 has begun.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/entwine_lightning_red.webp')\" onmouseout='HideCardDetail()'>Entwine Lightning</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b> was chosen as the target.<BR>👁️‍🗨️<b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/path_of_same_ends_red.webp')\" onmouseout='HideCardDetail()'>Path of Same Ends</span></b> is revealed<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b></span><BR>Card chosen: <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sigil of lightning blue.webp')\" onmouseout='HideCardDetail()'>Sigil of Lightning</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b>.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/entwine_lightning_red.webp')\" onmouseout='HideCardDetail()'>Entwine Lightning</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 4 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/entwine_lightning_red.webp')\" onmouseout='HideCardDetail()'>Entwine Lightning</span></b><BR>Player 2 took 4 damage<BR>Combat resolved with a hit for 4 damage<BR>The chain link was resolved.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/second_strike_red.webp')\" onmouseout='HideCardDetail()'>Second Strike</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/second_strike_red.webp')\" onmouseout='HideCardDetail()'>Second Strike</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 4 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/second_strike_red.webp')\" onmouseout='HideCardDetail()'>Second Strike</span></b><BR>Player 2 took 4 damage<BR>Combat resolved with a hit for 4 damage<BR>The chain link was resolved.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/scar_for_a_scar_red.webp')\" onmouseout='HideCardDetail()'>Scar for a Scar</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b> was chosen as the target.<BR><b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/scar_for_a_scar_red.webp')\" onmouseout='HideCardDetail()'>Scar for a Scar</span></b> gains Go Again!<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/scar_for_a_scar_red.webp')\" onmouseout='HideCardDetail()'>Scar for a Scar</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 4 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/scar_for_a_scar_red.webp')\" onmouseout='HideCardDetail()'>Scar for a Scar</span></b><BR>Player 2 took 4 damage<BR>Combat resolved with a hit for 4 damage<BR>The chain link was resolved.<BR>Player 1 passed<BR>The combat chain was closed.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/blossom_of_spring.webp')\" onmouseout='HideCardDetail()'>Blossom of Spring</span></b></span><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/blossom_of_spring.webp')\" onmouseout='HideCardDetail()'>Blossom of Spring</span></b>.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/path_of_same_ends_red.webp')\" onmouseout='HideCardDetail()'>Path of Same Ends</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/path_of_same_ends_red.webp')\" onmouseout='HideCardDetail()'>Path of Same Ends</span></b>.<BR><b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/path_of_same_ends_red.webp')\" onmouseout='HideCardDetail()'>Path of Same Ends</span></b> is dealing 1 arcane damage<BR><span style='color:<PLAYER2COLOR>;'>Player 1 is dealing 1 arcane damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/path_of_same_ends_red.webp')\" onmouseout='HideCardDetail()'>Path of Same Ends</span></b></span><BR>Player 2 took 1 damage<BR>Player 2 passed<BR>Player 2 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flittering_charge_red.webp')\" onmouseout='HideCardDetail()'>Flittering Charge</span></b><BR>Player 1 passed<BR>Player 2 auto-passed<BR>Player 2 is about to take 1 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/path_of_same_ends_red.webp')\" onmouseout='HideCardDetail()'>Path of Same Ends</span></b><BR>Player 2 took 1 damage<BR>Combat resolved with a hit for 1 damage<BR>The chain link was resolved.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/star_fall.webp')\" onmouseout='HideCardDetail()'>Star Fall</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b> was chosen as the target.<BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/star_fall.webp')\" onmouseout='HideCardDetail()'>Star Fall</span></b>.<BR>Player 2 passed<BR>Player 2 blocked with <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/blade_beckoner_gauntlets.webp')\" onmouseout='HideCardDetail()'>Blade Beckoner Gauntlets</span></b><BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 0 damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/star_fall.webp')\" onmouseout='HideCardDetail()'>Star Fall</span></b><BR>Player 2 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/snatch_red.webp')\" onmouseout='HideCardDetail()'>Snatch</span></b> from arsenal</span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/snatch_red.webp')\" onmouseout='HideCardDetail()'>Snatch</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/lightning_press_red.webp')\" onmouseout='HideCardDetail()'>Lightning Press</span></b></span><BR>Player 2's <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/path_of_same_ends_red.webp')\" onmouseout='HideCardDetail()'>Path of Same Ends</span></b> was targeted<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/twinkle_toes.webp')\" onmouseout='HideCardDetail()'>Twinkle Toes</span></b></span><BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/voltic_vanguard.webp')\" onmouseout='HideCardDetail()'>Voltic Vanguard</span></b></span><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/voltic_vanguard.webp')\" onmouseout='HideCardDetail()'>Voltic Vanguard</span></b>.<BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/twinkle_toes.webp')\" onmouseout='HideCardDetail()'>Twinkle Toes</span></b>.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/lightning_press_red.webp')\" onmouseout='HideCardDetail()'>Lightning Press</span></b>.<BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 4 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/snatch_red.webp')\" onmouseout='HideCardDetail()'>Snatch</span></b><BR>Player 2 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 1 auto-passed<BR>Player 1 auto-passed<BR>The combat chain was closed.<BR>Player 1 auto-passed<BR>Player 1 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 2's turn 2 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/snatch_red.webp')\" onmouseout='HideCardDetail()'>Snatch</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/briar.webp')\" onmouseout='HideCardDetail()'>Briar</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/snatch_red.webp')\" onmouseout='HideCardDetail()'>Snatch</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/quick_succession_yellow.webp')\" onmouseout='HideCardDetail()'>Quick Succession</span></b><BR>Player 2 passed<BR>Player 1 auto-passed<BR>Player 1 is about to take 1 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/snatch_red.webp')\" onmouseout='HideCardDetail()'>Snatch</span></b><BR>Player 1 took 1 damage<BR>Combat resolved with a hit for 1 damage<BR>Processing hit effect for <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/snatch_red.webp')\" onmouseout='HideCardDetail()'>Snatch</span></b><BR>The chain link was resolved.<BR>Player 2 auto-passed<BR>Player 2 auto-passed<BR>The combat chain was closed.<BR>Player 2 auto-passed<BR>Player 2 passed priority. Attempting to end turn.<BR>Player 2 passed<BR>═══════════════<BR>Player 1's turn 2 has begun.<BR>Player 2 undid their last action<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 1 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/snatch_red.webp')\" onmouseout='HideCardDetail()'>Snatch</span></b><BR>Player 1 took 1 damage<BR>Combat resolved with a hit for 1 damage<BR>Processing hit effect for <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/snatch_red.webp')\" onmouseout='HideCardDetail()'>Snatch</span></b><BR>The chain link was resolved.<BR>Player 2 auto-passed<BR>Player 2 auto-passed<BR>The combat chain was closed.<BR>Player 2 auto-passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 2 has begun.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/weave_lightning_red.webp')\" onmouseout='HideCardDetail()'>Weave Lightning</span></b></span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/weave_lightning_red.webp')\" onmouseout='HideCardDetail()'>Weave Lightning</span></b>.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/entwine_lightning_red.webp')\" onmouseout='HideCardDetail()'>Entwine Lightning</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b> was chosen as the target.<BR>👁️‍🗨️<b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/quick_succession_red.webp')\" onmouseout='HideCardDetail()'>Quick Succession</span></b> is revealed<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b></span><BR>Card chosen: <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/constella contemplation yellow.webp')\" onmouseout='HideCardDetail()'>Constella Contemplation</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b>.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/voltic_veil_red.webp')\" onmouseout='HideCardDetail()'>Voltic Veil</span></b></span><BR>Player 2 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sigil_of_lightning_blue.webp')\" onmouseout='HideCardDetail()'>Sigil of Lightning</span></b><BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/volzar_meteor_storm.webp')\" onmouseout='HideCardDetail()'>Volzar, Meteor Storm</span></b></span><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/volzar_meteor_storm.webp')\" onmouseout='HideCardDetail()'>Volzar, Meteor Storm</span></b>.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/voltic_veil_red.webp')\" onmouseout='HideCardDetail()'>Voltic Veil</span></b>.<BR><b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/voltic_veil_red.webp')\" onmouseout='HideCardDetail()'>Voltic Veil</span></b> is dealing 2 arcane damage<BR><span style='color:<PLAYER1COLOR>;'>Player 2 is dealing 2 arcane damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/voltic_veil_red.webp')\" onmouseout='HideCardDetail()'>Voltic Veil</span></b></span><BR>Player 1 took 2 damage<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/entwine_lightning_red.webp')\" onmouseout='HideCardDetail()'>Entwine Lightning</span></b>.<BR>Player 2 passed<BR>Player 2 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/meteoric_impact_red.webp')\" onmouseout='HideCardDetail()'>Meteoric Impact</span></b><BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 4 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/entwine_lightning_red.webp')\" onmouseout='HideCardDetail()'>Entwine Lightning</span></b><BR>Player 2 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/star_fall.webp')\" onmouseout='HideCardDetail()'>Star Fall</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b> was chosen as the target.<BR>Player 1 pitched <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/quick_succession_red.webp')\" onmouseout='HideCardDetail()'>Quick Succession</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/star_fall.webp')\" onmouseout='HideCardDetail()'>Star Fall</span></b>.<BR>Player 2 passed<BR>Player 2 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/entwine_lightning_red.webp')\" onmouseout='HideCardDetail()'>Entwine Lightning</span></b><BR>Player 1 passed<BR>Player 2 auto-passed<BR>Player 2 is about to take 0 damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/star_fall.webp')\" onmouseout='HideCardDetail()'>Star Fall</span></b><BR>Player 2 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 1 passed<BR>Player 1 passed<BR>The combat chain was closed.<BR>Player 1 passed<BR>Player 1 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 2's turn 3 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ravenous_rabble_red.webp')\" onmouseout='HideCardDetail()'>Ravenous Rabble</span></b> from arsenal</span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/briar.webp')\" onmouseout='HideCardDetail()'>Briar</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ravenous_rabble_red.webp')\" onmouseout='HideCardDetail()'>Ravenous Rabble</span></b>.<BR>👁️‍🗨️Player 2 reveals <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tap_lessons_past_red.webp')\" onmouseout='HideCardDetail()'>Tap Lessons Past</span></b><BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sprout_strength_red.webp')\" onmouseout='HideCardDetail()'>Sprout Strength</span></b> and <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/burn_up__shock_red.webp')\" onmouseout='HideCardDetail()'>Burn Up // Shock</span></b><BR>Player 2 passed<BR>Player 1 auto-passed<BR>Player 1 is about to take 0 damage from <BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 2 passed<BR>Player 2 passed<BR>The combat chain was closed.<BR>Player 2 passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 3 has begun.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/star_fall.webp')\" onmouseout='HideCardDetail()'>Star Fall</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/oscilio.webp')\" onmouseout='HideCardDetail()'>Oscilio</span></b> was chosen as the target.<BR>Player 1 pitched <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sprout_strength_red.webp')\" onmouseout='HideCardDetail()'>Sprout Strength</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/star_fall.webp')\" onmouseout='HideCardDetail()'>Star Fall</span></b>.<BR>Player 2 passed<BR>Player 2 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flowing_stormstrike_red.webp')\" onmouseout='HideCardDetail()'>Flowing Stormstrike</span></b><BR>Player 1 passed<BR>Player 2 auto-passed<BR>Player 2 is about to take 0 damage from <BR>Player 2 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 1 passed<BR>Player 1 passed<BR>The combat chain was closed.<BR>Player 1 auto-passed<BR>Player 1 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 2's turn 4 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ravenous_rabble_red.webp')\" onmouseout='HideCardDetail()'>Ravenous Rabble</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/briar.webp')\" onmouseout='HideCardDetail()'>Briar</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ravenous_rabble_red.webp')\" onmouseout='HideCardDetail()'>Ravenous Rabble</span></b>.<BR>👁️‍🗨️Player 2 reveals <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/strike_twice_red.webp')\" onmouseout='HideCardDetail()'>Strike Twice</span></b><BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/weave_lightning_red.webp')\" onmouseout='HideCardDetail()'>Weave Lightning</span></b> and <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/scar_for_a_scar_red.webp')\" onmouseout='HideCardDetail()'>Scar for a Scar</span></b><BR>Player 2 passed<BR>Player 1 auto-passed<BR>Player 1 is about to take 0 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ravenous_rabble_red.webp')\" onmouseout='HideCardDetail()'>Ravenous Rabble</span></b><BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 2 passed<BR>Player 2 passed<BR>The combat chain was closed.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/garland_of_spring.webp')\" onmouseout='HideCardDetail()'>Garland of Spring</span></b></span><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/garland_of_spring.webp')\" onmouseout='HideCardDetail()'>Garland of Spring</span></b>.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tap_lessons_past_red.webp')\" onmouseout='HideCardDetail()'>Tap Lessons Past</span></b></span><BR>Player 1's <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/briar.webp')\" onmouseout='HideCardDetail()'>Briar</span></b> was targeted<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tap_lessons_past_red.webp')\" onmouseout='HideCardDetail()'>Tap Lessons Past</span></b>.<BR><b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tap_lessons_past_red.webp')\" onmouseout='HideCardDetail()'>Tap Lessons Past</span></b> is dealing 4 arcane damage<BR>Player 1 pitched <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ravenous_rabble_red.webp')\" onmouseout='HideCardDetail()'>Ravenous Rabble</span></b><BR><span style='color:<PLAYER1COLOR>;'>Player 2 is dealing 3 arcane damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tap_lessons_past_red.webp')\" onmouseout='HideCardDetail()'>Tap Lessons Past</span></b></span><BR>Player 1 took 3 damage<BR><b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/constella_contemplation_yellow.webp')\" onmouseout='HideCardDetail()'>Constella Contemplation</span></b> was put on the bottom of the deck<BR><span style='color:<PLAYER2COLOR>;'>Player 2 (jtbruhn94) won! 🎉</span><BR><p style='background: green;font-size: max(1em, 14px);margin-bottom:0px;'><span style='color:azure;'>📊 Sending game result to <b>Fabrary</b> and <b>FaB Insights</b></span></p><BR>"}}}

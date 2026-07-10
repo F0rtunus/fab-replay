@@ -1,0 +1,514 @@
+=== Talishar game 1622971 — 10/07/2026 16:29:42 ===
+
+Swagkage played Ignite
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Ignite.
+Ehecalt passed
+Ehecalt blocked with Lightning Surge
+Swagkage played Throw Dagger
+Swagkage's Kunai of Retribution was targeted
+Ehecalt activated Cap of Quick Thinking
+Resolving activated ability of Cap of Quick Thinking.
+Resolving play ability of Throw Dagger.
+Astral Bridge was discarded
+Ehecalt is about to take 0 damage from Kunai of Retribution
+Ehecalt took 0 damage
+Swagkage passed
+Ehecalt passed
+Ehecalt is about to take 0 damage from Ignite
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Swagkage activated Cindra, Dracai of Retribution
+Swagkage pitched Art of the Dragon: Blood
+Resolving activated ability of Cindra, Dracai of Retribution.
+Swagkage passed
+The combat chain was closed.
+Swagkage passed
+Swagkage passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 1 has begun.
+Ehecalt played Flowstate Embodiment
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Flowstate Embodiment.
+Swagkage passed
+Swagkage blocked with Dragonscaler Flight Path
+Ehecalt passed
+Swagkage passed
+Swagkage is about to take 3 damage from Flowstate Embodiment
+Swagkage took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Swagkage's turn 1 has begun.
+Swagkage activated Kunai of Retribution
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Swagkage pitched Tenacity
+Resolving activated ability of Kunai of Retribution.
+Ehecalt passed
+Swagkage passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Kunai of Retribution
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Swagkage activated Kunai of Retribution
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving activated ability of Kunai of Retribution.
+Ehecalt passed
+Swagkage passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Kunai of Retribution
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Swagkage played Display Loyalty
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Display Loyalty.
+Ehecalt passed
+Ehecalt blocked with Comet Collision
+Swagkage played Ancestral Empowerment
+Resolving play ability of Ancestral Empowerment.
+Swagkage passed
+Ehecalt passed
+Ehecalt is about to take 1 damage from Display Loyalty
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Swagkage played Ravenous Rabble from arsenal
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Swagkage reveals Dragon Power
+Ehecalt passed
+Swagkage passed
+Ehecalt auto-passed
+Ehecalt is about to take 2 damage from Ravenous Rabble
+Ehecalt took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+Swagkage played Ravenous Rabble
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Swagkage reveals Dragon Power
+Ehecalt passed
+Swagkage passed
+Ehecalt auto-passed
+Ehecalt is about to take 2 damage from Ravenous Rabble
+Ehecalt took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+Swagkage played Rising Resentment
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Rising Resentment.
+Ehecalt passed
+Ehecalt blocked with Comet Collision
+Swagkage activated Flick Knives
+Swagkage's Kunai of Retribution was targeted
+Ehecalt's Oscilio, Constella Intelligence was targeted
+Resolving activated ability of Flick Knives.
+Ehecalt is about to take 1 damage from Kunai of Retribution
+Ehecalt took 1 damage
+Swagkage activated Cindra, Dracai of Retribution
+Resolving activated ability of Cindra, Dracai of Retribution.
+Swagkage passed
+Ehecalt passed
+Ehecalt is about to take 0 damage from Rising Resentment
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Swagkage played Blaze Headlong
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Blaze Headlong.
+Ehecalt passed
+Swagkage passed
+Ehecalt auto-passed
+Ehecalt is about to take 4 damage from Blaze Headlong
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Swagkage passed
+Swagkage passed
+The combat chain was closed.
+Swagkage passed
+Swagkage passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 2 has begun.
+Ehecalt played Flowstate Embodiment
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Flowstate Embodiment.
+Swagkage passed
+Ehecalt played Astral Bridge
+Swagkage's Cindra, Dracai of Retribution was targeted
+Resolving play ability of Astral Bridge.
+Swagkage's Cindra, Dracai of Retribution was targeted by Echoflash
+Echoflash was put into the graveyard.
+Astral Bridge is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Astral Bridge
+Swagkage took 1 damage
+Oscilio, Constella Intelligence is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Oscilio, Constella Intelligence
+Swagkage took 1 damage
+Ehecalt requests to undo the last action
+Ehecalt activated Volzar, Meteor Storm
+Swagkage allowed undoing the last action
+Ehecalt requests to undo the last action
+Ehecalt activated Volzar, Meteor Storm
+Swagkage allowed undoing the last action
+Ehecalt activated Volzar, Meteor Storm
+Swagkage allowed undoing the last action
+Swagkage allowed undoing the last action
+Ehecalt played Astral Bridge
+Swagkage's Cindra, Dracai of Retribution was targeted
+Ehecalt requests to undo the last action
+Swagkage allowed undoing the last action
+Ehecalt played Astral Bridge
+Swagkage's Cindra, Dracai of Retribution was targeted
+Resolving play ability of Astral Bridge.
+Swagkage's Cindra, Dracai of Retribution was targeted by Echoflash
+Echoflash was put into the graveyard.
+Astral Bridge is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Astral Bridge
+Swagkage took 1 damage
+Ehecalt activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Oscilio, Constella Intelligence is dealing 2 arcane damage
+Ehecalt is dealing 2 arcane damage from Oscilio, Constella Intelligence
+Swagkage took 2 damage
+Ehecalt passed
+Swagkage passed
+Swagkage is about to take 4 damage from Flowstate Embodiment
+Swagkage took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Swagkage's turn 2 has begun.
+Swagkage played Rising Resentment
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Rising Resentment.
+Ehecalt passed
+Swagkage played Throw Dagger
+Swagkage's Kunai of Retribution was targeted
+Resolving play ability of Throw Dagger.
+Ehecalt is about to take 1 damage from Kunai of Retribution
+Ehecalt took 1 damage
+Swagkage passed
+Ehecalt passed
+Ehecalt is about to take 3 damage from Rising Resentment
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+Processing hit effect for Rising Resentment
+The chain link was resolved.
+Swagkage played Ravenous Rabble
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Swagkage reveals Cut Through
+Ehecalt passed
+Swagkage passed
+Ehecalt auto-passed
+Ehecalt is about to take 4 damage from Ravenous Rabble
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Swagkage activated Fealty
+Resolving activated ability of Fealty.
+Swagkage played Art of the Dragon: Blood
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Art of the Dragon: Blood.
+Ehecalt passed
+Ehecalt blocked with Lightning Greaves and Enlightened Strike
+Swagkage activated Cindra, Dracai of Retribution
+Swagkage pitched Dragon Power
+Resolving activated ability of Cindra, Dracai of Retribution.
+Swagkage passed
+Ehecalt activated Oscilio, Constella Intelligence
+Card chosen: Electrostatic Discharge
+Resolving activated ability of Oscilio, Constella Intelligence.
+Swagkage passed
+Ehecalt passed
+Ehecalt is about to take 0 damage from Art of the Dragon: Blood
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Swagkage passed
+Swagkage passed
+The combat chain was closed.
+Swagkage passed
+Swagkage passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 3 has begun.
+Ehecalt activated Oscilio, Constella Intelligence
+Card chosen: Consign To Cosmos // Shock
+Resolving activated ability of Oscilio, Constella Intelligence.
+Ehecalt played Entwine Lightning
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Embodiment of Lightning grants go again
+Resolving play ability of Entwine Lightning.
+Swagkage passed
+Ehecalt passed
+Swagkage passed
+Swagkage is about to take 4 damage from Entwine Lightning
+Swagkage took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt played Second Strike from arsenal
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Second Strike.
+Swagkage passed
+Ehecalt activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Ehecalt played Constella Contemplation
+Swagkage's Cindra, Dracai of Retribution was targeted
+Resolving play ability of Constella Contemplation.
+Constella Contemplation is dealing 2 arcane damage
+Ehecalt is dealing 2 arcane damage from Constella Contemplation
+Swagkage took 2 damage
+Ehecalt played Sigil of Solace
+Ehecalt gained 3 life
+Resolving play ability of Sigil of Solace.
+Ehecalt passed
+Swagkage passed
+Swagkage is about to take 4 damage from Second Strike
+Swagkage took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Swagkage's turn 3 has begun.
+Swagkage played Cut Through
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Ehecalt activated Oscilio, Constella Intelligence
+Card chosen: Echoflash
+Swagkage's Cindra, Dracai of Retribution was targeted by Echoflash
+Ehecalt activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Oscilio, Constella Intelligence is dealing 2 arcane damage
+Ehecalt is dealing 2 arcane damage from Oscilio, Constella Intelligence
+Swagkage took 2 damage
+Resolving activated ability of Oscilio, Constella Intelligence.
+Resolving play ability of Cut Through.
+Ehecalt passed
+Swagkage activated Flick Knives
+Swagkage's Kunai of Retribution was targeted
+Ehecalt's Oscilio, Constella Intelligence was targeted
+Resolving activated ability of Flick Knives.
+Ehecalt is about to take 1 damage from Kunai of Retribution
+Ehecalt took 1 damage
+Swagkage gained 1 resource from Blood Splattered Vest
+Swagkage passed
+Ehecalt passed
+Ehecalt is about to take 4 damage from Cut Through
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Swagkage activated Kunai of Retribution
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving activated ability of Kunai of Retribution.
+Ehecalt passed
+Ehecalt blocked with Stonewall Gauntlet
+Swagkage passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Kunai of Retribution
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Swagkage played Display Loyalty
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Display Loyalty.
+Ehecalt passed
+Ehecalt blocked with Enlightened Strike
+Swagkage passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Display Loyalty
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Swagkage played Breaking Point
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Swagkage pitched Demonstrate Devotion
+Resolving play ability of Breaking Point.
+Swagkage activated Cindra, Dracai of Retribution
+Resolving activated ability of Cindra, Dracai of Retribution.
+Ehecalt passed
+Swagkage passed
+Ehecalt auto-passed
+Ehecalt is about to take 5 damage from Breaking Point
+Ehecalt took 5 damage
+Combat resolved with a hit for 5 damage
+Processing hit effect for Breaking Point
+Comet Collision was destroyed from the arsenal
+The chain link was resolved.
+Swagkage passed
+Swagkage passed
+The combat chain was closed.
+Swagkage passed
+Swagkage passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 4 has begun.
+Ehecalt activated Oscilio, Constella Intelligence
+Card chosen: Astral Bridge
+Resolving activated ability of Oscilio, Constella Intelligence.
+Ehecalt played Snatch
+🎯Cindra, Dracai of Retribution was chosen as the target.
+Resolving play ability of Snatch.
+Swagkage passed
+Ehecalt played Consign To Cosmos // Shock
+Selected mode for Consign To Cosmos // Shock is: Shock
+Swagkage's Cindra, Dracai of Retribution was targeted
+Resolving play ability of Consign To Cosmos // Shock.
+Consign To Cosmos // Shock is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Consign To Cosmos // Shock
+Swagkage took 1 damage
+Ehecalt passed
+Swagkage passed
+Swagkage is about to take 4 damage from Snatch
+Swagkage took 4 damage
+Combat resolved with a hit for 4 damage
+Processing hit effect for Snatch
+Ehecalt played Starlight Road
+Resolving play ability of Starlight Road.
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Swagkage's turn 4 has begun.
+Swagkage played Spreading Flames
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Swagkage pitched Concealed Blade
+Resolving play ability of Spreading Flames.
+Ehecalt passed
+Swagkage passed
+Ehecalt auto-passed
+Ehecalt is about to take 3 damage from Spreading Flames
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Swagkage activated Kunai of Retribution
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving activated ability of Kunai of Retribution.
+Ehecalt passed
+Swagkage passed
+Ehecalt auto-passed
+Ehecalt is about to take 2 damage from Kunai of Retribution
+Ehecalt took 2 damage
+Combat resolved with a hit for 2 damage
+Swagkage gained 1 resource from Blood Splattered Vest
+The chain link was resolved.
+Swagkage played Cut Through
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Cut Through.
+Ehecalt passed
+Ehecalt blocked with Scar for a Scar
+Swagkage passed
+Ehecalt auto-passed
+Ehecalt is about to take 2 damage from Cut Through
+Ehecalt took 2 damage
+Combat resolved with a hit for 2 damage
+Ehecalt conceded the game.
+Swagkage (Swagkage) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Comet Collision, Lightning Surge, Flowstate Embodiment, Astral Bridge
+[Ehecalt #1] Comet Collision, Flowstate Embodiment, Second Strike, Flowstate Embodiment
+[Swagkage #1] Comet Collision, Flowstate Embodiment, Astral Bridge, Comet Collision
+[Swagkage #2] Electrostatic Discharge, Constella Contemplation, Enlightened Strike, Sigil Of Solace
+[Ehecalt #3] Constella Contemplation, Sigil Of Solace, Consign To Cosmos  Shock
+[Swagkage #3] Echoflash, Starlight Road, Astral Bridge, Snatch
+[Ehecalt #4] Starlight Road, Astral Bridge, Snatch
+[Swagkage #4] Snatch, Scar For A Scar, Flittering Charge, Constella Contemplation
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[Ehecalt #1] (vide)
+[Swagkage #1] Second Strike
+[Ehecalt #2] (vide)
+[Swagkage #2] (vide)
+[Ehecalt #3] Second Strike
+[Swagkage #3] Comet Collision
+[Ehecalt #4] (vide)
+[Swagkage #4] Ravenous Rabble
+
+=== FIELD SNAPSHOTS (permanents/tokens en jeu : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: (vide)
+[Swagkage #1] me: (vide) | opp: (vide)
+[Ehecalt #2] me: (vide) | opp: (vide)
+[Swagkage #2] me: (vide) | opp: (vide)
+[Ehecalt #3] me: Embodiment Of Lightning | opp: (vide)
+[Swagkage #3] me: (vide) | opp: (vide)
+[Ehecalt #4] me: (vide) | opp: Fealty
+[Swagkage #4] me: Embodiment Of Lightning | opp: Fealty
+
+=== GRAVEYARD SNAPSHOTS (cimetière : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Ehecalt #1] me: Lightning Surge, Astral Bridge, Cap Of Quick Thinking | opp: Ignite, Throw Dagger
+[Swagkage #1] me: Flowstate Embodiment, Lightning Surge, Astral Bridge, Cap Of Quick Thinking | opp: Ignite, Throw Dagger
+[Ehecalt #2] me: (vide) | opp: (vide)
+[Swagkage #2] me: (vide) | opp: (vide)
+[Ehecalt #3] me: Enlightened Strike, Electrostatic Discharge, Flowstate Embodiment, Astral Bridge, Echoflash, Comet Collision, Comet Collision, Flowstate Embodiment, Lightning Surge, Astral Bridge, Cap Of Quick Thinking | opp: Art Of The Dragon Blood, Ravenous Rabble, Rising Resentment, Throw Dagger, Blaze Headlong, Rising Resentment, Ravenous Rabble, Ravenous Rabble, Display Loyalty, Ancestral Empowerment, Ignite, Throw Dagger
+[Swagkage #3] me: Second Strike, Entwine Lightning, Sigil Of Solace, Constella Contemplation, Consign To Cosmos  Shock, Enlightened Strike, Electrostatic Discharge, Flowstate Embodiment, Astral Bridge, Echoflash, Comet Collision, Comet Collision, Flowstate Embodiment, Lightning Surge, Astral Bridge, Cap Of Quick Thinking | opp: Art Of The Dragon Blood, Ravenous Rabble, Rising Resentment, Throw Dagger, Blaze Headlong, Rising Resentment, Ravenous Rabble, Ravenous Rabble, Display Loyalty, Ancestral Empowerment, Ignite, Throw Dagger
+[Ehecalt #4] me: Enlightened Strike, Stonewall Gauntlet, Comet Collision, Echoflash, Second Strike, Entwine Lightning, Sigil Of Solace, Constella Contemplation, Consign To Cosmos  Shock, Enlightened Strike, Electrostatic Discharge, Flowstate Embodiment, Astral Bridge, Echoflash, Comet Collision, Comet Collision, Flowstate Embodiment, Lightning Surge, Astral Bridge, Cap Of Quick Thinking | opp: Breaking Point, Display Loyalty, Cut Through, Kunai Of Retribution R, Art Of The Dragon Blood, Ravenous Rabble, Rising Resentment, Throw Dagger, Blaze Headlong, Rising Resentment, Ravenous Rabble, Ravenous Rabble, Display Loyalty, Ancestral Empowerment, Ignite, Throw Dagger
+[Swagkage #4] me: Snatch, Starlight Road, Consign To Cosmos  Shock, Astral Bridge, Enlightened Strike, Stonewall Gauntlet, Comet Collision, Echoflash, Second Strike, Entwine Lightning, Sigil Of Solace, Constella Contemplation, Consign To Cosmos  Shock, Enlightened Strike, Electrostatic Discharge, Flowstate Embodiment, Astral Bridge, Echoflash, Comet Collision, Comet Collision, Flowstate Embodiment, Lightning Surge, Astral Bridge, Cap Of Quick Thinking | opp: Breaking Point, Display Loyalty, Cut Through, Kunai Of Retribution R, Art Of The Dragon Blood, Ravenous Rabble, Rising Resentment, Throw Dagger, Blaze Headlong, Rising Resentment, Ravenous Rabble, Ravenous Rabble, Display Loyalty, Ancestral Empowerment, Ignite, Throw Dagger
+
+=== BANISH SNAPSHOTS (banni : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: (vide)
+[Swagkage #1] me: (vide) | opp: (vide)
+[Ehecalt #2] me: (vide) | opp: (vide)
+[Swagkage #2] me: (vide) | opp: (vide)
+[Ehecalt #3] me: (vide) | opp: (vide)
+[Swagkage #3] me: (vide) | opp: (vide)
+[Ehecalt #4] me: (vide) | opp: (vide)
+[Swagkage #4] me: (vide) | opp: (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=36 opp=40 myDeck=56 oppDeck=56
+[Ehecalt #1] me=36 opp=40 myDeck=54 oppDeck=53
+[Swagkage #1] me=36 opp=37 myDeck=52 oppDeck=53
+[Ehecalt #2] me=? opp=?
+[Swagkage #2] me=? opp=?
+[Ehecalt #3] me=16 opp=30 myDeck=46 oppDeck=44
+[Swagkage #3] me=19 opp=20 myDeck=40 oppDeck=44
+[Ehecalt #4] me=9 opp=18 myDeck=39 oppDeck=41
+[Swagkage #4] me=9 opp=13 myDeck=33 oppDeck=41
+
+=== META ===
+schema: v1
+captured_with: TLG v1.12.0
+game_url: https://talishar.net/game/play/1622971
+captured_at: 2026-07-10T14:17:25.052Z
+format: cc
+vs_ai: non
+me: Ehecalt
+opponent: Swagkage
+my_hero: Oscilio, Constella Intelligence (oscilio_constella_intelligence)
+opp_hero: Cindra Dracai Of Retribution (cindra_dracai_of_retribution)
+my_start_life: 36
+opp_start_life: 40
+my_start_deck_size: 56
+opp_start_deck_size: 56
+my_equipment: head=Cap Of Quick Thinking (cap_of_quick_thinking) | chest=Old Knocker (old_knocker) | arms=Stonewall Gauntlet (stonewall_gauntlet) | legs=Lightning Greaves (lightning_greaves) | weaponL=Volzar Meteor Storm (volzar_meteor_storm)
+opp_equipment: head=Mask Of Momentum (mask_of_momentum) | chest=Blood Splattered Vest (blood_splattered_vest) | arms=Flick Knives (flick_knives) | legs=Dragonscaler Flight Path (dragonscaler_flight_path) | weaponL=Kunai Of Retribution (kunai_of_retribution) | weaponR=Kunai Of Retribution R (kunai_of_retribution_r)
+
+=== TIMESTAMPS ===
+0-1:1783693100,2-2:1783693102,3-4:1783693108,5-5:1783693116,6-6:1783693118,7-7:1783693120,8-8:1783693123,9-9:1783693131,10-12:1783693132,13-13:1783693141,14-17:1783693142,18-18:1783693144,19-19:1783693147,20-20:1783693151,21-21:1783693153,22-22:1783693156,23-23:1783693157,24-25:1783693158,26-27:1783693160,28-29:1783693167,30-30:1783693174,31-32:1783693177,33-33:1783693179,34-37:1783693180,38-40:1783693182,41-41:1783693183,42-43:1783693184,44-45:1783693187,46-47:1783693188,48-48:1783693189,49-49:1783693191,50-50:1783693194,51-55:1783693195,56-56:1783693200,57-58:1783693201,59-59:1783693203,60-60:1783693205,61-65:1783693207,66-66:1783693214,67-68:1783693215,69-69:1783693217,70-71:1783693220,72-72:1783693222,73-73:1783693224,74-74:1783693226,75-78:1783693228,79-79:1783693232,80-81:1783693235,82-82:1783693236,83-83:1783693238,84-84:1783693241,85-89:1783693242,90-90:1783693244,91-92:1783693245,93-93:1783693253,94-94:1783693255,95-95:1783693261,96-100:1783693262,101-101:1783693264,102-103:1783693267,104-104:1783693269,105-106:1783693277,107-107:1783693278,108-109:1783693279,110-112:1783693281,113-113:1783693284,114-114:1783693286,115-115:1783693288,116-119:1783693289,120-120:1783693291,121-122:1783693292,123-123:1783693293,124-124:1783693296,125-129:1783693297,130-130:1783693298,131-132:1783693302,133-133:1783693305,134-135:1783693306,136-137:1783693307,138-139:1783693338,140-140:1783693347,141-141:1783693348,142-143:1783693350,144-149:1783693354,150-153:1783693360,154-154:1783693362,155-156:1783693364,157-157:1783693365,158-158:1783693366,159-159:1783693367,160-160:1783693368,161-161:1783693370,162-163:1783693373,164-164:1783693379,165-165:1783693380,166-167:1783693382,168-173:1783693389,174-174:1783693392,175-175:1783693395,176-178:1783693397,179-179:1783693398,180-183:1783693399,184-184:1783693401,185-186:1783693402,187-189:1783693403,190-191:1783693405,192-193:1783693409,194-194:1783693420,195-195:1783693423,196-197:1783693426,198-200:1783693429,201-201:1783693438,202-205:1783693447,206-206:1783693452,207-207:1783693460,208-209:1783693463,210-210:1783693465,211-211:1783693466,212-212:1783693469,213-217:1783693471,218-218:1783693473,219-219:1783693474,220-220:1783693478,221-222:1783693479,223-223:1783693483,224-225:1783693502,226-226:1783693506,227-227:1783693507,228-228:1783693509,229-229:1783693513,230-230:1783693514,231-231:1783693517,232-232:1783693519,233-233:1783693520,234-237:1783693521,238-238:1783693523,239-240:1783693525,241-243:1783693529,244-245:1783693531,246-246:1783693533,247-247:1783693534,248-248:1783693537,249-250:1783693543,251-251:1783693546,252-252:1783693548,253-253:1783693550,254-254:1783693553,255-258:1783693554,259-259:1783693555,260-261:1783693556,262-262:1783693558,263-263:1783693561,264-264:1783693564,265-265:1783693566,266-267:1783693567,268-271:1783693568,272-272:1783693570,273-274:1783693571,275-275:1783693572,276-279:1783693573,280-282:1783693575,283-283:1783693576,284-285:1783693577,286-287:1783693580,288-289:1783693582,290-290:1783693592,291-292:1783693595,293-293:1783693601,294-294:1783693604,295-297:1783693606,298-298:1783693608,299-299:1783693610,300-300:1783693619,301-301:1783693621,302-303:1783693622,304-306:1783693623,307-307:1783693627,308-308:1783693628,309-312:1783693629,313-313:1783693631,314-315:1783693632,316-316:1783693634,317-318:1783693639,319-323:1783693641,324-324:1783693643,325-326:1783693646,327-327:1783693647,328-329:1783693657,330-334:1783693660,335-335:1783693662,336-338:1783693665,339-339:1783693669,340-340:1783693670,341-341:1783693672,342-342:1783693674,343-347:1783693677,348-349:1783693679,350-350:1783693680,351-352:1783693681,353-353:1783693684,354-355:1783693685,356-357:1783693687,358-358:1783693688,359-359:1783693691,360-360:1783693693,361-362:1783693695,363-363:1783693697,364-364:1783693699,365-367:1783693701,368-371:1783693703,372-372:1783693705,373-376:1783693706,377-377:1783693708,378-378:1783693710,379-379:1783693715,380-380:1783693718,381-383:1783693719,384-385:1783693721,386-387:1783693723,388-389:1783693724,390-390:1783693725,391-391:1783693728,392-392:1783693732,393-397:1783693737,398-398:1783693739,399-400:1783693740,401-401:1783693742,402-402:1783693743,403-407:1783693745,408-408:1783693749,409-409:1783693750,410-411:1783693757,412-412:1783693759,413-414:1783693771,415-419:1783693775,420-422:1783693781
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1622971","deckId":"","turns":4,"result":0,"winner":2,"firstPlayer":0,"opposingHero":"cindra_dracai_of_retribution","yourHero":"oscilio_constella_intelligence","startingLife":36,"opponentHero":"cindra_dracai_of_retribution","opponentStartingLife":40,"cardResults":[{"cardId":"astral_bridge_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"1","charged":"0","cardName":"Astral Bridge","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"comet_collision_red","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Comet Collision","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"consign_to_cosmos__shock_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Consign To Cosmos // Shock","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"constella_contemplation_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Constella Contemplation","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"constella_uplift_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Constella Uplift","pitchValue":2,"numCopies":3},{"cardId":"echoflash_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Echoflash","pitchValue":2,"numCopies":3},{"cardId":"electrostatic_discharge_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Electrostatic Discharge","pitchValue":1,"numCopies":3},{"cardId":"enlightened_strike_red","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Enlightened Strike","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"entwine_lightning_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Entwine Lightning","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"flittering_charge_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Flittering Charge","pitchValue":1,"numCopies":3},{"cardId":"flowstate_embodiment_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Flowstate Embodiment","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"gone_in_a_flash_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Gone in a Flash","pitchValue":1,"numCopies":3},{"cardId":"lightning_surge_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Surge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Ravenous Rabble","pitchValue":1,"numCopies":3},{"cardId":"scar_for_a_scar_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Scar for a Scar","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_brilliance_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sigil of Brilliance","pitchValue":2,"numCopies":3},{"cardId":"sigil_of_solace_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sigil of Solace","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"snatch_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Snatch","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"starlight_road_blue","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Starlight Road","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"cloud_cover_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Cloud Cover","pitchValue":1,"numCopies":3},{"cardId":"second_strike_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Second Strike","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"oscilio_constella_intelligence","cardName":"Oscilio, Constella Intelligence","numCopies":1},{"cardId":"volzar_meteor_storm","cardName":"Volzar, Meteor Storm","numCopies":1},{"cardId":"cap_of_quick_thinking","cardName":"Cap of Quick Thinking","numCopies":1},{"cardId":"old_knocker","cardName":"Old Knocker","numCopies":1},{"cardId":"stonewall_gauntlet","cardName":"Stonewall Gauntlet","numCopies":1},{"cardId":"lightning_greaves","cardName":"Lightning Greaves","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"cap_of_quick_thinking","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Cap of Quick Thinking","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"volzar_meteor_storm","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Volzar, Meteor Storm","pitchValue":0,"katsuDiscard":"0","activated":"3","passiveTriggered":"0"},{"cardId":"lightning_greaves","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Greaves","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"oscilio_constella_intelligence","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Oscilio, Constella Intelligence","pitchValue":0,"katsuDiscard":"0","activated":"4","passiveTriggered":"0"},{"cardId":"stonewall_gauntlet","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Stonewall Gauntlet","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"1","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"2","damagePrevented":"1","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":36,"opponentLifeAtTurnEnd":40,"turnNo":0},"turn_1":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"2","damageThreatened":"4","damageDealt":"3","damageBlocked":"0","damagePrevented":"0","damageTaken":"12","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":24,"opponentLifeAtTurnEnd":37,"turnNo":1},"turn_2":{"cardsUsed":2,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"7","damageBlocked":"6","damagePrevented":"0","damageTaken":"8","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":16,"opponentLifeAtTurnEnd":30,"turnNo":2},"turn_3":{"cardsUsed":4,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"10","damageDealt":"10","damageBlocked":"4","damagePrevented":"0","damageTaken":"10","lifeGained":"3","lifeLost":"0","lifeAtTurnEnd":9,"opponentLifeAtTurnEnd":18,"turnNo":3},"turn_4":{"cardsUsed":3,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"7","damageBlocked":"4","damagePrevented":"0","damageTaken":"7","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":9,"opponentLifeAtTurnEnd":13,"turnNo":4}},"yourTime":"384","totalTime":686,"totalDamageThreatened":28,"totalDamageDealt":27,"totalLifeGained":3,"totalDamageBlocked":16,"totalDamagePrevented":1,"totalLifeLost":0,"averageDamageThreatenedPerTurn":7,"averageDamageDealtPerTurn":6.75,"averageDamageThreatenedPerCard":2.55,"averageResourcesUsedPerTurn":0,"averageCardsLeftOverPerTurn":0.5,"averageCombatValuePerTurn":10.5,"averageValuePerTurn":11.25,"totalDamageThreatened_NoLast":21,"totalDamageDealt_NoLast":20,"totalLifeGained_NoLast":3,"totalDamageBlocked_NoLast":12,"totalDamagePrevented_NoLast":1,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":7,"averageDamageDealtPerTurn_NoLast":6.67,"averageDamageThreatenedPerCard_NoLast":2.63,"averageResourcesUsedPerTurn_NoLast":0,"averageCardsLeftOverPerTurn_NoLast":0.67,"averageCombatValuePerTurn_NoLast":10.33,"averageValuePerTurn_NoLast":11.33,"fullLog":""}}}

@@ -1,0 +1,449 @@
+=== Talishar game 1623341 — 10/07/2026 17:07:46 ===
+
+BigSlap played Sift
+Resolving play ability of Sift.
+⤵️ A card was put on the bottom of the deck.
+⬇️ 2 cards were put on the bottom of the deck.
+BigSlap played Blessing of Deliverance
+BigSlap pitched Show Time!
+Resolving play ability of Blessing of Deliverance.
+BigSlap played Surface Shaking
+BigSlap pitched The Suspense is Killing Me
+Resolving play ability of Surface Shaking.
+BigSlap passed
+BigSlap passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 1 has begun.
+Ehecalt played Electrostatic Discharge
+Resolving play ability of Electrostatic Discharge.
+Ehecalt played Flittering Charge
+🎯Bravo, Showstopper was chosen as the target.
+Resolving play ability of Flittering Charge.
+BigSlap passed
+Ehecalt activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Ehecalt played Astral Bridge
+BigSlap's Bravo, Showstopper was targeted
+Resolving play ability of Astral Bridge.
+Consign To Cosmos // Shock was put into the graveyard.
+Astral Bridge is dealing 2 arcane damage
+BigSlap pitched Grandeur of Valahai
+Ehecalt is dealing 1 arcane damage from Astral Bridge
+BigSlap took 1 damage
+Ehecalt played Consign To Cosmos // Shock
+Selected mode for Consign To Cosmos // Shock is: Shock
+BigSlap's Bravo, Showstopper was targeted
+Ehecalt activated Lightning Greaves
+Ehecalt undid their last action
+Resolving play ability of Consign To Cosmos // Shock.
+Consign To Cosmos // Shock is dealing 1 arcane damage
+Ehecalt is dealing 0 arcane damage from Consign To Cosmos // Shock
+BigSlap took 0 damage
+Ehecalt passed
+BigSlap passed
+BigSlap is about to take 7 damage from Flittering Charge
+BigSlap took 7 damage
+Combat resolved with a hit for 7 damage
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Comet Collision
+BigSlap's Bravo, Showstopper was targeted
+Resolving play ability of Comet Collision.
+Comet Collision is dealing 4 arcane damage
+Ehecalt is dealing 3 arcane damage from Comet Collision
+BigSlap took 3 damage
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+BigSlap's turn 1 has begun.
+👁️‍🗨️Star Struck, Imposing Visage, are revealed
+BigSlap gained 2 life
+⤵️ A card was put on the bottom of the deck.
+⬇️ 3 cards were put on the bottom of the deck.
+BigSlap activated Bravo, Showstopper
+BigSlap pitched Imposing Visage
+Resolving activated ability of Bravo, Showstopper.
+BigSlap played Star Struck
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Star Struck.
+Ehecalt passed
+Ehecalt blocked with Lightning Surge
+BigSlap passed
+Ehecalt passed
+Ehecalt is about to take 8 damage from Star Struck
+Ehecalt took 8 damage
+Combat resolved with a hit for 8 damage
+The chain link was resolved.
+BigSlap auto-passed
+BigSlap auto-passed
+The combat chain was closed.
+BigSlap auto-passed
+BigSlap passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 2 has begun.
+Ehecalt activated Oscilio, Constella Intelligence
+Card chosen: Constella Contemplation
+Resolving activated ability of Oscilio, Constella Intelligence.
+Ehecalt activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Ehecalt played Consign To Cosmos // Shock
+Selected mode for Consign To Cosmos // Shock is: Shock
+BigSlap's Bravo, Showstopper was targeted
+Resolving play ability of Consign To Cosmos // Shock.
+Consign To Cosmos // Shock is dealing 2 arcane damage
+Ehecalt is dealing 2 arcane damage from Consign To Cosmos // Shock
+BigSlap took 2 damage
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+BigSlap's turn 2 has begun.
+BigSlap played Edge of Their Seats
+BigSlap pitched Imposing Visage
+Resolving play ability of Edge of Their Seats.
+BigSlap played Embolden from arsenal
+BigSlap pitched Embolden
+BigSlap pitched Star Struck
+Resolving play ability of Embolden.
+BigSlap played Boulder Drop
+🎯Oscilio, Constella Intelligence was chosen as the target.
+Resolving play ability of Boulder Drop.
+Ehecalt passed
+Ehecalt blocked with Crown of Providence and Snatch
+BigSlap passed
+Ehecalt passed
+Ehecalt is about to take 3 damage from Boulder Drop
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+BigSlap auto-passed
+BigSlap auto-passed
+The combat chain was closed.
+BigSlap auto-passed
+BigSlap passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 3 has begun.
+Ehecalt played Scar for a Scar
+🎯Bravo, Showstopper was chosen as the target.
+Scar for a Scar gains Go Again!
+Resolving play ability of Scar for a Scar.
+BigSlap passed
+Ehecalt passed
+BigSlap auto-passed
+BigSlap is about to take 4 damage from Scar for a Scar
+BigSlap took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt played Ravenous Rabble
+🎯Bravo, Showstopper was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Ehecalt reveals Scar for a Scar
+BigSlap passed
+Ehecalt passed
+BigSlap auto-passed
+BigSlap is about to take 4 damage from Ravenous Rabble
+BigSlap took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt activated Oscilio, Constella Intelligence
+Card chosen: Astral Bridge
+Resolving activated ability of Oscilio, Constella Intelligence.
+Ehecalt played Scar for a Scar
+🎯Bravo, Showstopper was chosen as the target.
+Resolving play ability of Scar for a Scar.
+BigSlap passed
+Ehecalt passed
+BigSlap auto-passed
+BigSlap is about to take 4 damage from Scar for a Scar
+BigSlap took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+BigSlap's turn 3 has begun.
+BigSlap played Blessing of Deliverance
+BigSlap pitched Show Time!
+Resolving play ability of Blessing of Deliverance.
+BigSlap played Blessing of Deliverance
+BigSlap pitched Boulder Drop
+Resolving play ability of Blessing of Deliverance.
+BigSlap activated Bravo, Showstopper
+BigSlap played Edge of Their Seats
+BigSlap undid their last action
+Resolving activated ability of Bravo, Showstopper.
+BigSlap played Colossal Bearing
+🎯Oscilio, Constella Intelligence was chosen as the target.
+BigSlap pitched Edge of Their Seats
+Resolving play ability of Colossal Bearing.
+Ehecalt passed
+BigSlap passed
+Ehecalt auto-passed
+Ehecalt is about to take 12 damage from Colossal Bearing
+Ehecalt took 12 damage
+Combat resolved with a hit for 12 damage
+Ehecalt played Sigil of Brilliance
+Resolving play ability of Sigil of Brilliance.
+The chain link was resolved.
+BigSlap auto-passed
+BigSlap auto-passed
+The combat chain was closed.
+BigSlap auto-passed
+BigSlap passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 4 has begun.
+Ehecalt played Entwine Lightning
+🎯Bravo, Showstopper was chosen as the target.
+👁️‍🗨️Starlight Road is revealed
+Resolving play ability of Entwine Lightning.
+BigSlap passed
+Ehecalt passed
+BigSlap auto-passed
+BigSlap is about to take 4 damage from Entwine Lightning
+BigSlap took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt played Gone in a Flash from arsenal
+🎯Bravo, Showstopper was chosen as the target.
+Resolving play ability of Gone in a Flash.
+BigSlap passed
+BigSlap blocked with Earthlore Bounty and Ironfist Revelation
+Ehecalt activated Fyendal's Spring Tunic
+Resolving activated ability of Fyendal's Spring Tunic.
+Ehecalt passed
+BigSlap passed
+BigSlap is about to take 0 damage from Gone in a Flash
+BigSlap took 0 damage
+Combat resolved with no hit
+Ehecalt activated Lightning Greaves
+Resolving activated ability of Lightning Greaves.
+Ehecalt played Sigil of Solace
+Ehecalt gained 3 life
+Resolving play ability of Sigil of Solace.
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt activated Bracers of Belief
+👁️‍🗨️Ehecalt reveals Enlightened Strike
+Resolving activated ability of Bracers of Belief.
+Ehecalt played Gone in a Flash
+🎯Bravo, Showstopper was chosen as the target.
+Resolving play ability of Gone in a Flash.
+BigSlap passed
+BigSlap blocked with Embolden and Crown of Providence
+Ehecalt passed
+BigSlap auto-passed
+BigSlap is about to take 1 damage from Gone in a Flash
+BigSlap took 1 damage
+Combat resolved with a hit for 1 damage
+Ehecalt played Starlight Road
+Resolving play ability of Starlight Road.
+The chain link was resolved.
+Ehecalt played Gone in a Flash
+🎯Bravo, Showstopper was chosen as the target.
+Embodiment of Lightning grants go again
+Resolving play ability of Gone in a Flash.
+BigSlap passed
+Ehecalt passed
+BigSlap auto-passed
+BigSlap is about to take 4 damage from Gone in a Flash
+BigSlap took 4 damage
+Combat resolved with a hit for 4 damage
+Ehecalt activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Ehecalt played Astral Bridge
+BigSlap's Bravo, Showstopper was targeted
+Resolving play ability of Astral Bridge.
+Enlightened Strike was put into the graveyard.
+Astral Bridge is dealing 2 arcane damage
+Ehecalt is dealing 2 arcane damage from Astral Bridge
+BigSlap took 2 damage
+The chain link was resolved.
+Ehecalt played Gone in a Flash
+🎯Bravo, Showstopper was chosen as the target.
+Resolving play ability of Gone in a Flash.
+BigSlap passed
+BigSlap blocked with Ironfist Revelation
+Ehecalt passed
+BigSlap auto-passed
+BigSlap is about to take 3 damage from Gone in a Flash
+BigSlap took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+BigSlap's turn 4 has begun.
+👁️‍🗨️Promising Terrain, are revealed
+BigSlap gained 0 life
+👁️‍🗨️Promising Terrain, Imposing Visage, Crippling Crush are revealed
+BigSlap gained 2 life
+BigSlap played Tear Asunder
+BigSlap pitched Surface Shaking
+Resolving play ability of Tear Asunder.
+BigSlap activated Anothos
+🎯Oscilio, Constella Intelligence was chosen as the target.
+BigSlap pitched Cranial Crush
+Resolving activated ability of Anothos.
+Ehecalt passed
+BigSlap passed
+Ehecalt passed
+Ehecalt is about to take 10 damage from Anothos
+Ehecalt took 10 damage
+Combat resolved with a hit for 10 damage
+Meteoric Impact was discarded
+Sigil of Brilliance was discarded
+The chain link was resolved.
+BigSlap auto-passed
+BigSlap auto-passed
+The combat chain was closed.
+BigSlap auto-passed
+BigSlap passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 5 has begun.
+Ehecalt played Flittering Charge
+🎯Bravo, Showstopper was chosen as the target.
+Resolving play ability of Flittering Charge.
+BigSlap passed
+BigSlap blocked with Earthlore Bounty
+Ehecalt played Sigil of Solace
+Ehecalt gained 3 life
+Resolving play ability of Sigil of Solace.
+Ehecalt passed
+BigSlap passed
+BigSlap is about to take 3 damage from Flittering Charge
+BigSlap took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+BigSlap's turn 5 has begun.
+BigSlap activated Bravo, Showstopper
+BigSlap pitched Edge of Their Seats
+Resolving activated ability of Bravo, Showstopper.
+BigSlap played Crippling Crush
+🎯Oscilio, Constella Intelligence was chosen as the target.
+BigSlap pitched Imposing Visage
+BigSlap pitched Promising Terrain
+Ehecalt activated Oscilio, Constella Intelligence
+Card chosen: Echoflash
+BigSlap's Bravo, Showstopper was targeted by Echoflash
+Ehecalt activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+Oscilio, Constella Intelligence is dealing 2 arcane damage
+Ehecalt is dealing 2 arcane damage from Oscilio, Constella Intelligence
+BigSlap took 2 damage
+Ehecalt (Ehecalt) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Flittering Charge, Electrostatic Discharge, Comet Collision, Astral Bridge
+[Ehecalt #1] Flittering Charge, Electrostatic Discharge, Comet Collision, Astral Bridge
+[BigSlap #1] Lightning Surge, Gone In A Flash, Astral Bridge, Constella Contemplation
+[Ehecalt #2] Gone In A Flash, Astral Bridge, Constella Contemplation
+[BigSlap #2] Astral Bridge, Scar For A Scar, Ravenous Rabble, Snatch
+[Ehecalt #3] Astral Bridge, Scar For A Scar, Ravenous Rabble
+[BigSlap #3] Sigil Of Brilliance, Sigil Of Solace, Entwine Lightning, Starlight Road
+[Ehecalt #4] Sigil Of Solace, Entwine Lightning, Starlight Road
+[BigSlap #4] Sigil Of Solace, Meteoric Impact, Flittering Charge, Sigil Of Brilliance
+[Ehecalt #5] Sigil Of Solace, Flittering Charge
+[BigSlap #5] Enlightened Strike, Ravenous Rabble, Sigil Of Solace, Echoflash
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[Ehecalt #1] (vide)
+[BigSlap #1] (vide)
+[Ehecalt #2] (vide)
+[BigSlap #2] Gone In A Flash
+[Ehecalt #3] Gone In A Flash
+[BigSlap #3] Gone In A Flash
+[Ehecalt #4] Gone In A Flash
+[BigSlap #4] (vide)
+[Ehecalt #5] (vide)
+[BigSlap #5] (vide)
+
+=== FIELD SNAPSHOTS (permanents/tokens en jeu : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: Seismic Surge, Seismic Surge, Blessing Of Deliverance, Seismic Surge, Surface Shaking, Seismic Surge, Seismic Surge, Seismic Surge
+[BigSlap #1] me: (vide) | opp: Seismic Surge, Seismic Surge, Blessing Of Deliverance, Seismic Surge, Surface Shaking, Seismic Surge, Seismic Surge, Seismic Surge, Seismic Surge
+[Ehecalt #2] me: Star Struck | opp: Seismic Surge, Seismic Surge, Seismic Surge
+[BigSlap #2] me: (vide) | opp: Seismic Surge
+[Ehecalt #3] me: (vide) | opp: Edge Of Their Seats, Embolden, Seismic Surge
+[BigSlap #3] me: (vide) | opp: Edge Of Their Seats, Embolden, Seismic Surge
+[Ehecalt #4] me: Sigil Of Brilliance | opp: Edge Of Their Seats, Blessing Of Deliverance, Seismic Surge, Blessing Of Deliverance, Seismic Surge
+[BigSlap #4] me: (vide) | opp: (vide)
+[Ehecalt #5] me: (vide) | opp: (vide)
+[BigSlap #5] me: (vide) | opp: (vide)
+
+=== GRAVEYARD SNAPSHOTS (cimetière : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: Sift
+[BigSlap #1] me: Comet Collision, Flittering Charge, Consign To Cosmos  Shock, Astral Bridge, Electrostatic Discharge | opp: Sift
+[Ehecalt #2] me: Lightning Surge, Comet Collision, Flittering Charge, Consign To Cosmos  Shock, Astral Bridge, Electrostatic Discharge | opp: Star Struck, Surface Shaking, Blessing Of Deliverance, Sift
+[BigSlap #2] me: Consign To Cosmos  Shock, Constella Contemplation, Lightning Surge, Comet Collision, Flittering Charge, Consign To Cosmos  Shock, Astral Bridge, Electrostatic Discharge | opp: Star Struck, Surface Shaking, Blessing Of Deliverance, Sift
+[Ehecalt #3] me: Snatch, Crown Of Providence, Consign To Cosmos  Shock, Constella Contemplation, Lightning Surge, Comet Collision, Flittering Charge, Consign To Cosmos  Shock, Astral Bridge, Electrostatic Discharge | opp: Boulder Drop, Star Struck, Surface Shaking, Blessing Of Deliverance, Sift
+[BigSlap #3] me: Scar For A Scar, Ravenous Rabble, Scar For A Scar, Astral Bridge, Snatch, Crown Of Providence, Consign To Cosmos  Shock, Constella Contemplation, Lightning Surge, Comet Collision, Flittering Charge, Consign To Cosmos  Shock, Astral Bridge, Electrostatic Discharge | opp: Embolden, Boulder Drop, Star Struck, Surface Shaking, Blessing Of Deliverance, Sift
+[Ehecalt #4] me: Scar For A Scar, Ravenous Rabble, Scar For A Scar, Astral Bridge, Snatch, Crown Of Providence, Consign To Cosmos  Shock, Constella Contemplation, Lightning Surge, Comet Collision, Flittering Charge, Consign To Cosmos  Shock, Astral Bridge, Electrostatic Discharge | opp: Colossal Bearing, Embolden, Boulder Drop, Star Struck, Surface Shaking, Blessing Of Deliverance, Sift
+[BigSlap #4] me: (vide) | opp: (vide)
+[Ehecalt #5] me: Sigil Of Brilliance, Meteoric Impact, Gone In A Flash, Astral Bridge, Enlightened Strike, Starlight Road, Bracers Of Belief, Entwine Lightning, Sigil Of Solace, Lightning Greaves, Sigil Of Brilliance, Scar For A Scar, Ravenous Rabble, Scar For A Scar, Astral Bridge, Snatch, Crown Of Providence, Consign To Cosmos  Shock, Constella Contemplation, Lightning Surge, Comet Collision, Flittering Charge, Consign To Cosmos  Shock, Astral Bridge, Electrostatic Discharge | opp: Tear Asunder, Blessing Of Deliverance, Blessing Of Deliverance, Edge Of Their Seats, Embolden, Ironfist Revelation, Crown Of Providence, Colossal Bearing, Embolden, Boulder Drop, Star Struck, Surface Shaking, Blessing Of Deliverance, Sift
+[BigSlap #5] me: Flittering Charge, Sigil Of Solace, Sigil Of Brilliance, Meteoric Impact, Gone In A Flash, Astral Bridge, Enlightened Strike, Starlight Road, Bracers Of Belief, Entwine Lightning, Sigil Of Solace, Lightning Greaves, Sigil Of Brilliance, Scar For A Scar, Ravenous Rabble, Scar For A Scar, Astral Bridge, Snatch, Crown Of Providence, Consign To Cosmos  Shock, Constella Contemplation, Lightning Surge, Comet Collision, Flittering Charge, Consign To Cosmos  Shock, Astral Bridge, Electrostatic Discharge | opp: Earthlore Bounty, Tear Asunder, Blessing Of Deliverance, Blessing Of Deliverance, Edge Of Their Seats, Embolden, Ironfist Revelation, Crown Of Providence, Colossal Bearing, Embolden, Boulder Drop, Star Struck, Surface Shaking, Blessing Of Deliverance, Sift
+
+=== BANISH SNAPSHOTS (banni : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: (vide)
+[BigSlap #1] me: (vide) | opp: (vide)
+[Ehecalt #2] me: (vide) | opp: (vide)
+[BigSlap #2] me: (vide) | opp: (vide)
+[Ehecalt #3] me: (vide) | opp: (vide)
+[BigSlap #3] me: (vide) | opp: (vide)
+[Ehecalt #4] me: (vide) | opp: (vide)
+[BigSlap #4] me: (vide) | opp: (vide)
+[Ehecalt #5] me: (vide) | opp: (vide)
+[BigSlap #5] me: (vide) | opp: (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=36 opp=40 myDeck=56 oppDeck=59
+[Ehecalt #1] me=36 opp=40 myDeck=56 oppDeck=56
+[BigSlap #1] me=36 opp=29 myDeck=51 oppDeck=57
+[Ehecalt #2] me=28 opp=31 myDeck=51 oppDeck=54
+[BigSlap #2] me=28 opp=29 myDeck=47 oppDeck=54
+[Ehecalt #3] me=25 opp=29 myDeck=47 oppDeck=52
+[BigSlap #3] me=25 opp=17 myDeck=42 oppDeck=52
+[Ehecalt #4] me=13 opp=17 myDeck=42 oppDeck=49
+[BigSlap #4] me=? opp=?
+[Ehecalt #5] me=6 opp=5 myDeck=36 oppDeck=47
+[BigSlap #5] me=9 opp=2 myDeck=32 oppDeck=47
+
+=== META ===
+schema: v1
+captured_with: TLG v1.12.0
+game_url: https://talishar.net/game/play/1623341
+captured_at: 2026-07-10T14:57:08.190Z
+format: compcc
+vs_ai: non
+me: Ehecalt
+opponent: BigSlap
+my_hero: Oscilio, Constella Intelligence (oscilio_constella_intelligence)
+opp_hero: Bravo Showstopper (bravo_showstopper)
+my_start_life: 36
+opp_start_life: 40
+my_start_deck_size: 56
+opp_start_deck_size: 59
+my_equipment: head=Crown Of Providence (crown_of_providence) | chest=Fyendals Spring Tunic (fyendals_spring_tunic) | arms=Bracers Of Belief (bracers_of_belief) | legs=Lightning Greaves (lightning_greaves) | weaponL=Volzar Meteor Storm (volzar_meteor_storm)
+opp_equipment: head=Crown Of Providence (crown_of_providence) | chest=Earthlore Bounty (earthlore_bounty) | arms=Ironfist Revelation (ironfist_revelation) | legs=Nullrune Boots (nullrune_boots) | weaponL=Anothos (anothos)
+
+=== TIMESTAMPS ===
+0-0:1783695484,1-1:1783695486,2-3:1783695491,4-4:1783695494,5-5:1783695495,6-6:1783695496,7-8:1783695510,9-9:1783695511,10-11:1783695512,12-13:1783695515,14-14:1783695518,15-15:1783695519,16-17:1783695520,18-18:1783695521,19-19:1783695536,20-20:1783695538,21-21:1783695539,22-23:1783695540,24-26:1783695541,27-29:1783695545,30-32:1783695548,33-33:1783695558,34-34:1783695560,35-36:1783695562,37-38:1783695564,39-39:1783695566,40-43:1783695567,44-44:1783695568,45-48:1783695569,49-50:1783695570,51-52:1783695572,53-54:1783695573,55-56:1783695574,57-58:1783695576,59-60:1783695581,61-61:1783695591,62-62:1783695594,63-63:1783695595,64-65:1783695596,66-66:1783695597,67-68:1783695623,69-69:1783695627,70-73:1783695628,74-76:1783695630,77-79:1783695631,80-81:1783695636,82-82:1783695639,83-83:1783695640,84-84:1783695642,85-85:1783695645,86-86:1783695648,87-87:1783695649,88-89:1783695651,90-91:1783695653,92-93:1783695654,94-95:1783695655,96-97:1783695657,98-98:1783695659,99-99:1783695660,100-100:1783695661,101-101:1783695664,102-103:1783695665,104-104:1783695667,105-106:1783695672,107-107:1783695675,108-109:1783695697,110-110:1783695701,111-114:1783695702,115-117:1783695703,118-120:1783695704,121-122:1783695705,123-124:1783695706,125-125:1783695707,126-126:1783695708,127-127:1783695714,128-132:1783695715,133-133:1783695716,134-135:1783695717,136-136:1783695719,137-137:1783695720,138-138:1783695724,139-143:1783695727,144-144:1783695729,145-146:1783695733,147-147:1783695736,148-149:1783695737,150-150:1783695738,151-151:1783695746,152-156:1783695748,157-157:1783695749,158-160:1783695750,161-164:1783695751,165-166:1783695755,167-167:1783695757,168-168:1783695760,169-169:1783695761,170-170:1783695762,171-172:1783695770,173-173:1783695774,174-174:1783695777,175-176:1783695778,177-177:1783695779,178-178:1783695785,179-179:1783695788,180-184:1783695791,185-186:1783695802,187-189:1783695803,190-192:1783695805,193-194:1783695821,195-196:1783695831,197-197:1783695832,198-198:1783695833,199-199:1783695844,200-204:1783695845,205-205:1783695847,206-207:1783695848,208-208:1783695851,209-210:1783695854,211-211:1783695859,212-212:1783695860,213-213:1783695861,214-217:1783695862,218-218:1783695863,219-219:1783695864,220-220:1783695867,221-222:1783695870,223-223:1783695871,224-225:1783695874,226-226:1783695876,227-228:1783695878,229-230:1783695890,231-231:1783695892,232-233:1783695899,234-238:1783695904,239-239:1783695906,240-240:1783695910,241-241:1783695914,242-244:1783695940,245-245:1783695943,246-246:1783695946,247-251:1783695949,252-252:1783695951,253-253:1783695953,254-255:1783695954,256-258:1783695955,259-261:1783695957,262-264:1783695958,265-266:1783695960,267-272:1783695961,273-275:1783695962,276-279:1783695963,280-283:1783695964,284-285:1783695966,286-286:1783695971,287-289:1783695972,290-290:1783695976,291-291:1783695988,292-292:1783696003,293-296:1783696004,297-297:1783696006,298-301:1783696008,302-304:1783696009,305-306:1783696012,307-308:1783696013,309-309:1783696015,310-311:1783696027,312-312:1783696029,313-314:1783696030,315-315:1783696031,316-319:1783696032,320-320:1783696033,321-322:1783696034,323-325:1783696035,326-327:1783696037,328-329:1783696038,330-330:1783696040,331-333:1783696041,334-334:1783696042,335-335:1783696049,336-337:1783696053,338-338:1783696057,339-339:1783696059,340-340:1783696060,341-344:1783696062
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":2,"byPlayer":{"1":{"gameId":"1623341","deckId":"","turns":5,"result":0,"winner":2,"firstPlayer":1,"opposingHero":"oscilio_constella_intelligence","yourHero":"bravo_showstopper","startingLife":40,"opponentHero":"oscilio_constella_intelligence","opponentStartingLife":36,"cardResults":[{"cardId":"blessing_of_deliverance_blue","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blessing of Deliverance","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"blessing_of_deliverance_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blessing of Deliverance","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"blessing_of_deliverance_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blessing of Deliverance","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"boulder_drop_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Boulder Drop","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"boulder_drop_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Boulder Drop","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"colossal_bearing_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Colossal Bearing","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"cranial_crush_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Cranial Crush","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"crippling_crush_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Crippling Crush","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"edge_of_their_seats_blue","played":"1","blocked":"0","pitched":"2","hits":"0","discarded":"0","charged":"0","cardName":"Edge of Their Seats","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"embolden_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Embolden","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"embolden_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Embolden","pitchValue":1,"numCopies":2},{"cardId":"embolden_yellow","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Embolden","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"grandeur_of_valahai_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Grandeur of Valahai","pitchValue":3,"numCopies":1},{"cardId":"imposing_visage_blue","played":"0","blocked":"0","pitched":"3","hits":"0","discarded":"0","charged":"0","cardName":"Imposing Visage","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"in_the_palm_of_your_hand_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"In the Palm of Your Hand","pitchValue":1,"numCopies":2},{"cardId":"lunging_press_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Lunging Press","pitchValue":3,"numCopies":2},{"cardId":"promising_terrain_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Promising Terrain","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"show_time_blue","played":"0","blocked":"0","pitched":"2","hits":"0","discarded":"0","charged":"0","cardName":"Show Time!","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sift_blue","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sift","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"star_struck_yellow","played":"1","blocked":"0","pitched":"1","hits":"1","discarded":"0","charged":"0","cardName":"Star Struck","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"surface_shaking_blue","played":"1","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Surface Shaking","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"tear_asunder_blue","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Tear Asunder","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"the_suspense_is_killing_me_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"The Suspense is Killing Me","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"spinal_crush_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Spinal Crush","pitchValue":1,"numCopies":2}],"character":[{"cardId":"bravo_showstopper","cardName":"Bravo, Showstopper","numCopies":1},{"cardId":"anothos","cardName":"Anothos","numCopies":1},{"cardId":"crown_of_providence","cardName":"Crown of Providence","numCopies":1},{"cardId":"earthlore_bounty","cardName":"Earthlore Bounty","numCopies":1},{"cardId":"ironfist_revelation","cardName":"Ironfist Revelation","numCopies":1},{"cardId":"nullrune_boots","cardName":"Nullrune Boots","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"bravo_showstopper","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Bravo, Showstopper","pitchValue":0,"katsuDiscard":"0","activated":"3","passiveTriggered":"0"},{"cardId":"earthlore_bounty","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Earthlore Bounty","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"ironfist_revelation","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Ironfist Revelation","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"crown_of_providence","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Crown of Providence","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"anothos","played":"0","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Anothos","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"5","resourcesLeft":"1","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":40,"opponentLifeAtTurnEnd":36,"turnNo":0},"turn_1":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"1","cardsLeft":"0","damageThreatened":"10","damageDealt":"8","damageBlocked":"0","damagePrevented":"3","damageTaken":"11","lifeGained":"2","lifeLost":"0","lifeAtTurnEnd":31,"opponentLifeAtTurnEnd":28,"turnNo":1},"turn_2":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"3","cardsDiscarded":"0","resourcesUsed":"7","resourcesLeft":"1","cardsLeft":"0","damageThreatened":"7","damageDealt":"3","damageBlocked":"0","damagePrevented":"0","damageTaken":"2","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":29,"opponentLifeAtTurnEnd":25,"turnNo":2},"turn_3":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"3","cardsDiscarded":"0","resourcesUsed":"9","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"12","damageDealt":"12","damageBlocked":"0","damagePrevented":"0","damageTaken":"12","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":17,"opponentLifeAtTurnEnd":13,"turnNo":3},"turn_4":{"cardsUsed":1,"cardsBlocked":"1","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"6","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"10","damageDealt":"10","damageBlocked":"10","damagePrevented":"0","damageTaken":"14","lifeGained":"2","lifeLost":"0","lifeAtTurnEnd":5,"opponentLifeAtTurnEnd":6,"turnNo":4},"turn_5":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"3","cardsDiscarded":"0","resourcesUsed":"9","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"1","damagePrevented":"0","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":2,"opponentLifeAtTurnEnd":9,"turnNo":5}},"yourTime":"239","totalTime":596,"totalDamageThreatened":39,"totalDamageDealt":33,"totalLifeGained":4,"totalDamageBlocked":11,"totalDamagePrevented":3,"totalLifeLost":0,"averageDamageThreatenedPerTurn":7.8,"averageDamageDealtPerTurn":6.6,"averageDamageThreatenedPerCard":2.05,"averageResourcesUsedPerTurn":6.6,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":10,"averageValuePerTurn":11.4,"totalDamageThreatened_NoLast":39,"totalDamageDealt_NoLast":33,"totalLifeGained_NoLast":4,"totalDamageBlocked_NoLast":10,"totalDamagePrevented_NoLast":3,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":9.75,"averageDamageDealtPerTurn_NoLast":8.25,"averageDamageThreatenedPerCard_NoLast":2.6,"averageResourcesUsedPerTurn_NoLast":6,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":12.25,"averageValuePerTurn_NoLast":14,"fullLog":""},"2":{"gameId":"1623341","deckId":"","turns":5,"result":1,"winner":2,"firstPlayer":0,"opposingHero":"bravo_showstopper","yourHero":"oscilio_constella_intelligence","startingLife":36,"opponentHero":"bravo_showstopper","opponentStartingLife":40,"cardResults":[{"cardId":"astral_bridge_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Astral Bridge","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"comet_collision_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Comet Collision","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"consign_to_cosmos__shock_yellow","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Consign To Cosmos // Shock","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"constella_contemplation_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Constella Contemplation","pitchValue":2,"numCopies":3},{"cardId":"constella_uplift_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Constella Uplift","pitchValue":2,"numCopies":3},{"cardId":"echoflash_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Echoflash","pitchValue":2,"numCopies":3},{"cardId":"electrostatic_discharge_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Electrostatic Discharge","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"enlightened_strike_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Enlightened Strike","pitchValue":1,"numCopies":3},{"cardId":"entwine_lightning_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Entwine Lightning","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"flittering_charge_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Flittering Charge","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"flowstate_embodiment_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Flowstate Embodiment","pitchValue":1,"numCopies":1},{"cardId":"gone_in_a_flash_red","played":"4","blocked":"0","pitched":"0","hits":"3","discarded":"0","charged":"0","cardName":"Gone in a Flash","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_press_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Lightning Press","pitchValue":1,"numCopies":1},{"cardId":"lightning_surge_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Surge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Ravenous Rabble","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"scar_for_a_scar_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Scar for a Scar","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_brilliance_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"1","charged":"0","cardName":"Sigil of Brilliance","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_solace_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sigil of Solace","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"snatch_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Snatch","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"starlight_road_blue","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Starlight Road","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"meteoric_impact_red","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"1","charged":"0","cardName":"Meteoric Impact","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"cloud_cover_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Cloud Cover","pitchValue":1,"numCopies":3}],"character":[{"cardId":"oscilio_constella_intelligence","cardName":"Oscilio, Constella Intelligence","numCopies":1},{"cardId":"volzar_meteor_storm","cardName":"Volzar, Meteor Storm","numCopies":1},{"cardId":"crown_of_providence","cardName":"Crown of Providence","numCopies":1},{"cardId":"fyendals_spring_tunic","cardName":"Fyendal's Spring Tunic","numCopies":1},{"cardId":"bracers_of_belief","cardName":"Bracers of Belief","numCopies":1},{"cardId":"lightning_greaves","cardName":"Lightning Greaves","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"volzar_meteor_storm","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Volzar, Meteor Storm","pitchValue":0,"katsuDiscard":"0","activated":"4","passiveTriggered":"0"},{"cardId":"oscilio_constella_intelligence","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Oscilio, Constella Intelligence","pitchValue":0,"katsuDiscard":"0","activated":"3","passiveTriggered":"0"},{"cardId":"crown_of_providence","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Crown of Providence","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"fyendals_spring_tunic","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Fyendal's Spring Tunic","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"lightning_greaves","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Greaves","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"bracers_of_belief","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Bracers of Belief","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":36,"opponentLifeAtTurnEnd":40,"turnNo":0},"turn_1":{"cardsUsed":5,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"14","damageDealt":"11","damageBlocked":"0","damagePrevented":"0","damageTaken":"8","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":28,"opponentLifeAtTurnEnd":31,"turnNo":1},"turn_2":{"cardsUsed":1,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"2","damageDealt":"2","damageBlocked":"2","damagePrevented":"0","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":25,"opponentLifeAtTurnEnd":29,"turnNo":2},"turn_3":{"cardsUsed":3,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"12","damageDealt":"12","damageBlocked":"4","damagePrevented":"0","damageTaken":"12","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":13,"opponentLifeAtTurnEnd":17,"turnNo":3},"turn_4":{"cardsUsed":9,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"24","damageDealt":"14","damageBlocked":"0","damagePrevented":"0","damageTaken":"10","lifeGained":"3","lifeLost":"0","lifeAtTurnEnd":6,"opponentLifeAtTurnEnd":5,"turnNo":4},"turn_5":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"2","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"4","damageDealt":"3","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"3","lifeLost":"0","lifeAtTurnEnd":9,"opponentLifeAtTurnEnd":2,"turnNo":5}},"yourTime":"357","totalTime":596,"totalDamageThreatened":56,"totalDamageDealt":42,"totalLifeGained":6,"totalDamageBlocked":6,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":11.2,"averageDamageDealtPerTurn":8.4,"averageDamageThreatenedPerCard":3.29,"averageResourcesUsedPerTurn":0.2,"averageCardsLeftOverPerTurn":0.2,"averageCombatValuePerTurn":12.4,"averageValuePerTurn":13.6,"totalDamageThreatened_NoLast":52,"totalDamageDealt_NoLast":39,"totalLifeGained_NoLast":3,"totalDamageBlocked_NoLast":6,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":13,"averageDamageDealtPerTurn_NoLast":9.75,"averageDamageThreatenedPerCard_NoLast":4,"averageResourcesUsedPerTurn_NoLast":0.25,"averageCardsLeftOverPerTurn_NoLast":0.25,"averageCombatValuePerTurn_NoLast":14.5,"averageValuePerTurn_NoLast":15.25,"fullLog":""}}}

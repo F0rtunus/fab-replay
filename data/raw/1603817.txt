@@ -1,0 +1,120 @@
+=== Talishar game 1603817 — 08/07/2026 22:45:31 ===
+
+your opponent passed
+you passed
+your opponent passed
+your opponent is about to take 2 damage from Star Fall
+your opponent took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+you played Snatch from arsenal
+🎯Boltyn was chosen as the target.
+Resolving play ability of Snatch.
+your opponent passed
+you passed
+your opponent passed
+your opponent is about to take 4 damage from Snatch
+your opponent took 4 damage
+Combat resolved with a hit for 4 damage
+Processing hit effect for Snatch
+The chain link was resolved.
+you played Burn Up // Shock
+Selected mode for Burn Up // Shock is: Shock
+your opponent's Boltyn was targeted
+Resolving play ability of Burn Up // Shock.
+Burn Up // Shock is dealing 1 arcane damage
+you is dealing 1 arcane damage from Burn Up // Shock
+your opponent took 1 damage
+you auto-passed
+The combat chain was closed.
+you auto-passed
+you passed priority. Attempting to end turn.
+═══════════════
+your opponent's turn 2 has begun.
+your opponent activated Garland of Spring
+Resolving activated ability of Garland of Spring.
+your opponent played V of the Vanguard
+🎯Briar was chosen as the target.
+Beaming Bravado was charged.
+Banneret of Salvation was charged.
+V of the Vanguard gives all attacks on this combat chain +2
+Resolving play ability of V of the Vanguard.
+you passed
+your opponent activated Boltyn
+Resolving activated ability of Boltyn.
+your opponent passed
+you passed
+you is about to take 5 damage from V of the Vanguard
+you took 5 damage
+Combat resolved with a hit for 5 damage
+your opponent gained 1 life
+The chain link was resolved.
+your opponent played Beaming Bravado from arsenal
+🎯Briar was chosen as the target.
+Resolving play ability of Beaming Bravado.
+you passed
+your opponent activated Boltyn
+Resolving activated ability of Boltyn.
+your opponent passed
+you passed
+you is about to take 5 damage from Beaming Bravado
+you took 5 damage
+Combat resolved with a hit for 5 damage
+The chain link was resolved.
+your opponent played Snatch
+🎯Briar was chosen as the target.
+Resolving play ability of Snatch.
+you passed
+your opponent activated Boltyn
+Resolving activated ability of Boltyn.
+your opponent passed
+you passed
+you is about to take 6 damage from Snatch
+you took 6 damage
+Combat resolved with a hit for 6 damage
+Processing hit effect for Snatch
+The chain link was resolved.
+your opponent activated Raydn, Duskbane
+🎯Briar was chosen as the target.
+Resolving activated ability of Raydn, Duskbane.
+you passed
+you blocked with Blade Beckoner Helm and Blade Beckoner Gauntlets
+your opponent played Courageous Steelhand
+Resolving play ability of Courageous Steelhand.
+your opponent passed
+you passed
+you is about to take 4 damage from Raydn, Duskbane
+you took 4 damage
+your opponent (RageOfBlasmophet) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+Ehecalt: Good Game!
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[your opponent #2] (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[your opponent #2] me=? opp=?
+
+=== META ===
+schema: v1
+captured_with: TLG v1.10.4
+game_url: https://talishar.net/game/lobby/1603817
+captured_at: 2026-07-08T20:45:31.787Z
+format: sage
+vs_ai: non
+me: (non capté)
+opponent: (non capté)
+my_hero: Briar (briar)
+opp_hero: (non capté)
+my_start_life: (non capté)
+opp_start_life: (non capté)
+my_start_deck_size: (non capté)
+opp_start_deck_size: (non capté)
+my_equipment: (non capté)
+opp_equipment: (non capté)
+
+=== TIMESTAMPS ===
+0-87:1783543531
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1603785","deckId":"","turns":2,"result":0,"winner":2,"firstPlayer":0,"opposingHero":"boltyn","yourHero":"briar","startingLife":20,"opponentHero":"boltyn","opponentStartingLife":20,"cardResults":[{"cardId":"arcane_seeds__life_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Arcane Seeds // Life","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"arcanic_shockwave_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Arcanic Shockwave","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"entwine_lightning_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Entwine Lightning","pitchValue":1,"numCopies":2},{"cardId":"lightning_press_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Lightning Press","pitchValue":1,"numCopies":2},{"cardId":"lightning_surge_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Surge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"nimblism_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Nimblism","pitchValue":1,"numCopies":2},{"cardId":"path_of_same_ends_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Path of Same Ends","pitchValue":1,"numCopies":2},{"cardId":"quick_succession_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"quick_succession_yellow","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Ravenous Rabble","pitchValue":1,"numCopies":2},{"cardId":"rush_of_power_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Rush of Power","pitchValue":1,"numCopies":2},{"cardId":"scar_for_a_scar_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Scar for a Scar","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sizzle_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sizzle","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"snatch_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Snatch","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sprout_strength_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sprout Strength","pitchValue":1,"numCopies":2},{"cardId":"static_shock_red","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Static Shock","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"stinging_sprite_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Stinging Sprite","pitchValue":1,"numCopies":2},{"cardId":"weave_lightning_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Weave Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"burn_up__shock_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Burn Up // Shock","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_suffering_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sigil of Suffering","pitchValue":1,"numCopies":2}],"character":[{"cardId":"briar","cardName":"Briar","numCopies":1},{"cardId":"star_fall","cardName":"Star Fall","numCopies":1},{"cardId":"blade_beckoner_helm","cardName":"Blade Beckoner Helm","numCopies":1},{"cardId":"blossom_of_spring","cardName":"Blossom of Spring","numCopies":1},{"cardId":"blade_beckoner_gauntlets","cardName":"Blade Beckoner Gauntlets","numCopies":1},{"cardId":"blade_beckoner_boots","cardName":"Blade Beckoner Boots","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"star_fall","played":"0","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Star Fall","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"blade_beckoner_helm","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Helm","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"blade_beckoner_gauntlets","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Gauntlets","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"4","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"8","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":20,"turnNo":0},"turn_1":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"6","damageDealt":"2","damageBlocked":"0","damagePrevented":"0","damageTaken":"3","lifeGained":"1","lifeLost":"0","lifeAtTurnEnd":18,"opponentLifeAtTurnEnd":18,"turnNo":1},"turn_2":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"15","damageDealt":"15","damageBlocked":"0","damagePrevented":"0","damageTaken":"20","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":18,"opponentLifeAtTurnEnd":3,"turnNo":2}},"yourTime":"100","totalTime":147,"totalDamageThreatened":21,"totalDamageDealt":17,"totalLifeGained":1,"totalDamageBlocked":8,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":10.5,"averageDamageDealtPerTurn":8.5,"averageDamageThreatenedPerCard":5.25,"averageResourcesUsedPerTurn":0.5,"averageCardsLeftOverPerTurn":0.5,"averageCombatValuePerTurn":10.5,"averageValuePerTurn":11,"totalDamageThreatened_NoLast":6,"totalDamageDealt_NoLast":2,"totalLifeGained_NoLast":1,"totalDamageBlocked_NoLast":8,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":6,"averageDamageDealtPerTurn_NoLast":2,"averageDamageThreatenedPerCard_NoLast":6,"averageResourcesUsedPerTurn_NoLast":0,"averageCardsLeftOverPerTurn_NoLast":1,"averageCombatValuePerTurn_NoLast":6,"averageValuePerTurn_NoLast":7,"fullLog":""}}}

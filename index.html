@@ -1,0 +1,471 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chain Replay — Analyseur de parties FaB (Talishar)</title>
+<link rel="stylesheet" href="css/style.css?v=83">
+</head>
+<body>
+
+<header>
+  <div class="brand"><h1>⛓ Chain Replay</h1><span>analyseur de parties Talishar · Flesh and Blood</span></div>
+</header>
+
+<div id="app">
+
+  <!-- ====================== MODE DASHBOARD ====================== -->
+  <section id="dashboardView" class="view active">
+    <div class="dash-empty" id="dashEmpty" style="display:none">
+      Aucune partie en mémoire pour l'instant.<br>
+      Utilise <strong>⤒ Importer un log</strong> en bas de page pour ajouter un ou plusieurs <strong>.txt</strong>.<br>
+      <span style="font-size:.8rem">Les parties sont mémorisées entre les sessions (IndexedDB).</span>
+    </div>
+
+    <!-- Le tableau de bord (carrousel héros, filtres, onglets, sections) est
+         entièrement construit par js/dashboard.js dans ce conteneur. -->
+    <div id="dashboardBody"></div>
+  </section>
+
+  <!-- ====================== MODE REPLAY ====================== -->
+  <section id="replayView" class="view">
+    <div class="topbar">
+      <button class="back-btn" id="backToDash">← Tableau de bord</button>
+      <div class="topbar-title" id="replayMatchup"></div>
+      <div class="spacer"></div>
+    </div>
+
+    <div class="empty-state" id="replayEmpty">Aucune partie sélectionnée.</div>
+
+    <div id="scoreboard">
+      <div id="matchBanner"></div>
+
+      <!-- Onglets : séparer le déroulé tour-par-tour des stats globales -->
+      <div class="replay-tabs" id="replayTabs">
+        <button class="replay-tab-btn active" data-tab="replay">⚔ Déroulé</button>
+        <button class="replay-tab-btn" data-tab="table">🎴 Table</button>
+        <button class="replay-tab-btn" data-tab="stats">📊 Stats</button>
+      </div>
+
+      <div class="replay-tab active" id="tab-replay">
+        <div id="curveWrap">
+          <div class="curve-holder" id="curveHolder">
+            <svg id="curveSvg" viewBox="0 0 400 132" preserveAspectRatio="none"></svg>
+            <div class="curve-guide" id="curveGuide"></div>
+            <div class="curve-dot opp" id="curveDotOpp"></div>
+            <div class="curve-dot me" id="curveDotMe"></div>
+            <div class="curve-tip" id="curveTip"></div>
+          </div>
+          <div class="curve-readout" id="curveReadout"></div>
+        </div>
+        <div id="chainWrap"><div class="chain" id="chain"></div></div>
+
+        <div id="turnDetail">
+          <div class="turn-title">
+            <h2 id="turnLabel"></h2>
+            <div class="nav-btns">
+              <button id="prevTurn">‹</button>
+              <button id="nextTurn">›</button>
+            </div>
+          </div>
+          <div class="toggle-row">
+            <label><input type="checkbox" id="detailToggle"> Afficher le détail technique (passes, résolutions de chaîne…)</label>
+          </div>
+          <div id="turnBoard"></div>
+        </div>
+
+        <div id="knownCardsWrap">
+          <details open>
+            <summary>Cartes vues depuis le début de la partie</summary>
+            <div id="knownCardsBody"></div>
+          </details>
+        </div>
+      </div>
+
+      <div class="replay-tab" id="tab-table">
+        <div id="boardReplay"></div>
+      </div>
+
+      <div class="replay-tab" id="tab-stats">
+        <div id="statsWrap">
+          <h3>Stats de la partie</h3>
+          <div class="stat-grid" id="statGrid"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<!-- Outils (rarement utilisés) regroupés en bas de page : import manuel + synchro + sauvegarde. -->
+<section class="tools" id="toolsBar">
+  <div class="tools-row">
+    <button class="lib-btn" id="importToggle" aria-expanded="false" aria-controls="importPanel" title="Importer un log .txt à la main (les parties arrivent normalement toutes seules)">⤒ Importer un log</button>
+    <button class="lib-btn" id="syncBtn">☁ Synchro GitHub</button>
+    <button class="lib-btn" id="exportBtn">⤓ Exporter la bibliothèque</button>
+    <button class="lib-btn" id="importBtn">⤒ Importer une sauvegarde</button>
+    <input type="file" id="importInput" accept=".json,application/json" hidden>
+    <span class="lib-hint" id="libHint">Transfère tes parties d'un appareil à l'autre via un fichier <strong>.json</strong>.</span>
+  </div>
+  <div class="import-panel" id="importPanel" hidden>
+    <div class="dropzone" id="dropzone">
+      <div>Dépose <strong>un ou plusieurs .txt</strong> de log ici, ou clique pour les choisir</div>
+      <input type="file" id="fileInput" accept=".txt" multiple>
+    </div>
+    <textarea class="or-paste" id="pasteArea" placeholder="…ou colle directement le contenu d'un log ici (une partie)"></textarea>
+    <button class="analyze-btn" id="analyzeBtn" disabled>Importer</button>
+  </div>
+</section>
+
+<footer>Images de cartes via <a href="https://api.goagain.dev" target="_blank" rel="noopener">goagain.dev</a> · données non affiliées à Legend Story Studios<span id="buildTag"></span></footer>
+
+<!-- Modules partagés (ordre important : le parseur d'abord).
+     ?v=N = cache-bust : à bumper quand on modifie le CSS ou un module JS,
+     pour forcer navigateurs (surtout mobiles) à recharger au lieu du cache. -->
+<script src="talishar-parser.js?v=83"></script>
+<script src="js/images.js?v=83"></script>
+<script src="js/db.js?v=83"></script>
+<script src="js/sync.js?v=83"></script>
+<script src="js/replay.js?v=83"></script>
+<script src="js/boardreplay.js?v=83"></script>
+<script src="js/dashboard.js?v=83"></script>
+
+<script>
+// ============================================================
+// APP — routeur 2 modes (dashboard / replay), import 1/N,
+// chargement/persistance IndexedDB.
+// ============================================================
+(function () {
+  'use strict';
+  if (!window.TalisharParser) { alert('talishar-parser.js introuvable.'); return; }
+
+  const $ = sel => document.querySelector(sel);
+
+  // Numéro de build affiché en pied de page : lu depuis le ?v=N réellement
+  // chargé sur les scripts (source unique) → permet de vérifier d'un coup d'œil
+  // quelle version le navigateur sert vraiment (utile face au cache mobile).
+  (function () {
+    const bt = $('#buildTag');
+    if (!bt) return;
+    const srcs = [].map.call(document.scripts, s => s.src || '').join(' ');
+    const m = /[?&]v=(\d+)/.exec(srcs);
+    bt.textContent = m ? ' · build ' + m[1] : '';
+  })();
+
+  const dropzone = $('#dropzone'), fileInput = $('#fileInput'), pasteArea = $('#pasteArea'), analyzeBtn = $('#analyzeBtn');
+  const importToggle = $('#importToggle'), importPanel = $('#importPanel');
+
+  // ---------- Zone d'import repliable (import auto la plupart du temps) ----------
+  function setImportOpen(open) {
+    importPanel.hidden = !open;
+    importToggle.setAttribute('aria-expanded', String(open));
+  }
+  importToggle.addEventListener('click', () => setImportOpen(importPanel.hidden));
+  // Un glisser-déposer sur la barre d'outils déplie la zone pour accueillir le fichier.
+  document.querySelector('#toolsBar').addEventListener('dragover', () => { if (importPanel.hidden) setImportOpen(true); });
+
+  let stagedFiles = [];   // fichiers déposés/choisis, lus au moment de l'import
+
+  // ---------- Routeur ----------
+  function showView(name) {
+    $('#dashboardView').classList.toggle('active', name === 'dashboard');
+    $('#replayView').classList.toggle('active', name === 'replay');
+    window.scrollTo(0, 0);
+  }
+
+  // ---------- Chargement / rendu du dashboard ----------
+  async function reloadDashboard() {
+    const entries = await window.FabDB.getAllEntries();
+    const hasGames = entries.length > 0;
+    $('#dashEmpty').style.display = hasGames ? 'none' : 'block';
+    $('#dashboardBody').style.display = hasGames ? 'block' : 'none';
+    if (hasGames) {
+      window.Dashboard.mount({ entries, onOpen: openGame, onDelete: deleteGame });
+    }
+    return entries;
+  }
+
+  // ---------- Onglets du replay (Déroulé / Table / Stats) ----------
+  let _boardGame = null;   // record déjà monté sur la table (évite de reconstruire)
+  function setReplayTab(name) {
+    document.querySelectorAll('.replay-tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === name));
+    const r = $('#tab-replay'), t = $('#tab-table'), s = $('#tab-stats');
+    if (r) r.classList.toggle('active', name === 'replay');
+    if (t) t.classList.toggle('active', name === 'table');
+    if (s) s.classList.toggle('active', name === 'stats');
+    // Onglet Table : on élargit le bandeau + les onglets pour s'aligner sur le
+    // plateau (pleine largeur sur desktop) ; sinon on garde la colonne étroite.
+    const sb = $('#scoreboard'); if (sb) sb.classList.toggle('sb-wide', name === 'table');
+    // La table est reconstruite paresseusement à la première ouverture (par partie).
+    if (name === 'table' && window.BoardReplay && window.Replay && window.Replay.getGame) {
+      const g = window.Replay.getGame();
+      if (g && g !== _boardGame) { window.BoardReplay.mount($('#boardReplay'), g); _boardGame = g; }
+    }
+    window.scrollTo(0, 0);
+  }
+  document.querySelectorAll('.replay-tab-btn').forEach(b => b.addEventListener('click', () => setReplayTab(b.dataset.tab)));
+
+  function openGame(entry) {
+    window.Replay.show(entry.record);
+    setReplayTab('table');   // vue Table par défaut (rejeu sur plateau)
+    showView('replay');
+    if (history.replaceState) history.replaceState(null, '', '#game=' + encodeURIComponent(entry.gameId));
+    else location.hash = 'game=' + encodeURIComponent(entry.gameId);
+  }
+
+  async function deleteGame(id) {
+    if (!confirm('Supprimer cette partie de la bibliothèque ?')) return;
+    await window.FabDB.removeGame(id);
+    await reloadDashboard();
+    // Propagation inter-appareil : on inscrit la suppression dans le dépôt
+    // (data/deleted.json) si la synchro est connectée sur cet appareil.
+    if (window.FabSync.canWrite()) {
+      try {
+        await window.FabSync.pushDeletion([id]);
+        libHint.textContent = 'Partie supprimée — propagée à tes autres appareils.';
+      } catch (e) {
+        console.error(e);
+        libHint.textContent = 'Supprimée ici, mais propagation échouée : ' + e.message;
+      }
+    } else {
+      libHint.textContent = 'Partie supprimée sur cet appareil. Connecte la synchro (☁) pour supprimer sur tous tes appareils.';
+    }
+  }
+
+  $('#backToDash').addEventListener('click', () => {
+    if (history.replaceState) history.replaceState(null, '', location.pathname + location.search);
+    if (window.Dashboard && window.Dashboard.restoreTheme) window.Dashboard.restoreTheme();
+    showView('dashboard');
+  });
+
+  // ---------- Export / Import de la bibliothèque (sauvegarde multi-appareils) ----------
+  const exportBtn = $('#exportBtn'), importBtn = $('#importBtn'), importInput = $('#importInput'), libHint = $('#libHint');
+
+  function downloadJson(filename, obj) {
+    const blob = new Blob([JSON.stringify(obj)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url; a.download = filename;
+    document.body.appendChild(a); a.click(); document.body.removeChild(a);
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
+  }
+
+  exportBtn.addEventListener('click', async () => {
+    const backup = await window.FabDB.exportAll();
+    if (!backup.count) { alert('Aucune partie à exporter pour l’instant.'); return; }
+    const stamp = (backup.exportedAt || new Date().toISOString()).slice(0, 10);
+    downloadJson('fab-library-' + stamp + '.json', backup);
+    libHint.textContent = backup.count + ' partie(s) exportée(s) → fab-library-' + stamp + '.json';
+  });
+
+  importBtn.addEventListener('click', () => importInput.click());
+
+  importInput.addEventListener('change', async e => {
+    const file = e.target.files && e.target.files[0];
+    if (!file) return;
+    try {
+      const text = await file.text();
+      const data = JSON.parse(text);
+      const res = await window.FabDB.importEntries(data);
+      await reloadDashboard();
+      libHint.textContent = res.imported + ' partie(s) importée(s)'
+        + (res.skipped ? ', ' + res.skipped + ' ignorée(s)' : '')
+        + ' (les doublons sont fusionnés).';
+      if (!res.imported) alert('Aucune partie valide trouvée dans ce fichier.');
+    } catch (err) {
+      console.error(err);
+      alert('Import impossible : fichier .json illisible ou invalide.');
+    } finally {
+      importInput.value = '';
+    }
+  });
+
+  // ---------- Synchro GitHub (dépôt = base ; lecture libre, écriture par token) ----------
+  const syncBtn = $('#syncBtn');
+
+  function refreshSyncBtn() {
+    const repo = window.FabSync.detectRepo();
+    if (!repo) { syncBtn.textContent = '☁ Synchro indisponible'; syncBtn.title = 'La synchro nécessite un déploiement GitHub Pages.'; return; }
+    if (window.FabSync.hasToken()) { syncBtn.textContent = '☁ Synchro : connectée'; syncBtn.title = 'Cliquer pour déconnecter ce token.'; }
+    else { syncBtn.textContent = '☁ Connecter la synchro'; syncBtn.title = 'Coller un token GitHub pour publier tes parties depuis cet appareil.'; }
+  }
+
+  syncBtn.addEventListener('click', async () => {
+    const repo = window.FabSync.detectRepo();
+    if (!repo) { alert('La synchro GitHub n’est active que sur le site déployé (GitHub Pages).'); return; }
+
+    if (window.FabSync.hasToken()) {
+      if (confirm('Déconnecter la synchro sur cet appareil ? (Le token sera oublié ; tes parties locales restent.)')) {
+        window.FabSync.clearToken(); refreshSyncBtn();
+        libHint.textContent = 'Synchro déconnectée sur cet appareil.';
+      }
+      return;
+    }
+
+    const token = prompt('Colle ton token GitHub (accès en écriture au dépôt ' + repo.owner + '/' + repo.repo + ').\n'
+      + 'Astuce : un token « fine-grained » limité à ce seul dépôt, permission Contents = Read and write.');
+    if (!token || !token.trim()) return;
+    window.FabSync.setToken(token);
+    libHint.textContent = 'Vérification du token…';
+    const res = await window.FabSync.verifyToken();
+    if (!res.ok) {
+      window.FabSync.clearToken(); refreshSyncBtn();
+      alert('Token refusé (' + res.reason + '). Vérifie qu’il donne l’accès en écriture à ' + repo.owner + '/' + repo.repo + '.');
+      libHint.textContent = '';
+      return;
+    }
+    refreshSyncBtn();
+    libHint.textContent = 'Synchro connectée. Tes prochains imports seront publiés dans le dépôt.';
+  });
+
+  // ---------- Identité (log ancien sans META) ----------
+  // Recalcule les champs dépendant de l'identité sans re-parser tout.
+  function reresolveIdentity(g, chosenMe) {
+    const chosenOpp = g.playersList.find(p => p !== chosenMe) || null;
+    g.myName = chosenMe; g.oppName = chosenOpp;
+    g.turns.forEach(t => { t.side = t.player === chosenMe ? 'me' : (t.player === chosenOpp ? 'opp' : null); });
+    if (g.result) { g.result.iWon = g.result.winner === chosenMe; g.result.loser = g.result.winner === chosenMe ? chosenOpp : chosenMe; }
+    g.players.me.name = chosenMe; g.players.opp.name = chosenOpp;
+    return g;
+  }
+  function ensureIdentity(g) {
+    if (g.myName) return g;
+    const remembered = localStorage.getItem('fabViewerMyName');
+    let myName;
+    if (remembered && g.playersList.includes(remembered)) myName = remembered;
+    else myName = prompt('Quel est ton pseudo Talishar ?\n(' + g.playersList.join(' vs ') + ')', g.playersList[0]);
+    if (!g.playersList.includes(myName)) myName = g.playersList[0];
+    localStorage.setItem('fabViewerMyName', myName);
+    return reresolveIdentity(g, myName);
+  }
+
+  // ---------- Import 1/N ----------
+  function readFiles(files) {
+    return Promise.all(Array.from(files).map(f => new Promise((resolve, reject) => {
+      const r = new FileReader();
+      r.onload = () => resolve(r.result);
+      r.onerror = () => reject(r.error);
+      r.readAsText(f);
+    })));
+  }
+
+  async function importTexts(texts) {
+    let imported = 0, errors = 0, lastEntry = null;
+    const importedIds = [];
+    for (const text of texts) {
+      if (!text || !text.trim()) continue;
+      let rec;
+      try { rec = window.TalisharParser.parse(text); }
+      catch (e) { console.error(e); errors++; continue; }
+      if ((!rec.playersList || rec.playersList.length < 2) && !rec.myName) { errors++; continue; }
+      if (!rec.myName) rec = ensureIdentity(rec);
+      try {
+        const id = await window.FabDB.putGame(rec, text);
+        window.FabDB.unmarkDeleted(id);   // réimport volontaire → lève une éventuelle suppression
+        lastEntry = { gameId: id, record: rec };
+        importedIds.push(id);
+        imported++;
+      } catch (e) { console.error(e); errors++; }
+    }
+
+    // Réinitialiser la zone d'import
+    stagedFiles = [];
+    pasteArea.value = '';
+    fileInput.value = '';
+    analyzeBtn.disabled = true;
+    resetDropzoneLabel();
+    setImportOpen(false);   // replie la zone d'import après un import réussi
+
+    await reloadDashboard();
+
+    // Publication cloud (si un token est connecté sur cet appareil).
+    if (importedIds.length && window.FabSync.canWrite()) {
+      libHint.textContent = 'Publication dans le dépôt…';
+      try {
+        const entries = (await Promise.all(importedIds.map(id => window.FabDB.getEntry(id)))).filter(Boolean);
+        const res = await window.FabSync.push(entries);
+        // Réimport volontaire → on retire ces parties de la liste de suppressions
+        // partagée, pour qu'elles ne soient plus masquées sur les autres appareils.
+        try { await window.FabSync.pushUndelete(importedIds); } catch (e) { console.error(e); }
+        libHint.textContent = res.pushed + ' partie(s) publiée(s) dans le dépôt (visibles sur tes autres appareils après le redéploiement Pages).';
+      } catch (e) {
+        console.error(e);
+        libHint.textContent = 'Import local OK, mais publication cloud échouée : ' + e.message;
+      }
+    }
+
+    // Un seul .txt → on ouvre directement le replay ; plusieurs → dashboard.
+    if (imported === 1 && lastEntry) openGame(lastEntry);
+    else showView('dashboard');
+
+    if (errors) alert(errors + ' fichier(s) non importé(s) (log incomplet ou illisible). ' + imported + ' importé(s).');
+  }
+
+  analyzeBtn.addEventListener('click', async () => {
+    analyzeBtn.disabled = true;
+    try {
+      let texts = [];
+      if (stagedFiles.length) texts = await readFiles(stagedFiles);
+      else if (pasteArea.value.trim()) texts = [pasteArea.value];
+      if (!texts.length) { analyzeBtn.disabled = false; return; }
+      await importTexts(texts);
+    } catch (e) {
+      console.error(e);
+      alert('Import impossible. Vérifie que les logs sont complets.');
+      analyzeBtn.disabled = false;
+    }
+  });
+
+  // ---------- Zone de dépôt ----------
+  function resetDropzoneLabel() {
+    dropzone.querySelector('div').innerHTML = 'Dépose <strong>un ou plusieurs .txt</strong> de log ici, ou clique pour les choisir';
+  }
+  function stageFiles(files) {
+    stagedFiles = Array.from(files || []);
+    if (stagedFiles.length) {
+      pasteArea.value = '';
+      dropzone.querySelector('div').innerHTML = '<strong>' + stagedFiles.length + '</strong> fichier(s) prêt(s) à importer';
+      analyzeBtn.disabled = false;
+      analyzeBtn.textContent = stagedFiles.length > 1 ? 'Importer ' + stagedFiles.length + ' parties' : 'Importer la partie';
+    }
+  }
+
+  dropzone.addEventListener('click', () => fileInput.click());
+  dropzone.addEventListener('dragover', e => { e.preventDefault(); dropzone.classList.add('drag'); });
+  dropzone.addEventListener('dragleave', () => dropzone.classList.remove('drag'));
+  dropzone.addEventListener('drop', e => {
+    e.preventDefault(); dropzone.classList.remove('drag');
+    if (e.dataTransfer.files && e.dataTransfer.files.length) stageFiles(e.dataTransfer.files);
+  });
+  fileInput.addEventListener('change', e => { if (e.target.files.length) stageFiles(e.target.files); });
+  pasteArea.addEventListener('input', () => {
+    if (pasteArea.value.trim()) { stagedFiles = []; resetDropzoneLabel(); analyzeBtn.textContent = 'Importer la partie'; analyzeBtn.disabled = false; }
+    else if (!stagedFiles.length) analyzeBtn.disabled = true;
+  });
+
+  // ---------- Démarrage ----------
+  (async function boot() {
+    refreshSyncBtn();
+    await reloadDashboard();
+
+    // Synchro descendante : récupère les parties publiées dans le dépôt
+    // (lecture statique, sans token) et les fusionne dans le cache local.
+    try {
+      const r = await window.FabSync.pull();
+      if (r.added || r.removed || r.updated) await reloadDashboard();
+    } catch (e) { console.error(e); }
+
+    // Reprise d'un lien profond #game=<id> (après la synchro, la partie
+    // liée peut provenir du dépôt).
+    const m = location.hash.match(/game=([^&]+)/);
+    if (m) {
+      const id = decodeURIComponent(m[1]);
+      const entry = await window.FabDB.getEntry(id);
+      if (entry) { openGame(entry); return; }
+    }
+    showView('dashboard');
+  })();
+})();
+</script>
+</body>
+</html>

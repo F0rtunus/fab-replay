@@ -1,0 +1,968 @@
+=== Talishar game 1620367 — 10/07/2026 10:05:51 ===
+
+🎲 Farradise rolled 12 and you rolled 10.
+Farradise chooses who goes first.
+you will go first.
+Ehecalt activated Grasp of the Arknight
+Ehecalt pitched Skyzyk
+Ehecalt pitched Jack Be Nimble
+Resolving activated ability of Grasp of the Arknight.
+Ehecalt played Potion of Strength
+Resolving play ability of Potion of Strength.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Farradise's turn 1 has begun.
+Farradise played Trot Along
+Resolving play ability of Trot Along.
+Farradise played Snarky Prick
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Snarky Prick.
+You Snarky Prick! You destroyed my Quick Succession!
+Ehecalt passed
+Ehecalt blocked with Grasp of the Arknight and Skyzyk
+Farradise passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Snarky Prick
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Farradise played Command and Conquer
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Farradise pitched Insult to Injury
+Resolving play ability of Command and Conquer.
+Ehecalt passed
+Ehecalt blocked with Face Purgatory, Skyward Serenade, and Lightning Surge
+Farradise passed
+Ehecalt passed
+Ehecalt is about to take 0 damage from Command and Conquer
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Farradise passed
+Farradise passed
+The combat chain was closed.
+Farradise auto-passed
+Farradise passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 1 has begun.
+Ehecalt played Nimby
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Runechant is dealing 1 arcane damage.
+Ehecalt is dealing 1 arcane damage from Runechant
+Farradise took 1 damage
+Resolving play ability of Nimby.
+👁️‍🗨️Nimblism is revealed
+🔄Ehecalt deck was shuffled
+Farradise passed
+Farradise blocked with Scowling Flesh Bag
+Ehecalt's Aurora, Legacy of Tempest was targeted
+Ehecalt's Aurora, Legacy of Tempest was targeted by Scowling Flesh Bag
+Ehecalt was targeted to intimidate.
+Ehecalt banishes a card face down
+Ehecalt activated Snapdragon Scalers
+Resolving activated ability of Snapdragon Scalers.
+Ehecalt passed
+Farradise passed
+Farradise is about to take 1 damage from Nimby
+Farradise took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Nimblism
+Resolving play ability of Nimblism.
+Ehecalt played Second Strike from arsenal
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Second Strike.
+Farradise passed
+Farradise blocked with Scabskin Leathers
+Ehecalt passed
+Farradise auto-passed
+Farradise is about to take 5 damage from Second Strike
+Farradise took 5 damage
+Combat resolved with a hit for 5 damage
+The chain link was resolved.
+Ehecalt activated Scorpio, Comet Tail
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving activated ability of Scorpio, Comet Tail.
+Farradise passed
+Farradise blocked with Line Crossers
+Ehecalt passed
+Farradise auto-passed
+Farradise is about to take 0 damage from Scorpio, Comet Tail
+Farradise took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Farradise's turn 2 has begun.
+Farradise played Command and Conquer
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Farradise pitched Reckless Arithmetic
+Resolving play ability of Command and Conquer.
+Ehecalt passed
+Ehecalt blocked with Skyzyk and Enlightened Strike
+Farradise played Pummel
+Farradise pitched Swing Big
+Resolving play ability of Pummel.
+Farradise passed
+Ehecalt passed
+Ehecalt is about to take 4 damage from Command and Conquer
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+Jack Be Nimble was discarded
+Processing hit effect for Command and Conquer
+Lightning Surge was destroyed from the arsenal
+The chain link was resolved.
+Farradise passed
+Farradise passed
+The combat chain was closed.
+Farradise auto-passed
+Farradise passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 2 has begun.
+Ehecalt played Exude Confidence
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Exude Confidence.
+Farradise passed
+Ehecalt passed
+Farradise passed
+Farradise is about to take 4 damage from Exude Confidence
+Farradise took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Farradise's turn 3 has begun.
+Farradise played Insult to Injury
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Insult to Injury.
+Ehecalt passed
+Ehecalt blocked with Skyzyk
+Farradise activated Kayo, Underhanded Cheat
+Farradise pitched Mocking Blow
+Farradise pitched Insult to Injury
+Farradise's Insult to Injury was targeted
+Resolving activated ability of Kayo, Underhanded Cheat.
+Farradise passed
+Ehecalt passed
+Ehecalt is about to take 3 damage from Insult to Injury
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Farradise passed
+Farradise passed
+The combat chain was closed.
+Farradise passed
+Farradise passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 3 has begun.
+Ehecalt played Scar for a Scar
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Scar for a Scar.
+Farradise passed
+Ehecalt played Lightning Press
+Ehecalt's Scar for a Scar was targeted
+Resolving play ability of Lightning Press.
+Ehecalt passed
+Farradise played Sink Below from arsenal
+Resolving play ability of Sink Below.
+⤵️ A card was put on the bottom of the deck.
+Ehecalt passed
+Farradise passed
+Farradise is about to take 3 damage from Scar for a Scar
+Farradise took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Farradise's turn 4 has begun.
+Farradise played Outside Interference
+Ability was chosen.
+Outside Interference was discarded
+👁️‍🗨️Bask in Your Own Greatness is revealed
+Farradise activated Scabskin Leathers
+🎲4 was rolled.
+Resolving activated ability of Scabskin Leathers: Rolled 4 and gained 2 action points
+Farradise played Bask in Your Own Greatness
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Bask in Your Own Greatness.
+Farradise pitched Nimby
+Ehecalt passed
+Ehecalt blocked with Rush of Power
+Farradise passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Bask in Your Own Greatness
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Farradise played Nimby
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Nimby.
+👁️‍🗨️Nimblism is revealed
+🔄Farradise deck was shuffled
+Ehecalt passed
+Farradise activated Fyendal's Spring Tunic
+Resolving activated ability of Fyendal's Spring Tunic.
+Farradise activated Kayo, Underhanded Cheat
+Farradise pitched Nimblism
+Farradise's Nimby was targeted
+Resolving activated ability of Kayo, Underhanded Cheat.
+Farradise passed
+Ehecalt passed
+Ehecalt is about to take 6 damage from Nimby
+Ehecalt took 6 damage
+Combat resolved with a hit for 6 damage
+The chain link was resolved.
+Farradise auto-passed
+Farradise auto-passed
+The combat chain was closed.
+Farradise auto-passed
+Farradise passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 4 has begun.
+Ehecalt played Nimblism
+Resolving play ability of Nimblism.
+Ehecalt played Ravenous Rabble
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Ehecalt reveals Rush of Power
+Farradise passed
+Ehecalt passed
+Farradise played Sink Below
+Resolving play ability of Sink Below.
+⤵️ A card was put on the bottom of the deck.
+Ehecalt passed
+Farradise passed
+Farradise is about to take 3 damage from Ravenous Rabble
+Farradise took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Potion of Strength
+Resolving play ability of Potion of Strength.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+Might (x3) will buff your next attack by 3!
+═══════════════
+Farradise's turn 5 has begun.
+Farradise played Booze!
+Resolving play ability of Booze!.
+🍅BOOOOO! The crowd jeers at Kayo, Underhanded Cheat!
+Farradise played Swing Big from arsenal
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Farradise pitched Concealed Object
+Resolving play ability of Swing Big.
+Ehecalt passed
+Ehecalt blocked with Rush of Power, Current Funnel, Second Strike, and Snatch
+Farradise passed
+Ehecalt auto-passed
+Ehecalt is about to take 1 damage from Swing Big
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt undid their last action
+Farradise passed
+Ehecalt undid their last action
+Farradise played Swing Big from arsenal
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Farradise pitched Concealed Object
+Resolving play ability of Swing Big.
+Ehecalt: Sorry!
+Ehecalt passed
+Ehecalt blocked with Aether Ironweave, Rush of Power, Second Strike, Snatch, and Current Funnel
+Farradise passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Swing Big
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Farradise passed
+Farradise passed
+The combat chain was closed.
+Farradise passed
+Farradise passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 5 has begun.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+Vigor gives you 1 resource!
+═══════════════
+Farradise's turn 6 has begun.
+🍅BOOOOO! The crowd jeers at Kayo, Underhanded Cheat!
+Farradise played Big Bully
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Farradise pitched Insult to Injury
+Resolving play ability of Big Bully.
+Ehecalt passed
+Farradise passed
+Ehecalt auto-passed
+Ehecalt is about to take 8 damage from Big Bully
+Ehecalt took 8 damage
+Combat resolved with a hit for 8 damage
+The chain link was resolved.
+Farradise played Sigil of Solace
+Farradise gained 3 life
+Resolving play ability of Sigil of Solace.
+Farradise passed
+Farradise passed
+The combat chain was closed.
+Farradise auto-passed
+Farradise passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 6 has begun.
+Ehecalt played Nimby
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Quicken gives the attack go again
+Resolving play ability of Nimby.
+👁️‍🗨️Nimblism is revealed
+🔄Ehecalt deck was shuffled
+Farradise passed
+Farradise blocked with Fiddler's Green
+Ehecalt passed
+Farradise passed
+Farradise is about to take 2 damage from Nimby
+Farradise took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+Ehecalt played Jack Be Nimble
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Jack Be Nimble.
+Nimblism was banished.
+Farradise passed
+Ehecalt passed
+Farradise auto-passed
+Farradise is about to take 4 damage from Jack Be Nimble
+Farradise took 4 damage
+Combat resolved with a hit for 4 damage
+Processing hit effect for Jack Be Nimble
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Farradise gained 3 life
+Ehecalt played Nimblism
+Resolving play ability of Nimblism.
+Ehecalt played Quick Succession
+Resolving play ability of Quick Succession.
+Ehecalt played Rush of Power from arsenal
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Rush of Power.
+Farradise passed
+Farradise blocked with Mocking Blow and Fiddler's Green
+Ehecalt passed
+Farradise played Sink Below
+Resolving play ability of Sink Below.
+Farradise did not sink a card
+Ehecalt passed
+Farradise passed
+Farradise is about to take 0 damage from Rush of Power
+Farradise took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt activated Scorpio, Comet Tail
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving activated ability of Scorpio, Comet Tail.
+Farradise passed
+Farradise blocked with Scabskin Leathers
+Ehecalt passed
+Farradise passed
+Farradise is about to take 0 damage from Scorpio, Comet Tail
+Farradise took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Farradise gained 3 life
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+Vigor gives you 1 resource!
+═══════════════
+Farradise's turn 7 has begun.
+Farradise passed
+Farradise passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 7 has begun.
+Ehecalt played Fry
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Fry.
+Farradise passed
+Ehecalt passed
+Farradise passed
+Farradise is about to take 3 damage from Fry
+Farradise took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt played Fry
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Fry.
+Farradise passed
+Ehecalt passed
+Farradise passed
+Farradise is about to take 3 damage from Fry
+Farradise took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt played Path of Same Ends
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Farradise played Shelter from the Storm
+Shelter from the Storm was discarded
+Resolving play ability of Path of Same Ends.
+Path of Same Ends is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Path of Same Ends
+Farradise took 0 damage
+Farradise passed
+Farradise blocked with Revolting Gesture
+Ehecalt activated Path of Same Ends
+Ehecalt pitched Exude Confidence
+Resolving activated ability of Path of Same Ends.
+Ehecalt passed
+Farradise passed
+Farradise is about to take 1 damage from Path of Same Ends
+Farradise took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt played Exude Confidence from arsenal
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Exude Confidence.
+Farradise passed
+Farradise blocked with Mocking Blow
+Ehecalt passed
+Farradise passed
+Farradise is about to take 1 damage from Exude Confidence
+Farradise took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Farradise's turn 8 has begun.
+Farradise played Nimby
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Nimby.
+👁️‍🗨️Nimblism is revealed
+🔄Farradise deck was shuffled
+Ehecalt passed
+Ehecalt blocked with Skyward Serenade, Quick Succession, and Skyward Serenade
+Farradise activated Fyendal's Spring Tunic
+Resolving activated ability of Fyendal's Spring Tunic.
+Farradise activated Kayo, Underhanded Cheat
+Farradise pitched Nimblism
+Farradise's Nimby was targeted
+Resolving activated ability of Kayo, Underhanded Cheat.
+Farradise passed
+Ehecalt passed
+Ehecalt is about to take 0 damage from Nimby
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Farradise auto-passed
+Farradise auto-passed
+The combat chain was closed.
+Farradise auto-passed
+Farradise passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 8 has begun.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Farradise's turn 9 has begun.
+Farradise played Mocking Blow
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Resolving play ability of Mocking Blow.
+🍅BOOOOO! The crowd jeers at Kayo, Underhanded Cheat!
+Ehecalt passed
+Farradise activated Kayo, Underhanded Cheat
+Farradise pitched Concealed Object
+Farradise pitched Enlightened Strike
+Farradise's Mocking Blow was targeted
+Resolving activated ability of Kayo, Underhanded Cheat.
+Farradise passed
+Ehecalt passed
+Ehecalt is about to take 10 damage from Mocking Blow
+Ehecalt took 10 damage
+Combat resolved with a hit for 10 damage
+The chain link was resolved.
+Farradise passed
+Farradise passed
+The combat chain was closed.
+Farradise passed
+Farradise passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 9 has begun.
+Ehecalt played Arc Lightning
+Resolving play ability of Arc Lightning.
+Farradise's Kayo, Underhanded Cheat was targeted by Arc Lightning
+Arc Lightning is dealing 1 arcane damage
+Farradise pitched Outside Interference
+Ehecalt is dealing 0 arcane damage from Arc Lightning
+Farradise took 0 damage
+Ehecalt played Snatch from arsenal
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Snatch.
+Farradise passed
+Ehecalt passed
+Farradise played Shelter from the Storm from arsenal
+Resolving play ability of Shelter from the Storm.
+Ehecalt passed
+Farradise passed
+Farradise is about to take 0 damage from Snatch
+Farradise took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Farradise's Kayo, Underhanded Cheat was targeted by Arc Lightning
+Arc Lightning is dealing 1 arcane damage
+Ehecalt is dealing 0 arcane damage from Arc Lightning
+Farradise took 0 damage
+Ehecalt passed
+The combat chain was closed.
+Ehecalt activated Aether Ironweave
+Resolving activated ability of Aether Ironweave.
+Farradise's Kayo, Underhanded Cheat was targeted by Arc Lightning
+Arc Lightning is dealing 1 arcane damage
+Ehecalt is dealing 0 arcane damage from Arc Lightning
+Farradise took 0 damage
+Ehecalt activated Grasp of the Arknight
+Resolving activated ability of Grasp of the Arknight.
+Farradise's Kayo, Underhanded Cheat was targeted by Arc Lightning
+Arc Lightning is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Arc Lightning
+Farradise took 1 damage
+Ehecalt activated Potion of Strength
+Resolving activated ability of Potion of Strength.
+Farradise's Kayo, Underhanded Cheat was targeted by Arc Lightning
+Arc Lightning is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Arc Lightning
+Farradise took 1 damage
+Ehecalt activated Potion of Strength
+Resolving activated ability of Potion of Strength.
+Farradise's Kayo, Underhanded Cheat was targeted by Arc Lightning
+Arc Lightning is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Arc Lightning
+Farradise took 1 damage
+Ehecalt played Jack Be Nimble
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Runechant is dealing 1 arcane damage.
+Ehecalt is dealing 1 arcane damage from Runechant
+Farradise took 1 damage
+Resolving play ability of Jack Be Nimble.
+Nimblism was banished.
+Farradise passed
+Farradise blocked with Enlightened Strike
+Ehecalt passed
+Farradise passed
+Farradise is about to take 5 damage from Jack Be Nimble
+Farradise took 5 damage
+Combat resolved with a hit for 5 damage
+Processing hit effect for Jack Be Nimble
+The chain link was resolved.
+Farradise's Kayo, Underhanded Cheat was targeted by Arc Lightning
+Arc Lightning is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Arc Lightning
+Farradise took 1 damage
+Ehecalt played Nimby
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Nimby.
+Farradise passed
+Farradise blocked with Steal Victory
+Ehecalt passed
+Farradise passed
+Farradise is about to take 0 damage from Nimby
+Farradise took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+Vigor gives you 1 resource!
+═══════════════
+Farradise's turn 10 has begun.
+Farradise passed
+Farradise passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 10 has begun.
+Ehecalt played Lightning Surge from arsenal
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Lightning Surge.
+Farradise passed
+Farradise blocked with Trot Along
+Ehecalt passed
+Farradise passed
+Farradise is about to take 1 damage from Lightning Surge
+Farradise took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt played Current Funnel
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Current Funnel.
+Farradise passed
+Ehecalt passed
+Farradise auto-passed
+Farradise is about to take 2 damage from Current Funnel
+Farradise took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+Ehecalt played Enlightened Strike
+🎯Kayo, Underhanded Cheat was chosen as the target.
+⤵️ A card was put on the bottom of the deck.
+Selected mode for Enlightened Strike is: Draw a Card
+Resolving play ability of Enlightened Strike.
+Farradise passed
+Ehecalt passed
+Farradise played Shelter from the Storm from arsenal
+Resolving play ability of Shelter from the Storm.
+Ehecalt passed
+Farradise passed
+Farradise is about to take 1 damage from Enlightened Strike
+Farradise took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt played Enlightened Strike
+🎯Kayo, Underhanded Cheat was chosen as the target.
+⤵️ A card was put on the bottom of the deck.
+Selected mode for Enlightened Strike is: Draw a Card
+Resolving play ability of Enlightened Strike.
+Farradise passed
+Farradise blocked with Steal Victory and Big Bully
+Ehecalt passed
+Farradise auto-passed
+Farradise is about to take 0 damage from
+Farradise took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Farradise's turn 11 has begun.
+Farradise passed
+Farradise passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 11 has begun.
+Ehecalt played Fry
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Fry.
+Farradise passed
+Farradise blocked with Show of Strength
+Ehecalt passed
+Farradise auto-passed
+Farradise is about to take 0 damage from Fry
+Farradise took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Quick Succession
+Resolving play ability of Quick Succession.
+Ehecalt played Second Strike
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Second Strike.
+Farradise passed
+Farradise blocked with Mocking Blow
+Ehecalt passed
+Farradise passed
+Farradise is about to take 1 damage from Second Strike
+Farradise took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Potion of Strength from arsenal
+Resolving play ability of Potion of Strength.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+Farradise's turn 12 has begun.
+Farradise played Reckless Arithmetic from arsenal
+🎯Aurora, Legacy of Tempest was chosen as the target.
+Farradise pitched Booze!
+🎲2 was rolled.
+Resolving play ability of Reckless Arithmetic.
+Ehecalt passed
+Ehecalt blocked with Grasp of the Arknight
+Farradise activated Fyendal's Spring Tunic
+Resolving activated ability of Fyendal's Spring Tunic.
+Farradise activated Kayo, Underhanded Cheat
+Farradise pitched Swing Big
+Farradise's Reckless Arithmetic was targeted
+Resolving activated ability of Kayo, Underhanded Cheat.
+Farradise passed
+Ehecalt passed
+Ehecalt is about to take 7 damage from Reckless Arithmetic
+Ehecalt took 7 damage
+Combat resolved with a hit for 7 damage
+The chain link was resolved.
+Farradise auto-passed
+Farradise auto-passed
+The combat chain was closed.
+Farradise auto-passed
+Farradise passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 12 has begun.
+Ehecalt played Scar for a Scar from arsenal
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Scar for a Scar gains Go Again!
+Resolving play ability of Scar for a Scar.
+Farradise passed
+Farradise blocked with Steal Victory
+Ehecalt passed
+Farradise auto-passed
+Farradise is about to take 1 damage from Scar for a Scar
+Farradise took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt played Ravenous Rabble
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Ehecalt reveals Path of Same Ends
+Farradise passed
+Farradise blocked with Flex Strength
+Ehecalt passed
+Farradise passed
+Farradise is about to take 1 damage from Ravenous Rabble
+Farradise took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt played Ravenous Rabble
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Ehecalt reveals Path of Same Ends
+Farradise passed
+Farradise blocked with Mocking Blow
+Ehecalt passed
+Farradise passed
+Farradise is about to take 1 damage from Ravenous Rabble
+Farradise took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt activated Grasp of the Arknight
+Ehecalt pitched Current Funnel
+Resolving activated ability of Grasp of the Arknight.
+Ehecalt played Path of Same Ends
+🎯Kayo, Underhanded Cheat was chosen as the target.
+Runechant is dealing 1 arcane damage.
+Farradise pitched Booze!
+Ehecalt is dealing 0 arcane damage from Runechant
+Farradise took 0 damage
+Resolving play ability of Path of Same Ends.
+Path of Same Ends is dealing 1 arcane damage
+Ehecalt is dealing 0 arcane damage from Path of Same Ends
+Farradise took 0 damage
+Farradise passed
+Farradise blocked with Fyendal's Spring Tunic
+Ehecalt activated Path of Same Ends
+Resolving activated ability of Path of Same Ends.
+Ehecalt passed
+Farradise passed
+Farradise is about to take 2 damage from Path of Same Ends
+Farradise took 2 damage
+Ehecalt (Ehecalt) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Skyzyk, Jack Be Nimble, Potion Of Strength, Second Strike
+[Farradise #1] Skyward Serenade, Lightning Surge, Skyzyk, Lightning Surge
+[Ehecalt #1] Lightning Surge, Nimby
+[Farradise #2] Jack Be Nimble, Skyzyk, Exude Confidence, Enlightened Strike
+[Ehecalt #2] Exude Confidence
+[Farradise #3] Lightning Press, Skyzyk, Rush Of Power, Scar For A Scar
+[Ehecalt #3] Lightning Press, Rush Of Power, Scar For A Scar
+[Farradise #4] Nimblism, Ravenous Rabble, Rush Of Power, Potion Of Strength
+[Ehecalt #4] Nimblism, Ravenous Rabble, Potion Of Strength
+[Farradise #5] Rush Of Power, Second Strike, Snatch, Current Funnel
+[Farradise #6] Nimby, Quick Succession, Jack Be Nimble, Exude Confidence
+[Ehecalt #6] Nimby, Quick Succession, Jack Be Nimble, Exude Confidence
+[Farradise #7] Path Of Same Ends, Fry, Exude Confidence, Fry
+[Ehecalt #7] Path Of Same Ends, Fry, Exude Confidence, Fry
+[Farradise #8] Skyward Serenade, Quick Succession, Snatch, Skyward Serenade
+[Ehecalt #8] Snatch
+[Farradise #9] Arc Lightning, Nimby, Lightning Surge, Jack Be Nimble
+[Ehecalt #9] Arc Lightning, Nimby, Lightning Surge, Jack Be Nimble
+[Farradise #10] Snatch, Enlightened Strike, Lightning Press, Current Funnel
+[Ehecalt #10] Snatch, Enlightened Strike, Lightning Press, Current Funnel
+[Farradise #11] Scar For A Scar, Fry, Second Strike, Quick Succession
+[Ehecalt #11] Scar For A Scar, Fry, Second Strike, Quick Succession
+[Farradise #12] Current Funnel, Ravenous Rabble, Path Of Same Ends, Ravenous Rabble
+[Ehecalt #12] Current Funnel, Ravenous Rabble, Path Of Same Ends, Ravenous Rabble
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[Farradise #1] Second Strike
+[Ehecalt #1] Second Strike
+[Farradise #2] Lightning Surge
+[Ehecalt #2] (vide)
+[Farradise #3] (vide)
+[Ehecalt #3] (vide)
+[Farradise #4] Rush Of Power
+[Ehecalt #4] Rush Of Power
+[Farradise #5] Rush Of Power
+[Ehecalt #5] Rush Of Power
+[Farradise #6] Rush Of Power
+[Ehecalt #6] Rush Of Power
+[Farradise #7] Exude Confidence
+[Ehecalt #7] (vide)
+[Farradise #8] (vide)
+[Ehecalt #8] (vide)
+[Farradise #9] Snatch
+[Ehecalt #9] Snatch
+[Farradise #10] Lightning Surge
+[Ehecalt #10] Lightning Surge
+[Farradise #11] Potion Of Strength
+[Ehecalt #11] Potion Of Strength
+[Farradise #12] Scar For A Scar
+[Ehecalt #12] Scar For A Scar
+
+=== FIELD SNAPSHOTS (permanents/tokens en jeu : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Farradise #1] me: Runechant, Potion Of Strength | opp: (vide)
+[Ehecalt #1] me: Runechant, Potion Of Strength | opp: (vide)
+[Farradise #2] me: Potion Of Strength | opp: (vide)
+[Ehecalt #2] me: Potion Of Strength | opp: (vide)
+[Farradise #3] me: Potion Of Strength | opp: (vide)
+[Ehecalt #3] me: Potion Of Strength | opp: (vide)
+[Farradise #4] me: Potion Of Strength | opp: (vide)
+[Ehecalt #4] me: Potion Of Strength | opp: Might, Might, Might
+[Farradise #5] me: Potion Of Strength, Potion Of Strength | opp: Might
+[Ehecalt #5] me: Quicken, Potion Of Strength, Potion Of Strength | opp: Booze, Vigor
+[Farradise #6] me: Quicken, Potion Of Strength, Potion Of Strength | opp: Vigor
+[Ehecalt #6] me: Quicken, Potion Of Strength, Potion Of Strength | opp: Vigor
+[Farradise #7] me: Potion Of Strength, Potion Of Strength | opp: (vide)
+[Ehecalt #7] me: (vide) | opp: (vide)
+[Farradise #8] me: Potion Of Strength, Potion Of Strength | opp: (vide)
+[Ehecalt #8] me: Potion Of Strength, Potion Of Strength | opp: (vide)
+[Farradise #9] me: Potion Of Strength, Potion Of Strength | opp: (vide)
+[Ehecalt #9] me: Potion Of Strength, Potion Of Strength | opp: Vigor
+[Farradise #10] me: (vide) | opp: (vide)
+[Ehecalt #10] me: (vide) | opp: (vide)
+[Farradise #11] me: (vide) | opp: (vide)
+[Ehecalt #11] me: (vide) | opp: (vide)
+[Farradise #12] me: Potion Of Strength | opp: (vide)
+[Ehecalt #12] me: Potion Of Strength | opp: (vide)
+
+=== GRAVEYARD SNAPSHOTS (cimetière : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Farradise #1] me: (vide) | opp: (vide)
+[Ehecalt #1] me: Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Command And Conquer, Snarky Prick, Trot Along
+[Farradise #2] me: Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Ehecalt #2] me: Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Farradise #3] me: Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Ehecalt #3] me: Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Farradise #4] me: Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Ehecalt #4] me: Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Farradise #5] me: Ravenous Rabble, Nimblism, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Ehecalt #5] me: Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Nimblism, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Farradise #6] me: Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Nimblism, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Booze, Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Ehecalt #6] me: Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Nimblism, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Big Bully, Sigil Of Solace, Booze, Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Farradise #7] me: Rush Of Power, Quick Succession, Nimblism, Jack Be Nimble, Nimby, Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Sink Below, Fiddlers Green, Mocking Blow, Fiddlers Green, Big Bully, Sigil Of Solace, Booze, Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Ehecalt #7] me: (vide) | opp: (vide)
+[Farradise #8] me: Exude Confidence, Path Of Same Ends, Fry, Fry, Rush Of Power, Quick Succession, Nimblism, Jack Be Nimble, Nimby, Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Mocking Blow, Revolting Gesture, Shelter From The Storm, Sink Below, Fiddlers Green, Mocking Blow, Fiddlers Green, Big Bully, Sigil Of Solace, Booze, Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Ehecalt #8] me: Skyward Serenade, Quick Succession, Skyward Serenade, Exude Confidence, Path Of Same Ends, Fry, Fry, Rush Of Power, Quick Succession, Nimblism, Jack Be Nimble, Nimby, Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Nimby, Mocking Blow, Revolting Gesture, Shelter From The Storm, Sink Below, Fiddlers Green, Mocking Blow, Fiddlers Green, Big Bully, Sigil Of Solace, Booze, Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Farradise #9] me: Skyward Serenade, Quick Succession, Skyward Serenade, Exude Confidence, Path Of Same Ends, Fry, Fry, Rush Of Power, Quick Succession, Nimblism, Jack Be Nimble, Nimby, Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Nimby, Mocking Blow, Revolting Gesture, Shelter From The Storm, Sink Below, Fiddlers Green, Mocking Blow, Fiddlers Green, Big Bully, Sigil Of Solace, Booze, Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Ehecalt #9] me: Skyward Serenade, Quick Succession, Skyward Serenade, Exude Confidence, Path Of Same Ends, Fry, Fry, Rush Of Power, Quick Succession, Nimblism, Jack Be Nimble, Nimby, Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Mocking Blow, Nimby, Mocking Blow, Revolting Gesture, Shelter From The Storm, Sink Below, Fiddlers Green, Mocking Blow, Fiddlers Green, Big Bully, Sigil Of Solace, Booze, Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Farradise #10] me: Nimby, Jack Be Nimble, Potion Of Strength, Potion Of Strength, Aether Ironweave, Snatch, Arc Lightning, Skyward Serenade, Quick Succession, Skyward Serenade, Exude Confidence, Path Of Same Ends, Fry, Fry, Rush Of Power, Quick Succession, Jack Be Nimble, Nimby, Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Steal Victory, Enlightened Strike, Shelter From The Storm, Mocking Blow, Nimby, Mocking Blow, Revolting Gesture, Shelter From The Storm, Sink Below, Fiddlers Green, Mocking Blow, Fiddlers Green, Big Bully, Sigil Of Solace, Booze, Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Ehecalt #10] me: Nimby, Jack Be Nimble, Potion Of Strength, Potion Of Strength, Aether Ironweave, Snatch, Arc Lightning, Skyward Serenade, Quick Succession, Skyward Serenade, Exude Confidence, Path Of Same Ends, Fry, Fry, Rush Of Power, Quick Succession, Jack Be Nimble, Nimby, Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Steal Victory, Enlightened Strike, Shelter From The Storm, Mocking Blow, Nimby, Mocking Blow, Revolting Gesture, Shelter From The Storm, Sink Below, Fiddlers Green, Mocking Blow, Fiddlers Green, Big Bully, Sigil Of Solace, Booze, Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Farradise #11] me: Enlightened Strike, Enlightened Strike, Current Funnel, Lightning Surge, Nimby, Jack Be Nimble, Potion Of Strength, Potion Of Strength, Aether Ironweave, Snatch, Arc Lightning, Skyward Serenade, Quick Succession, Skyward Serenade, Exude Confidence, Path Of Same Ends, Fry, Fry, Rush Of Power, Quick Succession, Jack Be Nimble, Nimby, Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Big Bully, Steal Victory, Shelter From The Storm, Trot Along, Steal Victory, Enlightened Strike, Shelter From The Storm, Mocking Blow, Nimby, Mocking Blow, Revolting Gesture, Shelter From The Storm, Sink Below, Fiddlers Green, Mocking Blow, Fiddlers Green, Big Bully, Sigil Of Solace, Booze, Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Ehecalt #11] me: Enlightened Strike, Enlightened Strike, Current Funnel, Lightning Surge, Nimby, Jack Be Nimble, Potion Of Strength, Potion Of Strength, Aether Ironweave, Snatch, Arc Lightning, Skyward Serenade, Quick Succession, Skyward Serenade, Exude Confidence, Path Of Same Ends, Fry, Fry, Rush Of Power, Quick Succession, Jack Be Nimble, Nimby, Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Big Bully, Steal Victory, Shelter From The Storm, Trot Along, Steal Victory, Enlightened Strike, Shelter From The Storm, Mocking Blow, Nimby, Mocking Blow, Revolting Gesture, Shelter From The Storm, Sink Below, Fiddlers Green, Mocking Blow, Fiddlers Green, Big Bully, Sigil Of Solace, Booze, Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Farradise #12] me: Second Strike, Quick Succession, Fry, Enlightened Strike, Enlightened Strike, Current Funnel, Lightning Surge, Nimby, Jack Be Nimble, Potion Of Strength, Potion Of Strength, Aether Ironweave, Snatch, Arc Lightning, Skyward Serenade, Quick Succession, Skyward Serenade, Exude Confidence, Path Of Same Ends, Fry, Fry, Rush Of Power, Quick Succession, Jack Be Nimble, Nimby, Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Mocking Blow, Show Of Strength, Big Bully, Steal Victory, Shelter From The Storm, Trot Along, Steal Victory, Enlightened Strike, Shelter From The Storm, Mocking Blow, Nimby, Mocking Blow, Revolting Gesture, Shelter From The Storm, Sink Below, Fiddlers Green, Mocking Blow, Fiddlers Green, Big Bully, Sigil Of Solace, Booze, Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+[Ehecalt #12] me: Second Strike, Quick Succession, Fry, Enlightened Strike, Enlightened Strike, Current Funnel, Lightning Surge, Nimby, Jack Be Nimble, Potion Of Strength, Potion Of Strength, Aether Ironweave, Snatch, Arc Lightning, Skyward Serenade, Quick Succession, Skyward Serenade, Exude Confidence, Path Of Same Ends, Fry, Fry, Rush Of Power, Quick Succession, Jack Be Nimble, Nimby, Current Funnel, Snatch, Second Strike, Rush Of Power, Ravenous Rabble, Rush Of Power, Scar For A Scar, Lightning Press, Skyzyk, Exude Confidence, Enlightened Strike, Skyzyk, Lightning Surge, Jack Be Nimble, Second Strike, Nimblism, Nimby, Snapdragon Scalers, Lightning Surge, Skyward Serenade, Skyzyk, Face Purgatory, Quick Succession | opp: Reckless Arithmetic, Mocking Blow, Show Of Strength, Big Bully, Steal Victory, Shelter From The Storm, Trot Along, Steal Victory, Enlightened Strike, Shelter From The Storm, Mocking Blow, Nimby, Mocking Blow, Revolting Gesture, Shelter From The Storm, Sink Below, Fiddlers Green, Mocking Blow, Fiddlers Green, Big Bully, Sigil Of Solace, Booze, Swing Big, Sink Below, Nimby, Bask In Your Own Greatness, Outside Interference, Sink Below, Insult To Injury, Command And Conquer, Pummel, Line Crossers, Scowling Flesh Bag, Command And Conquer, Snarky Prick, Trot Along
+
+=== BANISH SNAPSHOTS (banni : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Farradise #1] me: (vide) | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: (vide)
+[Farradise #2] me: (vide) | opp: (vide)
+[Ehecalt #2] me: (vide) | opp: (vide)
+[Farradise #3] me: (vide) | opp: (vide)
+[Ehecalt #3] me: (vide) | opp: (vide)
+[Farradise #4] me: (vide) | opp: (vide)
+[Ehecalt #4] me: (vide) | opp: (vide)
+[Farradise #5] me: (vide) | opp: (vide)
+[Ehecalt #5] me: (vide) | opp: (vide)
+[Farradise #6] me: (vide) | opp: (vide)
+[Ehecalt #6] me: (vide) | opp: (vide)
+[Farradise #7] me: Nimblism | opp: (vide)
+[Ehecalt #7] me: (vide) | opp: (vide)
+[Farradise #8] me: Nimblism | opp: (vide)
+[Ehecalt #8] me: Nimblism | opp: (vide)
+[Farradise #9] me: Nimblism | opp: (vide)
+[Ehecalt #9] me: Nimblism | opp: (vide)
+[Farradise #10] me: Nimblism, Nimblism | opp: (vide)
+[Ehecalt #10] me: Nimblism, Nimblism | opp: (vide)
+[Farradise #11] me: Nimblism, Nimblism | opp: (vide)
+[Ehecalt #11] me: Nimblism, Nimblism | opp: (vide)
+[Farradise #12] me: Nimblism, Nimblism | opp: (vide)
+[Ehecalt #12] me: Nimblism, Nimblism | opp: (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=40 opp=40 myDeck=56 oppDeck=56
+[Farradise #1] me=40 opp=40 myDeck=54 oppDeck=56
+[Ehecalt #1] me=40 opp=40 myDeck=52 oppDeck=53
+[Farradise #2] me=40 opp=33 myDeck=47 oppDeck=53
+[Ehecalt #2] me=36 opp=33 myDeck=47 oppDeck=51
+[Farradise #3] me=36 opp=29 myDeck=43 oppDeck=51
+[Ehecalt #3] me=33 opp=29 myDeck=43 oppDeck=49
+[Farradise #4] me=33 opp=26 myDeck=39 oppDeck=49
+[Ehecalt #4] me=26 opp=26 myDeck=39 oppDeck=46
+[Farradise #5] me=26 opp=23 myDeck=35 oppDeck=46
+[Ehecalt #5] me=26 opp=23 myDeck=35 oppDeck=43
+[Farradise #6] me=26 opp=23 myDeck=31 oppDeck=43
+[Ehecalt #6] me=18 opp=26 myDeck=31 oppDeck=41
+[Farradise #7] me=18 opp=26 myDeck=26 oppDeck=41
+[Ehecalt #7] me=? opp=?
+[Farradise #8] me=18 opp=20 myDeck=23 oppDeck=37
+[Ehecalt #8] me=18 opp=20 myDeck=23 oppDeck=33
+[Farradise #9] me=18 opp=20 myDeck=19 oppDeck=33
+[Ehecalt #9] me=8 opp=20 myDeck=19 oppDeck=32
+[Farradise #10] me=8 opp=10 myDeck=15 oppDeck=33
+[Ehecalt #10] me=8 opp=10 myDeck=15 oppDeck=29
+[Farradise #11] me=8 opp=6 myDeck=11 oppDeck=29
+[Ehecalt #11] me=8 opp=6 myDeck=11 oppDeck=25
+[Farradise #12] me=8 opp=5 myDeck=7 oppDeck=25
+[Ehecalt #12] me=1 opp=5 myDeck=7 oppDeck=23
+
+=== META ===
+schema: v1
+captured_with: TLG v1.12.0
+game_url: https://talishar.net/game/play/1620367
+captured_at: 2026-07-10T07:37:46.316Z
+format: cc
+vs_ai: non
+me: Ehecalt
+opponent: Farradise
+my_hero: Aurora, Legacy of Tempest (aurora_legacy_of_tempest)
+opp_hero: Kayo Underhanded Cheat (kayo_underhanded_cheat)
+my_start_life: 40
+opp_start_life: 40
+my_start_deck_size: 56
+opp_start_deck_size: 56
+my_equipment: head=Face Purgatory (face_purgatory) | chest=Aether Ironweave (aether_ironweave) | arms=Grasp Of The Arknight (grasp_of_the_arknight) | legs=Snapdragon Scalers (snapdragon_scalers) | weaponL=Scorpio Comet Tail (scorpio_comet_tail)
+opp_equipment: head=Scowling Flesh Bag (scowling_flesh_bag) | chest=Fyendals Spring Tunic (fyendals_spring_tunic) | arms=Line Crossers (line_crossers) | legs=Scabskin Leathers (scabskin_leathers) | weaponR=Arcane Lantern (arcane_lantern)
+
+=== TIMESTAMPS ===
+0-1:1783669081,2-2:1783669094,3-3:1783669146,4-4:1783669150,5-6:1783669151,7-10:1783669152,11-12:1783669155,13-14:1783669186,15-16:1783669188,17-17:1783669190,18-18:1783669197,19-20:1783669218,21-25:1783669223,26-26:1783669225,27-28:1783669226,29-29:1783669227,30-30:1783669228,31-32:1783669240,33-33:1783669245,34-37:1783669247,38-38:1783669248,39-45:1783669249,46-48:1783669256,49-51:1783669263,52-53:1783669266,54-59:1783669283,60-61:1783669287,62-62:1783669288,63-67:1783669290,68-71:1783669291,72-74:1783669292,75-76:1783669324,77-82:1783669326,83-85:1783669328,86-87:1783669334,88-98:1783669335,99-100:1783669337,101-102:1783669340,103-104:1783669343,105-106:1783669360,107-107:1783669362,108-108:1783669363,109-109:1783669364,110-110:1783669366,111-114:1783669367,115-115:1783669372,116-117:1783669374,118-118:1783669375,119-123:1783669376,124-125:1783669377,126-128:1783669379,129-129:1783669387,130-130:1783669388,131-134:1783669392,135-142:1783669393,143-144:1783669410,145-145:1783669413,146-147:1783669439,148-148:1783669441,149-149:1783669442,150-151:1783669443,152-152:1783669446,153-153:1783669447,154-157:1783669448,158-158:1783669450,159-160:1783669451,161-161:1783669452,162-163:1783669454,164-165:1783669457,166-167:1783669458,168-168:1783669466,169-169:1783669493,170-171:1783669494,172-172:1783669499,173-173:1783669500,174-174:1783669501,175-175:1783669502,176-176:1783669507,177-177:1783669508,178-181:1783669509,182-184:1783669511,185-187:1783669513,188-189:1783669515,190-190:1783669517,191-192:1783669518,193-193:1783669532,194-194:1783669534,195-196:1783669535,197-198:1783669544,199-200:1783669561,201-202:1783669575,203-207:1783669580,208-208:1783669581,209-210:1783669583,211-211:1783669584,212-213:1783669587,214-214:1783669604,215-215:1783669606,216-216:1783669607,217-217:1783669608,218-220:1783669609,221-221:1783669611,222-231:1783669616,232-233:1783669618,234-234:1783669620,235-235:1783669621,236-237:1783669624,238-238:1783669628,239-239:1783669630,240-240:1783669648,241-241:1783669655,242-242:1783669658,243-243:1783669661,244-244:1783669662,245-245:1783669664,246-249:1783669666,250-250:1783669668,251-251:1783669669,252-253:1783669672,254-256:1783669673,257-259:1783669675,260-260:1783669699,261-261:1783669700,262-262:1783669702,263-264:1783669704,265-265:1783669706,266-266:1783669707,267-268:1783669720,269-273:1783669723,274-275:1783669725,276-276:1783669726,277-277:1783669727,278-279:1783669731,280-280:1783669732,281-281:1783669733,282-282:1783669735,283-284:1783669752,285-289:1783669756,290-290:1783669758,291-293:1783669759,294-295:1783669760,296-297:1783669762,298-299:1783669764,300-303:1783669766,304-307:1783669782,308-308:1783669821,309-313:1783669825,314-314:1783669827,315-315:1783669829,316-317:1783669830,318-318:1783669831,319-324:1783669832,325-328:1783669837,329-330:1783669839,331-332:1783669856,333-333:1783669858,334-338:1783669860,339-341:1783669864,342-342:1783669865,343-343:1783669883,344-350:1783669886,351-355:1783669890,356-357:1783669892,358-360:1783669894,361-362:1783669912,363-363:1783669914,364-364:1783669920,365-366:1783669922,367-367:1783669924,368-371:1783669925,372-372:1783669927,373-375:1783669931,376-377:1783669934,378-378:1783669935,379-389:1783669937,390-392:1783669938,393-394:1783669942,395-396:1783669944,397-398:1783669948,399-399:1783669952,400-400:1783669975,401-401:1783669977,402-405:1783669978,406-406:1783669980,407-408:1783669981,409-409:1783669985,410-410:1783669993,411-411:1783670004,412-416:1783670026,417-418:1783670031,419-420:1783670050,421-421:1783670053,422-422:1783670058,423-424:1783670060,425-426:1783670066,427-427:1783670067,428-428:1783670068,429-429:1783670071,430-430:1783670072,431-434:1783670074,435-435:1783670085,436-437:1783670091,438-438:1783670098,439-440:1783670115,441-441:1783670117,442-445:1783670120,446-451:1783670121,452-453:1783670128,454-455:1783670132,456-456:1783670133,457-458:1783670136,459-460:1783670145,461-461:1783670150,462-462:1783670151,463-463:1783670152,464-466:1783670153,467-467:1783670155,468-479:1783670156,480-481:1783670157,482-483:1783670162,484-485:1783670178,486-486:1783670181,487-487:1783670183,488-488:1783670198,489-489:1783670201,490-490:1783670205,491-492:1783670208,493-493:1783670210,494-494:1783670211,495-498:1783670212,499-499:1783670214,500-502:1783670215,503-504:1783670216,505-506:1783670219,507-507:1783670223,508-509:1783670231,510-510:1783670233,511-513:1783670237,514-515:1783670241,516-516:1783670244,517-517:1783670249,518-518:1783670250,519-519:1783670253,520-520:1783670254,521-521:1783670255,522-525:1783670256,526-527:1783670258,528-528:1783670259,529-530:1783670260,531-531:1783670264,532-532:1783670269,533-533:1783670270,534-535:1783670279,536-536:1783670280,537-538:1783670281,539-539:1783670283,540-541:1783670284,542-542:1783670286,543-544:1783670292,545-545:1783670294,546-547:1783670295,548-548:1783670297,549-550:1783670299,551-551:1783670301,552-553:1783670302,554-554:1783670303,555-556:1783670304,557-558:1783670305,559-559:1783670312,560-561:1783670314,562-562:1783670316,563-563:1783670330,564-565:1783670360,566-566:1783670361,567-570:1783670363,571-571:1783670364,572-573:1783670365,574-574:1783670366,575-576:1783670367,577-578:1783670368,579-579:1783670370,580-581:1783670379,582-582:1783670382,583-586:1783670383,587-589:1783670384,590-592:1783670385,593-595:1783670387,596-597:1783670388,598-599:1783670391,600-601:1783670393,602-602:1783670394,603-604:1783670418,605-605:1783670421,606-609:1783670422,610-610:1783670424,611-612:1783670425,613-613:1783670427,614-614:1783670436,615-619:1783670441,620-620:1783670442,621-622:1783670451,623-623:1783670452,624-624:1783670453,625-625:1783670454,626-626:1783670468,627-627:1783670471,628-628:1783670474,629-629:1783670475,630-630:1783670476,631-634:1783670477,635-635:1783670478,636-638:1783670480,639-640:1783670481,641-642:1783670492,643-647:1783670511,648-653:1783670513,654-655:1783670523,656-657:1783670527,658-659:1783670529,660-661:1783670538,662-662:1783670542,663-664:1783670546,665-669:1783670548,670-670:1783670550,671-671:1783670551,672-673:1783670553,674-674:1783670557,675-676:1783670558,677-677:1783670562,678-679:1783670590,680-680:1783670597,681-684:1783670598,685-685:1783670599,686-686:1783670605,687-687:1783670607,688-688:1783670608,689-691:1783670611,692-693:1783670616,694-695:1783670628,696-696:1783670630,697-698:1783670631,699-700:1783670640,701-701:1783670643,702-703:1783670645,704-706:1783670647,707-707:1783670650,708-717:1783670651,718-719:1783670652,720-723:1783670656,724-725:1783670671,726-731:1783670691,732-735:1783670692,736-737:1783670704,738-738:1783670705,739-742:1783670707,743-743:1783670709,744-747:1783670710,748-749:1783670713,750-750:1783670715,751-754:1783670717,755-755:1783670718,756-757:1783670723,758-760:1783670725,761-763:1783670727,764-767:1783670733,768-768:1783670736,769-770:1783670737,771-772:1783670741,773-773:1783670742,774-774:1783670743,775-775:1783670744,776-780:1783670747
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":2,"byPlayer":{"1":{"gameId":"1620367","deckId":"","turns":12,"result":0,"winner":2,"firstPlayer":0,"opposingHero":"aurora_legacy_of_tempest","yourHero":"kayo_underhanded_cheat","startingLife":40,"opponentHero":"aurora_legacy_of_tempest","opponentStartingLife":40,"cardResults":[{"cardId":"big_bully_red","played":"1","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Big Bully","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"booze_blue","played":"1","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Booze!","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"command_and_conquer_red","played":"2","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Command and Conquer","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"enlightened_strike_red","played":"0","blocked":"1","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Enlightened Strike","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"fiddlers_green_red","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Fiddler's Green","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"flex_strength_blue","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Flex Strength","pitchValue":3,"numCopies":1,"activated":"0","passiveTriggered":"0"},{"cardId":"insult_to_injury_blue","played":"1","blocked":"0","pitched":"3","hits":"1","discarded":"0","charged":"0","cardName":"Insult to Injury","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"mocking_blow_blue","played":"0","blocked":"2","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Mocking Blow","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"mocking_blow_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Mocking Blow","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"mocking_blow_yellow","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Mocking Blow","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"nimblism_blue","played":"0","blocked":"0","pitched":"2","hits":"0","discarded":"0","charged":"0","cardName":"Nimblism","pitchValue":3,"numCopies":1,"activated":"0","passiveTriggered":"0"},{"cardId":"nimby_blue","played":"2","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Nimby","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"outside_interference_blue","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"1","charged":"0","cardName":"Outside Interference","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"overcrowded_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Overcrowded","pitchValue":3,"numCopies":1},{"cardId":"pummel_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Pummel","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"pummel_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Pummel","pitchValue":2,"numCopies":1},{"cardId":"reckless_arithmetic_blue","played":"1","blocked":"0","pitched":"1","hits":"1","discarded":"0","charged":"0","cardName":"Reckless Arithmetic","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"revolting_gesture_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Revolting Gesture","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"shelter_from_the_storm_red","played":"3","blocked":"0","pitched":"0","hits":"0","discarded":"1","charged":"0","cardName":"Shelter from the Storm","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_solace_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sigil of Solace","pitchValue":1,"numCopies":1,"activated":"0","passiveTriggered":"0"},{"cardId":"sink_below_red","played":"3","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sink Below","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"steal_victory_blue","played":"0","blocked":"3","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Steal Victory","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"swing_big_red","played":"1","blocked":"0","pitched":"2","hits":"0","discarded":"0","charged":"0","cardName":"Swing Big","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"trot_along_blue","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Trot Along","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"show_of_strength_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Show of Strength","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"concealed_object_blue","played":"0","blocked":"0","pitched":"2","hits":"0","discarded":"0","charged":"0","cardName":"Concealed Object","pitchValue":3,"numCopies":1,"activated":"0","passiveTriggered":"0"},{"cardId":"chain_of_brutality_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Chain of Brutality","pitchValue":1,"numCopies":2},{"cardId":"snarky_prick_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Snarky Prick","pitchValue":1,"numCopies":1,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"kayo_underhanded_cheat","cardName":"Kayo, Underhanded Cheat","numCopies":1},{"cardId":"arcane_lantern","cardName":"Arcane Lantern","numCopies":1},{"cardId":"scowling_flesh_bag","cardName":"Scowling Flesh Bag","numCopies":1},{"cardId":"fyendals_spring_tunic","cardName":"Fyendal's Spring Tunic","numCopies":1},{"cardId":"line_crossers","cardName":"Line Crossers","numCopies":1},{"cardId":"scabskin_leathers","cardName":"Scabskin Leathers","numCopies":1}],"tokenResults":[{"cardId":"bask_in_your_own_greatness_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Bask in Your Own Greatness","pitchValue":1,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"arenaCardResults":[{"cardId":"scowling_flesh_bag","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Scowling Flesh Bag","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"scabskin_leathers","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Scabskin Leathers","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"line_crossers","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Line Crossers","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"kayo_underhanded_cheat","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Kayo, Underhanded Cheat","pitchValue":0,"katsuDiscard":"0","activated":"5","passiveTriggered":"0"},{"cardId":"fyendals_spring_tunic","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Fyendal's Spring Tunic","pitchValue":0,"katsuDiscard":"0","activated":"3","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":40,"opponentLifeAtTurnEnd":40,"turnNo":0},"turn_1":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"1","cardsLeft":"0","damageThreatened":"11","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"7","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":33,"opponentLifeAtTurnEnd":40,"turnNo":1},"turn_2":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"4","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"10","damageDealt":"4","damageBlocked":"5","damagePrevented":"0","damageTaken":"4","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":29,"opponentLifeAtTurnEnd":36,"turnNo":2},"turn_3":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"4","resourcesLeft":"2","cardsLeft":"0","damageThreatened":"6","damageDealt":"3","damageBlocked":"0","damagePrevented":"0","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":26,"opponentLifeAtTurnEnd":33,"turnNo":3},"turn_4":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"1","resourcesUsed":"4","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"10","damageDealt":"7","damageBlocked":"4","damagePrevented":"0","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":23,"opponentLifeAtTurnEnd":26,"turnNo":4},"turn_5":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"1","cardsLeft":"0","damageThreatened":"11","damageDealt":"0","damageBlocked":"4","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":23,"opponentLifeAtTurnEnd":26,"turnNo":5},"turn_6":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"2","cardsLeft":"1","damageThreatened":"8","damageDealt":"8","damageBlocked":"0","damagePrevented":"0","damageTaken":"6","lifeGained":"3","lifeLost":"0","lifeAtTurnEnd":26,"opponentLifeAtTurnEnd":18,"turnNo":6},"turn_7":{"cardsUsed":1,"cardsBlocked":"3","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"1","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"10","damagePrevented":"0","damageTaken":"6","lifeGained":"6","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":18,"turnNo":7},"turn_8":{"cardsUsed":2,"cardsBlocked":"2","cardsPitched":"1","cardsDiscarded":"1","resourcesUsed":"4","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"6","damageDealt":"0","damageBlocked":"5","damagePrevented":"3","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":18,"turnNo":8},"turn_9":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"4","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"10","damageDealt":"10","damageBlocked":"0","damagePrevented":"0","damageTaken":"10","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":10,"opponentLifeAtTurnEnd":8,"turnNo":9},"turn_10":{"cardsUsed":1,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"1","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"10","damagePrevented":"3","damageTaken":"4","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":6,"opponentLifeAtTurnEnd":8,"turnNo":10},"turn_11":{"cardsUsed":1,"cardsBlocked":"3","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"12","damagePrevented":"0","damageTaken":"1","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":5,"opponentLifeAtTurnEnd":8,"turnNo":11},"turn_12":{"cardsUsed":1,"cardsBlocked":"2","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"5","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"8","damageDealt":"7","damageBlocked":"6","damagePrevented":"0","damageTaken":"5","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":5,"opponentLifeAtTurnEnd":1,"turnNo":12}},"yourTime":"1012","totalTime":1606,"totalDamageThreatened":80,"totalDamageDealt":39,"totalLifeGained":9,"totalDamageBlocked":56,"totalDamagePrevented":6,"totalLifeLost":0,"averageDamageThreatenedPerTurn":6.67,"averageDamageDealtPerTurn":3.25,"averageDamageThreatenedPerCard":2.67,"averageResourcesUsedPerTurn":2.58,"averageCardsLeftOverPerTurn":0.17,"averageCombatValuePerTurn":11.33,"averageValuePerTurn":12.58,"totalDamageThreatened_NoLast":72,"totalDamageDealt_NoLast":32,"totalLifeGained_NoLast":9,"totalDamageBlocked_NoLast":50,"totalDamagePrevented_NoLast":6,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":6.55,"averageDamageDealtPerTurn_NoLast":2.91,"averageDamageThreatenedPerCard_NoLast":2.57,"averageResourcesUsedPerTurn_NoLast":2.36,"averageCardsLeftOverPerTurn_NoLast":0.18,"averageCombatValuePerTurn_NoLast":11.09,"averageValuePerTurn_NoLast":12.45,"fullLog":""},"2":{"gameId":"1620367","deckId":"","turns":12,"result":1,"winner":2,"firstPlayer":1,"opposingHero":"kayo_underhanded_cheat","yourHero":"aurora_legacy_of_tempest","startingLife":40,"opponentHero":"kayo_underhanded_cheat","opponentStartingLife":40,"cardResults":[{"cardId":"arc_lightning_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Arc Lightning","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"current_funnel_blue","played":"1","blocked":"1","pitched":"1","hits":"1","discarded":"0","charged":"0","cardName":"Current Funnel","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"enlightened_strike_red","played":"2","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Enlightened Strike","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"fry_red","played":"3","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Fry","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"jack_be_nimble_red","played":"2","blocked":"0","pitched":"1","hits":"2","discarded":"1","charged":"0","cardName":"Jack Be Nimble","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_surge_red","played":"1","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Lightning Surge","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"nimblism_red","played":"3","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Nimblism","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"nimby_red","played":"3","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Nimby","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"path_of_same_ends_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Path of Same Ends","pitchValue":1,"numCopies":3,"activated":"2","passiveTriggered":"0"},{"cardId":"quick_succession_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Quick Succession","pitchValue":1,"numCopies":1},{"cardId":"quick_succession_yellow","played":"2","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":"3","blocked":"0","pitched":"0","hits":"3","discarded":"0","charged":"0","cardName":"Ravenous Rabble","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"rush_of_power_red","played":"1","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Rush of Power","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"scar_for_a_scar_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Scar for a Scar","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"second_strike_red","played":"2","blocked":"1","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Second Strike","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"skyward_serenade_yellow","played":"0","blocked":"3","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Skyward Serenade","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"skyzyk_red","played":"0","blocked":"3","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Skyzyk","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"potion_of_strength_blue","played":"3","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Potion of Strength","pitchValue":3,"numCopies":3,"activated":"2","passiveTriggered":"0"},{"cardId":"lightning_press_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Press","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"exude_confidence_red","played":"2","blocked":"0","pitched":"1","hits":"1","discarded":"0","charged":"0","cardName":"Exude Confidence","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"snatch_red","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Snatch","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"aurora_legacy_of_tempest","cardName":"Aurora, Legacy of Tempest","numCopies":1},{"cardId":"scorpio_comet_tail","cardName":"Scorpio, Comet Tail","numCopies":1},{"cardId":"face_purgatory","cardName":"Face Purgatory","numCopies":1},{"cardId":"aether_ironweave","cardName":"Aether Ironweave","numCopies":1},{"cardId":"grasp_of_the_arknight","cardName":"Grasp of the Arknight","numCopies":1},{"cardId":"snapdragon_scalers","cardName":"Snapdragon Scalers","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"grasp_of_the_arknight","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Grasp of the Arknight","pitchValue":0,"katsuDiscard":"0","activated":"3","passiveTriggered":"0"},{"cardId":"face_purgatory","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Face Purgatory","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"snapdragon_scalers","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Snapdragon Scalers","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"scorpio_comet_tail","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Scorpio, Comet Tail","pitchValue":0,"katsuDiscard":"0","activated":"2","passiveTriggered":"0"},{"cardId":"aether_ironweave","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Aether Ironweave","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":40,"opponentLifeAtTurnEnd":40,"turnNo":0},"turn_1":{"cardsUsed":3,"cardsBlocked":"3","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"12","damageDealt":"7","damageBlocked":"11","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":40,"opponentLifeAtTurnEnd":33,"turnNo":1},"turn_2":{"cardsUsed":1,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"1","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"4","damageDealt":"4","damageBlocked":"6","damagePrevented":"0","damageTaken":"4","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":36,"opponentLifeAtTurnEnd":29,"turnNo":2},"turn_3":{"cardsUsed":2,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"3","damageBlocked":"3","damagePrevented":"0","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":33,"opponentLifeAtTurnEnd":26,"turnNo":3},"turn_4":{"cardsUsed":3,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"3","damageBlocked":"3","damagePrevented":"0","damageTaken":"7","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":26,"opponentLifeAtTurnEnd":23,"turnNo":4},"turn_5":{"cardsUsed":0,"cardsBlocked":"4","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"11","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":26,"opponentLifeAtTurnEnd":23,"turnNo":5},"turn_6":{"cardsUsed":5,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"16","damageDealt":"6","damageBlocked":"0","damagePrevented":"0","damageTaken":"8","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":18,"opponentLifeAtTurnEnd":26,"turnNo":6},"turn_7":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"14","damageDealt":"6","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":18,"opponentLifeAtTurnEnd":20,"turnNo":7},"turn_8":{"cardsUsed":0,"cardsBlocked":"3","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"6","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":18,"opponentLifeAtTurnEnd":20,"turnNo":8},"turn_9":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"23","damageDealt":"10","damageBlocked":"0","damagePrevented":"0","damageTaken":"10","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":8,"opponentLifeAtTurnEnd":10,"turnNo":9},"turn_10":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"16","damageDealt":"4","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":8,"opponentLifeAtTurnEnd":6,"turnNo":10},"turn_11":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"1","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":8,"opponentLifeAtTurnEnd":5,"turnNo":11},"turn_12":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"3","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"17","damageDealt":"5","damageBlocked":"1","damagePrevented":"0","damageTaken":"7","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":1,"opponentLifeAtTurnEnd":5,"turnNo":12}},"yourTime":"594","totalTime":1606,"totalDamageThreatened":123,"totalDamageDealt":49,"totalLifeGained":0,"totalDamageBlocked":41,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":10.25,"averageDamageDealtPerTurn":4.08,"averageDamageThreatenedPerCard":3.62,"averageResourcesUsedPerTurn":0.5,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":13.67,"averageValuePerTurn":13.67,"totalDamageThreatened_NoLast":106,"totalDamageDealt_NoLast":44,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":40,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":9.64,"averageDamageDealtPerTurn_NoLast":4,"averageDamageThreatenedPerCard_NoLast":3.53,"averageResourcesUsedPerTurn_NoLast":0.27,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":13.27,"averageValuePerTurn_NoLast":13.27,"fullLog":""}}}

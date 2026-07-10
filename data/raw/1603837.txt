@@ -1,0 +1,827 @@
+=== Talishar game 1603837 — 08/07/2026 23:01:49 ===
+
+🎲 vileplume41 rolled 6 and you rolled 8.
+you chooses who goes first.
+you will go first.
+Ehecalt activated Hunter's Klaive
+🎯Valda, Seismic Impact was chosen as the target.
+Ehecalt pitched Take Up the Mantle
+Resolving activated ability of Hunter's Klaive.
+vileplume41 passed
+vileplume41 blocked with Rubble Raiser
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt activated Hunter's Klaive
+🎯Valda, Seismic Impact was chosen as the target.
+Ehecalt pitched Codex of Bloodrot
+Resolving activated ability of Hunter's Klaive.
+vileplume41 passed
+vileplume41 blocked with Debilitate
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+vileplume41's turn 1 has begun.
+vileplume41 played Rouse the Ancients
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+vileplume41 pitched Overcrowded
+👁️‍🗨️Aftershock, Disable are revealed
+Rouse the Ancients got +7 and go again
+Resolving play ability of Rouse the Ancients.
+Ehecalt passed
+vileplume41 passed
+Ehecalt auto-passed
+Ehecalt is about to take 7 damage from Rouse the Ancients
+Ehecalt took 7 damage
+Combat resolved with a hit for 7 damage
+The chain link was resolved.
+vileplume41 activated Titan's Fist
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+vileplume41 pitched Aftershock
+Resolving activated ability of Titan's Fist.
+Ehecalt passed
+Ehecalt blocked with Orb-Weaver Spinneret
+vileplume41 passed
+Ehecalt passed
+Ehecalt is about to take 1 damage from Titan's Fist
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+vileplume41 auto-passed
+vileplume41 auto-passed
+The combat chain was closed.
+vileplume41 auto-passed
+vileplume41 passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 1 has begun.
+Ehecalt activated Hunter's Klaive
+🎯Valda, Seismic Impact was chosen as the target.
+Ehecalt pitched Codex of Bloodrot
+Resolving activated ability of Hunter's Klaive.
+vileplume41 passed
+Ehecalt activated Flick Knives
+Ehecalt's Hunter's Klaive was targeted
+vileplume41's Valda, Seismic Impact was targeted
+Resolving activated ability of Flick Knives.
+vileplume41 is about to take 1 damage from Hunter's Klaive
+vileplume41 took 1 damage
+Processing hit effect for Hunter's Klaive
+🎯vileplume41 is now marked!
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 1 damage from Hunter's Klaive
+vileplume41 took 1 damage
+Combat resolved with a hit for 1 damage
+vileplume41 loses their mark
+Processing hit effect for Hunter's Klaive
+🎯vileplume41 is now marked!
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Orb-Weaver Spinneret from arsenal
+Resolving play ability of Orb-Weaver Spinneret.
+Ehecalt played Codex of Inertia
+Resolving play ability of Codex of Inertia.
+Take Up the Mantle was discarded
+Ehecalt played Leave No Witnesses from arsenal
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Leave No Witnesses.
+vileplume41 passed
+Ehecalt passed
+vileplume41 played Sink Below
+Resolving play ability of Sink Below.
+⤵️ A card was put on the bottom of the deck.
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from Leave No Witnesses
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+vileplume41's turn 2 has begun.
+vileplume41 played Tectonic Instability
+Resolving play ability of Tectonic Instability.
+⤵️ A card was put on the bottom of the deck.
+⤵️ A card was put on the bottom of the deck.
+vileplume41 played Promising Terrain
+Resolving play ability of Promising Terrain.
+vileplume41 activated Tectonic Plating
+vileplume41 pitched Disable
+Resolving activated ability of Tectonic Plating.
+vileplume41 activated Titan's Fist
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+vileplume41 pitched Macho Grande
+Resolving activated ability of Titan's Fist.
+Ehecalt passed
+vileplume41 passed
+Ehecalt auto-passed
+Ehecalt is about to take 4 damage from Titan's Fist
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+vileplume41 auto-passed
+vileplume41 auto-passed
+The combat chain was closed.
+vileplume41 auto-passed
+vileplume41 passed priority. Attempting to end turn.
+Processing the end of turn effect of Inertia.
+⬇️ The cards and arsenal of vileplume41 was put on the bottom of their deck.
+═══════════════
+Ehecalt's turn 2 has begun.
+Ehecalt played Infect
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Infect.
+vileplume41 passed
+vileplume41 blocked with Enlightened Strike
+Ehecalt played Razor's Edge
+Resolving play ability of Razor's Edge.
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 3 damage from Infect
+vileplume41 took 3 damage
+Combat resolved with a hit for 3 damage
+vileplume41 loses their mark
+Processing hit effect for Infect
+The chain link was resolved.
+Ehecalt played Ravenous Rabble
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Ehecalt reveals Art of Desire: Body
+vileplume41 passed
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 4 damage from Ravenous Rabble
+vileplume41 took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt played Meet Madness
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Meet Madness.
+vileplume41 passed
+vileplume41 blocked with Testament of Valahai
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from Meet Madness
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+vileplume41's turn 3 has begun.
+Valda, Seismic Impact gives Crush attacks Dominate this turn
+vileplume41 gained 1 life
+vileplume41 activated Tectonic Plating
+vileplume41 pitched Grandeur of Valahai
+Resolving activated ability of Tectonic Plating.
+vileplume41 played Put 'Em In Their Place
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+Resolving play ability of Put 'Em In Their Place.
+Ehecalt passed
+Ehecalt blocked with Art of Desire: Body
+vileplume41 passed
+Ehecalt played Shelter from the Storm from arsenal
+Resolving play ability of Shelter from the Storm.
+vileplume41 passed
+Ehecalt passed
+Ehecalt is about to take 3 damage from Put 'Em In Their Place
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+vileplume41 played Seismic Eruption
+Resolving play ability of Seismic Eruption.
+vileplume41 auto-passed
+vileplume41 auto-passed
+The combat chain was closed.
+vileplume41 auto-passed
+vileplume41 passed priority. Attempting to end turn.
+vileplume41 is about to take 2 damage from Bloodrot Pox
+vileplume41 took 2 damage
+═══════════════
+Ehecalt's turn 3 has begun.
+Ehecalt played Pain in the Backside
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Pain in the Backside.
+vileplume41 passed
+vileplume41 blocked with Disable
+Ehecalt activated Flick Knives
+Ehecalt's Graphene Chelicera was targeted
+vileplume41's Valda, Seismic Impact was targeted
+Resolving activated ability of Flick Knives.
+vileplume41 is about to take 1 damage from Graphene Chelicera
+vileplume41 took 1 damage
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from Pain in the Backside
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt played Lobotomy
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Lobotomy.
+vileplume41 passed
+vileplume41 blocked with Tear Asunder
+Ehecalt activated Fyendal's Spring Tunic
+Resolving activated ability of Fyendal's Spring Tunic.
+Ehecalt played Spike with Bloodrot
+Resolving play ability of Spike with Bloodrot.
+Ehecalt passed
+vileplume41 played Sink Below from arsenal
+Resolving play ability of Sink Below.
+vileplume41 did not sink a card
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+vileplume41's turn 4 has begun.
+Valda, Seismic Impact gives Crush attacks Dominate this turn
+vileplume41 played Spinal Crush
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+Resolving play ability of Spinal Crush.
+Ehecalt passed
+Ehecalt blocked with Blacktek Whisperers, Crown of Providence, and Infect
+vileplume41 passed
+Ehecalt passed
+Ehecalt is about to take 3 damage from Spinal Crush
+Ehecalt took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+vileplume41 auto-passed
+vileplume41 auto-passed
+The combat chain was closed.
+vileplume41 auto-passed
+vileplume41 passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 4 has begun.
+Ehecalt played Creep
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Creep.
+vileplume41 passed
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 3 damage from Creep
+vileplume41 took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt played Mark of the Black Widow
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Mark of the Black Widow.
+vileplume41 passed
+Ehecalt activated Flick Knives
+Ehecalt's Hunter's Klaive was targeted
+vileplume41's Valda, Seismic Impact was targeted
+Resolving activated ability of Flick Knives.
+vileplume41 is about to take 1 damage from Hunter's Klaive
+vileplume41 took 1 damage
+Processing hit effect for Hunter's Klaive
+🎯vileplume41 is now marked!
+Ehecalt passed
+vileplume41 played Sink Below
+Resolving play ability of Sink Below.
+vileplume41 did not sink a card
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Codex of Inertia
+Resolving play ability of Codex of Inertia.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+vileplume41's turn 5 has begun.
+vileplume41 played Rouse the Ancients from arsenal
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+vileplume41 pitched Ley Line of the Old Ones
+👁️‍🗨️Put 'Em In Their Place, Cranial Crush are revealed
+Rouse the Ancients got +7 and go again
+Resolving play ability of Rouse the Ancients.
+Ehecalt passed
+vileplume41 passed
+Ehecalt auto-passed
+Ehecalt is about to take 7 damage from Rouse the Ancients
+Ehecalt took 7 damage
+Combat resolved with a hit for 7 damage
+The chain link was resolved.
+vileplume41 passed
+The combat chain was closed.
+vileplume41 activated Tectonic Plating
+vileplume41 pitched Put 'Em In Their Place
+Resolving activated ability of Tectonic Plating.
+vileplume41 activated Titan's Fist
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+vileplume41 pitched Cranial Crush
+Resolving activated ability of Titan's Fist.
+Ehecalt passed
+vileplume41 passed
+Ehecalt auto-passed
+Ehecalt is about to take 4 damage from Titan's Fist
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+vileplume41 auto-passed
+vileplume41 auto-passed
+The combat chain was closed.
+vileplume41 auto-passed
+vileplume41 passed priority. Attempting to end turn.
+Processing the end of turn effect of Inertia.
+⬇️ The cards and arsenal of vileplume41 was put on the bottom of their deck.
+═══════════════
+Ehecalt's turn 5 has begun.
+Ehecalt played Kiss of Death
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Kiss of Death.
+vileplume41 passed
+vileplume41 blocked with Imposing Visage
+Ehecalt played Spike with Bloodrot
+Ehecalt pitched Razor's Edge
+Resolving play ability of Spike with Bloodrot.
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 3 damage from Kiss of Death
+vileplume41 took 3 damage
+Combat resolved with a hit for 3 damage
+vileplume41 loses their mark
+Processing hit effect for Kiss of Death
+vileplume41 loses 1 life.
+The chain link was resolved.
+Ehecalt played Mark of the Black Widow
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Mark of the Black Widow.
+vileplume41 passed
+vileplume41 blocked with Rubble Raiser
+Ehecalt activated Flick Knives
+Ehecalt's Kiss of Death was targeted
+vileplume41's Valda, Seismic Impact was targeted
+Resolving activated ability of Flick Knives.
+vileplume41 is about to take 1 damage from Kiss of Death
+vileplume41 took 1 damage
+Processing hit effect for Kiss of Death
+vileplume41 loses 1 life.
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from Mark of the Black Widow
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+vileplume41's turn 6 has begun.
+vileplume41 activated Titan's Fist
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+vileplume41 pitched Cranial Crush
+Resolving activated ability of Titan's Fist.
+Ehecalt passed
+vileplume41 passed
+Ehecalt played Sink Below
+Resolving play ability of Sink Below.
+⤵️ A card was put on the bottom of the deck.
+vileplume41 passed
+Ehecalt passed
+Ehecalt is about to take 0 damage from Titan's Fist
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+vileplume41 auto-passed
+vileplume41 auto-passed
+The combat chain was closed.
+vileplume41 auto-passed
+vileplume41 passed priority. Attempting to end turn.
+vileplume41 pitched Thunder Quake
+vileplume41 is about to take 2 damage from Bloodrot Pox
+vileplume41 took 2 damage
+═══════════════
+Ehecalt's turn 6 has begun.
+Ehecalt played Creep
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Creep.
+vileplume41 passed
+Ehecalt played Razor's Edge
+Resolving play ability of Razor's Edge.
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 6 damage from Creep
+vileplume41 took 6 damage
+Combat resolved with a hit for 6 damage
+The chain link was resolved.
+Ehecalt played Leave No Witnesses
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Leave No Witnesses.
+vileplume41 passed
+vileplume41 blocked with Basalt Boots
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 2 damage from Leave No Witnesses
+vileplume41 took 2 damage
+Combat resolved with a hit for 2 damage
+Processing hit effect for Leave No Witnesses
+Seismic Eruption was banished.
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+vileplume41's turn 7 has begun.
+vileplume41 played Promising Terrain
+Resolving play ability of Promising Terrain.
+vileplume41 played Promising Terrain
+Resolving play ability of Promising Terrain.
+vileplume41 activated Tectonic Plating
+vileplume41 pitched Aftershock
+Resolving activated ability of Tectonic Plating.
+vileplume41 played Boulder Drop
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+Resolving play ability of Boulder Drop.
+Ehecalt passed
+Ehecalt blocked with Leave No Witnesses
+vileplume41 passed
+Ehecalt played Shelter from the Storm from arsenal
+Resolving play ability of Shelter from the Storm.
+vileplume41 passed
+Ehecalt passed
+Ehecalt is about to take 0 damage from Boulder Drop
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+vileplume41 auto-passed
+vileplume41 auto-passed
+The combat chain was closed.
+vileplume41 auto-passed
+vileplume41 passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 7 has begun.
+Ehecalt played Mark of the Black Widow
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Mark of the Black Widow.
+vileplume41 passed
+vileplume41 blocked with Imposing Visage
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from Mark of the Black Widow
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt played Infect
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Infect.
+vileplume41 passed
+vileplume41 blocked with Rubble Raiser
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from Infect
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+vileplume41's turn 8 has begun.
+Valda, Seismic Impact gives Crush attacks Dominate this turn
+vileplume41 gained 1 life
+vileplume41 gained 1 life
+vileplume41 played Tectonic Instability
+Resolving play ability of Tectonic Instability.
+⤵️ A card was put on the bottom of the deck.
+vileplume41 activated Tectonic Plating
+vileplume41 pitched Rouse the Ancients
+Resolving activated ability of Tectonic Plating.
+vileplume41 played Thunder Quake
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+vileplume41 pitched Tectonic Instability
+Resolving play ability of Thunder Quake.
+Ehecalt passed
+Ehecalt blocked with Creep
+vileplume41 passed
+Ehecalt passed
+Ehecalt is about to take 5 damage from Thunder Quake
+Ehecalt took 5 damage
+Combat resolved with a hit for 5 damage
+The chain link was resolved.
+vileplume41 auto-passed
+vileplume41 auto-passed
+The combat chain was closed.
+vileplume41 auto-passed
+vileplume41 passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 8 has begun.
+Ehecalt played Pain in the Backside
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Pain in the Backside.
+vileplume41 passed
+vileplume41 blocked with Spinal Crush
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from Pain in the Backside
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt played Art of Desire: Body
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Art of Desire: Body.
+vileplume41 passed
+vileplume41 blocked with Macho Grande
+Ehecalt played Tarantula Toxin
+Selected mode for Tarantula Toxin is: Reduce Block
+Ehecalt's Macho Grande was targeted
+Macho Grande gets -3 defense
+Resolving play ability of Tarantula Toxin.
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 3 damage from Art of Desire: Body
+vileplume41 took 3 damage
+Combat resolved with a hit for 3 damage
+Processing hit effect for Art of Desire: Body
+Disable was banished.
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+vileplume41's turn 9 has begun.
+Valda, Seismic Impact gives Crush attacks Dominate this turn
+vileplume41 played Boulder Drop
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+Resolving play ability of Boulder Drop.
+Ehecalt passed
+Ehecalt blocked with Codex of Frailty
+vileplume41 passed
+Ehecalt played Sink Below from arsenal
+Resolving play ability of Sink Below.
+Ehecalt did not sink a card
+vileplume41 passed
+Ehecalt passed
+Ehecalt is about to take 1 damage from Boulder Drop
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+vileplume41 auto-passed
+vileplume41 auto-passed
+The combat chain was closed.
+vileplume41 auto-passed
+vileplume41 passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 9 has begun.
+Ehecalt played Orb-Weaver Spinneret
+Resolving play ability of Orb-Weaver Spinneret.
+Ehecalt played Kiss of Death
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Kiss of Death.
+vileplume41 passed
+vileplume41 blocked with Disable and Macho Grande
+Ehecalt played Tarantula Toxin
+Selected mode for Tarantula Toxin is: Both
+Ehecalt's Macho Grande was targeted
+Macho Grande gets -3 defense
+Resolving play ability of Tarantula Toxin.
+Ehecalt passed
+vileplume41 played Shelter from the Storm
+Defense Reaction was chosen.
+Resolving play ability of Shelter from the Storm.
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 2 damage from Kiss of Death
+vileplume41 took 2 damage
+Combat resolved with a hit for 2 damage
+Processing hit effect for Kiss of Death
+vileplume41 loses 1 life.
+The chain link was resolved.
+Ehecalt activated Fyendal's Spring Tunic
+Resolving activated ability of Fyendal's Spring Tunic.
+Ehecalt activated Graphene Chelicera
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving activated ability of Graphene Chelicera.
+vileplume41 passed
+vileplume41 blocked with Crown of Providence
+⤵️ A card was put on the bottom of the deck.
+Ehecalt activated Flick Knives
+Ehecalt's Kiss of Death was targeted
+vileplume41's Valda, Seismic Impact was targeted
+Resolving activated ability of Flick Knives.
+vileplume41 is about to take 1 damage from Kiss of Death
+vileplume41 took 1 damage
+Processing hit effect for Kiss of Death
+vileplume41 loses 1 life.
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+vileplume41's turn 10 has begun.
+vileplume41 played Enlightened Strike
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+⤵️ A card was put on the bottom of the deck.
+Selected mode for Enlightened Strike is: Buff Power
+Resolving play ability of Enlightened Strike.
+Ehecalt passed
+Ehecalt blocked with Bonds of Attraction and Meet Madness
+vileplume41 passed
+Ehecalt passed
+Ehecalt is about to take 1 damage from Enlightened Strike
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+vileplume41 auto-passed
+vileplume41 auto-passed
+The combat chain was closed.
+vileplume41 auto-passed
+vileplume41 passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 10 has begun.
+Ehecalt played Art of Desire: Body
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Art of Desire: Body.
+vileplume41 passed
+vileplume41 blocked with Debilitate
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from Art of Desire: Body
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt played Ravenous Rabble
+🎯Valda, Seismic Impact was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Ehecalt reveals Shelter from the Storm
+vileplume41 passed
+vileplume41 blocked with Ironfist Revelation and Tectonic Plating
+vileplume41 played Seismic Eruption
+Resolving play ability of Seismic Eruption.
+Ehecalt activated Flick Knives
+Ehecalt's Graphene Chelicera was targeted
+vileplume41's Valda, Seismic Impact was targeted
+Resolving activated ability of Flick Knives.
+vileplume41 is about to take 1 damage from Graphene Chelicera
+vileplume41 took 1 damage
+Ehecalt passed
+vileplume41 passed
+vileplume41 is about to take 0 damage from Ravenous Rabble
+vileplume41 took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+vileplume41's turn 11 has begun.
+Valda, Seismic Impact gives Crush attacks Dominate this turn
+vileplume41 activated Tectonic Plating
+vileplume41 pitched Thunder Quake
+Resolving activated ability of Tectonic Plating.
+vileplume41 played Disable
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+Resolving play ability of Disable.
+Ehecalt passed
+Ehecalt: Good Game!
+vileplume41 passed
+Ehecalt auto-passed
+Ehecalt is about to take 9 damage from Disable
+Ehecalt took 9 damage
+vileplume41 (karlim00) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights (Ehecalt only)
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Orb Weaver Spinneret, Codex Of Bloodrot, Take Up The Mantle, Take Up The Mantle
+[vileplume41 #1] Take Up The Mantle, Codex Of Bloodrot, Codex Of Inertia, Orb Weaver Spinneret
+[Ehecalt #1] Take Up The Mantle, Codex Of Bloodrot, Codex Of Inertia
+[vileplume41 #2] Ravenous Rabble, Shelter From The Storm, Infect, Razors Edge
+[Ehecalt #2] Ravenous Rabble, Shelter From The Storm, Infect, Razors Edge, Meet Madness
+[vileplume41 #3] Art Of Desire Body, Spike With Bloodrot, Lobotomy, Pain In The Backside
+[Ehecalt #3] Spike With Bloodrot, Lobotomy, Pain In The Backside
+[vileplume41 #4] Codex Of Inertia, Infect, Creep, Mark Of The Black Widow
+[Ehecalt #4] Codex Of Inertia, Mark Of The Black Widow
+[vileplume41 #5] Razors Edge, Kiss Of Death, Mark Of The Black Widow, Spike With Bloodrot
+[Ehecalt #5] Razors Edge, Kiss Of Death, Mark Of The Black Widow, Spike With Bloodrot
+[vileplume41 #6] Razors Edge, Creep, Take Up The Mantle, Sink Below
+[Ehecalt #6] Razors Edge, Creep, Leave No Witnesses
+[vileplume41 #7] Infect, Leave No Witnesses, Codex Of Frailty, Mark Of The Black Widow
+[Ehecalt #7] Infect, Codex Of Frailty, Mark Of The Black Widow
+[vileplume41 #8] Creep, Art Of Desire Body, Pain In The Backside, Sink Below
+[Ehecalt #8] Art Of Desire Body, Pain In The Backside, Sink Below, Tarantula Toxin
+[vileplume41 #9] Codex Of Frailty, Orb Weaver Spinneret, Kiss Of Death, Tarantula Toxin
+[Ehecalt #9] Orb Weaver Spinneret, Kiss Of Death, Tarantula Toxin
+[vileplume41 #10] Ravenous Rabble, Meet Madness, Bonds Of Attraction, Art Of Desire Body
+[Ehecalt #10] Ravenous Rabble, Art Of Desire Body
+[vileplume41 #11] Shelter From The Storm, Codex Of Frailty, Lobotomy, Spike With Bloodrot
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[vileplume41 #1] Orb Weaver Spinneret
+[Ehecalt #1] Orb Weaver Spinneret
+[vileplume41 #2] Bonds Of Attraction
+[Ehecalt #2] (vide)
+[vileplume41 #3] Shelter From The Storm
+[Ehecalt #3] (vide)
+[vileplume41 #4] (vide)
+[Ehecalt #4] (vide)
+[vileplume41 #5] Shelter From The Storm
+[Ehecalt #5] Shelter From The Storm
+[vileplume41 #6] Shelter From The Storm
+[Ehecalt #6] Shelter From The Storm
+[vileplume41 #7] Shelter From The Storm
+[Ehecalt #7] (vide)
+[vileplume41 #8] Codex Of Frailty
+[Ehecalt #8] (vide)
+[vileplume41 #9] Sink Below
+[Ehecalt #9] (vide)
+[vileplume41 #10] (vide)
+[Ehecalt #10] (vide)
+[vileplume41 #11] (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=38 opp=40 myDeck=56 oppDeck=56
+[vileplume41 #1] me=38 opp=40 myDeck=55 oppDeck=54
+[Ehecalt #1] me=30 opp=40 myDeck=55 oppDeck=52
+[vileplume41 #2] me=30 opp=38 myDeck=50 oppDeck=52
+[Ehecalt #2] me=26 opp=38 myDeck=50 oppDeck=50
+[vileplume41 #3] me=26 opp=31 myDeck=46 oppDeck=50
+[Ehecalt #3] me=23 opp=30 myDeck=46 oppDeck=46
+[vileplume41 #4] me=23 opp=29 myDeck=42 oppDeck=46
+[Ehecalt #4] me=20 opp=29 myDeck=42 oppDeck=42
+[vileplume41 #5] me=20 opp=25 myDeck=37 oppDeck=42
+[Ehecalt #5] me=9 opp=25 myDeck=37 oppDeck=41
+[vileplume41 #6] me=9 opp=19 myDeck=34 oppDeck=41
+[Ehecalt #6] me=9 opp=17 myDeck=34 oppDeck=39
+[vileplume41 #7] me=9 opp=9 myDeck=30 oppDeck=38
+[Ehecalt #7] me=9 opp=9 myDeck=30 oppDeck=35
+[vileplume41 #8] me=9 opp=9 myDeck=26 oppDeck=35
+[Ehecalt #8] me=4 opp=11 myDeck=26 oppDeck=31
+[vileplume41 #9] me=4 opp=8 myDeck=22 oppDeck=30
+[Ehecalt #9] me=3 opp=8 myDeck=22 oppDeck=26
+[vileplume41 #10] me=3 opp=3 myDeck=18 oppDeck=26
+[Ehecalt #10] me=2 opp=3 myDeck=18 oppDeck=23
+[vileplume41 #11] me=2 opp=2 myDeck=14 oppDeck=23
+
+=== META ===
+schema: v1
+captured_with: TLG v1.10.4
+game_url: https://talishar.net/game/play/1603837
+captured_at: 2026-07-08T20:47:35.845Z
+format: compcc
+vs_ai: non
+me: Ehecalt
+opponent: vileplume41
+my_hero: Arakni, 5L!p3d 7hRu 7h3 cR4X (arakni_5lp3d_7hru_7h3_cr4x)
+opp_hero: Valda Seismic Impact (valda_seismic_impact)
+my_start_life: 38
+opp_start_life: 40
+my_start_deck_size: 56
+opp_start_deck_size: 56
+my_equipment: head=Crown Of Providence (crown_of_providence) | chest=Fyendals Spring Tunic (fyendals_spring_tunic) | arms=Flick Knives (flick_knives) | legs=Blacktek Whisperers (blacktek_whisperers) | weaponL=Hunters Klaive (hunters_klaive) | weaponR=Hunters Klaive R (hunters_klaive_r)
+opp_equipment: head=Crown Of Providence (crown_of_providence) | chest=Tectonic Plating (tectonic_plating) | arms=Ironfist Revelation (ironfist_revelation) | legs=Basalt Boots (basalt_boots) | weaponL=Titans Fist (titans_fist) | weaponR=Testament Of Valahai (testament_of_valahai)
+
+=== TIMESTAMPS ===
+0-1:1783543655,2-2:1783543659,3-4:1783543692,5-6:1783543693,7-8:1783543697,9-9:1783543698,10-14:1783543699,15-16:1783543702,17-18:1783543706,19-20:1783543707,21-21:1783543708,22-29:1783543709,30-31:1783543710,32-33:1783543713,34-35:1783543716,36-36:1783543717,37-39:1783543719,40-40:1783543734,41-46:1783543736,47-50:1783543737,51-52:1783543743,53-53:1783543747,54-63:1783543748,64-65:1783543754,66-69:1783543755,70-70:1783543766,71-73:1783543767,74-76:1783543769,77-78:1783543770,79-79:1783543771,80-87:1783543772,88-89:1783543773,90-91:1783543774,92-94:1783543776,95-97:1783543779,98-98:1783543790,99-99:1783543797,100-100:1783543798,101-101:1783543799,102-102:1783543800,103-103:1783543801,104-113:1783543802,114-115:1783543803,116-116:1783543809,117-119:1783543811,120-120:1783543816,121-121:1783543817,122-122:1783543819,123-123:1783543820,124-126:1783543821,127-127:1783543822,128-128:1783543823,129-129:1783543824,130-134:1783543826,135-137:1783543827,138-140:1783543828,141-144:1783543829,145-146:1783543832,147-147:1783543834,148-149:1783543843,150-150:1783543845,151-152:1783543847,153-157:1783543848,158-158:1783543850,159-159:1783543852,160-161:1783543853,162-162:1783543855,163-163:1783543857,164-164:1783543862,165-165:1783543864,166-169:1783543865,170-170:1783543867,171-172:1783543868,173-173:1783543870,174-175:1783543873,176-176:1783543881,177-180:1783543882,181-183:1783543884,184-184:1783543885,185-186:1783543886,187-189:1783543888,190-190:1783543895,191-191:1783543898,192-192:1783543900,193-193:1783543902,194-195:1783543903,196-196:1783543905,197-198:1783543929,199-199:1783543931,200-200:1783543932,201-202:1783543934,203-206:1783543935,207-208:1783543937,209-210:1783543938,211-214:1783543939,215-218:1783543942,219-220:1783543944,221-221:1783543945,222-223:1783543960,224-224:1783543963,225-226:1783543964,227-229:1783543966,230-230:1783543967,231-235:1783543968,236-237:1783543969,238-238:1783543970,239-240:1783543999,241-241:1783544000,242-242:1783544001,243-243:1783544002,244-244:1783544003,245-246:1783544004,247-247:1783544005,248-249:1783544006,250-254:1783544007,255-262:1783544008,263-265:1783544009,266-267:1783544029,268-278:1783544032,279-280:1783544034,281-282:1783544035,283-283:1783544039,284-284:1783544045,285-285:1783544046,286-290:1783544047,291-292:1783544048,293-293:1783544049,294-294:1783544057,295-297:1783544058,298-300:1783544060,301-302:1783544062,303-303:1783544063,304-304:1783544064,305-305:1783544065,306-306:1783544066,307-311:1783544067,312-312:1783544068,313-315:1783544069,316-316:1783544071,317-318:1783544073,319-320:1783544086,321-322:1783544087,323-323:1783544088,324-326:1783544090,327-327:1783544095,328-333:1783544096,334-335:1783544097,336-336:1783544099,337-338:1783544100,339-342:1783544101,343-343:1783544110,344-356:1783544114,357-358:1783544119,359-361:1783544120,362-363:1783544136,364-364:1783544137,365-365:1783544139,366-366:1783544140,367-372:1783544141,373-375:1783544143,376-378:1783544144,379-380:1783544152,381-381:1783544153,382-383:1783544154,384-386:1783544155,387-388:1783544157,389-401:1783544158,402-403:1783544159,404-405:1783544160,406-406:1783544167,407-407:1783544169,408-408:1783544170,409-409:1783544171,410-410:1783544172,411-411:1783544176,412-421:1783544177,422-424:1783544182,425-426:1783544183,427-428:1783544184,429-429:1783544186,430-430:1783544189,431-432:1783544191,433-433:1783544192,434-437:1783544193,438-440:1783544194,441-441:1783544195,442-443:1783544205,444-444:1783544208,445-448:1783544209,449-451:1783544210,452-454:1783544211,455-456:1783544212,457-459:1783544213,460-461:1783544215,462-463:1783544217,464-464:1783544218,465-467:1783544219,468-468:1783544221,469-470:1783544232,471-471:1783544245,472-472:1783544246,473-473:1783544247,474-474:1783544251,475-478:1783544252,479-484:1783544253,485-486:1783544254,487-488:1783544255,489-489:1783544256,490-491:1783544263,492-492:1783544264,493-496:1783544265,497-497:1783544266,498-499:1783544267,500-500:1783544268,501-502:1783544271,503-503:1783544272,504-508:1783544273,509-511:1783544274,512-513:1783544275,514-516:1783544277,517-518:1783544279,519-519:1783544294,520-521:1783544299,522-522:1783544307,523-523:1783544308,524-524:1783544309,525-527:1783544310,528-528:1783544311,529-530:1783544324,531-531:1783544325,532-535:1783544326,536-538:1783544327,539-541:1783544328,542-543:1783544330,544-545:1783544331,546-546:1783544332,547-548:1783544335,549-553:1783544336,554-556:1783544338,557-557:1783544339,558-559:1783544343,560-562:1783544344,563-565:1783544345,566-569:1783544346,570-571:1783544347,572-575:1783544348,576-577:1783544349,578-582:1783544351,583-583:1783544353,584-585:1783544388,586-586:1783544390,587-587:1783544391,588-588:1783544392,589-590:1783544394,591-594:1783544395,595-600:1783544396,601-603:1783544398,604-606:1783544401,607-607:1783544403,608-609:1783544421,610-610:1783544423,611-611:1783544424,612-612:1783544425,613-614:1783544427,615-615:1783544428,616-617:1783544429,618-618:1783544430,619-623:1783544431,624-625:1783544433,626-626:1783544434,627-628:1783544435,629-631:1783544436,632-633:1783544444,634-634:1783544445,635-642:1783544446,643-655:1783544448,656-658:1783544449,659-660:1783544450,661-662:1783544457,663-663:1783544459,664-675:1783544460,676-677:1783544461,678-678:1783544463,679-680:1783544471,681-685:1783544472,686-686:1783544473,687-688:1783544474,689-689:1783544475,690-690:1783544476,691-692:1783544480,693-694:1783544481,695-695:1783544482,696-700:1783544483,701-701:1783544484,702-706:1783544485,707-714:1783544486,715-715:1783544488,716-716:1783544489,717-717:1783544490,718-719:1783544491,720-720:1783544492,721-721:1783544502,722-722:1783544504,723-728:1783544505
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":2,"byPlayer":{"1":{"gameId":"1603837","deckId":"","turns":11,"result":1,"winner":1,"firstPlayer":0,"opposingHero":"arakni_5lp3d_7hru_7h3_cr4x","yourHero":"valda_seismic_impact","startingLife":40,"opponentHero":"arakni_5lp3d_7hru_7h3_cr4x","opponentStartingLife":38,"cardResults":[{"cardId":"aftershock_blue","played":"0","blocked":"0","pitched":"2","hits":"0","discarded":"0","charged":"0","cardName":"Aftershock","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"boulder_drop_red","played":"2","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Boulder Drop","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"cranial_crush_blue","played":"0","blocked":"0","pitched":"2","hits":"0","discarded":"0","charged":"0","cardName":"Cranial Crush","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"crash_and_bash_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Crash and Bash","pitchValue":1,"numCopies":2},{"cardId":"debilitate_blue","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Debilitate","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"disable_blue","played":"0","blocked":"1","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Disable","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"disable_red","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Disable","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"enlightened_strike_red","played":"1","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Enlightened Strike","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"grandeur_of_valahai_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Grandeur of Valahai","pitchValue":3,"numCopies":1,"activated":"0","passiveTriggered":"0"},{"cardId":"imposing_visage_blue","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Imposing Visage","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"ley_line_of_the_old_ones_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Ley Line of the Old Ones","pitchValue":3,"numCopies":1,"activated":"0","passiveTriggered":"0"},{"cardId":"macho_grande_blue","played":"0","blocked":"2","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Macho Grande","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"promising_terrain_blue","played":"3","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Promising Terrain","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"put_em_in_their_place_red","played":"1","blocked":"0","pitched":"1","hits":"1","discarded":"0","charged":"0","cardName":"Put 'Em In Their Place","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"rouse_the_ancients_blue","played":"2","blocked":"0","pitched":"1","hits":"2","discarded":"0","charged":"0","cardName":"Rouse the Ancients","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"rubble_raiser_blue","played":"0","blocked":"3","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Rubble Raiser","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"seismic_eruption_yellow","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Seismic Eruption","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"shelter_from_the_storm_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Shelter from the Storm","pitchValue":1,"numCopies":1,"activated":"0","passiveTriggered":"0"},{"cardId":"sink_below_red","played":"3","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sink Below","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"spinal_crush_red","played":"1","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Spinal Crush","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"tear_asunder_blue","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Tear Asunder","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"tectonic_instability_blue","played":"2","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Tectonic Instability","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"thunder_quake_blue","played":"1","blocked":"0","pitched":"1","hits":"1","discarded":"0","charged":"0","cardName":"Thunder Quake","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"overcrowded_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Overcrowded","pitchValue":3,"numCopies":1,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"valda_seismic_impact","cardName":"Valda, Seismic Impact","numCopies":1},{"cardId":"titans_fist","cardName":"Titan's Fist","numCopies":1},{"cardId":"testament_of_valahai","cardName":"Testament of Valahai","numCopies":1},{"cardId":"crown_of_providence","cardName":"Crown of Providence","numCopies":1},{"cardId":"tectonic_plating","cardName":"Tectonic Plating","numCopies":1},{"cardId":"ironfist_revelation","cardName":"Ironfist Revelation","numCopies":1},{"cardId":"basalt_boots","cardName":"Basalt Boots","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"titans_fist","played":"0","blocked":"0","pitched":"0","hits":"3","discarded":"0","charged":"0","cardName":"Titan's Fist","pitchValue":0,"katsuDiscard":"0","activated":"4","passiveTriggered":"0"},{"cardId":"tectonic_plating","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Tectonic Plating","pitchValue":0,"katsuDiscard":"0","activated":"6","passiveTriggered":"0"},{"cardId":"testament_of_valahai","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Testament of Valahai","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"basalt_boots","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Basalt Boots","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"crown_of_providence","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Crown of Providence","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"ironfist_revelation","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Ironfist Revelation","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"2","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":40,"opponentLifeAtTurnEnd":38,"turnNo":0},"turn_1":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"6","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"11","damageDealt":"8","damageBlocked":"0","damagePrevented":"0","damageTaken":"2","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":38,"opponentLifeAtTurnEnd":30,"turnNo":1},"turn_2":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"4","resourcesLeft":"2","cardsLeft":"0","damageThreatened":"4","damageDealt":"4","damageBlocked":"4","damagePrevented":"0","damageTaken":"7","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":31,"opponentLifeAtTurnEnd":26,"turnNo":2},"turn_3":{"cardsUsed":2,"cardsBlocked":"1","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"1","cardsLeft":"0","damageThreatened":"10","damageDealt":"3","damageBlocked":"6","damagePrevented":"0","damageTaken":"1","lifeGained":"1","lifeLost":"-2","lifeAtTurnEnd":29,"opponentLifeAtTurnEnd":23,"turnNo":3},"turn_4":{"cardsUsed":2,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"9","damageDealt":"3","damageBlocked":"9","damagePrevented":"0","damageTaken":"4","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":25,"opponentLifeAtTurnEnd":20,"turnNo":4},"turn_5":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"3","cardsDiscarded":"0","resourcesUsed":"7","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"11","damageDealt":"11","damageBlocked":"3","damagePrevented":"0","damageTaken":"6","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":19,"opponentLifeAtTurnEnd":9,"turnNo":5},"turn_6":{"cardsUsed":0,"cardsBlocked":"2","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"3","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"4","damageDealt":"0","damageBlocked":"6","damagePrevented":"0","damageTaken":"8","lifeGained":"0","lifeLost":"-2","lifeAtTurnEnd":9,"opponentLifeAtTurnEnd":9,"turnNo":6},"turn_7":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"3","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"0","damageBlocked":"2","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":9,"opponentLifeAtTurnEnd":9,"turnNo":7},"turn_8":{"cardsUsed":2,"cardsBlocked":"2","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"4","resourcesLeft":"2","cardsLeft":"0","damageThreatened":"8","damageDealt":"5","damageBlocked":"6","damagePrevented":"0","damageTaken":"3","lifeGained":"2","lifeLost":"0","lifeAtTurnEnd":8,"opponentLifeAtTurnEnd":4,"turnNo":8},"turn_9":{"cardsUsed":1,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"1","damageBlocked":"3","damagePrevented":"0","damageTaken":"5","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":3,"opponentLifeAtTurnEnd":3,"turnNo":9},"turn_10":{"cardsUsed":2,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"1","damageBlocked":"8","damagePrevented":"0","damageTaken":"1","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":2,"opponentLifeAtTurnEnd":2,"turnNo":10},"turn_11":{"cardsUsed":2,"cardsBlocked":"1","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"3","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"9","damageDealt":"9","damageBlocked":"7","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":11}},"yourTime":"411","totalTime":821,"totalDamageThreatened":87,"totalDamageDealt":45,"totalLifeGained":3,"totalDamageBlocked":56,"totalDamagePrevented":0,"totalLifeLost":-4,"averageDamageThreatenedPerTurn":7.91,"averageDamageDealtPerTurn":4.09,"averageDamageThreatenedPerCard":3.48,"averageResourcesUsedPerTurn":2.91,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":12.82,"averageValuePerTurn":12.73,"totalDamageThreatened_NoLast":78,"totalDamageDealt_NoLast":36,"totalLifeGained_NoLast":3,"totalDamageBlocked_NoLast":49,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":-4,"averageDamageThreatenedPerTurn_NoLast":7.8,"averageDamageDealtPerTurn_NoLast":3.6,"averageDamageThreatenedPerCard_NoLast":3.39,"averageResourcesUsedPerTurn_NoLast":2.9,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":12.5,"averageValuePerTurn_NoLast":12.4,"fullLog":"<span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Player 2 pitched <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/take_up_the_mantle_yellow.webp')\" onmouseout='HideCardDetail()'>Take Up the Mantle</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/rubble_raiser_blue.webp')\" onmouseout='HideCardDetail()'>Rubble Raiser</span></b><BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive_r.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Player 2 pitched <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/codex_of_bloodrot_yellow.webp')\" onmouseout='HideCardDetail()'>Codex of Bloodrot</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive_r.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/debilitate_blue.webp')\" onmouseout='HideCardDetail()'>Debilitate</span></b><BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 2 passed<BR>Player 2 passed<BR>The combat chain was closed.<BR>Player 2 passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 1 has begun.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/rouse_the_ancients_blue.webp')\" onmouseout='HideCardDetail()'>Rouse the Ancients</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arakni_5lp3d_7hru_7h3_cr4x.webp')\" onmouseout='HideCardDetail()'>Arakni, 5L!p3d 7hRu 7h3 cR4X</span></b> was chosen as the target.<BR>Player 1 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/overcrowded_blue.webp')\" onmouseout='HideCardDetail()'>Overcrowded</span></b><BR>👁️‍🗨️<b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/aftershock_blue.webp')\" onmouseout='HideCardDetail()'>Aftershock</span></b>, <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/disable_red.webp')\" onmouseout='HideCardDetail()'>Disable</span></b> are revealed<BR><b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/rouse_the_ancients_blue.webp')\" onmouseout='HideCardDetail()'>Rouse the Ancients</span></b> got +7 and go again<BR>Resolving play ability of <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/rouse_the_ancients_blue.webp')\" onmouseout='HideCardDetail()'>Rouse the Ancients</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 2 auto-passed<BR>Player 2 is about to take 7 damage from <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/rouse_the_ancients_blue.webp')\" onmouseout='HideCardDetail()'>Rouse the Ancients</span></b><BR>Player 2 took 7 damage<BR>Combat resolved with a hit for 7 damage<BR>The chain link was resolved.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/titans_fist.webp')\" onmouseout='HideCardDetail()'>Titan's Fist</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arakni_5lp3d_7hru_7h3_cr4x.webp')\" onmouseout='HideCardDetail()'>Arakni, 5L!p3d 7hRu 7h3 cR4X</span></b> was chosen as the target.<BR>Player 1 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/aftershock_blue.webp')\" onmouseout='HideCardDetail()'>Aftershock</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/titans_fist.webp')\" onmouseout='HideCardDetail()'>Titan's Fist</span></b>.<BR>Player 2 passed<BR>Player 2 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/orb_weaver_spinneret_red.webp')\" onmouseout='HideCardDetail()'>Orb-Weaver Spinneret</span></b><BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 1 damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/titans_fist.webp')\" onmouseout='HideCardDetail()'>Titan's Fist</span></b><BR>Player 2 took 1 damage<BR>Combat resolved with a hit for 1 damage<BR>The chain link was resolved.<BR>Player 1 auto-passed<BR>Player 1 auto-passed<BR>The combat chain was closed.<BR>Player 1 auto-passed<BR>Player 1 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 2's turn 1 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Player 2 pitched <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/codex_of_bloodrot_yellow.webp')\" onmouseout='HideCardDetail()'>Codex of Bloodrot</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b>.<BR>Player 1 passed<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flick_knives.webp')\" onmouseout='HideCardDetail()'>Flick Knives</span></b></span><BR>Player 2's <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive_r.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b> was targeted<BR>Player 1's <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was targeted<BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flick_knives.webp')\" onmouseout='HideCardDetail()'>Flick Knives</span></b>.<BR>Player 1 is about to take 1 damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive_r.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b><BR>Player 1 took 1 damage<BR>Processing hit effect for <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive_r.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b><BR>🎯Player 1 is now marked!<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 1 damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b><BR>Player 1 took 1 damage<BR>Combat resolved with a hit for 1 damage<BR>Player 1 loses their mark<BR>Processing hit effect for <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b><BR>🎯Player 1 is now marked!<BR>The chain link was resolved.<BR>Player 2 passed<BR>The combat chain was closed.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/orb_weaver_spinneret_red.webp')\" onmouseout='HideCardDetail()'>Orb-Weaver Spinneret</span></b> from arsenal</span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/orb_weaver_spinneret_red.webp')\" onmouseout='HideCardDetail()'>Orb-Weaver Spinneret</span></b>.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/codex_of_inertia_yellow.webp')\" onmouseout='HideCardDetail()'>Codex of Inertia</span></b></span><BR>Resolving play ability of <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/codex_of_inertia_yellow.webp')\" onmouseout='HideCardDetail()'>Codex of Inertia</span></b>.<BR><b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/take_up_the_mantle_yellow.webp')\" onmouseout='HideCardDetail()'>Take Up the Mantle</span></b> was discarded<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/leave_no_witnesses_red.webp')\" onmouseout='HideCardDetail()'>Leave No Witnesses</span></b> from arsenal</span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/leave_no_witnesses_red.webp')\" onmouseout='HideCardDetail()'>Leave No Witnesses</span></b>.<BR>Player 1 passed<BR>Player 2 passed<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sink_below_red.webp')\" onmouseout='HideCardDetail()'>Sink Below</span></b></span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sink_below_red.webp')\" onmouseout='HideCardDetail()'>Sink Below</span></b>.<BR>⤵️ A card was put on the bottom of the deck.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/leave_no_witnesses_red.webp')\" onmouseout='HideCardDetail()'>Leave No Witnesses</span></b><BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 2 auto-passed<BR>Player 2 auto-passed<BR>The combat chain was closed.<BR>Player 2 auto-passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 2 has begun.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_instability_blue.webp')\" onmouseout='HideCardDetail()'>Tectonic Instability</span></b></span><BR>Resolving play ability of <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_instability_blue.webp')\" onmouseout='HideCardDetail()'>Tectonic Instability</span></b>.<BR>⤵️ A card was put on the bottom of the deck.<BR>⤵️ A card was put on the bottom of the deck.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/promising_terrain_blue.webp')\" onmouseout='HideCardDetail()'>Promising Terrain</span></b></span><BR>Resolving play ability of <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/promising_terrain_blue.webp')\" onmouseout='HideCardDetail()'>Promising Terrain</span></b>.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_plating.webp')\" onmouseout='HideCardDetail()'>Tectonic Plating</span></b></span><BR>Player 1 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/disable_blue.webp')\" onmouseout='HideCardDetail()'>Disable</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_plating.webp')\" onmouseout='HideCardDetail()'>Tectonic Plating</span></b>.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/titans_fist.webp')\" onmouseout='HideCardDetail()'>Titan's Fist</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arakni_5lp3d_7hru_7h3_cr4x.webp')\" onmouseout='HideCardDetail()'>Arakni, 5L!p3d 7hRu 7h3 cR4X</span></b> was chosen as the target.<BR>Player 1 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/macho_grande_blue.webp')\" onmouseout='HideCardDetail()'>Macho Grande</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/titans_fist.webp')\" onmouseout='HideCardDetail()'>Titan's Fist</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 2 auto-passed<BR>Player 2 is about to take 4 damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/titans_fist.webp')\" onmouseout='HideCardDetail()'>Titan's Fist</span></b><BR>Player 2 took 4 damage<BR>Combat resolved with a hit for 4 damage<BR>The chain link was resolved.<BR>Player 1 auto-passed<BR>Player 1 auto-passed<BR>The combat chain was closed.<BR>Player 1 auto-passed<BR>Player 1 passed priority. Attempting to end turn.<BR>Processing the end of turn effect of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/inertia.webp')\" onmouseout='HideCardDetail()'>Inertia</span></b>.<BR>⬇️ The cards and arsenal of Player 1 was put on the bottom of their deck.<BR>═══════════════<BR>Player 2's turn 2 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/infect_red.webp')\" onmouseout='HideCardDetail()'>Infect</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/infect_red.webp')\" onmouseout='HideCardDetail()'>Infect</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/enlightened_strike_red.webp')\" onmouseout='HideCardDetail()'>Enlightened Strike</span></b><BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/razors_edge_red.webp')\" onmouseout='HideCardDetail()'>Razor's Edge</span></b></span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/razors_edge_red.webp')\" onmouseout='HideCardDetail()'>Razor's Edge</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 3 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/infect_red.webp')\" onmouseout='HideCardDetail()'>Infect</span></b><BR>Player 1 took 3 damage<BR>Combat resolved with a hit for 3 damage<BR>Player 1 loses their mark<BR>Processing hit effect for <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/infect_red.webp')\" onmouseout='HideCardDetail()'>Infect</span></b><BR>The chain link was resolved.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ravenous_rabble_red.webp')\" onmouseout='HideCardDetail()'>Ravenous Rabble</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ravenous_rabble_red.webp')\" onmouseout='HideCardDetail()'>Ravenous Rabble</span></b>.<BR>👁️‍🗨️Player 2 reveals <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/art_of_desire_body_red.webp')\" onmouseout='HideCardDetail()'>Art of Desire: Body</span></b><BR>Player 1 passed<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 4 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ravenous_rabble_red.webp')\" onmouseout='HideCardDetail()'>Ravenous Rabble</span></b><BR>Player 1 took 4 damage<BR>Combat resolved with a hit for 4 damage<BR>The chain link was resolved.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/meet_madness_red.webp')\" onmouseout='HideCardDetail()'>Meet Madness</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/meet_madness_red.webp')\" onmouseout='HideCardDetail()'>Meet Madness</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/testament_of_valahai.webp')\" onmouseout='HideCardDetail()'>Testament of Valahai</span></b><BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/meet_madness_red.webp')\" onmouseout='HideCardDetail()'>Meet Madness</span></b><BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 2 passed<BR>Player 2 passed<BR>The combat chain was closed.<BR>Player 2 passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 3 has begun.<BR><b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> gives Crush attacks Dominate this turn<BR>Player 1 gained 1 life<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_plating.webp')\" onmouseout='HideCardDetail()'>Tectonic Plating</span></b></span><BR>Player 1 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/grandeur_of_valahai_blue.webp')\" onmouseout='HideCardDetail()'>Grandeur of Valahai</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_plating.webp')\" onmouseout='HideCardDetail()'>Tectonic Plating</span></b>.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/put_em_in_their_place_red.webp')\" onmouseout='HideCardDetail()'>Put 'Em In Their Place</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arakni_5lp3d_7hru_7h3_cr4x.webp')\" onmouseout='HideCardDetail()'>Arakni, 5L!p3d 7hRu 7h3 cR4X</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/put_em_in_their_place_red.webp')\" onmouseout='HideCardDetail()'>Put 'Em In Their Place</span></b>.<BR>Player 2 passed<BR>Player 2 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/art_of_desire_body_red.webp')\" onmouseout='HideCardDetail()'>Art of Desire: Body</span></b><BR>Player 1 passed<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/shelter_from_the_storm_red.webp')\" onmouseout='HideCardDetail()'>Shelter from the Storm</span></b> from arsenal</span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/shelter_from_the_storm_red.webp')\" onmouseout='HideCardDetail()'>Shelter from the Storm</span></b>.<BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 3 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/put_em_in_their_place_red.webp')\" onmouseout='HideCardDetail()'>Put 'Em In Their Place</span></b><BR>Player 2 took 3 damage<BR>Combat resolved with a hit for 3 damage<BR>The chain link was resolved.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/seismic_eruption_yellow.webp')\" onmouseout='HideCardDetail()'>Seismic Eruption</span></b></span><BR>Resolving play ability of <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/seismic_eruption_yellow.webp')\" onmouseout='HideCardDetail()'>Seismic Eruption</span></b>.<BR>Player 1 auto-passed<BR>Player 1 auto-passed<BR>The combat chain was closed.<BR>Player 1 auto-passed<BR>Player 1 passed priority. Attempting to end turn.<BR>Player 1 is about to take 2 damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/bloodrot_pox.webp')\" onmouseout='HideCardDetail()'>Bloodrot Pox</span></b><BR>Player 1 took 2 damage<BR>═══════════════<BR>Player 2's turn 3 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/pain_in_the_backside_red.webp')\" onmouseout='HideCardDetail()'>Pain in the Backside</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/pain_in_the_backside_red.webp')\" onmouseout='HideCardDetail()'>Pain in the Backside</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/disable_red.webp')\" onmouseout='HideCardDetail()'>Disable</span></b><BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flick_knives.webp')\" onmouseout='HideCardDetail()'>Flick Knives</span></b></span><BR>Player 2's <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/graphene_chelicera.webp')\" onmouseout='HideCardDetail()'>Graphene Chelicera</span></b> was targeted<BR>Player 1's <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was targeted<BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flick_knives.webp')\" onmouseout='HideCardDetail()'>Flick Knives</span></b>.<BR>Player 1 is about to take 1 damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/graphene_chelicera.webp')\" onmouseout='HideCardDetail()'>Graphene Chelicera</span></b><BR>Player 1 took 1 damage<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/pain_in_the_backside_red.webp')\" onmouseout='HideCardDetail()'>Pain in the Backside</span></b><BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/lobotomy_red.webp')\" onmouseout='HideCardDetail()'>Lobotomy</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/lobotomy_red.webp')\" onmouseout='HideCardDetail()'>Lobotomy</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tear_asunder_blue.webp')\" onmouseout='HideCardDetail()'>Tear Asunder</span></b><BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/fyendals_spring_tunic.webp')\" onmouseout='HideCardDetail()'>Fyendal's Spring Tunic</span></b></span><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/fyendals_spring_tunic.webp')\" onmouseout='HideCardDetail()'>Fyendal's Spring Tunic</span></b>.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/spike_with_bloodrot_red.webp')\" onmouseout='HideCardDetail()'>Spike with Bloodrot</span></b></span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/spike_with_bloodrot_red.webp')\" onmouseout='HideCardDetail()'>Spike with Bloodrot</span></b>.<BR>Player 2 passed<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sink_below_red.webp')\" onmouseout='HideCardDetail()'>Sink Below</span></b> from arsenal</span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sink_below_red.webp')\" onmouseout='HideCardDetail()'>Sink Below</span></b>.<BR>Player 1 did not sink a card<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 2 passed<BR>Player 2 passed<BR>The combat chain was closed.<BR>Player 2 passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 4 has begun.<BR><b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> gives Crush attacks Dominate this turn<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/spinal_crush_red.webp')\" onmouseout='HideCardDetail()'>Spinal Crush</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arakni_5lp3d_7hru_7h3_cr4x.webp')\" onmouseout='HideCardDetail()'>Arakni, 5L!p3d 7hRu 7h3 cR4X</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/spinal_crush_red.webp')\" onmouseout='HideCardDetail()'>Spinal Crush</span></b>.<BR>Player 2 passed<BR>Player 2 blocked with <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/blacktek_whisperers.webp')\" onmouseout='HideCardDetail()'>Blacktek Whisperers</span></b>, <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/crown_of_providence.webp')\" onmouseout='HideCardDetail()'>Crown of Providence</span></b>, and <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/infect_red.webp')\" onmouseout='HideCardDetail()'>Infect</span></b><BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 3 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/spinal_crush_red.webp')\" onmouseout='HideCardDetail()'>Spinal Crush</span></b><BR>Player 2 took 3 damage<BR>Combat resolved with a hit for 3 damage<BR>The chain link was resolved.<BR>Player 1 auto-passed<BR>Player 1 auto-passed<BR>The combat chain was closed.<BR>Player 1 auto-passed<BR>Player 1 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 2's turn 4 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/creep_red.webp')\" onmouseout='HideCardDetail()'>Creep</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/creep_red.webp')\" onmouseout='HideCardDetail()'>Creep</span></b>.<BR>Player 1 passed<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 3 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/creep_red.webp')\" onmouseout='HideCardDetail()'>Creep</span></b><BR>Player 1 took 3 damage<BR>Combat resolved with a hit for 3 damage<BR>The chain link was resolved.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/mark_of_the_black_widow_red.webp')\" onmouseout='HideCardDetail()'>Mark of the Black Widow</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/mark_of_the_black_widow_red.webp')\" onmouseout='HideCardDetail()'>Mark of the Black Widow</span></b>.<BR>Player 1 passed<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flick_knives.webp')\" onmouseout='HideCardDetail()'>Flick Knives</span></b></span><BR>Player 2's <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b> was targeted<BR>Player 1's <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was targeted<BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flick_knives.webp')\" onmouseout='HideCardDetail()'>Flick Knives</span></b>.<BR>Player 1 is about to take 1 damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b><BR>Player 1 took 1 damage<BR>Processing hit effect for <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/hunters_klaive.webp')\" onmouseout='HideCardDetail()'>Hunter's Klaive</span></b><BR>🎯Player 1 is now marked!<BR>Player 2 passed<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sink_below_red.webp')\" onmouseout='HideCardDetail()'>Sink Below</span></b></span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sink_below_red.webp')\" onmouseout='HideCardDetail()'>Sink Below</span></b>.<BR>Player 1 did not sink a card<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 2 passed<BR>The combat chain was closed.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/codex_of_inertia_yellow.webp')\" onmouseout='HideCardDetail()'>Codex of Inertia</span></b></span><BR>Resolving play ability of <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/codex_of_inertia_yellow.webp')\" onmouseout='HideCardDetail()'>Codex of Inertia</span></b>.<BR>Player 2 passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 5 has begun.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/rouse_the_ancients_blue.webp')\" onmouseout='HideCardDetail()'>Rouse the Ancients</span></b> from arsenal</span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arakni_5lp3d_7hru_7h3_cr4x.webp')\" onmouseout='HideCardDetail()'>Arakni, 5L!p3d 7hRu 7h3 cR4X</span></b> was chosen as the target.<BR>Player 1 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ley_line_of_the_old_ones_blue.webp')\" onmouseout='HideCardDetail()'>Ley Line of the Old Ones</span></b><BR>👁️‍🗨️<b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/put_em_in_their_place_red.webp')\" onmouseout='HideCardDetail()'>Put 'Em In Their Place</span></b>, <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/cranial_crush_blue.webp')\" onmouseout='HideCardDetail()'>Cranial Crush</span></b> are revealed<BR><b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/rouse_the_ancients_blue.webp')\" onmouseout='HideCardDetail()'>Rouse the Ancients</span></b> got +7 and go again<BR>Resolving play ability of <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/rouse_the_ancients_blue.webp')\" onmouseout='HideCardDetail()'>Rouse the Ancients</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 2 auto-passed<BR>Player 2 is about to take 7 damage from <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/rouse_the_ancients_blue.webp')\" onmouseout='HideCardDetail()'>Rouse the Ancients</span></b><BR>Player 2 took 7 damage<BR>Combat resolved with a hit for 7 damage<BR>The chain link was resolved.<BR>Player 1 passed<BR>The combat chain was closed.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_plating.webp')\" onmouseout='HideCardDetail()'>Tectonic Plating</span></b></span><BR>Player 1 pitched <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/put_em_in_their_place_red.webp')\" onmouseout='HideCardDetail()'>Put 'Em In Their Place</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_plating.webp')\" onmouseout='HideCardDetail()'>Tectonic Plating</span></b>.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/titans_fist.webp')\" onmouseout='HideCardDetail()'>Titan's Fist</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arakni_5lp3d_7hru_7h3_cr4x.webp')\" onmouseout='HideCardDetail()'>Arakni, 5L!p3d 7hRu 7h3 cR4X</span></b> was chosen as the target.<BR>Player 1 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/cranial_crush_blue.webp')\" onmouseout='HideCardDetail()'>Cranial Crush</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/titans_fist.webp')\" onmouseout='HideCardDetail()'>Titan's Fist</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 2 auto-passed<BR>Player 2 is about to take 4 damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/titans_fist.webp')\" onmouseout='HideCardDetail()'>Titan's Fist</span></b><BR>Player 2 took 4 damage<BR>Combat resolved with a hit for 4 damage<BR>The chain link was resolved.<BR>Player 1 auto-passed<BR>Player 1 auto-passed<BR>The combat chain was closed.<BR>Player 1 auto-passed<BR>Player 1 passed priority. Attempting to end turn.<BR>Processing the end of turn effect of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/inertia.webp')\" onmouseout='HideCardDetail()'>Inertia</span></b>.<BR>⬇️ The cards and arsenal of Player 1 was put on the bottom of their deck.<BR>═══════════════<BR>Player 2's turn 5 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/imposing_visage_blue.webp')\" onmouseout='HideCardDetail()'>Imposing Visage</span></b><BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/spike_with_bloodrot_red.webp')\" onmouseout='HideCardDetail()'>Spike with Bloodrot</span></b></span><BR>Player 2 pitched <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/razors_edge_red.webp')\" onmouseout='HideCardDetail()'>Razor's Edge</span></b><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/spike_with_bloodrot_red.webp')\" onmouseout='HideCardDetail()'>Spike with Bloodrot</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 3 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b><BR>Player 1 took 3 damage<BR>Combat resolved with a hit for 3 damage<BR>Player 1 loses their mark<BR>Processing hit effect for <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b><BR>Player 1 loses 1 life.<BR>The chain link was resolved.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/mark_of_the_black_widow_red.webp')\" onmouseout='HideCardDetail()'>Mark of the Black Widow</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/mark_of_the_black_widow_red.webp')\" onmouseout='HideCardDetail()'>Mark of the Black Widow</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/rubble_raiser_blue.webp')\" onmouseout='HideCardDetail()'>Rubble Raiser</span></b><BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flick_knives.webp')\" onmouseout='HideCardDetail()'>Flick Knives</span></b></span><BR>Player 2's <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b> was targeted<BR>Player 1's <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was targeted<BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flick_knives.webp')\" onmouseout='HideCardDetail()'>Flick Knives</span></b>.<BR>Player 1 is about to take 1 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b><BR>Player 1 took 1 damage<BR>Processing hit effect for <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b><BR>Player 1 loses 1 life.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/mark_of_the_black_widow_red.webp')\" onmouseout='HideCardDetail()'>Mark of the Black Widow</span></b><BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 2 auto-passed<BR>Player 2 auto-passed<BR>The combat chain was closed.<BR>Player 2 auto-passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 6 has begun.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/titans_fist.webp')\" onmouseout='HideCardDetail()'>Titan's Fist</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arakni_5lp3d_7hru_7h3_cr4x.webp')\" onmouseout='HideCardDetail()'>Arakni, 5L!p3d 7hRu 7h3 cR4X</span></b> was chosen as the target.<BR>Player 1 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/cranial_crush_blue.webp')\" onmouseout='HideCardDetail()'>Cranial Crush</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/titans_fist.webp')\" onmouseout='HideCardDetail()'>Titan's Fist</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sink_below_red.webp')\" onmouseout='HideCardDetail()'>Sink Below</span></b></span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sink_below_red.webp')\" onmouseout='HideCardDetail()'>Sink Below</span></b>.<BR>⤵️ A card was put on the bottom of the deck.<BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 0 damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/titans_fist.webp')\" onmouseout='HideCardDetail()'>Titan's Fist</span></b><BR>Player 2 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 1 auto-passed<BR>Player 1 auto-passed<BR>The combat chain was closed.<BR>Player 1 auto-passed<BR>Player 1 passed priority. Attempting to end turn.<BR>Player 1 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/thunder_quake_blue.webp')\" onmouseout='HideCardDetail()'>Thunder Quake</span></b><BR>Player 1 is about to take 2 damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/bloodrot_pox.webp')\" onmouseout='HideCardDetail()'>Bloodrot Pox</span></b><BR>Player 1 took 2 damage<BR>═══════════════<BR>Player 2's turn 6 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/creep_red.webp')\" onmouseout='HideCardDetail()'>Creep</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/creep_red.webp')\" onmouseout='HideCardDetail()'>Creep</span></b>.<BR>Player 1 passed<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/razors_edge_red.webp')\" onmouseout='HideCardDetail()'>Razor's Edge</span></b></span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/razors_edge_red.webp')\" onmouseout='HideCardDetail()'>Razor's Edge</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 6 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/creep_red.webp')\" onmouseout='HideCardDetail()'>Creep</span></b><BR>Player 1 took 6 damage<BR>Combat resolved with a hit for 6 damage<BR>The chain link was resolved.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/leave_no_witnesses_red.webp')\" onmouseout='HideCardDetail()'>Leave No Witnesses</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/leave_no_witnesses_red.webp')\" onmouseout='HideCardDetail()'>Leave No Witnesses</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/basalt_boots.webp')\" onmouseout='HideCardDetail()'>Basalt Boots</span></b><BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 2 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/leave_no_witnesses_red.webp')\" onmouseout='HideCardDetail()'>Leave No Witnesses</span></b><BR>Player 1 took 2 damage<BR>Combat resolved with a hit for 2 damage<BR>Processing hit effect for <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/leave_no_witnesses_red.webp')\" onmouseout='HideCardDetail()'>Leave No Witnesses</span></b><BR><b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/seismic_eruption_yellow.webp')\" onmouseout='HideCardDetail()'>Seismic Eruption</span></b> was banished.<BR>The chain link was resolved.<BR>Player 2 passed<BR>Player 2 passed<BR>The combat chain was closed.<BR>Player 2 passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 7 has begun.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/promising_terrain_blue.webp')\" onmouseout='HideCardDetail()'>Promising Terrain</span></b></span><BR>Resolving play ability of <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/promising_terrain_blue.webp')\" onmouseout='HideCardDetail()'>Promising Terrain</span></b>.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/promising_terrain_blue.webp')\" onmouseout='HideCardDetail()'>Promising Terrain</span></b></span><BR>Resolving play ability of <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/promising_terrain_blue.webp')\" onmouseout='HideCardDetail()'>Promising Terrain</span></b>.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_plating.webp')\" onmouseout='HideCardDetail()'>Tectonic Plating</span></b></span><BR>Player 1 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/aftershock_blue.webp')\" onmouseout='HideCardDetail()'>Aftershock</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_plating.webp')\" onmouseout='HideCardDetail()'>Tectonic Plating</span></b>.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/boulder_drop_red.webp')\" onmouseout='HideCardDetail()'>Boulder Drop</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arakni_5lp3d_7hru_7h3_cr4x.webp')\" onmouseout='HideCardDetail()'>Arakni, 5L!p3d 7hRu 7h3 cR4X</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/boulder_drop_red.webp')\" onmouseout='HideCardDetail()'>Boulder Drop</span></b>.<BR>Player 2 passed<BR>Player 2 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/leave_no_witnesses_red.webp')\" onmouseout='HideCardDetail()'>Leave No Witnesses</span></b><BR>Player 1 passed<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/shelter_from_the_storm_red.webp')\" onmouseout='HideCardDetail()'>Shelter from the Storm</span></b> from arsenal</span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/shelter_from_the_storm_red.webp')\" onmouseout='HideCardDetail()'>Shelter from the Storm</span></b>.<BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 0 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/boulder_drop_red.webp')\" onmouseout='HideCardDetail()'>Boulder Drop</span></b><BR>Player 2 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 1 auto-passed<BR>Player 1 auto-passed<BR>The combat chain was closed.<BR>Player 1 auto-passed<BR>Player 1 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 2's turn 7 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/mark_of_the_black_widow_red.webp')\" onmouseout='HideCardDetail()'>Mark of the Black Widow</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/mark_of_the_black_widow_red.webp')\" onmouseout='HideCardDetail()'>Mark of the Black Widow</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/imposing_visage_blue.webp')\" onmouseout='HideCardDetail()'>Imposing Visage</span></b><BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/mark_of_the_black_widow_red.webp')\" onmouseout='HideCardDetail()'>Mark of the Black Widow</span></b><BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/infect_red.webp')\" onmouseout='HideCardDetail()'>Infect</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/infect_red.webp')\" onmouseout='HideCardDetail()'>Infect</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/rubble_raiser_blue.webp')\" onmouseout='HideCardDetail()'>Rubble Raiser</span></b><BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/infect_red.webp')\" onmouseout='HideCardDetail()'>Infect</span></b><BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 2 passed<BR>Player 2 passed<BR>The combat chain was closed.<BR>Player 2 passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 8 has begun.<BR><b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> gives Crush attacks Dominate this turn<BR>Player 1 gained 1 life<BR>Player 1 gained 1 life<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_instability_blue.webp')\" onmouseout='HideCardDetail()'>Tectonic Instability</span></b></span><BR>Resolving play ability of <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_instability_blue.webp')\" onmouseout='HideCardDetail()'>Tectonic Instability</span></b>.<BR>⤵️ A card was put on the bottom of the deck.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_plating.webp')\" onmouseout='HideCardDetail()'>Tectonic Plating</span></b></span><BR>Player 1 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/rouse_the_ancients_blue.webp')\" onmouseout='HideCardDetail()'>Rouse the Ancients</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_plating.webp')\" onmouseout='HideCardDetail()'>Tectonic Plating</span></b>.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/thunder_quake_blue.webp')\" onmouseout='HideCardDetail()'>Thunder Quake</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arakni_5lp3d_7hru_7h3_cr4x.webp')\" onmouseout='HideCardDetail()'>Arakni, 5L!p3d 7hRu 7h3 cR4X</span></b> was chosen as the target.<BR>Player 1 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_instability_blue.webp')\" onmouseout='HideCardDetail()'>Tectonic Instability</span></b><BR>Resolving play ability of <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/thunder_quake_blue.webp')\" onmouseout='HideCardDetail()'>Thunder Quake</span></b>.<BR>Player 2 passed<BR>Player 2 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/creep_red.webp')\" onmouseout='HideCardDetail()'>Creep</span></b><BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 5 damage from <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/thunder_quake_blue.webp')\" onmouseout='HideCardDetail()'>Thunder Quake</span></b><BR>Player 2 took 5 damage<BR>Combat resolved with a hit for 5 damage<BR>The chain link was resolved.<BR>Player 1 auto-passed<BR>Player 1 auto-passed<BR>The combat chain was closed.<BR>Player 1 auto-passed<BR>Player 1 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 2's turn 8 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/pain_in_the_backside_red.webp')\" onmouseout='HideCardDetail()'>Pain in the Backside</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/pain_in_the_backside_red.webp')\" onmouseout='HideCardDetail()'>Pain in the Backside</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/spinal_crush_red.webp')\" onmouseout='HideCardDetail()'>Spinal Crush</span></b><BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/pain_in_the_backside_red.webp')\" onmouseout='HideCardDetail()'>Pain in the Backside</span></b><BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/art_of_desire_body_red.webp')\" onmouseout='HideCardDetail()'>Art of Desire: Body</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/art_of_desire_body_red.webp')\" onmouseout='HideCardDetail()'>Art of Desire: Body</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/macho_grande_blue.webp')\" onmouseout='HideCardDetail()'>Macho Grande</span></b><BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tarantula_toxin_red.webp')\" onmouseout='HideCardDetail()'>Tarantula Toxin</span></b></span><BR>Selected mode for <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tarantula_toxin_red.webp')\" onmouseout='HideCardDetail()'>Tarantula Toxin</span></b> is: Reduce Block<BR>Player 2's <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/macho_grande_blue.webp')\" onmouseout='HideCardDetail()'>Macho Grande</span></b> was targeted<BR><b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/macho_grande_blue.webp')\" onmouseout='HideCardDetail()'>Macho Grande</span></b> gets -3 defense<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tarantula_toxin_red.webp')\" onmouseout='HideCardDetail()'>Tarantula Toxin</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 3 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/art_of_desire_body_red.webp')\" onmouseout='HideCardDetail()'>Art of Desire: Body</span></b><BR>Player 1 took 3 damage<BR>Combat resolved with a hit for 3 damage<BR>Processing hit effect for <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/art_of_desire_body_red.webp')\" onmouseout='HideCardDetail()'>Art of Desire: Body</span></b><BR><b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/disable_blue.webp')\" onmouseout='HideCardDetail()'>Disable</span></b> was banished.<BR>The chain link was resolved.<BR>Player 2 passed<BR>Player 2 passed<BR>The combat chain was closed.<BR>Player 2 passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 9 has begun.<BR><b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> gives Crush attacks Dominate this turn<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/boulder_drop_red.webp')\" onmouseout='HideCardDetail()'>Boulder Drop</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arakni_5lp3d_7hru_7h3_cr4x.webp')\" onmouseout='HideCardDetail()'>Arakni, 5L!p3d 7hRu 7h3 cR4X</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/boulder_drop_red.webp')\" onmouseout='HideCardDetail()'>Boulder Drop</span></b>.<BR>Player 2 passed<BR>Player 2 blocked with <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/codex_of_frailty_yellow.webp')\" onmouseout='HideCardDetail()'>Codex of Frailty</span></b><BR>Player 1 passed<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sink_below_red.webp')\" onmouseout='HideCardDetail()'>Sink Below</span></b> from arsenal</span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/sink_below_red.webp')\" onmouseout='HideCardDetail()'>Sink Below</span></b>.<BR>Player 2 did not sink a card<BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 1 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/boulder_drop_red.webp')\" onmouseout='HideCardDetail()'>Boulder Drop</span></b><BR>Player 2 took 1 damage<BR>Combat resolved with a hit for 1 damage<BR>The chain link was resolved.<BR>Player 1 auto-passed<BR>Player 1 auto-passed<BR>The combat chain was closed.<BR>Player 1 auto-passed<BR>Player 1 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 2's turn 9 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/orb_weaver_spinneret_red.webp')\" onmouseout='HideCardDetail()'>Orb-Weaver Spinneret</span></b></span><BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/orb_weaver_spinneret_red.webp')\" onmouseout='HideCardDetail()'>Orb-Weaver Spinneret</span></b>.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/disable_blue.webp')\" onmouseout='HideCardDetail()'>Disable</span></b> and <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/macho_grande_blue.webp')\" onmouseout='HideCardDetail()'>Macho Grande</span></b><BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tarantula_toxin_red.webp')\" onmouseout='HideCardDetail()'>Tarantula Toxin</span></b></span><BR>Selected mode for <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tarantula_toxin_red.webp')\" onmouseout='HideCardDetail()'>Tarantula Toxin</span></b> is: Both<BR>Player 2's <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/macho_grande_blue.webp')\" onmouseout='HideCardDetail()'>Macho Grande</span></b> was targeted<BR><b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/macho_grande_blue.webp')\" onmouseout='HideCardDetail()'>Macho Grande</span></b> gets -3 defense<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tarantula_toxin_red.webp')\" onmouseout='HideCardDetail()'>Tarantula Toxin</span></b>.<BR>Player 2 passed<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/shelter_from_the_storm_red.webp')\" onmouseout='HideCardDetail()'>Shelter from the Storm</span></b></span><BR>Defense Reaction was chosen.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/shelter_from_the_storm_red.webp')\" onmouseout='HideCardDetail()'>Shelter from the Storm</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 2 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b><BR>Player 1 took 2 damage<BR>Combat resolved with a hit for 2 damage<BR>Processing hit effect for <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b><BR>Player 1 loses 1 life.<BR>The chain link was resolved.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/fyendals_spring_tunic.webp')\" onmouseout='HideCardDetail()'>Fyendal's Spring Tunic</span></b></span><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/fyendals_spring_tunic.webp')\" onmouseout='HideCardDetail()'>Fyendal's Spring Tunic</span></b>.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/graphene_chelicera.webp')\" onmouseout='HideCardDetail()'>Graphene Chelicera</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/graphene_chelicera.webp')\" onmouseout='HideCardDetail()'>Graphene Chelicera</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/crown_of_providence.webp')\" onmouseout='HideCardDetail()'>Crown of Providence</span></b><BR>⤵️ A card was put on the bottom of the deck.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flick_knives.webp')\" onmouseout='HideCardDetail()'>Flick Knives</span></b></span><BR>Player 2's <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b> was targeted<BR>Player 1's <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was targeted<BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flick_knives.webp')\" onmouseout='HideCardDetail()'>Flick Knives</span></b>.<BR>Player 1 is about to take 1 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b><BR>Player 1 took 1 damage<BR>Processing hit effect for <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/kiss_of_death_red.webp')\" onmouseout='HideCardDetail()'>Kiss of Death</span></b><BR>Player 1 loses 1 life.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 2 auto-passed<BR>Player 2 auto-passed<BR>The combat chain was closed.<BR>Player 2 auto-passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 10 has begun.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/enlightened_strike_red.webp')\" onmouseout='HideCardDetail()'>Enlightened Strike</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arakni_5lp3d_7hru_7h3_cr4x.webp')\" onmouseout='HideCardDetail()'>Arakni, 5L!p3d 7hRu 7h3 cR4X</span></b> was chosen as the target.<BR>⤵️ A card was put on the bottom of the deck.<BR>Selected mode for <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/enlightened_strike_red.webp')\" onmouseout='HideCardDetail()'>Enlightened Strike</span></b> is: Buff Power<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/enlightened_strike_red.webp')\" onmouseout='HideCardDetail()'>Enlightened Strike</span></b>.<BR>Player 2 passed<BR>Player 2 blocked with <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/bonds_of_attraction_red.webp')\" onmouseout='HideCardDetail()'>Bonds of Attraction</span></b> and <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/meet_madness_red.webp')\" onmouseout='HideCardDetail()'>Meet Madness</span></b><BR>Player 1 passed<BR>Player 2 passed<BR>Player 2 is about to take 1 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/enlightened_strike_red.webp')\" onmouseout='HideCardDetail()'>Enlightened Strike</span></b><BR>Player 2 took 1 damage<BR>Combat resolved with a hit for 1 damage<BR>The chain link was resolved.<BR>Player 1 auto-passed<BR>Player 1 auto-passed<BR>The combat chain was closed.<BR>Player 1 auto-passed<BR>Player 1 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 2's turn 10 has begun.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/art_of_desire_body_red.webp')\" onmouseout='HideCardDetail()'>Art of Desire: Body</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/art_of_desire_body_red.webp')\" onmouseout='HideCardDetail()'>Art of Desire: Body</span></b>.<BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/debilitate_blue.webp')\" onmouseout='HideCardDetail()'>Debilitate</span></b><BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/art_of_desire_body_red.webp')\" onmouseout='HideCardDetail()'>Art of Desire: Body</span></b><BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ravenous_rabble_red.webp')\" onmouseout='HideCardDetail()'>Ravenous Rabble</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ravenous_rabble_red.webp')\" onmouseout='HideCardDetail()'>Ravenous Rabble</span></b>.<BR>👁️‍🗨️Player 2 reveals <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/shelter_from_the_storm_red.webp')\" onmouseout='HideCardDetail()'>Shelter from the Storm</span></b><BR>Player 1 passed<BR>Player 1 blocked with <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ironfist_revelation.webp')\" onmouseout='HideCardDetail()'>Ironfist Revelation</span></b> and <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_plating.webp')\" onmouseout='HideCardDetail()'>Tectonic Plating</span></b><BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/seismic_eruption_yellow.webp')\" onmouseout='HideCardDetail()'>Seismic Eruption</span></b></span><BR>Resolving play ability of <b><span style='color:#daa520; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/seismic_eruption_yellow.webp')\" onmouseout='HideCardDetail()'>Seismic Eruption</span></b>.<BR><span style='color:<PLAYER2COLOR>;'>Player 2 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flick_knives.webp')\" onmouseout='HideCardDetail()'>Flick Knives</span></b></span><BR>Player 2's <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/graphene_chelicera.webp')\" onmouseout='HideCardDetail()'>Graphene Chelicera</span></b> was targeted<BR>Player 1's <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> was targeted<BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/flick_knives.webp')\" onmouseout='HideCardDetail()'>Flick Knives</span></b>.<BR>Player 1 is about to take 1 damage from <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/graphene_chelicera.webp')\" onmouseout='HideCardDetail()'>Graphene Chelicera</span></b><BR>Player 1 took 1 damage<BR>Player 2 passed<BR>Player 1 passed<BR>Player 1 is about to take 0 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/ravenous_rabble_red.webp')\" onmouseout='HideCardDetail()'>Ravenous Rabble</span></b><BR>Player 1 took 0 damage<BR>Combat resolved with no hit<BR>The chain link was resolved.<BR>Player 2 passed<BR>Player 2 passed<BR>The combat chain was closed.<BR>Player 2 passed<BR>Player 2 passed priority. Attempting to end turn.<BR>═══════════════<BR>Player 1's turn 11 has begun.<BR><b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/valda_seismic_impact.webp')\" onmouseout='HideCardDetail()'>Valda, Seismic Impact</span></b> gives Crush attacks Dominate this turn<BR><span style='color:<PLAYER1COLOR>;'>Player 1 activated <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_plating.webp')\" onmouseout='HideCardDetail()'>Tectonic Plating</span></b></span><BR>Player 1 pitched <b><span style='color:#009ddf; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/thunder_quake_blue.webp')\" onmouseout='HideCardDetail()'>Thunder Quake</span></b><BR>Resolving activated ability of <b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/tectonic_plating.webp')\" onmouseout='HideCardDetail()'>Tectonic Plating</span></b>.<BR><span style='color:<PLAYER1COLOR>;'>Player 1 played <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/disable_red.webp')\" onmouseout='HideCardDetail()'>Disable</span></b></span><BR>🎯<b><span style='color:#696969; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/arakni_5lp3d_7hru_7h3_cr4x.webp')\" onmouseout='HideCardDetail()'>Arakni, 5L!p3d 7hRu 7h3 cR4X</span></b> was chosen as the target.<BR>Resolving play ability of <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/disable_red.webp')\" onmouseout='HideCardDetail()'>Disable</span></b>.<BR>Player 2 passed<BR>Player 1 passed<BR>Player 2 auto-passed<BR>Player 2 is about to take 9 damage from <b><span style='color:#af1518; cursor:default;' onmouseover=\"ShowDetail(event,'./WebpImages/disable_red.webp')\" onmouseout='HideCardDetail()'>Disable</span></b><BR>Player 2 took 9 damage<BR><span style='color:<PLAYER1COLOR>;'>Player 1 (karlim00) won! 🎉</span><BR><p style='background: green;font-size: max(1em, 14px);margin-bottom:0px;'><span style='color:azure;'>📊 Sending game result to <b>Fabrary</b> and <b>FaB Insights</b> (Player 2 only)</span></p><BR>"},"2":{"gameId":"1603837","deckId":"","turns":11,"result":0,"winner":1,"firstPlayer":1,"opposingHero":"valda_seismic_impact","yourHero":"arakni_5lp3d_7hru_7h3_cr4x","startingLife":38,"opponentHero":"valda_seismic_impact","opponentStartingLife":40,"cardResults":[{"cardId":"art_of_desire_body_red","played":"2","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Art of Desire: Body","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"codex_of_frailty_yellow","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Codex of Frailty","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"creep_red","played":"2","blocked":"1","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Creep","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"infect_red","played":"2","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Infect","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"kiss_of_death_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Kiss of Death","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"leave_no_witnesses_red","played":"2","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Leave No Witnesses","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"lobotomy_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lobotomy","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"mark_of_the_black_widow_red","played":"3","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Mark of the Black Widow","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"meet_madness_red","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Meet Madness","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"orb_weaver_spinneret_red","played":"2","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Orb-Weaver Spinneret","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"pain_in_the_backside_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Pain in the Backside","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":"2","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Ravenous Rabble","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"razors_edge_red","played":"2","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Razor's Edge","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"spike_with_bloodrot_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Spike with Bloodrot","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"take_up_the_mantle_yellow","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"1","charged":"0","cardName":"Take Up the Mantle","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"tarantula_toxin_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Tarantula Toxin","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sink_below_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sink Below","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"codex_of_inertia_yellow","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Codex of Inertia","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"shelter_from_the_storm_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Shelter from the Storm","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"codex_of_bloodrot_yellow","played":"0","blocked":"0","pitched":"2","hits":"0","discarded":"0","charged":"0","cardName":"Codex of Bloodrot","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"death_touch_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Death Touch","pitchValue":1,"numCopies":1},{"cardId":"bonds_of_attraction_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Bonds of Attraction","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"arakni_5lp3d_7hru_7h3_cr4x","cardName":"Arakni, 5L!p3d 7hRu 7h3 cR4X","numCopies":1},{"cardId":"hunters_klaive","cardName":"Hunter's Klaive","numCopies":1},{"cardId":"hunters_klaive_r","cardName":"Hunter's Klaive","numCopies":1},{"cardId":"crown_of_providence","cardName":"Crown of Providence","numCopies":1},{"cardId":"fyendals_spring_tunic","cardName":"Fyendal's Spring Tunic","numCopies":1},{"cardId":"flick_knives","cardName":"Flick Knives","numCopies":1},{"cardId":"blacktek_whisperers","cardName":"Blacktek Whisperers","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"hunters_klaive","played":"0","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Hunter's Klaive","pitchValue":0,"katsuDiscard":"0","activated":"2","passiveTriggered":"0"},{"cardId":"hunters_klaive_r","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Hunter's Klaive","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"flick_knives","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Flick Knives","pitchValue":0,"katsuDiscard":"0","activated":"6","passiveTriggered":"0"},{"cardId":"fyendals_spring_tunic","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Fyendal's Spring Tunic","pitchValue":0,"katsuDiscard":"0","activated":"2","passiveTriggered":"0"},{"cardId":"blacktek_whisperers","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blacktek Whisperers","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"crown_of_providence","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Crown of Providence","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"graphene_chelicera","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Graphene Chelicera","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"4","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"2","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":38,"opponentLifeAtTurnEnd":40,"turnNo":0},"turn_1":{"cardsUsed":3,"cardsBlocked":"1","cardsPitched":"1","cardsDiscarded":"1","resourcesUsed":"2","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"6","damageDealt":"2","damageBlocked":"3","damagePrevented":"0","damageTaken":"8","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":30,"opponentLifeAtTurnEnd":38,"turnNo":1},"turn_2":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"13","damageDealt":"7","damageBlocked":"0","damagePrevented":"0","damageTaken":"4","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":26,"opponentLifeAtTurnEnd":31,"turnNo":2},"turn_3":{"cardsUsed":4,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"10","damageDealt":"1","damageBlocked":"7","damagePrevented":"0","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":23,"opponentLifeAtTurnEnd":29,"turnNo":3},"turn_4":{"cardsUsed":3,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"7","damageDealt":"4","damageBlocked":"6","damagePrevented":"0","damageTaken":"3","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":25,"turnNo":4},"turn_5":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"12","damageDealt":"6","damageBlocked":"0","damagePrevented":"0","damageTaken":"11","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":9,"opponentLifeAtTurnEnd":19,"turnNo":5},"turn_6":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"10","damageDealt":"8","damageBlocked":"4","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":9,"opponentLifeAtTurnEnd":9,"turnNo":6},"turn_7":{"cardsUsed":3,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"6","damageDealt":"0","damageBlocked":"7","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":9,"opponentLifeAtTurnEnd":9,"turnNo":7},"turn_8":{"cardsUsed":3,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"6","damageDealt":"3","damageBlocked":"3","damagePrevented":"0","damageTaken":"5","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":4,"opponentLifeAtTurnEnd":8,"turnNo":8},"turn_9":{"cardsUsed":4,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"13","damageDealt":"5","damageBlocked":"6","damagePrevented":"0","damageTaken":"1","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":3,"opponentLifeAtTurnEnd":3,"turnNo":9},"turn_10":{"cardsUsed":2,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"8","damageDealt":"1","damageBlocked":"6","damagePrevented":"0","damageTaken":"1","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":2,"opponentLifeAtTurnEnd":2,"turnNo":10},"turn_11":{"cardsUsed":0,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"9","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":11}},"yourTime":"410","totalTime":821,"totalDamageThreatened":93,"totalDamageDealt":37,"totalLifeGained":0,"totalDamageBlocked":42,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":8.27,"averageDamageDealtPerTurn":3.36,"averageDamageThreatenedPerCard":2.84,"averageResourcesUsedPerTurn":0.45,"averageCardsLeftOverPerTurn":0.09,"averageCombatValuePerTurn":12.09,"averageValuePerTurn":12.09,"totalDamageThreatened_NoLast":93,"totalDamageDealt_NoLast":37,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":42,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":9.1,"averageDamageDealtPerTurn_NoLast":3.7,"averageDamageThreatenedPerCard_NoLast":3.25,"averageResourcesUsedPerTurn_NoLast":0.5,"averageCardsLeftOverPerTurn_NoLast":0.1,"averageCombatValuePerTurn_NoLast":13.3,"averageValuePerTurn_NoLast":13.3,"fullLog":""}}}

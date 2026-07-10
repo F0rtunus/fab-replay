@@ -1,0 +1,408 @@
+=== Talishar game 1622508 — 10/07/2026 15:58:42 ===
+
+PtitChevreuil played Spark of Genius
+PtitChevreuil pitched Penetration Script
+Spark of Genius was played with a cost of 4.
+Resolving play ability of Spark of Genius.
+🔄PtitChevreuil deck was shuffled
+PtitChevreuil played Teklo Core from the top of their deck
+PtitChevreuil pitched Zero to Sixty
+Resolving play ability of Teklo Core.
+PtitChevreuil passed
+PtitChevreuil passed priority. Attempting to end turn.
+═══════════════
+NimblestM's turn 6 has begun.
+NimblestM activated Titan's Fist
+🎯Dash I/O was chosen as the target.
+NimblestM pitched Autumn's Touch
+Resolving activated ability of Titan's Fist.
+PtitChevreuil passed
+PtitChevreuil blocked with Teklo Foundry Heart
+NimblestM passed
+PtitChevreuil passed
+PtitChevreuil is about to take 2 damage from Titan's Fist
+PtitChevreuil took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+NimblestM auto-passed
+NimblestM auto-passed
+The combat chain was closed.
+NimblestM auto-passed
+NimblestM passed priority. Attempting to end turn.
+═══════════════
+PtitChevreuil's turn 6 has begun.
+PtitChevreuil played Boom Grenade from the top of their deck
+Resolving play ability of Boom Grenade.
+PtitChevreuil cranked
+PtitChevreuil activated Bracers of Belief
+👁️‍🗨️PtitChevreuil reveals Pulsewave Harpoon
+Resolving activated ability of Bracers of Belief.
+PtitChevreuil activated Convection Amplifier
+Resolving activated ability of Convection Amplifier: Gives your next attack this turn Dominate
+PtitChevreuil played Heist
+🎯Jarl Vetreiði was chosen as the target.
+PtitChevreuil pitched Throttle
+Teklo Pounder gives the attack +2
+Teklo Pounder gives the attack +2
+Boost banished Pulsewave Harpoon and gets go again.
+Resolving play ability of Heist.
+NimblestM passed
+PtitChevreuil passed
+NimblestM undid their last action
+PtitChevreuil activated Convection Amplifier
+Resolving activated ability of Convection Amplifier: Gives your next attack this turn Dominate
+PtitChevreuil played Heist
+🎯Jarl Vetreiði was chosen as the target.
+PtitChevreuil pitched Throttle
+Teklo Pounder gives the attack +2
+Teklo Pounder gives the attack +2
+Boost banished Pulsewave Harpoon and gets go again.
+Resolving play ability of Heist.
+NimblestM passed
+NimblestM blocked with Gauntlets of the Boreal Domain, Boots of Omnis Ward, and Stalagmite, Bastion of Isenloft
+The chain link was resolved.
+your opponent played Infect
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Infect.
+you passed
+you blocked with Feral Instinct
+your opponent played Take Up the Mantle
+your opponent activated Flick Knives
+your opponent's Hunter's Klaive was targeted
+you's Rhinar, Reckless Rampage was targeted
+Resolving activated ability of Flick Knives.
+you is about to take 1 damage from Hunter's Klaive
+you took 1 damage
+Processing hit effect for Hunter's Klaive
+🎯you is now marked!
+Resolving play ability of Take Up the Mantle.
+your opponent passed
+you passed
+you is about to take 3 damage from Infect
+you took 3 damage
+Combat resolved with a hit for 3 damage
+you loses their mark
+Processing hit effect for Infect
+The chain link was resolved.
+your opponent auto-passed
+your opponent auto-passed
+The combat chain was closed.
+your opponent auto-passed
+your opponent passed priority. Attempting to end turn.
+Agility will give your next attack go again!
+═══════════════
+you's turn 7 has begun.
+you played Send Packing from arsenal
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+you pitched Wrecker Romp
+Resolving play ability of Send Packing.
+Sink Below was banished.
+your opponent passed
+your opponent blocked with Blacktek Whisperers, Crown of Providence, and Take Up the Mantle
+you passed
+your opponent passed
+your opponent is about to take 0 damage from Send Packing
+your opponent took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+you passed
+you passed
+The combat chain was closed.
+you passed
+you passed priority. Attempting to end turn.
+you is about to take 2 damage from Bloodrot Pox
+you took 2 damage
+your opponent (Ehecalt) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+Ehecalt: Good Game!
+x12141214x: Good Game!
+NimblestM passed
+NimblestM is about to take 2 damage from Symbiosis Shot
+NimblestM took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+PtitChevreuil passed
+PtitChevreuil passed
+The combat chain was closed.
+PtitChevreuil passed
+PtitChevreuil passed priority. Attempting to end turn.
+═══════════════
+NimblestM's turn 10 has begun.
+NimblestM activated Titan's Fist
+🎯Dash I/O was chosen as the target.
+NimblestM pitched Fruits of the Forest
+Resolving activated ability of Titan's Fist.
+PtitChevreuil passed
+PtitChevreuil blocked with Zero to Sixty
+NimblestM passed
+PtitChevreuil passed
+PtitChevreuil is about to take 1 damage from Titan's Fist
+PtitChevreuil took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+NimblestM auto-passed
+NimblestM auto-passed
+The combat chain was closed.
+NimblestM auto-passed
+NimblestM passed priority. Attempting to end turn.
+═══════════════
+PtitChevreuil's turn 10 has begun.
+PtitChevreuil played Pulsewave Harpoon
+🎯Jarl Vetreiði was chosen as the target.
+PtitChevreuil pitched Boom Grenade
+Boost banished Zero to Sixty and gets go again.
+Resolving play ability of Pulsewave Harpoon.
+👁️‍🗨️Shelter from the Storm is revealed
+NimblestM passed
+PtitChevreuil passed
+NimblestM played Shelter from the Storm
+Defense Reaction was chosen.
+Resolving play ability of Shelter from the Storm.
+PtitChevreuil played Penetration Script from the top of their deck
+Resolving play ability of Penetration Script.
+PtitChevreuil cranked
+PtitChevreuil passed
+NimblestM played Pulse of Isenloft
+NimblestM pitched Autumn's Touch
+Resolving play ability of Pulse of Isenloft.
+PtitChevreuil passed
+NimblestM passed
+NimblestM is about to take 0 damage from
+NimblestM took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+PtitChevreuil activated Symbiosis Shot
+🎯Jarl Vetreiði was chosen as the target.
+PtitChevreuil pitched Heist
+Resolving activated ability of Symbiosis Shot.
+NimblestM passed
+PtitChevreuil passed
+NimblestM passed
+NimblestM is about to take 2 damage from Symbiosis Shot
+NimblestM took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+PtitChevreuil activated Symbiosis Shot
+🎯Jarl Vetreiði was chosen as the target.
+Resolving activated ability of Symbiosis Shot.
+NimblestM passed
+PtitChevreuil passed
+NimblestM passed
+NimblestM is about to take 2 damage from Symbiosis Shot
+NimblestM took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+PtitChevreuil passed
+PtitChevreuil passed
+The combat chain was closed.
+PtitChevreuil passed
+PtitChevreuil passed priority. Attempting to end turn.
+═══════════════
+NimblestM's turn 11 has begun.
+NimblestM activated Titan's Fist
+🎯Dash I/O was chosen as the target.
+NimblestM pitched Imposing Visage
+Resolving activated ability of Titan's Fist.
+you took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+your opponent activated Symbiosis Shot
+🎯Jarl Vetreiði was chosen as the target.
+your opponent pitched Heist
+Resolving activated ability of Symbiosis Shot.
+you passed
+your opponent passed
+you passed
+you is about to take 2 damage from Symbiosis Shot
+you took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+your opponent activated Symbiosis Shot
+🎯Jarl Vetreiði was chosen as the target.
+Resolving activated ability of Symbiosis Shot.
+you passed
+your opponent passed
+you passed
+you is about to take 2 damage from Symbiosis Shot
+you took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+your opponent passed
+your opponent passed
+The combat chain was closed.
+your opponent passed
+your opponent passed priority. Attempting to end turn.
+═══════════════
+you's turn 11 has begun.
+you activated Titan's Fist
+🎯Dash I/O was chosen as the target.
+you pitched Imposing Visage
+Resolving activated ability of Titan's Fist.
+NimblestM took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+PtitChevreuil activated Symbiosis Shot
+🎯Jarl Vetreiði was chosen as the target.
+PtitChevreuil pitched Heist
+Resolving activated ability of Symbiosis Shot.
+NimblestM passed
+PtitChevreuil passed
+NimblestM passed
+NimblestM is about to take 2 damage from Symbiosis Shot
+NimblestM took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+PtitChevreuil activated Symbiosis Shot
+🎯Jarl Vetreiði was chosen as the target.
+Resolving activated ability of Symbiosis Shot.
+NimblestM passed
+PtitChevreuil passed
+NimblestM passed
+NimblestM is about to take 2 damage from Symbiosis Shot
+NimblestM took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+PtitChevreuil passed
+PtitChevreuil passed
+The combat chain was closed.
+PtitChevreuil passed
+PtitChevreuil passed priority. Attempting to end turn.
+═══════════════
+NimblestM's turn 11 has begun.
+NimblestM activated Titan's Fist
+🎯Dash I/O was chosen as the target.
+NimblestM pitched Imposing Visage
+Resolving activated ability of Titan's Fist.
+PtitChevreuil passed
+PtitChevreuil blocked with Teklo Trebuchet 2000 and Zero to Sixty
+NimblestM passed
+PtitChevreuil passed
+PtitChevreuil is about to take 0 damage from
+PtitChevreuil took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+NimblestM auto-passed
+NimblestM auto-passed
+The combat chain was closed.
+NimblestM auto-passed
+NimblestM passed priority. Attempting to end turn.
+═══════════════
+PtitChevreuil's turn 11 has begun.
+PtitChevreuil played Throttle
+🎯Jarl Vetreiði was chosen as the target.
+PtitChevreuil pitched Boom Grenade
+Boost banished Bios Update and gets go again.
+Resolving play ability of Throttle.
+NimblestM passed
+PtitChevreuil passed
+NimblestM played Rootbound Carapace
+Resolving play ability of Rootbound Carapace.
+Gauntlets of the Boreal Domain was banished.
+Pulse of Isenloft was banished.
+Frozen to Death was banished.
+PtitChevreuil passed
+NimblestM passed
+NimblestM is about to take 0 damage from Throttle
+NimblestM took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+PtitChevreuil activated Symbiosis Shot
+🎯Jarl Vetreiði was chosen as the target.
+Resolving activated ability of Symbiosis Shot.
+NimblestM passed
+NimblestM blocked with Channel Lake Frigid
+PtitChevreuil passed
+NimblestM passed
+NimblestM is about to take 0 damage from
+NimblestM took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+PtitChevreuil passed
+PtitChevreuil passed
+The combat chain was closed.
+PtitChevreuil passed
+PtitChevreuil passed priority. Attempting to end turn.
+═══════════════
+NimblestM's turn 12 has begun.
+NimblestM played Felling of the Crown
+🎯Dash I/O was chosen as the target.
+NimblestM pitched Everbloom // Life
+PtitChevreuil conceded the game.
+NimblestM (NimblestM) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[PtitChevreuil #6] Cardback, Cardback, Cardback, Cardback
+[PtitChevreuil #10] Cardback
+[NimblestM #11] Cardback
+[PtitChevreuil #11] Cardback, Cardback, Cardback, Cardback
+[NimblestM #12] Cardback, Cardback
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[PtitChevreuil #6] Cardback
+[you #7] (vide)
+[PtitChevreuil #10] (vide)
+[NimblestM #11] (vide)
+[you #11] (vide)
+[PtitChevreuil #11] (vide)
+[NimblestM #12] (vide)
+
+=== FIELD SNAPSHOTS (permanents/tokens en jeu : toi | adversaire) ===
+[PtitChevreuil #6] me: (vide) | opp: Convection Amplifier, Teklo Pounder, Teklo Pounder, Teklo Core, Boom Grenade, Bracers Of Belief, Convection Amplifier
+[you #7] me: (vide) | opp: (vide)
+[PtitChevreuil #10] me: Pulse Of Isenloft | opp: Boom Grenade, Penetration Script
+[NimblestM #11] me: (vide) | opp: Boom Grenade, Penetration Script
+[you #11] me: (vide) | opp: (vide)
+[PtitChevreuil #11] me: (vide) | opp: (vide)
+[NimblestM #12] me: (vide) | opp: (vide)
+
+=== GRAVEYARD SNAPSHOTS (cimetière : toi | adversaire) ===
+[PtitChevreuil #6] me: Macho Grande, Tear Asunder, Crown Of Providence, Command And Conquer, Sink Below, Rootbound Carapace, Frozen To Death, Channel Lake Frigid, Command And Conquer, Everbloom  Life | opp: Bracers Of Belief, Cerebellum Processor, Spark Of Genius, Zipper Hit, Achilles Accelerator, Throttle, Teklo Core, Pulsewave Harpoon, Throttle, Fast And Furious, Throttle, Teklo Core, Cerebellum Processor, Soup Up, Cerebellum Processor, Backup Protocol Red, Spark Of Genius, Fender Bender, Bios Update, Crown Of Providence
+[you #7] me: (vide) | opp: (vide)
+[PtitChevreuil #10] me: Shelter From The Storm, Boulder Drop, Macho Grande, Oaken Old, Enlightened Strike, Felling Of The Crown, Tear Asunder, Frozen To Death, Mangle, Sink Below, Stalagmite Bastion Of Isenloft, Gauntlets Of The Boreal Domain, Boots Of Omnis Ward, Macho Grande, Crown Of Providence, Command And Conquer, Sink Below, Frozen To Death, Channel Lake Frigid, Command And Conquer | opp: Zero To Sixty, Throttle, Backup Protocol Red, Spark Of Genius, Out Pace, Teklo Pounder, Soup Up, Bios Update, Penetration Script, Zero To Sixty, Zipper Hit, Zipper Hit, Boom Grenade, Teklo Core, Teklo Trebuchet 2000, Heist, Boom Grenade, Convection Amplifier, Heist, Teklo Pounder, Bracers Of Belief, Cerebellum Processor, Spark Of Genius, Zipper Hit, Achilles Accelerator, Throttle, Teklo Core, Pulsewave Harpoon, Throttle, Fast And Furious, Throttle, Teklo Core, Cerebellum Processor, Soup Up, Cerebellum Processor, Backup Protocol Red, Spark Of Genius, Fender Bender, Bios Update, Crown Of Providence
+[NimblestM #11] me: Pulse Of Isenloft, Shelter From The Storm, Shelter From The Storm, Boulder Drop, Macho Grande, Oaken Old, Enlightened Strike, Felling Of The Crown, Tear Asunder, Frozen To Death, Mangle, Sink Below, Stalagmite Bastion Of Isenloft, Gauntlets Of The Boreal Domain, Boots Of Omnis Ward, Macho Grande, Crown Of Providence, Command And Conquer, Sink Below, Frozen To Death, Channel Lake Frigid, Command And Conquer | opp: Pulsewave Harpoon, Zero To Sixty, Throttle, Backup Protocol Red, Spark Of Genius, Out Pace, Teklo Pounder, Soup Up, Bios Update, Penetration Script, Zero To Sixty, Zipper Hit, Zipper Hit, Boom Grenade, Teklo Core, Teklo Trebuchet 2000, Heist, Boom Grenade, Convection Amplifier, Heist, Teklo Pounder, Bracers Of Belief, Cerebellum Processor, Spark Of Genius, Zipper Hit, Achilles Accelerator, Throttle, Teklo Core, Pulsewave Harpoon, Throttle, Fast And Furious, Throttle, Teklo Core, Cerebellum Processor, Soup Up, Cerebellum Processor, Backup Protocol Red, Spark Of Genius, Fender Bender, Bios Update, Crown Of Providence
+[you #11] me: (vide) | opp: (vide)
+[PtitChevreuil #11] me: Pulse Of Isenloft, Shelter From The Storm, Shelter From The Storm, Boulder Drop, Macho Grande, Oaken Old, Enlightened Strike, Felling Of The Crown, Tear Asunder, Frozen To Death, Mangle, Sink Below, Stalagmite Bastion Of Isenloft, Gauntlets Of The Boreal Domain, Boots Of Omnis Ward, Macho Grande, Crown Of Providence, Command And Conquer, Sink Below, Frozen To Death, Channel Lake Frigid, Command And Conquer | opp: Boom Grenade, Penetration Script, Zero To Sixty, Teklo Trebuchet 2000, Pulsewave Harpoon, Zero To Sixty, Throttle, Backup Protocol Red, Spark Of Genius, Out Pace, Teklo Pounder, Soup Up, Bios Update, Penetration Script, Zero To Sixty, Zipper Hit, Zipper Hit, Boom Grenade, Teklo Core, Teklo Trebuchet 2000, Heist, Boom Grenade, Convection Amplifier, Heist, Teklo Pounder, Bracers Of Belief, Cerebellum Processor, Spark Of Genius, Zipper Hit, Achilles Accelerator, Throttle, Teklo Core, Pulsewave Harpoon, Throttle, Fast And Furious, Throttle, Teklo Core, Cerebellum Processor, Soup Up, Cerebellum Processor, Backup Protocol Red, Spark Of Genius, Fender Bender, Bios Update, Crown Of Providence
+[NimblestM #12] me: Channel Lake Frigid, Rootbound Carapace, Shelter From The Storm, Shelter From The Storm, Boulder Drop, Macho Grande, Oaken Old, Enlightened Strike, Felling Of The Crown, Tear Asunder, Frozen To Death, Mangle, Sink Below, Stalagmite Bastion Of Isenloft, Boots Of Omnis Ward, Macho Grande, Crown Of Providence, Command And Conquer, Sink Below, Channel Lake Frigid, Command And Conquer | opp: Throttle, Boom Grenade, Penetration Script, Zero To Sixty, Teklo Trebuchet 2000, Pulsewave Harpoon, Zero To Sixty, Throttle, Backup Protocol Red, Spark Of Genius, Out Pace, Teklo Pounder, Soup Up, Bios Update, Penetration Script, Zero To Sixty, Zipper Hit, Zipper Hit, Boom Grenade, Teklo Core, Teklo Trebuchet 2000, Heist, Boom Grenade, Convection Amplifier, Heist, Teklo Pounder, Bracers Of Belief, Cerebellum Processor, Spark Of Genius, Zipper Hit, Achilles Accelerator, Throttle, Teklo Core, Pulsewave Harpoon, Throttle, Fast And Furious, Throttle, Teklo Core, Cerebellum Processor, Soup Up, Cerebellum Processor, Backup Protocol Red, Spark Of Genius, Fender Bender, Bios Update, Crown Of Providence
+
+=== BANISH SNAPSHOTS (banni : toi | adversaire) ===
+[PtitChevreuil #6] me: Boulder Drop, Fruits Of The Forest, Plow Under, Sow Tomorrow | opp: Zero To Sixty, Zipper Hit, Metex, Penetration Script, Plasma Mainline, Fender Bender, Throttle
+[you #7] me: (vide) | opp: (vide)
+[PtitChevreuil #10] me: Tear Asunder, Barkskin Of The Millennium Tree, Rootbound Carapace, Tear Asunder, Everbloom  Life, Rootbound Carapace, Boulder Drop, Fruits Of The Forest, Plow Under, Sow Tomorrow | opp: Zero To Sixty, Fast And Furious, Zipper Hit, Boom Grenade, Zipper Hit, Out Pace, Fast And Furious, Zipper Hit, Zero To Sixty, Teklo Pounder, Pulsewave Harpoon, Zero To Sixty, Zipper Hit, Metex, Plasma Mainline, Fender Bender, Throttle
+[NimblestM #11] me: Tear Asunder, Barkskin Of The Millennium Tree, Rootbound Carapace, Tear Asunder, Everbloom  Life, Rootbound Carapace, Boulder Drop, Fruits Of The Forest, Plow Under, Sow Tomorrow | opp: Zero To Sixty, Fast And Furious, Zipper Hit, Boom Grenade, Zipper Hit, Out Pace, Fast And Furious, Zipper Hit, Zero To Sixty, Teklo Pounder, Pulsewave Harpoon, Zero To Sixty, Zipper Hit, Metex, Plasma Mainline, Fender Bender, Throttle
+[you #11] me: (vide) | opp: (vide)
+[PtitChevreuil #11] me: Tear Asunder, Barkskin Of The Millennium Tree, Rootbound Carapace, Tear Asunder, Everbloom  Life, Rootbound Carapace, Boulder Drop, Fruits Of The Forest, Plow Under, Sow Tomorrow | opp: Zero To Sixty, Fast And Furious, Zipper Hit, Boom Grenade, Zipper Hit, Out Pace, Fast And Furious, Zipper Hit, Zero To Sixty, Teklo Pounder, Pulsewave Harpoon, Zero To Sixty, Zipper Hit, Metex, Plasma Mainline, Fender Bender, Throttle
+[NimblestM #12] me: Frozen To Death, Pulse Of Isenloft, Gauntlets Of The Boreal Domain, Tear Asunder, Barkskin Of The Millennium Tree, Rootbound Carapace, Tear Asunder, Everbloom  Life, Rootbound Carapace, Boulder Drop, Fruits Of The Forest, Plow Under, Sow Tomorrow | opp: Bios Update, Zero To Sixty, Fast And Furious, Zipper Hit, Boom Grenade, Zipper Hit, Out Pace, Fast And Furious, Zipper Hit, Zero To Sixty, Teklo Pounder, Pulsewave Harpoon, Zero To Sixty, Zipper Hit, Metex, Plasma Mainline, Fender Bender, Throttle
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[PtitChevreuil #6] me=30 opp=8 myDeck=42 oppDeck=39
+[you #7] me=? opp=?
+[PtitChevreuil #10] me=3 opp=1 myDeck=31 oppDeck=13
+[NimblestM #11] me=1 opp=1 myDeck=32 oppDeck=11
+[you #11] me=? opp=?
+[PtitChevreuil #11] me=1 opp=1 myDeck=29 oppDeck=11
+[NimblestM #12] me=1 opp=1 myDeck=29 oppDeck=7
+
+=== META ===
+schema: v1
+captured_with: TLG v1.12.0
+game_url: https://talishar.net/game/play/1622508
+captured_at: 2026-07-10T13:42:31.308Z
+format: cc
+vs_ai: non
+me: NimblestM
+opponent: PtitChevreuil
+my_hero: Jarl Vetreidi (jarl_vetreidi)
+opp_hero: Dash Io (dash_io)
+my_start_life: 30
+opp_start_life: 8
+my_start_deck_size: 42
+opp_start_deck_size: 39
+my_equipment: chest=Barkskin Of The Millennium Tree (barkskin_of_the_millennium_tree) | arms=Gauntlets Of The Boreal Domain (gauntlets_of_the_boreal_domain) | legs=Boots Of Omnis Ward (boots_of_omnis_ward) | weaponL=Titans Fist (titans_fist) | weaponR=Stalagmite Bastion Of Isenloft (stalagmite_bastion_of_isenloft)
+opp_equipment: chest=Teklo Foundry Heart (teklo_foundry_heart) | weaponL=Symbiosis Shot (symbiosis_shot)
+
+=== TIMESTAMPS ===
+0-49:1783690951,50-50:1783690953,51-52:1783690956,53-53:1783690957,54-56:1783690958,57-57:1783690959,58-59:1783690970,60-115:1783691764,116-185:1783691765,186-186:1783691766,187-190:1783691767,191-194:1783691768,195-196:1783691769,197-198:1783691771,199-200:1783691772,201-201:1783691773,202-202:1783691779,203-237:1783691821,238-272:1783691822,273-274:1783691857,275-275:1783691859,276-279:1783691860,280-285:1783691861,286-287:1783691862,288-289:1783691863,290-290:1783691864,291-291:1783691865,292-292:1783691869,293-293:1783691879,294-294:1783691881,295-295:1783691882,296-296:1783691884,297-297:1783691886,298-298:1783691887,299-299:1783691888,300-304:1783691889,305-305:1783691892,306-307:1783691893,308-308:1783691897,309-310:1783691900,311-311:1783691902,312-315:1783691903,316-316:1783691905,317-318:1783691906,319-321:1783691910,322-323:1783691913,324-325:1783691915,326-326:1783691916,327-329:1783691922
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":3,"byPlayer":{"1":{"gameId":"1622508","deckId":"","turns":12,"result":0,"winner":2,"firstPlayer":1,"opposingHero":"jarl_vetreidi","yourHero":"dash_io","startingLife":36,"opponentHero":"jarl_vetreidi","opponentStartingLife":40,"cardResults":[{"cardId":"backup_protocol_red_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Backup Protocol: RED","pitchValue":1,"numCopies":2,"activated":"2","passiveTriggered":"0"},{"cardId":"bios_update_red","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Bios Update","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"boom_grenade_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Boom Grenade","pitchValue":3,"numCopies":1,"activated":"0","passiveTriggered":"0"},{"cardId":"boom_grenade_red","played":"1","blocked":"0","pitched":"2","hits":"1","discarded":"0","charged":"0","cardName":"Boom Grenade","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"boom_grenade_yellow","played":"1","blocked":"0","pitched":"1","hits":"1","discarded":"0","charged":"0","cardName":"Boom Grenade","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"cerebellum_processor_blue","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Cerebellum Processor","pitchValue":3,"numCopies":3,"activated":"4","passiveTriggered":"0"},{"cardId":"fast_and_furious_red","played":"1","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Fast and Furious","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"fender_bender_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Fender Bender","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"heist_red","played":"2","blocked":"0","pitched":"2","hits":"1","discarded":"0","charged":"0","cardName":"Heist","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"metex_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"MetEx","pitchValue":1,"numCopies":1},{"cardId":"out_pace_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Out Pace","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"pulsewave_harpoon_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Pulsewave Harpoon","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"soup_up_red","played":"2","blocked":"1","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Soup Up","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"spark_of_genius_yellow","played":"3","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Spark of Genius","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"teklo_core_blue","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Teklo Core","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"teklo_trebuchet_2000_blue","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Teklo Trebuchet 2000","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"throttle_blue","played":"2","blocked":"0","pitched":"2","hits":"1","discarded":"0","charged":"0","cardName":"Throttle","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"throttle_red","played":"4","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Throttle","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"zero_to_sixty_blue","played":"0","blocked":"3","pitched":"3","hits":"0","discarded":"0","charged":"0","cardName":"Zero to Sixty","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"zero_to_sixty_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Zero to Sixty","pitchValue":1,"numCopies":3},{"cardId":"zipper_hit_blue","played":"0","blocked":"0","pitched":"3","hits":"0","discarded":"0","charged":"0","cardName":"Zipper Hit","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"zipper_hit_red","played":"1","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Zipper Hit","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"zipper_hit_yellow","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Zipper Hit","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"convection_amplifier_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Convection Amplifier","pitchValue":1,"numCopies":1,"activated":"2","passiveTriggered":"0"},{"cardId":"penetration_script_yellow","played":"1","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Penetration Script","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"plasma_mainline_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Plasma Mainline","pitchValue":1,"numCopies":1},{"cardId":"teklo_pounder_blue","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Teklo Pounder","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"dash_io","cardName":"Dash I/O","numCopies":1},{"cardId":"symbiosis_shot","cardName":"Symbiosis Shot","numCopies":1},{"cardId":"crown_of_providence","cardName":"Crown of Providence","numCopies":1},{"cardId":"teklo_foundry_heart","cardName":"Teklo Foundry Heart","numCopies":1},{"cardId":"bracers_of_belief","cardName":"Bracers of Belief","numCopies":1},{"cardId":"achilles_accelerator","cardName":"Achilles Accelerator","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"crown_of_providence","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Crown of Providence","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"teklo_foundry_heart","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Teklo Foundry Heart","pitchValue":0,"katsuDiscard":"0","activated":"3","passiveTriggered":"0"},{"cardId":"achilles_accelerator","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Achilles Accelerator","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"bracers_of_belief","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Bracers of Belief","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"symbiosis_shot","played":"0","blocked":"0","pitched":"0","hits":"9","discarded":"0","charged":"0","cardName":"Symbiosis Shot","pitchValue":0,"katsuDiscard":"0","activated":"10","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"2","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":36,"opponentLifeAtTurnEnd":41,"turnNo":0},"turn_1":{"cardsUsed":6,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"4","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"11","damageDealt":"8","damageBlocked":"2","damagePrevented":"0","damageTaken":"4","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":32,"opponentLifeAtTurnEnd":33,"turnNo":1},"turn_2":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"2","cardsLeft":"2","damageThreatened":"4","damageDealt":"1","damageBlocked":"0","damagePrevented":"0","damageTaken":"9","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":23,"opponentLifeAtTurnEnd":32,"turnNo":2},"turn_3":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"4","resourcesLeft":"2","cardsLeft":"1","damageThreatened":"4","damageDealt":"1","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":23,"opponentLifeAtTurnEnd":33,"turnNo":3},"turn_4":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"5","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"12","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"7","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":16,"opponentLifeAtTurnEnd":33,"turnNo":4},"turn_5":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"3","cardsDiscarded":"0","resourcesUsed":"8","resourcesLeft":"2","cardsLeft":"0","damageThreatened":"13","damageDealt":"3","damageBlocked":"0","damagePrevented":"0","damageTaken":"6","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":10,"opponentLifeAtTurnEnd":30,"turnNo":5},"turn_6":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"6","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"23","damageDealt":"9","damageBlocked":"2","damagePrevented":"0","damageTaken":"2","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":8,"opponentLifeAtTurnEnd":21,"turnNo":6},"turn_7":{"cardsUsed":3,"cardsBlocked":"1","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"5","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"22","damageDealt":"10","damageBlocked":"3","damagePrevented":"0","damageTaken":"1","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":7,"opponentLifeAtTurnEnd":11,"turnNo":7},"turn_8":{"cardsUsed":0,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"2","damageDealt":"2","damageBlocked":"7","damagePrevented":"0","damageTaken":"1","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":6,"opponentLifeAtTurnEnd":9,"turnNo":8},"turn_9":{"cardsUsed":4,"cardsBlocked":"2","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"7","resourcesLeft":"1","cardsLeft":"0","damageThreatened":"16","damageDealt":"4","damageBlocked":"5","damagePrevented":"0","damageTaken":"4","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":2,"opponentLifeAtTurnEnd":5,"turnNo":9},"turn_10":{"cardsUsed":2,"cardsBlocked":"1","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"4","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"9","damageDealt":"4","damageBlocked":"3","damagePrevented":"0","damageTaken":"1","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":1,"opponentLifeAtTurnEnd":1,"turnNo":10},"turn_11":{"cardsUsed":1,"cardsBlocked":"2","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"2","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"6","damageDealt":"0","damageBlocked":"4","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":1,"opponentLifeAtTurnEnd":1,"turnNo":11},"turn_12":{"cardsUsed":0,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":12}},"yourTime":"1053","totalTime":1694,"totalDamageThreatened":122,"totalDamageDealt":42,"totalLifeGained":0,"totalDamageBlocked":26,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":11.09,"averageDamageDealtPerTurn":3.82,"averageDamageThreatenedPerCard":3.49,"averageResourcesUsedPerTurn":4.09,"averageCardsLeftOverPerTurn":0.27,"averageCombatValuePerTurn":13.45,"averageValuePerTurn":13.45,"totalDamageThreatened_NoLast":116,"totalDamageDealt_NoLast":42,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":22,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":11.6,"averageDamageDealtPerTurn_NoLast":4.2,"averageDamageThreatenedPerCard_NoLast":3.52,"averageResourcesUsedPerTurn_NoLast":4.3,"averageCardsLeftOverPerTurn_NoLast":0.3,"averageCombatValuePerTurn_NoLast":13.8,"averageValuePerTurn_NoLast":13.8,"fullLog":""}}}

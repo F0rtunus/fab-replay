@@ -1,0 +1,378 @@
+=== Talishar game 1603585 — 08/07/2026 22:38:02 ===
+
+🎲 you rolled 8 and JainMor rolled 9.
+JainMor chooses who goes first.
+you will go first.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+JainMor's turn 1 has begun.
+JainMor played Snatch
+🎯Briar was chosen as the target.
+Resolving play ability of Snatch.
+Ehecalt passed
+Ehecalt blocked with Burn Up // Shock and Blade Beckoner Gauntlets
+JainMor passed
+Ehecalt passed
+Ehecalt is about to take 0 damage from Snatch
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+JainMor passed
+JainMor passed
+The combat chain was closed.
+JainMor passed
+JainMor passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 1 has begun.
+Ehecalt played Weave Lightning
+Resolving play ability of Weave Lightning.
+Ehecalt played Lightning Surge from arsenal
+🎯Boltyn was chosen as the target.
+Resolving play ability of Lightning Surge.
+JainMor passed
+JainMor blocked with Express Lightning, Helm of Unity, and Pillar of Unity
+Ehecalt passed
+JainMor passed
+JainMor is about to take 0 damage from Lightning Surge
+JainMor took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt played Scar for a Scar
+🎯Boltyn was chosen as the target.
+Resolving play ability of Scar for a Scar.
+JainMor passed
+JainMor blocked with Courageous Steelhand
+JainMor undid their last action
+Ehecalt played Scar for a Scar
+🎯Boltyn was chosen as the target.
+Resolving play ability of Scar for a Scar.
+JainMor passed
+JainMor blocked with Duty Bound Blitz
+Ehecalt passed
+JainMor played Toe the Line
+Resolving play ability of Toe the Line.
+Ehecalt passed
+JainMor passed
+JainMor is about to take 2 damage from Scar for a Scar
+JainMor took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+JainMor's turn 2 has begun.
+JainMor passed
+JainMor passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 2 has begun.
+Ehecalt played Quick Succession from arsenal
+Resolving play ability of Quick Succession.
+Ehecalt played Static Shock
+🎯Boltyn was chosen as the target.
+Resolving play ability of Static Shock.
+JainMor passed
+JainMor blocked with Beaming Bravado, Pillar of Unity, and Helm of Unity
+Ehecalt passed
+JainMor passed
+JainMor is about to take 0 damage from Static Shock
+JainMor took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Sprout Strength
+Resolving play ability of Sprout Strength.
+Ehecalt played Static Shock
+🎯Boltyn was chosen as the target.
+Embodiment of Lightning grants go again
+Resolving play ability of Static Shock.
+JainMor passed
+JainMor blocked with Snatch, Courageous Steelhand, and Express Lightning
+Ehecalt passed
+JainMor passed
+JainMor is about to take 1 damage from Static Shock
+JainMor took 1 damage
+Combat resolved with a hit for 1 damage
+Processing hit effect for Static Shock
+Static Shock is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Static Shock
+JainMor took 1 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+JainMor's turn 3 has begun.
+JainMor passed
+JainMor passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 3 has begun.
+Ehecalt played Quick Succession from arsenal
+Resolving play ability of Quick Succession.
+Ehecalt played Stinging Sprite
+🎯Boltyn was chosen as the target.
+Resolving play ability of Stinging Sprite.
+JainMor's Boltyn was targeted by Stinging Sprite
+Stinging Sprite is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Stinging Sprite
+JainMor took 1 damage
+JainMor passed
+JainMor blocked with Bolt of Courage
+Ehecalt passed
+JainMor passed
+JainMor is about to take 1 damage from Stinging Sprite
+JainMor took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt activated Star Fall
+🎯Boltyn was chosen as the target.
+Ehecalt pitched Lightning Press
+Resolving activated ability of Star Fall.
+JainMor passed
+Ehecalt passed
+JainMor passed
+JainMor is about to take 3 damage from Star Fall
+JainMor took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt played Arcanic Shockwave
+🎯Boltyn was chosen as the target.
+👁️‍🗨️Lightning Press is revealed
+Resolving play ability of Arcanic Shockwave.
+Arcanic Shockwave is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Arcanic Shockwave
+JainMor took 1 damage
+JainMor passed
+Ehecalt passed
+JainMor passed
+JainMor is about to take 4 damage from Arcanic Shockwave
+JainMor took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+JainMor's turn 4 has begun.
+JainMor played Beaming Bravado
+🎯Briar was chosen as the target.
+V of the Vanguard was charged.
+Resolving play ability of Beaming Bravado.
+Ehecalt passed
+JainMor activated Boltyn
+Resolving activated ability of Boltyn.
+JainMor passed
+Ehecalt passed
+Ehecalt is about to take 4 damage from Beaming Bravado
+Ehecalt took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+JainMor played Duty Bound Blitz from arsenal
+🎯Briar was chosen as the target.
+Resolving play ability of Duty Bound Blitz.
+Ehecalt passed
+Ehecalt blocked with Rush of Power
+JainMor passed
+Ehecalt passed
+Ehecalt is about to take 2 damage from Duty Bound Blitz
+Ehecalt took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+JainMor played Illuminate
+🎯Briar was chosen as the target.
+Resolving play ability of Illuminate.
+Ehecalt passed
+Ehecalt blocked with Burn Up // Shock
+JainMor passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Illuminate
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+JainMor auto-passed
+JainMor auto-passed
+The combat chain was closed.
+JainMor auto-passed
+JainMor passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 4 has begun.
+Ehecalt played Snatch
+🎯Boltyn was chosen as the target.
+Resolving play ability of Snatch.
+JainMor passed
+JainMor blocked with Take Flight and Courageous Steelhand
+Ehecalt played Lightning Press from arsenal
+Ehecalt's Snatch was targeted
+Resolving play ability of Lightning Press.
+Ehecalt passed
+JainMor passed
+JainMor is about to take 2 damage from Snatch
+JainMor took 2 damage
+Combat resolved with a hit for 2 damage
+Processing hit effect for Snatch
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+JainMor's turn 5 has begun.
+JainMor activated Raydn, Duskbane
+🎯Briar was chosen as the target.
+Resolving activated ability of Raydn, Duskbane.
+Ehecalt passed
+Ehecalt blocked with Blade Beckoner Helm
+JainMor played Roaring Beam
+Resolving play ability of Roaring Beam.
+Engulfing Light was charged.
+JainMor activated Boltyn
+Resolving activated ability of Boltyn.
+JainMor passed
+Ehecalt passed
+Ehecalt is about to take 1 damage from Raydn, Duskbane
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+JainMor activated Raydn, Duskbane
+🎯Briar was chosen as the target.
+Resolving activated ability of Raydn, Duskbane.
+Ehecalt passed
+Ehecalt blocked with Blade Beckoner Boots and Blade Beckoner Gauntlets
+JainMor passed
+Ehecalt passed
+Ehecalt is about to take 1 damage from Raydn, Duskbane
+Ehecalt took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+JainMor auto-passed
+JainMor auto-passed
+The combat chain was closed.
+JainMor auto-passed
+JainMor passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 5 has begun.
+Ehecalt played Entwine Lightning
+🎯Boltyn was chosen as the target.
+👁️‍🗨️Path of Same Ends is revealed
+Resolving play ability of Entwine Lightning.
+JainMor passed
+JainMor blocked with Roaring Beam
+Ehecalt passed
+JainMor passed
+JainMor is about to take 1 damage from Entwine Lightning
+JainMor took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt played Entwine Lightning
+🎯Boltyn was chosen as the target.
+👁️‍🗨️Path of Same Ends is revealed
+Resolving play ability of Entwine Lightning.
+JainMor passed
+JainMor blocked with Bolt of Courage
+Ehecalt passed
+JainMor passed
+JainMor is about to take 1 damage from Entwine Lightning
+JainMor took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Quick Succession
+Resolving play ability of Quick Succession.
+Ehecalt played Path of Same Ends
+🎯Boltyn was chosen as the target.
+Resolving play ability of Path of Same Ends.
+Path of Same Ends is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Path of Same Ends
+JainMor took 1 damage
+JainMor passed
+JainMor blocked with Banneret of Salvation
+Ehecalt passed
+JainMor passed
+JainMor is about to take 1 damage from Path of Same Ends
+JainMor took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt played Lightning Surge from arsenal
+🎯Boltyn was chosen as the target.
+Resolving play ability of Lightning Surge.
+JainMor passed
+JainMor blocked with Duty Bound Blitz
+Ehecalt passed
+JainMor passed
+JainMor is about to take 3 damage from Lightning Surge
+JainMor took 3 damage
+Ehecalt (Ehecalt) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Quick Succession, Scar For A Scar, Burn Up  Shock, Lightning Surge
+[JainMor #1] Quick Succession, Scar For A Scar, Burn Up  Shock, Weave Lightning
+[Ehecalt #1] Quick Succession, Scar For A Scar, Weave Lightning
+[JainMor #2] Sprout Strength, Static Shock, Static Shock, Quick Succession
+[Ehecalt #2] Sprout Strength, Static Shock, Static Shock, Quick Succession
+[JainMor #3] Lightning Press, Stinging Sprite, Lightning Press, Arcanic Shockwave
+[Ehecalt #3] Lightning Press, Stinging Sprite, Lightning Press, Arcanic Shockwave
+[JainMor #4] Snatch, Burn Up  Shock, Lightning Surge, Rush Of Power
+[Ehecalt #4] Snatch, Lightning Surge
+[JainMor #5] Entwine Lightning, Path Of Same Ends, Entwine Lightning, Quick Succession
+[Ehecalt #5] Entwine Lightning, Path Of Same Ends, Entwine Lightning, Quick Succession
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[JainMor #1] Lightning Surge
+[Ehecalt #1] Lightning Surge
+[JainMor #2] Quick Succession
+[Ehecalt #2] (vide)
+[JainMor #3] Quick Succession
+[Ehecalt #3] Quick Succession
+[JainMor #4] Lightning Press
+[Ehecalt #4] Lightning Press
+[JainMor #5] Lightning Surge
+[Ehecalt #5] Lightning Surge
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=20 opp=20 myDeck=36 oppDeck=36
+[JainMor #1] me=20 opp=20 myDeck=35 oppDeck=36
+[Ehecalt #1] me=20 opp=20 myDeck=35 oppDeck=34
+[JainMor #2] me=20 opp=20 myDeck=31 oppDeck=34
+[Ehecalt #2] me=? opp=?
+[JainMor #3] me=20 opp=18 myDeck=27 oppDeck=31
+[Ehecalt #3] me=20 opp=18 myDeck=27 oppDeck=27
+[JainMor #4] me=20 opp=8 myDeck=24 oppDeck=27
+[Ehecalt #4] me=14 opp=8 myDeck=24 oppDeck=23
+[JainMor #5] me=14 opp=6 myDeck=20 oppDeck=23
+[Ehecalt #5] me=12 opp=6 myDeck=20 oppDeck=19
+
+=== META ===
+schema: v1
+captured_with: TLG v1.10.4
+game_url: https://talishar.net/game/play/1603585
+captured_at: 2026-07-08T20:25:13.344Z
+format: sage
+vs_ai: non
+me: Ehecalt
+opponent: JainMor
+my_hero: Briar (briar)
+opp_hero: Boltyn (boltyn)
+my_start_life: 20
+opp_start_life: 20
+my_start_deck_size: 36
+opp_start_deck_size: 36
+my_equipment: head=Blade Beckoner Helm (blade_beckoner_helm) | chest=Blossom Of Spring (blossom_of_spring) | arms=Blade Beckoner Gauntlets (blade_beckoner_gauntlets) | legs=Blade Beckoner Boots (blade_beckoner_boots) | weaponL=Star Fall (star_fall)
+opp_equipment: head=Helm Of Unity (helm_of_unity) | chest=Garland Of Spring (garland_of_spring) | arms=Hard Knuckle (hard_knuckle) | legs=Pillar Of Unity (pillar_of_unity) | weaponL=Raydn Duskbane (raydn_duskbane)
+
+=== TIMESTAMPS ===
+0-2:1783542335,3-4:1783542371,5-6:1783542386,7-8:1783542404,9-9:1783542419,10-11:1783542433,12-12:1783542438,13-16:1783542439,17-17:1783542450,18-20:1783542452,21-22:1783542453,23-24:1783542457,25-25:1783542466,26-26:1783542468,27-28:1783542469,29-29:1783542480,30-31:1783542502,32-32:1783542505,33-36:1783542506,37-37:1783542508,38-39:1783542509,40-40:1783542521,41-42:1783542534,43-43:1783542546,44-45:1783542554,46-46:1783542558,47-48:1783542560,49-49:1783542571,50-51:1783542572,52-52:1783542582,53-62:1783542584,63-64:1783542586,65-68:1783542591,69-70:1783542596,71-73:1783542598,74-75:1783542625,76-76:1783542630,77-81:1783542632,82-85:1783542633,86-89:1783542634,90-91:1783542686,92-92:1783542688,93-96:1783542690,97-101:1783542691,102-104:1783542693,105-106:1783542694,107-108:1783542695,109-112:1783542697,113-114:1783542702,115-116:1783542703,117-118:1783542704,119-121:1783542705,122-123:1783542730,124-124:1783542738,125-128:1783542742,129-129:1783542745,130-131:1783542746,132-132:1783542747,133-133:1783542748,134-134:1783542770,135-135:1783542800,136-139:1783542802,140-140:1783542809,141-142:1783542812,143-143:1783542813,144-147:1783542814,148-148:1783542831,149-149:1783542832,150-153:1783542833,154-159:1783542834,160-161:1783542835,162-163:1783542838,164-164:1783542839,165-165:1783542843,166-166:1783542846,167-167:1783542847,168-168:1783542849,169-169:1783542850,170-173:1783542851,174-174:1783542852,175-176:1783542853,177-177:1783542856,178-179:1783542859,180-180:1783542862,181-184:1783542865,185-185:1783542867,186-187:1783542868,188-188:1783542871,189-190:1783542878,191-195:1783542880,196-198:1783542884,199-203:1783542885,204-205:1783542887,206-206:1783542888,207-208:1783542911,209-209:1783542913,210-211:1783542914,212-212:1783542915,213-216:1783542917,217-223:1783542918,224-225:1783542920,226-228:1783542923,229-230:1783542927,231-232:1783542929,233-233:1783542930,234-234:1783542932,235-235:1783542934,236-236:1783542936,237-241:1783542937,242-244:1783542942,245-246:1783542947,247-247:1783542953,248-257:1783542956,258-259:1783542959,260-261:1783542960,262-263:1783542962,264-265:1783542984,266-266:1783543003,267-271:1783543006,272-273:1783543019,274-275:1783543020,276-277:1783543030,278-278:1783543037,279-283:1783543039,284-287:1783543040,288-290:1783543041,291-293:1783543042,294-295:1783543061,296-296:1783543062,297-300:1783543064,301-301:1783543065,302-304:1783543066,305-306:1783543078,307-307:1783543079,308-312:1783543082
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1603585","deckId":"","turns":5,"result":1,"winner":1,"firstPlayer":1,"opposingHero":"boltyn","yourHero":"briar","startingLife":20,"opponentHero":"boltyn","opponentStartingLife":20,"cardResults":[{"cardId":"arcane_seeds__life_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Arcane Seeds // Life","pitchValue":1,"numCopies":2},{"cardId":"arcanic_shockwave_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Arcanic Shockwave","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"entwine_lightning_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Entwine Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_press_red","played":"1","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Press","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_surge_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Surge","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"nimblism_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Nimblism","pitchValue":1,"numCopies":2},{"cardId":"path_of_same_ends_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Path of Same Ends","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"quick_succession_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"quick_succession_yellow","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Quick Succession","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Ravenous Rabble","pitchValue":1,"numCopies":2},{"cardId":"rush_of_power_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Rush of Power","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"scar_for_a_scar_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Scar for a Scar","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sizzle_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sizzle","pitchValue":1,"numCopies":2},{"cardId":"snatch_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Snatch","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sprout_strength_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sprout Strength","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"static_shock_red","played":"2","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Static Shock","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"stinging_sprite_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Stinging Sprite","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"weave_lightning_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Weave Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_suffering_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sigil of Suffering","pitchValue":1,"numCopies":2},{"cardId":"burn_up__shock_red","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Burn Up // Shock","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"briar","cardName":"Briar","numCopies":1},{"cardId":"star_fall","cardName":"Star Fall","numCopies":1},{"cardId":"blade_beckoner_helm","cardName":"Blade Beckoner Helm","numCopies":1},{"cardId":"blossom_of_spring","cardName":"Blossom of Spring","numCopies":1},{"cardId":"blade_beckoner_gauntlets","cardName":"Blade Beckoner Gauntlets","numCopies":1},{"cardId":"blade_beckoner_boots","cardName":"Blade Beckoner Boots","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"blade_beckoner_gauntlets","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Gauntlets","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"star_fall","played":"0","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Star Fall","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"blade_beckoner_helm","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Helm","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"blade_beckoner_boots","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blade Beckoner Boots","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"3","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":20,"turnNo":0},"turn_1":{"cardsUsed":3,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"11","damageDealt":"0","damageBlocked":"4","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":20,"turnNo":1},"turn_2":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"14","damageDealt":"2","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":18,"turnNo":2},"turn_3":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"13","damageDealt":"10","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":20,"opponentLifeAtTurnEnd":8,"turnNo":3},"turn_4":{"cardsUsed":2,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"7","damageDealt":"2","damageBlocked":"7","damagePrevented":"0","damageTaken":"6","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":14,"opponentLifeAtTurnEnd":6,"turnNo":4},"turn_5":{"cardsUsed":5,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"18","damageDealt":"7","damageBlocked":"5","damagePrevented":"0","damageTaken":"2","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":12,"opponentLifeAtTurnEnd":6,"turnNo":5}},"yourTime":"316","totalTime":718,"totalDamageThreatened":63,"totalDamageDealt":21,"totalLifeGained":0,"totalDamageBlocked":16,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":12.6,"averageDamageDealtPerTurn":4.2,"averageDamageThreatenedPerCard":3.71,"averageResourcesUsedPerTurn":0.2,"averageCardsLeftOverPerTurn":0.2,"averageCombatValuePerTurn":15.8,"averageValuePerTurn":15.8,"totalDamageThreatened_NoLast":45,"totalDamageDealt_NoLast":14,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":11,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":11.25,"averageDamageDealtPerTurn_NoLast":3.5,"averageDamageThreatenedPerCard_NoLast":3.46,"averageResourcesUsedPerTurn_NoLast":0.25,"averageCardsLeftOverPerTurn_NoLast":0.25,"averageCombatValuePerTurn_NoLast":14,"averageValuePerTurn_NoLast":14,"fullLog":""}}}

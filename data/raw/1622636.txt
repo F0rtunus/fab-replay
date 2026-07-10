@@ -1,0 +1,609 @@
+=== Talishar game 1622636 — 10/07/2026 15:54:48 ===
+
+Ehecalt played Kiss of Death
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Kiss of Death.
+x12141214x passed
+x12141214x blocked with Sand Sketched Plan and Swing Big
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 0 damage from
+x12141214x took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt played Lobotomy
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Lobotomy.
+x12141214x passed
+x12141214x blocked with Sand Sketched Plan and Alpha Instinct
+Ehecalt activated Flick Knives
+Ehecalt's Kiss of Death was targeted
+x12141214x's Rhinar, Reckless Rampage was targeted
+Resolving activated ability of Flick Knives.
+x12141214x is about to take 1 damage from Kiss of Death
+x12141214x took 1 damage
+Processing hit effect for Kiss of Death
+x12141214x loses 1 life.
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 0 damage from Lobotomy
+x12141214x took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+x12141214x's turn 1 has begun.
+x12141214x played Bloodrush Bellow
+x12141214x pitched Reckless Swing
+Show of Strength was discarded
+Ehecalt was targeted to intimidate.
+Ehecalt banishes a card face down
+Resolving play ability of Bloodrush Bellow: Draws 2 cards and gains go again
+x12141214x activated Scabskin Leathers
+🎲4 was rolled.
+Resolving activated ability of Scabskin Leathers: Rolled 4 and gained 2 action points
+x12141214x played Beast Within
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+x12141214x pitched Wrecker Romp
+Resolving play ability of Beast Within.
+Ehecalt passed
+Ehecalt blocked with Leave No Witnesses and Infiltrate
+x12141214x passed
+Ehecalt passed
+Ehecalt is about to take 2 damage from Beast Within
+Ehecalt took 2 damage
+Combat resolved with a hit for 2 damage
+The chain link was resolved.
+x12141214x played Swing Big
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+Resolving play ability of Swing Big.
+Ehecalt passed
+x12141214x passed
+Ehecalt played Sink Below from arsenal
+Resolving play ability of Sink Below.
+Ehecalt did not sink a card
+x12141214x passed
+Ehecalt passed
+Ehecalt is about to take 6 damage from Swing Big
+Ehecalt took 6 damage
+Combat resolved with a hit for 6 damage
+The chain link was resolved.
+x12141214x auto-passed
+x12141214x auto-passed
+The combat chain was closed.
+x12141214x auto-passed
+x12141214x passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 1 has begun.
+Ehecalt played Mark of the Black Widow
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Mark of the Black Widow.
+x12141214x passed
+x12141214x blocked with Overcrowded and Send Packing
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 0 damage from
+x12141214x took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt played Leave No Witnesses
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Leave No Witnesses.
+x12141214x passed
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 4 damage from Leave No Witnesses
+x12141214x took 4 damage
+Combat resolved with a hit for 4 damage
+Processing hit effect for Leave No Witnesses
+Aggressive Pounce was banished.
+Ehecalt completed the contract for Leave No Witnesses
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+x12141214x's turn 2 has begun.
+x12141214x played Agile Windup
+Ability was chosen.
+Agile Windup was discarded
+Ehecalt was targeted to intimidate.
+Ehecalt banishes a card face down
+x12141214x played Feral Instinct
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+Resolving play ability of Feral Instinct.
+Ehecalt passed
+x12141214x passed
+Ehecalt auto-passed
+Ehecalt is about to take 6 damage from Feral Instinct
+Ehecalt took 6 damage
+Combat resolved with a hit for 6 damage
+The chain link was resolved.
+x12141214x auto-passed
+x12141214x auto-passed
+The combat chain was closed.
+x12141214x auto-passed
+x12141214x passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 2 has begun.
+Ehecalt played Meet Madness
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Meet Madness.
+x12141214x passed
+Ehecalt activated Flick Knives
+Ehecalt's Hunter's Klaive was targeted
+x12141214x's Rhinar, Reckless Rampage was targeted
+Resolving activated ability of Flick Knives.
+x12141214x is about to take 1 damage from Hunter's Klaive
+x12141214x took 1 damage
+Ehecalt gained 1 resource from Blood Splattered Vest
+Processing hit effect for Hunter's Klaive
+🎯x12141214x is now marked!
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 3 damage from Meet Madness
+x12141214x took 3 damage
+Combat resolved with a hit for 3 damage
+🌪️ The madness says "banish a card from arsenal!"
+x12141214x loses their mark
+Processing hit effect for Meet Madness
+The chain link was resolved.
+Ehecalt requests to undo the last action
+Ehecalt requests to undo the last action
+x12141214x allowed undoing the last action
+x12141214x passed
+x12141214x is about to take 3 damage from Meet Madness
+x12141214x took 3 damage
+Combat resolved with a hit for 3 damage
+🌪️ The madness says "banish a card from arsenal!"
+x12141214x loses their mark
+Processing hit effect for Meet Madness
+The chain link was resolved.
+Ehecalt requests to undo the last action
+x12141214x allowed undoing the last action
+Ehecalt requests to undo the last action
+x12141214x allowed undoing the last action
+Ehecalt played Take Up the Mantle
+Resolving play ability of Take Up the Mantle.
+Ehecalt requests to undo the last action
+x12141214x allowed undoing the last action
+Ehecalt activated Flick Knives
+Ehecalt's Hunter's Klaive was targeted
+x12141214x's Rhinar, Reckless Rampage was targeted
+Resolving activated ability of Flick Knives.
+x12141214x is about to take 1 damage from Hunter's Klaive
+x12141214x took 1 damage
+Ehecalt gained 1 resource from Blood Splattered Vest
+Processing hit effect for Hunter's Klaive
+🎯x12141214x is now marked!
+Ehecalt played Take Up the Mantle
+Resolving play ability of Take Up the Mantle.
+Mark of the Black Widow was banished.
+Meet Madness copy and become Mark of the Black Widow
+Ehecalt played Spike with Bloodrot
+Resolving play ability of Spike with Bloodrot.
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 9 damage from Mark of the Black Widow
+x12141214x took 9 damage
+Combat resolved with a hit for 9 damage
+x12141214x loses their mark
+Processing hit effect for Mark of the Black Widow
+The chain link was resolved.
+Ehecalt played Pick Up the Point
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Pick Up the Point.
+x12141214x passed
+x12141214x blocked with Savage Sash
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 1 damage from Pick Up the Point
+x12141214x took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+Agility will give your next attack go again!
+═══════════════
+x12141214x's turn 3 has begun.
+x12141214x played Wild Ride
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+x12141214x pitched Buckwild
+Splatter Skull was discarded
+Resolving play ability of Wild Ride.
+Ehecalt was targeted to intimidate.
+Ehecalt banishes a card face down
+Ehecalt passed
+Ehecalt blocked with Bonds of Attraction and Creep
+x12141214x passed
+Ehecalt auto-passed
+Ehecalt is about to take 0 damage from Wild Ride
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+x12141214x passed
+The combat chain was closed.
+x12141214x activated Gauntlets of Tyrannical Rex
+x12141214x pitched Sand Sketched Plan
+Resolving activated ability of Gauntlets of Tyrannical Rex.
+x12141214x activated Ball Breaker
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+Resolving activated ability of Ball Breaker.
+Ehecalt passed
+x12141214x passed
+Ehecalt auto-passed
+Ehecalt is about to take 5 damage from Ball Breaker
+Ehecalt took 5 damage
+Combat resolved with a hit for 5 damage
+The chain link was resolved.
+x12141214x auto-passed
+x12141214x auto-passed
+The combat chain was closed.
+x12141214x auto-passed
+x12141214x passed priority. Attempting to end turn.
+x12141214x is about to take 2 damage from Bloodrot Pox
+x12141214x took 2 damage
+═══════════════
+Ehecalt's turn 3 has begun.
+Ehecalt played Meet Madness
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Meet Madness.
+x12141214x passed
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 3 damage from Meet Madness
+x12141214x took 3 damage
+Combat resolved with a hit for 3 damage
+🌪️ The madness says "banish a card from arsenal!"
+Processing hit effect for Meet Madness
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Codex of Frailty
+Resolving play ability of Codex of Frailty.
+Card chosen: Leave No Witnesses
+Card chosen: Overcrowded
+Vigorous Smashup was discarded
+Ehecalt played Leave No Witnesses from arsenal
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Leave No Witnesses.
+x12141214x passed
+x12141214x blocked with Overcrowded
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 0 damage from Leave No Witnesses
+x12141214x took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+x12141214x's turn 4 has begun.
+x12141214x played Wild Ride
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+x12141214x pitched Alpha Instinct
+Aggressive Pounce was discarded
+Resolving play ability of Wild Ride.
+Ehecalt was targeted to intimidate.
+Ehecalt banishes a card face down
+Ehecalt passed
+x12141214x passed
+Ehecalt auto-passed
+Ehecalt is about to take 6 damage from Wild Ride
+Ehecalt took 6 damage
+Combat resolved with a hit for 6 damage
+The chain link was resolved.
+x12141214x passed
+x12141214x passed
+The combat chain was closed.
+x12141214x passed
+x12141214x passed priority. Attempting to end turn.
+═══════════════
+Ehecalt's turn 4 has begun.
+Ehecalt played Kiss of Death
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Kiss of Death.
+x12141214x passed
+x12141214x blocked with Show of Strength
+Ehecalt played Spike with Bloodrot
+Ehecalt pitched Pain in the Backside
+Resolving play ability of Spike with Bloodrot.
+Ehecalt played Tarantula Toxin from arsenal
+Selected mode for Tarantula Toxin is: Both
+Ehecalt's Show of Strength was targeted
+Show of Strength gets -3 defense
+Resolving play ability of Tarantula Toxin.
+Ehecalt passed
+x12141214x played Sink Below from arsenal
+Resolving play ability of Sink Below.
+⤵️ A card was put on the bottom of the deck.
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 5 damage from Kiss of Death
+x12141214x took 5 damage
+Combat resolved with a hit for 5 damage
+Processing hit effect for Kiss of Death
+x12141214x loses 1 life.
+The chain link was resolved.
+Ehecalt played Ravenous Rabble
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Ehecalt reveals Tarantula Toxin
+x12141214x passed
+x12141214x blocked with Scabskin Leathers and Gauntlets of Tyrannical Rex
+Ehecalt activated Flick Knives
+Ehecalt's Kiss of Death was targeted
+x12141214x's Rhinar, Reckless Rampage was targeted
+Resolving activated ability of Flick Knives.
+x12141214x is about to take 1 damage from Kiss of Death
+x12141214x took 1 damage
+Processing hit effect for Kiss of Death
+x12141214x loses 1 life.
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 0 damage from Ravenous Rabble
+x12141214x took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+Ehecalt passed
+Ehecalt passed
+The combat chain was closed.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+x12141214x's turn 5 has begun.
+x12141214x passed
+x12141214x passed priority. Attempting to end turn.
+x12141214x pitched Eye of Ophidia
+x12141214x has put 2 cards on top of their deck.
+x12141214x pitched Reckless Swing
+═══════════════
+Ehecalt's turn 5 has begun.
+Ehecalt played Art of Desire: Body
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Art of Desire: Body.
+x12141214x passed
+x12141214x blocked with Scowling Flesh Bag and Scabskin Leathers
+Ehecalt's Arakni, 5L!p3d 7hRu 7h3 cR4X was targeted
+Ehecalt's Arakni, 5L!p3d 7hRu 7h3 cR4X was targeted by Scowling Flesh Bag
+Ehecalt was targeted to intimidate.
+Ehecalt banishes a card face down
+Ehecalt played Tarantula Toxin
+Selected mode for Tarantula Toxin is: Reduce Block
+Ehecalt's Scowling Flesh Bag was targeted
+Resolving play ability of Tarantula Toxin.
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 2 damage from Art of Desire: Body
+x12141214x took 2 damage
+Combat resolved with a hit for 2 damage
+Processing hit effect for Art of Desire: Body
+Vigorous Smashup was banished.
+The chain link was resolved.
+Ehecalt passed
+The combat chain was closed.
+Ehecalt played Codex of Bloodrot
+Resolving play ability of Codex of Bloodrot.
+Ehecalt passed
+Ehecalt passed priority. Attempting to end turn.
+═══════════════
+x12141214x's turn 6 has begun.
+x12141214x played Bloodrush Bellow
+x12141214x pitched Overcrowded
+Show of Strength was discarded
+Ehecalt was targeted to intimidate.
+Ehecalt banishes a card face down
+Resolving play ability of Bloodrush Bellow: Draws 2 cards and gains go again
+x12141214x played Agile Windup
+Ability was chosen.
+Agile Windup was discarded
+Ehecalt was targeted to intimidate.
+Ehecalt banishes a card face down
+x12141214x activated Scabskin Leathers
+🎲1 was rolled.
+Resolving activated ability of Scabskin Leathers: Rolled 1 and gained 0 action points
+x12141214x auto-passed
+x12141214x passed priority. Attempting to end turn.
+x12141214x pitched Beast Within
+═══════════════
+Ehecalt's turn 6 has begun.
+Ehecalt played Infect
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Infect.
+x12141214x passed
+x12141214x blocked with Swing Big
+Ehecalt played Razor's Edge
+Resolving play ability of Razor's Edge.
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 3 damage from Infect
+x12141214x took 3 damage
+Combat resolved with a hit for 3 damage
+Processing hit effect for Infect
+The chain link was resolved.
+Ehecalt played Infect
+🎯Rhinar, Reckless Rampage was chosen as the target.
+Resolving play ability of Infect.
+x12141214x passed
+x12141214x blocked with Feral Instinct
+Ehecalt played Take Up the Mantle
+Ehecalt activated Flick Knives
+Ehecalt's Hunter's Klaive was targeted
+x12141214x's Rhinar, Reckless Rampage was targeted
+Resolving activated ability of Flick Knives.
+x12141214x is about to take 1 damage from Hunter's Klaive
+x12141214x took 1 damage
+Processing hit effect for Hunter's Klaive
+🎯x12141214x is now marked!
+Resolving play ability of Take Up the Mantle.
+Ehecalt passed
+x12141214x passed
+x12141214x is about to take 3 damage from Infect
+x12141214x took 3 damage
+Combat resolved with a hit for 3 damage
+x12141214x loses their mark
+Processing hit effect for Infect
+The chain link was resolved.
+Ehecalt auto-passed
+Ehecalt auto-passed
+The combat chain was closed.
+Ehecalt auto-passed
+Ehecalt passed priority. Attempting to end turn.
+Agility will give your next attack go again!
+═══════════════
+x12141214x's turn 7 has begun.
+x12141214x played Send Packing from arsenal
+🎯Arakni, 5L!p3d 7hRu 7h3 cR4X was chosen as the target.
+x12141214x pitched Wrecker Romp
+Resolving play ability of Send Packing.
+Sink Below was banished.
+Ehecalt passed
+Ehecalt blocked with Blacktek Whisperers, Crown of Providence, and Take Up the Mantle
+x12141214x passed
+Ehecalt passed
+Ehecalt is about to take 0 damage from Send Packing
+Ehecalt took 0 damage
+Combat resolved with no hit
+The chain link was resolved.
+x12141214x passed
+x12141214x passed
+The combat chain was closed.
+x12141214x passed
+x12141214x passed priority. Attempting to end turn.
+x12141214x is about to take 2 damage from Bloodrot Pox
+x12141214x took 2 damage
+Ehecalt (Ehecalt) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+Ehecalt: Good Game!
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Mark Of The Black Widow, Lobotomy, Sink Below
+[x12141214x #1] Mark Of The Black Widow, Leave No Witnesses, Infiltrate, Leave No Witnesses
+[Ehecalt #1] Leave No Witnesses, Mark Of The Black Widow
+[x12141214x #2] Spike With Bloodrot, Take Up The Mantle, Meet Madness, Pick Up The Point
+[Ehecalt #2] Spike With Bloodrot, Take Up The Mantle, Pick Up The Point, Meet Madness
+[x12141214x #3] Codex Of Frailty, Creep, Meet Madness, Bonds Of Attraction
+[Ehecalt #3] Codex Of Frailty, Meet Madness
+[x12141214x #4] Kiss Of Death, Spike With Bloodrot, Pain In The Backside, Ravenous Rabble
+[Ehecalt #4] Spike With Bloodrot, Pain In The Backside, Ravenous Rabble, Kiss Of Death
+[x12141214x #5] Tarantula Toxin, Art Of Desire Body, Razors Edge, Codex Of Bloodrot
+[Ehecalt #5] Tarantula Toxin, Art Of Desire Body, Razors Edge, Codex Of Bloodrot
+[x12141214x #6] Razors Edge, Infect, Take Up The Mantle, Infect
+[Ehecalt #6] Take Up The Mantle, Infect, Razors Edge, Infect
+[x12141214x #7] Take Up The Mantle, Mark Of The Black Widow, Bonds Of Attraction, Tarantula Toxin
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[x12141214x #1] Sink Below
+[Ehecalt #1] (vide)
+[x12141214x #2] (vide)
+[Ehecalt #2] (vide)
+[x12141214x #3] (vide)
+[Ehecalt #3] (vide)
+[x12141214x #4] Tarantula Toxin
+[Ehecalt #4] Tarantula Toxin
+[x12141214x #5] (vide)
+[Ehecalt #5] (vide)
+[x12141214x #6] Sink Below
+[Ehecalt #6] Sink Below
+[x12141214x #7] Sink Below
+
+=== FIELD SNAPSHOTS (permanents/tokens en jeu : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[x12141214x #1] me: (vide) | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: (vide)
+[x12141214x #2] me: Silver | opp: (vide)
+[Ehecalt #2] me: Silver | opp: Agility
+[x12141214x #3] me: Silver | opp: Bloodrot Pox, Agility
+[Ehecalt #3] me: Silver | opp: (vide)
+[x12141214x #4] me: Silver | opp: Frailty
+[Ehecalt #4] me: Silver | opp: (vide)
+[x12141214x #5] me: Silver | opp: Bloodrot Pox, Bloodrot Pox
+[Ehecalt #5] me: Silver | opp: (vide)
+[x12141214x #6] me: Silver | opp: Bloodrot Pox
+[Ehecalt #6] me: Silver | opp: Agility
+[x12141214x #7] me: Silver | opp: Bloodrot Pox, Bloodrot Pox, Agility
+
+=== GRAVEYARD SNAPSHOTS (cimetière : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[x12141214x #1] me: Lobotomy, Kiss Of Death | opp: Alpha Instinct, Sand Sketched Plan, Swing Big, Sand Sketched Plan
+[Ehecalt #1] me: Sink Below, Infiltrate, Leave No Witnesses, Lobotomy, Kiss Of Death | opp: Swing Big, Beast Within, Bloodrush Bellow, Show Of Strength, Alpha Instinct, Sand Sketched Plan, Swing Big, Sand Sketched Plan
+[x12141214x #2] me: Leave No Witnesses, Mark Of The Black Widow, Sink Below, Infiltrate, Leave No Witnesses, Lobotomy, Kiss Of Death | opp: Send Packing, Overcrowded, Swing Big, Beast Within, Bloodrush Bellow, Show Of Strength, Alpha Instinct, Sand Sketched Plan, Swing Big, Sand Sketched Plan
+[Ehecalt #2] me: Leave No Witnesses, Mark Of The Black Widow, Sink Below, Infiltrate, Leave No Witnesses, Lobotomy, Kiss Of Death | opp: Feral Instinct, Agile Windup, Send Packing, Overcrowded, Swing Big, Beast Within, Bloodrush Bellow, Show Of Strength, Alpha Instinct, Sand Sketched Plan, Swing Big, Sand Sketched Plan
+[x12141214x #3] me: Pick Up The Point, Meet Madness, Spike With Bloodrot, Take Up The Mantle, Hunters Klaive R, Leave No Witnesses, Sink Below, Infiltrate, Leave No Witnesses, Lobotomy, Kiss Of Death | opp: Feral Instinct, Agile Windup, Send Packing, Overcrowded, Swing Big, Beast Within, Bloodrush Bellow, Show Of Strength, Alpha Instinct, Sand Sketched Plan, Swing Big, Sand Sketched Plan
+[Ehecalt #3] me: Creep, Bonds Of Attraction, Pick Up The Point, Meet Madness, Spike With Bloodrot, Take Up The Mantle, Hunters Klaive R, Leave No Witnesses, Sink Below, Infiltrate, Leave No Witnesses, Lobotomy, Kiss Of Death | opp: Wild Ride, Splatter Skull, Feral Instinct, Agile Windup, Send Packing, Overcrowded, Swing Big, Beast Within, Bloodrush Bellow, Show Of Strength, Alpha Instinct, Sand Sketched Plan, Swing Big, Sand Sketched Plan
+[x12141214x #4] me: Leave No Witnesses, Codex Of Frailty, Meet Madness, Creep, Bonds Of Attraction, Pick Up The Point, Meet Madness, Spike With Bloodrot, Take Up The Mantle, Hunters Klaive R, Sink Below, Infiltrate, Leave No Witnesses, Lobotomy, Kiss Of Death | opp: Overcrowded, Vigorous Smashup, Wild Ride, Splatter Skull, Feral Instinct, Agile Windup, Send Packing, Swing Big, Beast Within, Bloodrush Bellow, Show Of Strength, Alpha Instinct, Sand Sketched Plan, Swing Big, Sand Sketched Plan
+[Ehecalt #4] me: Leave No Witnesses, Codex Of Frailty, Meet Madness, Creep, Bonds Of Attraction, Pick Up The Point, Meet Madness, Spike With Bloodrot, Take Up The Mantle, Hunters Klaive R, Sink Below, Infiltrate, Leave No Witnesses, Lobotomy, Kiss Of Death | opp: Wild Ride, Aggressive Pounce, Overcrowded, Vigorous Smashup, Wild Ride, Splatter Skull, Feral Instinct, Agile Windup, Send Packing, Swing Big, Beast Within, Bloodrush Bellow, Show Of Strength, Alpha Instinct, Sand Sketched Plan, Swing Big, Sand Sketched Plan
+[x12141214x #5] me: Ravenous Rabble, Kiss Of Death, Tarantula Toxin, Spike With Bloodrot, Leave No Witnesses, Codex Of Frailty, Meet Madness, Creep, Bonds Of Attraction, Pick Up The Point, Meet Madness, Spike With Bloodrot, Take Up The Mantle, Hunters Klaive R, Sink Below, Infiltrate, Leave No Witnesses, Lobotomy, Kiss Of Death | opp: Sink Below, Show Of Strength, Wild Ride, Aggressive Pounce, Overcrowded, Vigorous Smashup, Wild Ride, Splatter Skull, Feral Instinct, Agile Windup, Send Packing, Swing Big, Beast Within, Bloodrush Bellow, Show Of Strength, Alpha Instinct, Sand Sketched Plan, Swing Big, Sand Sketched Plan
+[Ehecalt #5] me: Ravenous Rabble, Kiss Of Death, Tarantula Toxin, Spike With Bloodrot, Leave No Witnesses, Codex Of Frailty, Meet Madness, Creep, Bonds Of Attraction, Pick Up The Point, Meet Madness, Spike With Bloodrot, Take Up The Mantle, Hunters Klaive R, Sink Below, Infiltrate, Leave No Witnesses, Lobotomy, Kiss Of Death | opp: Sink Below, Show Of Strength, Wild Ride, Aggressive Pounce, Overcrowded, Vigorous Smashup, Wild Ride, Splatter Skull, Feral Instinct, Agile Windup, Send Packing, Swing Big, Beast Within, Bloodrush Bellow, Show Of Strength, Alpha Instinct, Sand Sketched Plan, Swing Big, Sand Sketched Plan
+[x12141214x #6] me: Codex Of Bloodrot, Art Of Desire Body, Tarantula Toxin, Ravenous Rabble, Kiss Of Death, Tarantula Toxin, Spike With Bloodrot, Leave No Witnesses, Codex Of Frailty, Meet Madness, Creep, Bonds Of Attraction, Pick Up The Point, Meet Madness, Spike With Bloodrot, Take Up The Mantle, Hunters Klaive R, Sink Below, Infiltrate, Leave No Witnesses, Lobotomy, Kiss Of Death | opp: Scowling Flesh Bag, Sink Below, Show Of Strength, Wild Ride, Aggressive Pounce, Overcrowded, Vigorous Smashup, Wild Ride, Splatter Skull, Feral Instinct, Agile Windup, Send Packing, Swing Big, Beast Within, Bloodrush Bellow, Show Of Strength, Alpha Instinct, Sand Sketched Plan, Swing Big, Sand Sketched Plan
+[Ehecalt #6] me: Codex Of Bloodrot, Art Of Desire Body, Tarantula Toxin, Ravenous Rabble, Kiss Of Death, Tarantula Toxin, Spike With Bloodrot, Leave No Witnesses, Codex Of Frailty, Meet Madness, Creep, Bonds Of Attraction, Pick Up The Point, Meet Madness, Spike With Bloodrot, Take Up The Mantle, Hunters Klaive R, Sink Below, Infiltrate, Leave No Witnesses, Lobotomy, Kiss Of Death | opp: Agile Windup, Bloodrush Bellow, Show Of Strength, Scowling Flesh Bag, Sink Below, Show Of Strength, Wild Ride, Aggressive Pounce, Overcrowded, Vigorous Smashup, Wild Ride, Splatter Skull, Feral Instinct, Agile Windup, Send Packing, Swing Big, Beast Within, Bloodrush Bellow, Show Of Strength, Alpha Instinct, Sand Sketched Plan, Swing Big, Sand Sketched Plan
+[x12141214x #7] me: Infect, Infect, Take Up The Mantle, Hunters Klaive, Razors Edge, Codex Of Bloodrot, Art Of Desire Body, Tarantula Toxin, Ravenous Rabble, Kiss Of Death, Tarantula Toxin, Spike With Bloodrot, Leave No Witnesses, Codex Of Frailty, Meet Madness, Creep, Bonds Of Attraction, Pick Up The Point, Meet Madness, Spike With Bloodrot, Take Up The Mantle, Hunters Klaive R, Sink Below, Infiltrate, Leave No Witnesses, Lobotomy, Kiss Of Death | opp: Feral Instinct, Swing Big, Agile Windup, Bloodrush Bellow, Show Of Strength, Scowling Flesh Bag, Sink Below, Show Of Strength, Wild Ride, Aggressive Pounce, Overcrowded, Vigorous Smashup, Wild Ride, Splatter Skull, Feral Instinct, Agile Windup, Send Packing, Swing Big, Beast Within, Bloodrush Bellow, Show Of Strength, Alpha Instinct, Sand Sketched Plan, Swing Big, Sand Sketched Plan
+
+=== BANISH SNAPSHOTS (banni : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[x12141214x #1] me: (vide) | opp: (vide)
+[Ehecalt #1] me: (vide) | opp: (vide)
+[x12141214x #2] me: (vide) | opp: Aggressive Pounce
+[Ehecalt #2] me: (vide) | opp: Aggressive Pounce
+[x12141214x #3] me: Mark Of The Black Widow | opp: Pulping, Aggressive Pounce
+[Ehecalt #3] me: Mark Of The Black Widow | opp: Pulping, Aggressive Pounce
+[x12141214x #4] me: Mark Of The Black Widow | opp: Pulping, Aggressive Pounce
+[Ehecalt #4] me: Mark Of The Black Widow | opp: Pulping, Aggressive Pounce
+[x12141214x #5] me: Mark Of The Black Widow | opp: Pulping, Aggressive Pounce
+[Ehecalt #5] me: Mark Of The Black Widow | opp: Pulping, Aggressive Pounce
+[x12141214x #6] me: Mark Of The Black Widow | opp: Vigorous Smashup, Pulping, Aggressive Pounce
+[Ehecalt #6] me: Mark Of The Black Widow | opp: Vigorous Smashup, Pulping, Aggressive Pounce
+[x12141214x #7] me: Mark Of The Black Widow | opp: Vigorous Smashup, Pulping, Aggressive Pounce
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=38 opp=40 myDeck=56 oppDeck=59
+[x12141214x #1] me=38 opp=38 myDeck=53 oppDeck=55
+[Ehecalt #1] me=30 opp=38 myDeck=53 oppDeck=51
+[x12141214x #2] me=30 opp=34 myDeck=49 oppDeck=50
+[Ehecalt #2] me=24 opp=34 myDeck=49 oppDeck=46
+[x12141214x #3] me=24 opp=23 myDeck=45 oppDeck=46
+[Ehecalt #3] me=19 opp=21 myDeck=45 oppDeck=43
+[x12141214x #4] me=19 opp=18 myDeck=40 oppDeck=43
+[Ehecalt #4] me=13 opp=18 myDeck=40 oppDeck=39
+[x12141214x #5] me=13 opp=10 myDeck=37 oppDeck=39
+[Ehecalt #5] me=13 opp=10 myDeck=37 oppDeck=37
+[x12141214x #6] me=13 opp=8 myDeck=33 oppDeck=36
+[Ehecalt #6] me=13 opp=8 myDeck=33 oppDeck=33
+[x12141214x #7] me=13 opp=1 myDeck=29 oppDeck=33
+
+=== META ===
+schema: v1
+captured_with: TLG v1.12.0
+game_url: https://talishar.net/game/play/1622636
+captured_at: 2026-07-10T13:43:23.779Z
+format: cc
+vs_ai: non
+me: x12141214x
+opponent: Player 2
+my_hero: Arakni, 5L!p3d 7hRu 7h3 cR4X (arakni_5lp3d_7hru_7h3_cr4x)
+opp_hero: Rhinar Reckless Rampage (rhinar_reckless_rampage)
+my_start_life: 38
+opp_start_life: 40
+my_start_deck_size: 56
+opp_start_deck_size: 59
+my_equipment: head=Crown Of Providence (crown_of_providence) | chest=Blood Splattered Vest (blood_splattered_vest) | arms=Flick Knives (flick_knives) | legs=Blacktek Whisperers (blacktek_whisperers) | weaponL=Hunters Klaive (hunters_klaive) | weaponR=Hunters Klaive R (hunters_klaive_r)
+opp_equipment: head=Scowling Flesh Bag (scowling_flesh_bag) | chest=Savage Sash (savage_sash) | arms=Gauntlets Of Tyrannical Rex (gauntlets_of_tyrannical_rex) | legs=Scabskin Leathers (scabskin_leathers) | weaponL=Ball Breaker (ball_breaker) | weaponR=Savage Claw (savage_claw)
+
+=== TIMESTAMPS ===
+0-2:1783691076,3-4:1783691082,5-5:1783691088,6-10:1783691090,11-13:1783691096,14-15:1783691103,16-16:1783691104,17-18:1783691105,19-21:1783691107,22-23:1783691111,24-24:1783691112,25-34:1783691113,35-36:1783691114,37-37:1783691130,38-42:1783691131,43-45:1783691134,46-47:1783691144,48-49:1783691146,50-51:1783691170,52-52:1783691185,53-57:1783691187,58-60:1783691190,61-61:1783691199,62-62:1783691200,63-64:1783691201,65-65:1783691202,66-66:1783691203,67-76:1783691204,77-80:1783691206,81-81:1783691208,82-83:1783691218,84-84:1783691222,85-88:1783691224,89-89:1783691225,90-91:1783691226,92-92:1783691228,93-93:1783691230,94-94:1783691231,95-98:1783691233,99-101:1783691234,102-104:1783691236,105-107:1783691237,108-109:1783691238,110-110:1783691240,111-114:1783691241,115-117:1783691243,118-118:1783691252,119-131:1783691254,132-134:1783691256,135-135:1783691258,136-136:1783691260,137-138:1783691261,139-141:1783691262,142-142:1783691267,143-144:1783691268,145-145:1783691269,146-154:1783691271,155-155:1783691272,156-156:1783691284,157-164:1783691287,165-165:1783691289,166-166:1783691291,167-167:1783691292,168-168:1783691293,169-169:1783691296,170-170:1783691298,171-171:1783691301,172-172:1783691304,173-173:1783691305,174-175:1783691306,176-178:1783691307,179-179:1783691310,180-181:1783691311,182-182:1783691313,183-183:1783691314,184-185:1783691315,186-186:1783691316,187-187:1783691317,188-188:1783691318,189-193:1783691320,194-194:1783691321,195-195:1783691329,196-198:1783691330,199-200:1783691339,201-201:1783691340,202-206:1783691342,207-214:1783691343,215-216:1783691349,217-221:1783691350,222-223:1783691365,224-229:1783691369,230-231:1783691373,232-232:1783691374,233-234:1783691375,235-237:1783691377,238-238:1783691378,239-249:1783691380,250-251:1783691382,252-253:1783691384,254-256:1783691385,257-257:1783691390,258-258:1783691410,259-265:1783691411,266-269:1783691413,270-270:1783691415,271-271:1783691418,272-272:1783691420,273-275:1783691422,276-277:1783691427,278-278:1783691429,279-288:1783691430,289-290:1783691431,291-292:1783691434,293-297:1783691435,298-298:1783691436,299-304:1783691439,305-307:1783691442,308-309:1783691444,310-311:1783691450,312-314:1783691451,315-316:1783691461,317-317:1783691463,318-318:1783691468,319-319:1783691471,320-320:1783691472,321-322:1783691473,323-324:1783691476,325-325:1783691477,326-326:1783691479,327-327:1783691481,328-328:1783691483,329-329:1783691485,330-333:1783691488,334-336:1783691492,337-340:1783691493,341-342:1783691506,343-343:1783691508,344-345:1783691509,346-348:1783691510,349-350:1783691520,351-351:1783691521,352-356:1783691523,357-359:1783691524,360-363:1783691525,364-365:1783691526,366-367:1783691530,368-368:1783691535,369-370:1783691539,371-373:1783691541,374-379:1783691547,380-381:1783691551,382-382:1783691552,383-383:1783691553,384-384:1783691554,385-391:1783691556,392-395:1783691558,396-397:1783691559,398-399:1783691562,400-400:1783691567,401-405:1783691570,406-406:1783691586,407-410:1783691588,411-415:1783691592,416-416:1783691603,417-418:1783691605,419-421:1783691608,422-423:1783691612,424-425:1783691616,426-426:1783691617,427-432:1783691619,433-435:1783691620,436-437:1783691625,438-438:1783691628,439-441:1783691633,442-444:1783691635,445-446:1783691640,447-447:1783691641,448-448:1783691650,449-463:1783691653,464-465:1783691656,466-468:1783691658,469-470:1783691668,471-471:1783691672,472-476:1783691673,477-479:1783691675,480-481:1783691677,482-485:1783691682,486-486:1783691686
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1622636","deckId":"","turns":7,"result":1,"winner":1,"firstPlayer":1,"opposingHero":"rhinar_reckless_rampage","yourHero":"arakni_5lp3d_7hru_7h3_cr4x","startingLife":38,"opponentHero":"rhinar_reckless_rampage","opponentStartingLife":40,"cardResults":[{"cardId":"art_of_desire_body_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Art of Desire: Body","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"codex_of_frailty_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Codex of Frailty","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"creep_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Creep","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"infect_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Infect","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"kiss_of_death_red","played":"2","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Kiss of Death","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"leave_no_witnesses_red","played":"2","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Leave No Witnesses","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"lobotomy_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lobotomy","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"mark_of_the_black_widow_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Mark of the Black Widow","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"meet_madness_red","played":"2","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Meet Madness","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"orb_weaver_spinneret_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Orb-Weaver Spinneret","pitchValue":1,"numCopies":3},{"cardId":"pain_in_the_backside_red","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Pain in the Backside","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Ravenous Rabble","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"razors_edge_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Razor's Edge","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"spike_with_bloodrot_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Spike with Bloodrot","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"take_up_the_mantle_yellow","played":"2","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Take Up the Mantle","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"tarantula_toxin_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Tarantula Toxin","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sink_below_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sink Below","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"codex_of_bloodrot_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Codex of Bloodrot","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"codex_of_inertia_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Codex of Inertia","pitchValue":2,"numCopies":2},{"cardId":"bonds_of_attraction_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Bonds of Attraction","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"death_touch_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Death Touch","pitchValue":1,"numCopies":1},{"cardId":"infiltrate_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Infiltrate","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"pick_up_the_point_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Pick Up the Point","pitchValue":1,"numCopies":1,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"arakni_5lp3d_7hru_7h3_cr4x","cardName":"Arakni, 5L!p3d 7hRu 7h3 cR4X","numCopies":1},{"cardId":"hunters_klaive","cardName":"Hunter's Klaive","numCopies":1},{"cardId":"hunters_klaive_r","cardName":"Hunter's Klaive","numCopies":1},{"cardId":"crown_of_providence","cardName":"Crown of Providence","numCopies":1},{"cardId":"blood_splattered_vest","cardName":"Blood Splattered Vest","numCopies":1},{"cardId":"flick_knives","cardName":"Flick Knives","numCopies":1},{"cardId":"blacktek_whisperers","cardName":"Blacktek Whisperers","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"flick_knives","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Flick Knives","pitchValue":0,"katsuDiscard":"0","activated":"4","passiveTriggered":"0"},{"cardId":"blacktek_whisperers","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Blacktek Whisperers","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"crown_of_providence","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Crown of Providence","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"8","damageDealt":"2","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":38,"opponentLifeAtTurnEnd":38,"turnNo":0},"turn_1":{"cardsUsed":3,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"4","damageBlocked":"10","damagePrevented":"0","damageTaken":"8","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":30,"opponentLifeAtTurnEnd":34,"turnNo":1},"turn_2":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"13","damageDealt":"11","damageBlocked":"0","damagePrevented":"0","damageTaken":"6","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":24,"opponentLifeAtTurnEnd":23,"turnNo":2},"turn_3":{"cardsUsed":3,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"7","damageDealt":"3","damageBlocked":"6","damagePrevented":"0","damageTaken":"5","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":19,"opponentLifeAtTurnEnd":18,"turnNo":3},"turn_4":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"16","damageDealt":"8","damageBlocked":"0","damagePrevented":"0","damageTaken":"6","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":13,"opponentLifeAtTurnEnd":10,"turnNo":4},"turn_5":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"3","damageDealt":"2","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":13,"opponentLifeAtTurnEnd":8,"turnNo":5},"turn_6":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"13","damageDealt":"7","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":13,"opponentLifeAtTurnEnd":1,"turnNo":6},"turn_7":{"cardsUsed":0,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"6","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":7}},"yourTime":"283","totalTime":606,"totalDamageThreatened":67,"totalDamageDealt":37,"totalLifeGained":0,"totalDamageBlocked":16,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":9.83,"averageDamageDealtPerTurn":5.83,"averageDamageThreatenedPerCard":3.11,"averageResourcesUsedPerTurn":0.33,"averageCardsLeftOverPerTurn":0.17,"averageCombatValuePerTurn":12.5,"averageValuePerTurn":12.5,"totalDamageThreatened_NoLast":54,"totalDamageDealt_NoLast":30,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":16,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":9.2,"averageDamageDealtPerTurn_NoLast":5.6,"averageDamageThreatenedPerCard_NoLast":3.07,"averageResourcesUsedPerTurn_NoLast":0.4,"averageCardsLeftOverPerTurn_NoLast":0.2,"averageCombatValuePerTurn_NoLast":12.4,"averageValuePerTurn_NoLast":12.4,"fullLog":""},"2":{"gameId":"1622636","deckId":"","turns":7,"result":0,"winner":1,"firstPlayer":0,"opposingHero":"arakni_5lp3d_7hru_7h3_cr4x","yourHero":"rhinar_reckless_rampage","startingLife":40,"opponentHero":"arakni_5lp3d_7hru_7h3_cr4x","opponentStartingLife":38,"cardResults":[{"cardId":"aggressive_pounce_red","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"1","charged":"0","cardName":"Aggressive Pounce","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"agile_windup_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Agile Windup","pitchValue":3,"numCopies":3},{"cardId":"agile_windup_yellow","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"2","charged":"0","cardName":"Agile Windup","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"alpha_instinct_blue","played":"0","blocked":"1","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Alpha Instinct","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"bare_fangs_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Bare Fangs","pitchValue":1,"numCopies":2},{"cardId":"beast_within_yellow","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Beast Within","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"bloodrush_bellow_yellow","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Bloodrush Bellow","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"buckwild_yellow","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Buckwild","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"eye_of_ophidia_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Eye of Ophidia","pitchValue":3,"numCopies":1},{"cardId":"feral_instinct_yellow","played":"1","blocked":"1","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Feral Instinct","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"pulping_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Pulping","pitchValue":1,"numCopies":3},{"cardId":"reckless_swing_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Reckless Swing","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sand_sketched_plan_blue","played":"0","blocked":"2","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Sand Sketched Plan","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"savage_feast_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Savage Feast","pitchValue":1,"numCopies":2},{"cardId":"sea_legs_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sea Legs","pitchValue":2,"numCopies":2},{"cardId":"send_packing_yellow","played":"1","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Send Packing","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"show_of_strength_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"2","charged":"0","cardName":"Show of Strength","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"swing_big_red","played":"1","blocked":"2","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Swing Big","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"tear_limb_from_limb_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Tear Limb from Limb","pitchValue":3,"numCopies":2},{"cardId":"vigorous_smashup_yellow","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"1","charged":"0","cardName":"Vigorous Smashup","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"wild_ride_red","played":"2","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Wild Ride","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"wrecker_romp_blue","played":"0","blocked":"0","pitched":"2","hits":"0","discarded":"0","charged":"0","cardName":"Wrecker Romp","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"overcrowded_blue","played":"0","blocked":"2","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Overcrowded","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"sink_below_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sink Below","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"splatter_skull_red","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"1","charged":"0","cardName":"Splatter Skull","pitchValue":1,"numCopies":1,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"rhinar_reckless_rampage","cardName":"Rhinar, Reckless Rampage","numCopies":1},{"cardId":"ball_breaker","cardName":"Ball Breaker","numCopies":1},{"cardId":"savage_claw","cardName":"Savage Claw","numCopies":1},{"cardId":"scowling_flesh_bag","cardName":"Scowling Flesh Bag","numCopies":1},{"cardId":"savage_sash","cardName":"Savage Sash","numCopies":1},{"cardId":"gauntlets_of_tyrannical_rex","cardName":"Gauntlets of Tyrannical Rex","numCopies":1},{"cardId":"scabskin_leathers","cardName":"Scabskin Leathers","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"scabskin_leathers","played":"0","blocked":"2","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Scabskin Leathers","pitchValue":0,"katsuDiscard":"0","activated":"2","passiveTriggered":"0"},{"cardId":"savage_sash","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Savage Sash","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"},{"cardId":"gauntlets_of_tyrannical_rex","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Gauntlets of Tyrannical Rex","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"ball_breaker","played":"0","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Ball Breaker","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"scowling_flesh_bag","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Scowling Flesh Bag","pitchValue":0,"katsuDiscard":"0","activated":"0","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"4","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"6","damagePrevented":"0","damageTaken":"2","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":38,"opponentLifeAtTurnEnd":38,"turnNo":0},"turn_1":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"1","resourcesUsed":"6","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"18","damageDealt":"8","damageBlocked":"0","damagePrevented":"0","damageTaken":"4","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":34,"opponentLifeAtTurnEnd":30,"turnNo":1},"turn_2":{"cardsUsed":2,"cardsBlocked":"2","cardsPitched":"0","cardsDiscarded":"1","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"6","damageDealt":"6","damageBlocked":"3","damagePrevented":"0","damageTaken":"11","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":23,"opponentLifeAtTurnEnd":24,"turnNo":2},"turn_3":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"2","cardsDiscarded":"1","resourcesUsed":"5","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"11","damageDealt":"5","damageBlocked":"2","damagePrevented":"0","damageTaken":"3","lifeGained":"0","lifeLost":"-2","lifeAtTurnEnd":18,"opponentLifeAtTurnEnd":19,"turnNo":3},"turn_4":{"cardsUsed":1,"cardsBlocked":"1","cardsPitched":"1","cardsDiscarded":"2","resourcesUsed":"2","resourcesLeft":"1","cardsLeft":"0","damageThreatened":"6","damageDealt":"6","damageBlocked":"4","damagePrevented":"0","damageTaken":"8","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":10,"opponentLifeAtTurnEnd":13,"turnNo":4},"turn_5":{"cardsUsed":1,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"8","damagePrevented":"0","damageTaken":"2","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":8,"opponentLifeAtTurnEnd":13,"turnNo":5},"turn_6":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"2","resourcesUsed":"1","resourcesLeft":"1","cardsLeft":"1","damageThreatened":"0","damageDealt":"0","damageBlocked":"1","damagePrevented":"0","damageTaken":"7","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":1,"opponentLifeAtTurnEnd":13,"turnNo":6},"turn_7":{"cardsUsed":1,"cardsBlocked":"2","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"3","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"6","damageDealt":"0","damageBlocked":"6","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"-2","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":7}},"yourTime":"323","totalTime":606,"totalDamageThreatened":41,"totalDamageDealt":25,"totalLifeGained":0,"totalDamageBlocked":24,"totalDamagePrevented":0,"totalLifeLost":-2,"averageDamageThreatenedPerTurn":6.83,"averageDamageDealtPerTurn":4.17,"averageDamageThreatenedPerCard":2.73,"averageResourcesUsedPerTurn":2.33,"averageCardsLeftOverPerTurn":0.17,"averageCombatValuePerTurn":9.83,"averageValuePerTurn":9.5,"totalDamageThreatened_NoLast":41,"totalDamageDealt_NoLast":25,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":23,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":-2,"averageDamageThreatenedPerTurn_NoLast":8.2,"averageDamageDealtPerTurn_NoLast":5,"averageDamageThreatenedPerCard_NoLast":3.73,"averageResourcesUsedPerTurn_NoLast":2.6,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":11.6,"averageValuePerTurn_NoLast":11.2,"fullLog":""}}}

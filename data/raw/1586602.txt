@@ -1,0 +1,62 @@
+=== Talishar game 1586602 — 07/07/2026 14:34:51 ===
+
+Ehecalt played Entwine Lightning
+🎯Practice Dummy was chosen as the target.
+👁️‍🗨️Burn Up // Shock is revealed
+Resolving play ability of Entwine Lightning.
+Practice Dummy auto-passed
+Ehecalt passed
+Practice Dummy auto-passed
+Practice Dummy is about to take 4 damage from Entwine Lightning
+Practice Dummy took 4 damage
+Combat resolved with a hit for 4 damage
+The chain link was resolved.
+Ehecalt played Stinging Sprite
+🎯Practice Dummy was chosen as the target.
+Resolving play ability of Stinging Sprite.
+Practice Dummy's Practice Dummy was targeted by Stinging Sprite
+Stinging Sprite is dealing 1 arcane damage
+Ehecalt is dealing 1 arcane damage from Stinging Sprite
+Practice Dummy took 1 damage
+Practice Dummy auto-passed
+Ehecalt passed
+Practice Dummy auto-passed
+Practice Dummy is about to take 3 damage from Stinging Sprite
+Practice Dummy took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Ehecalt conceded the game.
+Practice Dummy (Practice Dummy) won! 🎉
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Rush Of Power, Burn Up  Shock, Stinging Sprite
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=20 opp=40 myDeck=36 oppDeck=36
+
+=== META ===
+schema: v1
+captured_with: TLG v1.10.1
+game_url: https://talishar.net/game/play/1586602
+captured_at: 2026-07-07T12:31:29.179Z
+format: sage
+vs_ai: oui
+me: Ehecalt
+opponent: Practice Dummy
+my_hero: Briar (briar)
+opp_hero: Dummy (DUMMY)
+my_start_life: 20
+opp_start_life: 40
+my_start_deck_size: 36
+opp_start_deck_size: 36
+my_equipment: head=Blade Beckoner Helm (blade_beckoner_helm) | chest=Blossom Of Spring (blossom_of_spring) | arms=Blade Beckoner Gauntlets (blade_beckoner_gauntlets) | legs=Blade Beckoner Boots (blade_beckoner_boots) | weaponL=Star Fall (star_fall)
+opp_equipment: head=Hyper X3 (hyper_x3) | chest=Teklo Foundry Heart (teklo_foundry_heart) | arms=Galvanic Bender (galvanic_bender) | legs=Achilles Accelerator (achilles_accelerator) | weaponL=Wrenchtastic (wrenchtastic)
+
+=== TIMESTAMPS ===
+0-1:1783427505,2-2:1783427506,3-4:1783427507,5-9:1783427637,10-10:1783427639,11-12:1783427640,13-14:1783427641,15-18:1783427642,19-23:1783427644,24-24:1783427645,25-26:1783427648
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1586602","deckId":"","turns":0,"result":0,"winner":2,"firstPlayer":1,"opposingHero":"DUMMY","yourHero":"briar","startingLife":20,"opponentHero":"DUMMY","opponentStartingLife":40,"cardResults":[{"cardId":"arcane_seeds__life_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Arcane Seeds // Life","pitchValue":1,"numCopies":2},{"cardId":"arcanic_shockwave_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Arcanic Shockwave","pitchValue":1,"numCopies":2},{"cardId":"entwine_lightning_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Entwine Lightning","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"lightning_press_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Lightning Press","pitchValue":1,"numCopies":2},{"cardId":"lightning_surge_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Lightning Surge","pitchValue":1,"numCopies":2},{"cardId":"nimblism_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Nimblism","pitchValue":1,"numCopies":2},{"cardId":"path_of_same_ends_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Path of Same Ends","pitchValue":1,"numCopies":2},{"cardId":"quick_succession_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Quick Succession","pitchValue":1,"numCopies":2},{"cardId":"quick_succession_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Quick Succession","pitchValue":2,"numCopies":2},{"cardId":"ravenous_rabble_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Ravenous Rabble","pitchValue":1,"numCopies":2},{"cardId":"rush_of_power_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Rush of Power","pitchValue":1,"numCopies":2},{"cardId":"scar_for_a_scar_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Scar for a Scar","pitchValue":1,"numCopies":2},{"cardId":"sizzle_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sizzle","pitchValue":1,"numCopies":2},{"cardId":"snatch_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Snatch","pitchValue":1,"numCopies":2},{"cardId":"sprout_strength_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sprout Strength","pitchValue":1,"numCopies":2},{"cardId":"static_shock_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Static Shock","pitchValue":1,"numCopies":2},{"cardId":"stinging_sprite_red","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Stinging Sprite","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"weave_lightning_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Weave Lightning","pitchValue":1,"numCopies":2},{"cardId":"arcanic_shockwave_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Arcanic Shockwave","pitchValue":2,"numCopies":2},{"cardId":"burn_up__shock_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Burn Up // Shock","pitchValue":1,"numCopies":2}],"character":[{"cardId":"briar","cardName":"Briar","numCopies":1},{"cardId":"star_fall","cardName":"Star Fall","numCopies":1},{"cardId":"blade_beckoner_helm","cardName":"Blade Beckoner Helm","numCopies":1},{"cardId":"blossom_of_spring","cardName":"Blossom of Spring","numCopies":1},{"cardId":"blade_beckoner_gauntlets","cardName":"Blade Beckoner Gauntlets","numCopies":1},{"cardId":"blade_beckoner_boots","cardName":"Blade Beckoner Boots","numCopies":1}],"tokenResults":[],"arenaCardResults":[],"turnResults":{"turn_0":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"8","damageDealt":"8","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":0}},"yourTime":"143","totalTime":143,"totalDamageThreatened":8,"totalDamageDealt":8,"totalLifeGained":0,"totalDamageBlocked":0,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":0,"averageDamageDealtPerTurn":0,"averageDamageThreatenedPerCard":0,"averageResourcesUsedPerTurn":0,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":0,"averageValuePerTurn":0,"totalDamageThreatened_NoLast":8,"totalDamageDealt_NoLast":8,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":0,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":0,"averageDamageDealtPerTurn_NoLast":0,"averageDamageThreatenedPerCard_NoLast":0,"averageResourcesUsedPerTurn_NoLast":0,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":0,"averageValuePerTurn_NoLast":0,"fullLog":""}}}

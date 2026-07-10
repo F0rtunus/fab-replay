@@ -1,0 +1,11 @@
+{
+  "name": "fab-analyzer",
+  "version": "1.0.0",
+  "description": "Analyseur de parties Flesh and Blood (logs Talishar) — replay + tableau de bord multi-parties.",
+  "private": true,
+  "scripts": {
+    "test": "node tests/run.js",
+    "build": "node build/build.js",
+    "check": "node --check talishar-parser.js && node --check js/images.js && node --check js/db.js && node --check js/sync.js && node --check js/replay.js && node --check js/dashboard.js"
+  }
+}
