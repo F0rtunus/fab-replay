@@ -1,0 +1,107 @@
+=== Talishar game 1626537 — 10/07/2026 22:51:47 ===
+
+Fortunus activated Compass of Sunken Depths
+Resolving activated ability of Compass of Sunken Depths.
+Compass of Sunken Depths shows your top deck
+Fortunus played Murderous Rabble
+🎯Practice Dummy was chosen as the target.
+👁️‍🗨️Fortunus reveals Loot the Hold
+Resolving play ability of Murderous Rabble: Reveals Loot the Hold and gets +3 power
+Practice Dummy auto-passed
+Fortunus passed
+Practice Dummy auto-passed
+Practice Dummy is about to take 3 damage from Murderous Rabble
+Practice Dummy took 3 damage
+Combat resolved with a hit for 3 damage
+The chain link was resolved.
+Fortunus played Golden Tipple
+🎯Practice Dummy was chosen as the target.
+Fortunus pitched Back Alley Breakline
+Resolving play ability of Golden Tipple.
+Anka, Drag Under was discarded
+Practice Dummy auto-passed
+Fortunus passed
+Practice Dummy auto-passed
+Practice Dummy is about to take 1 damage from Golden Tipple
+Practice Dummy took 1 damage
+Combat resolved with a hit for 1 damage
+The chain link was resolved.
+Fortunus passed
+Fortunus passed
+The combat chain was closed.
+Fortunus played Anka, Drag Under
+Resolving play ability of Anka, Drag Under.
+Fortunus activated Dead Threads
+Resolving activated ability of Dead Threads.
+Fortunus activated Gold-Baited Hook
+Resolving activated ability of Gold-Baited Hook.
+Fortunus activated Anka, Drag Under
+Attack was chosen.
+🎯Practice Dummy was chosen as the target.
+Resolving activated ability of Anka, Drag Under.
+Practice Dummy auto-passed
+Fortunus passed
+Practice Dummy auto-passed
+Practice Dummy is about to take 5 damage from Anka, Drag Under
+Practice Dummy took 5 damage
+Combat resolved with a hit for 5 damage
+The chain link was resolved.
+Fortunus passed
+Fortunus passed
+The combat chain was closed.
+Fortunus passed
+Fortunus passed priority. Attempting to end turn.
+═══════════════
+Practice Dummy's turn 1 has begun.
+Practice Dummy activated Wrench-tastic!
+🎯Gravy Bones, Shipwrecked Looter was chosen as the target.
+Fortunus conceded the game.
+Practice Dummy (Practice Dummy) won! 🎉
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Murderous Rabble, Anka Drag Under, Back Alley Breakline, Golden Tipple
+[Practice Dummy #1] Prismatic Leyline, Tip The Barkeep, Avast Ye, Murderous Rabble
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+[Practice Dummy #1] Loot The Hold
+
+=== FIELD SNAPSHOTS (permanents/tokens en jeu : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Practice Dummy #1] me: Anka Drag Under, Gold, Gold | opp: (vide)
+
+=== GRAVEYARD SNAPSHOTS (cimetière : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: Induction Chamber, Induction Chamber, Micro Processor, Induction Chamber, Zipper Hit
+[Practice Dummy #1] me: Golden Tipple, Murderous Rabble | opp: Induction Chamber, Induction Chamber, Micro Processor, Induction Chamber, Zipper Hit
+
+=== BANISH SNAPSHOTS (banni : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+[Practice Dummy #1] me: (vide) | opp: (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=40 opp=40 myDeck=57 oppDeck=36
+[Practice Dummy #1] me=40 opp=31 myDeck=53 oppDeck=36
+
+=== META ===
+schema: v1
+captured_with: TLG v1.12.3
+game_url: https://talishar.net/game/play/1626537
+captured_at: 2026-07-10T20:50:05.590Z
+format: cc
+vs_ai: oui
+me: Fortunus
+opponent: Practice Dummy
+my_hero: Gravy Bones, Shipwrecked Looter (gravy_bones_shipwrecked_looter)
+opp_hero: Dummy (DUMMY)
+my_start_life: 40
+opp_start_life: 40
+my_start_deck_size: 57
+opp_start_deck_size: 36
+my_equipment: head=Carrion Crown (carrion_crown) | chest=Dead Threads (dead_threads) | arms=Gold Baited Hook (gold_baited_hook) | legs=Mage Master Boots (mage_master_boots) | weaponR=Compass Of Sunken Depths (compass_of_sunken_depths)
+opp_equipment: head=Hyper X3 (hyper_x3) | chest=Teklo Foundry Heart (teklo_foundry_heart) | arms=Galvanic Bender (galvanic_bender) | legs=Achilles Accelerator (achilles_accelerator) | weaponL=Wrenchtastic (wrenchtastic)
+
+=== TIMESTAMPS ===
+0-0:1783716651,1-2:1783716652,3-4:1783716657,5-6:1783716658,7-7:1783716659,8-13:1783716662,14-15:1783716663,16-16:1783716664,17-17:1783716665,18-18:1783716666,19-19:1783716667,20-25:1783716669,26-28:1783716673,29-29:1783716675,30-30:1783716676,31-31:1783716677,32-32:1783716678,33-33:1783716679,34-37:1783716680,38-39:1783716681,40-44:1783716683,45-45:1783716684,46-48:1783716685,49-50:1783716686,51-54:1783716688,55-56:1783716706
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1626537","deckId":"","turns":1,"result":0,"winner":2,"firstPlayer":1,"opposingHero":"DUMMY","yourHero":"gravy_bones_shipwrecked_looter","startingLife":40,"opponentHero":"DUMMY","opponentStartingLife":40,"cardResults":[{"cardId":"anka_drag_under_yellow","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"1","charged":"0","cardName":"Anka, Drag Under","pitchValue":2,"numCopies":2,"activated":"1","passiveTriggered":"0"},{"cardId":"avast_ye_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Avast Ye!","pitchValue":3,"numCopies":3},{"cardId":"back_alley_breakline_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Back Alley Breakline","pitchValue":3,"numCopies":1,"activated":"0","passiveTriggered":"0"},{"cardId":"call_to_the_grave_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Call to the Grave","pitchValue":3,"numCopies":3},{"cardId":"chum_friendly_first_mate_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Chum, Friendly First Mate","pitchValue":2,"numCopies":3},{"cardId":"conqueror_of_the_high_seas_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Conqueror of the High Seas","pitchValue":1,"numCopies":3},{"cardId":"fearless_confrontation_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Fearless Confrontation","pitchValue":3,"numCopies":1},{"cardId":"give_no_quarter_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Give No Quarter","pitchValue":3,"numCopies":2},{"cardId":"golden_tipple_blue","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Golden Tipple","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"jittery_bones_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Jittery Bones","pitchValue":3,"numCopies":3},{"cardId":"loan_shark_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Loan Shark","pitchValue":2,"numCopies":1},{"cardId":"loot_the_arsenal_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Loot the Arsenal","pitchValue":3,"numCopies":1},{"cardId":"loot_the_hold_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Loot the Hold","pitchValue":3,"numCopies":3},{"cardId":"murderous_rabble_blue","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Murderous Rabble","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"oysten_heart_of_gold_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Oysten, Heart of Gold","pitchValue":2,"numCopies":1},{"cardId":"portside_exchange_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Portside Exchange","pitchValue":3,"numCopies":3},{"cardId":"prismatic_leyline_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Prismatic Leyline","pitchValue":2,"numCopies":3},{"cardId":"riggermortis_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Riggermortis","pitchValue":2,"numCopies":3},{"cardId":"saltwater_swell_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Saltwater Swell","pitchValue":3,"numCopies":3},{"cardId":"sawbones_dock_hand_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sawbones, Dock Hand","pitchValue":2,"numCopies":3},{"cardId":"sea_floor_salvage_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sea Floor Salvage","pitchValue":3,"numCopies":1},{"cardId":"sunken_treasure_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sunken Treasure","pitchValue":3,"numCopies":3},{"cardId":"swabbie_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Swabbie","pitchValue":2,"numCopies":2},{"cardId":"tip_the_barkeep_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Tip the Barkeep","pitchValue":3,"numCopies":2},{"cardId":"blood_in_the_water_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Blood in the Water","pitchValue":1,"numCopies":3},{"cardId":"chowder_hearty_cook_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Chowder, Hearty Cook","pitchValue":2,"numCopies":2}],"character":[{"cardId":"gravy_bones_shipwrecked_looter","cardName":"Gravy Bones, Shipwrecked Looter","numCopies":1},{"cardId":"compass_of_sunken_depths","cardName":"Compass of Sunken Depths","numCopies":1},{"cardId":"carrion_crown","cardName":"Carrion Crown","numCopies":1},{"cardId":"dead_threads","cardName":"Dead Threads","numCopies":1},{"cardId":"gold_baited_hook","cardName":"Gold-Baited Hook","numCopies":1},{"cardId":"mage_master_boots","cardName":"Mage Master Boots","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"compass_of_sunken_depths","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Compass of Sunken Depths","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"dead_threads","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Dead Threads","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"gold_baited_hook","played":"0","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Gold-Baited Hook","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"1","resourcesUsed":"4","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"9","damageDealt":"9","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":40,"opponentLifeAtTurnEnd":31,"turnNo":0},"turn_1":{"cardsUsed":0,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":null,"opponentLifeAtTurnEnd":null,"turnNo":1}},"yourTime":"45","totalTime":45,"totalDamageThreatened":9,"totalDamageDealt":9,"totalLifeGained":0,"totalDamageBlocked":0,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":0,"averageDamageDealtPerTurn":0,"averageDamageThreatenedPerCard":0,"averageResourcesUsedPerTurn":0,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":0,"averageValuePerTurn":0,"totalDamageThreatened_NoLast":9,"totalDamageDealt_NoLast":9,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":0,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":0,"averageDamageDealtPerTurn_NoLast":0,"averageDamageThreatenedPerCard_NoLast":0,"averageResourcesUsedPerTurn_NoLast":0,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":0,"averageValuePerTurn_NoLast":0,"fullLog":""}}}
