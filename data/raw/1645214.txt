@@ -1,0 +1,184 @@
+=== Talishar game 1645214 — 12/07/2026 22:15:55 ===
+
+Fortunus played Sigil of Solace
+Fortunus gained 3 life
+Resolving play ability of Sigil of Solace.
+Fortunus passed (x2)
+TURN 1 owllie
+owllie played Felling Swing
+owllie pitched Battlefront Bastion
+Resolving play ability of Felling Swing.
+owllie activated Jubeel, Spellbane
+🎯Oscilio, Constella Intelligence was chosen as the target.
+owllie pitched Battlefront Bastion
+Resolving activated ability of Jubeel, Spellbane.
+Fortunus passed (x2)
+CHAIN LINK 1 Fortunus activated Oscilio, Constella Intelligence Card chosen: Future Sight Resolving activated ability of Oscilio, Constella Intelligence. owllie passed (x2) Fortunus is about to take 3 damage from Jubeel, Spellbane Fortunus took 3 damage Combat resolved with a hit for 3 damage Processing hit effect for Jubeel, Spellbane The chain link was resolved.
+owllie passed (x2)
+The combat chain was closed.
+owllie passed (x3)
+TURN 1 Fortunus
+Fortunus played Gone in a Flash from arsenal
+🎯Ser Boltyn, Breaker of Dawn was chosen as the target.
+Resolving play ability of Gone in a Flash.
+owllie passed (x2)
+owllie played Fate Foreseen
+Fortunus activated Old Knocker
+Resolving activated ability of Old Knocker.
+Fortunus activated Lightning Greaves
+Resolving activated ability of Lightning Greaves.
+Fortunus played Electrostatic Discharge
+Fortunus undid their last action
+Fortunus played Electrostatic Discharge
+Resolving play ability of Electrostatic Discharge.
+The combat chain was closed.
+Fortunus played Gone in a Flash
+🎯Ser Boltyn, Breaker of Dawn was chosen as the target.
+Resolving play ability of Gone in a Flash.
+owllie passed (x2)
+owllie played Oasis Respite
+owllie pitched Rowdy Locals
+owllie's Ser Boltyn, Breaker of Dawn was targeted
+Resolving play ability of Oasis Respite.
+owllie's Gone in a Flash was targeted
+Fortunus passed
+owllie activated Quickdodge Flexors
+owllie blocked with Quickdodge Flexors
+Resolving activated ability of Quickdodge Flexors.
+Fortunus passed (x2)
+owllie is about to take 5 damage from Gone in a Flash
+owllie took 1 damage
+Combat resolved with a hit for 1 damage
+CHAIN LINK 1 Fortunus played Sigil of Solace Fortunus gained 3 life Resolving play ability of Sigil of Solace. The chain link was resolved.
+Fortunus played Gone in a Flash
+🎯Ser Boltyn, Breaker of Dawn was chosen as the target.
+Resolving play ability of Gone in a Flash.
+owllie passed
+owllie blocked with Fiddler's Green
+Fortunus passed
+CHAIN LINK 2 owllie activated Quickdodge Flexors owllie blocked with Quickdodge Flexors Resolving activated ability of Quickdodge Flexors. Fortunus passed (x2) owllie is about to take 1 damage from Gone in a Flash owllie took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+Fortunus undid their last action
+owllie passed
+owllie is about to take 1 damage from Gone in a Flash
+owllie took 1 damage
+Combat resolved with a hit for 1 damage
+Fortunus played Constella Contemplation
+owllie's Ser Boltyn, Breaker of Dawn was targeted
+CHAIN LINK 3 Fortunus activated Volzar, Meteor Storm Resolving activated ability of Volzar, Meteor Storm. Resolving play ability of Constella Contemplation. Constella Contemplation is dealing 2 arcane damage Spellbane Aegis was destroyed and prevented 1 arcane damage. Fortunus is dealing 1 arcane damage from Constella Contemplation owllie took 1 damage The chain link was resolved.
+Fortunus played Gone in a Flash
+🎯Ser Boltyn, Breaker of Dawn was chosen as the target.
+Resolving play ability of Gone in a Flash.
+owllie passed (x3)
+owllie is about to take 4 damage from Gone in a Flash
+owllie took 4 damage
+Combat resolved with a hit for 4 damage
+CHAIN LINK 4 Fortunus played Consign To Cosmos // Shock Selected mode for Consign To Cosmos // Shock is: Shock owllie's Ser Boltyn, Breaker of Dawn was targeted Resolving play ability of Consign To Cosmos // Shock. Consign To Cosmos // Shock is dealing 1 arcane damage Fortunus is dealing 1 arcane damage from Consign To Cosmos // Shock owllie took 1 damage The chain link was resolved.
+CHAIN LINK 5 Fortunus played Gone in a Flash 🎯Ser Boltyn, Breaker of Dawn was chosen as the target. Resolving play ability of Gone in a Flash. owllie passed (x3) owllie is about to take 4 damage from Gone in a Flash owllie took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+owllie gained 3 life
+Fortunus passed (x2)
+TURN 2 owllie
+owllie passed (x2)
+TURN 2 Fortunus
+Fortunus played Ravenous Rabble from arsenal
+🎯Ser Boltyn, Breaker of Dawn was chosen as the target.
+Resolving play ability of Ravenous Rabble.
+👁️‍🗨️Fortunus reveals Comet Collision
+owllie passed (x2)
+CHAIN LINK 1 owllie played Steelblade Shunt owllie pitched Provoke Resolving play ability of Steelblade Shunt. Fortunus passed (x2) owllie is about to take 0 damage from Ravenous Rabble owllie took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus played Flittering Charge
+🎯Ser Boltyn, Breaker of Dawn was chosen as the target.
+Resolving play ability of Flittering Charge.
+owllie passed (x2)
+CHAIN LINK 2 owllie played Steelblade Shunt Resolving play ability of Steelblade Shunt. Fortunus passed (x2) owllie is about to take 0 damage from owllie took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus undid their last action
+owllie passed
+owllie is about to take 0 damage from
+owllie took 0 damage
+Combat resolved with no hit
+CHAIN LINK 3 Fortunus played Sigil of Brilliance Resolving play ability of Sigil of Brilliance. The chain link was resolved.
+CHAIN LINK 4 Fortunus played Enlightened Strike 🎯Ser Boltyn, Breaker of Dawn was chosen as the target. ⤵️ A card was put on the bottom of the deck. Selected mode for Enlightened Strike is: Buff Power Resolving play ability of Enlightened Strike. owllie passed (x3) owllie is about to take 7 damage from Enlightened Strike owllie took 7 damage Combat resolved with a hit for 7 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TURN 3 owllie
+owllie activated Fyendal's Spring Tunic
+Resolving activated ability of Fyendal's Spring Tunic.
+owllie activated Jubeel, Spellbane
+🎯Oscilio, Constella Intelligence was chosen as the target.
+CHAIN LINK 1 Fortunus activated Oscilio, Constella Intelligence Card chosen: Astral Bridge Resolving activated ability of Oscilio, Constella Intelligence. Resolving activated ability of Jubeel, Spellbane. Fortunus passed (x3) Fortunus is about to take 3 damage from Jubeel, Spellbane Fortunus took 3 damage Combat resolved with a hit for 3 damage Processing hit effect for Jubeel, Spellbane The chain link was resolved.
+owllie passed (x2)
+The combat chain was closed.
+owllie passed (x2)
+Fortunus played Sigil of Aether
+Resolving play ability of Sigil of Aether.
+owllie passed (x2)
+TURN 3 Fortunus
+owllie's Ser Boltyn, Breaker of Dawn was targeted
+Ser Boltyn, Breaker of Dawn targeted by Sigil of Aether's trigger
+Sigil of Aether is dealing 1 arcane damage.
+owllie pitched Rowdy Locals
+Fortunus is dealing 0 arcane damage from Sigil of Aether
+owllie took 0 damage
+Fortunus played Enlightened Strike
+🎯Ser Boltyn, Breaker of Dawn was chosen as the target.
+⤵️ A card was put on the bottom of the deck.
+Selected mode for Enlightened Strike is: Go Again
+Resolving play ability of Enlightened Strike.
+owllie passed (x2)
+owllie played Sigil of Solace from arsenal
+CHAIN LINK 1 owllie played Fate Foreseen Resolving play ability of Fate Foreseen. owllie has put 1 card on top of their deck. owllie gained 3 life Resolving play ability of Sigil of Solace. Fortunus passed (x2) owllie is about to take 1 damage from Enlightened Strike owllie took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+Fortunus passed
+The combat chain was closed.
+Fortunus played Comet Collision
+owllie's Ser Boltyn, Breaker of Dawn was targeted
+Fortunus activated Volzar, Meteor Storm
+Resolving activated ability of Volzar, Meteor Storm.
+owllie played Oasis Respite
+owllie's Ser Boltyn, Breaker of Dawn was targeted
+Fortunus conceded the game.
+owllie (owllie) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Astral Bridge
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+
+=== FIELD SNAPSHOTS (permanents/tokens en jeu : toi | adversaire) ===
+[OUVERTURE] me: Volzar Meteor Storm | opp: Spellbane Aegis
+
+=== GRAVEYARD SNAPSHOTS (cimetière : toi | adversaire) ===
+[OUVERTURE] me: Enlightened Strike, Sigil Of Aether, Sigil Of Brilliance, Astral Bridge, Enlightened Strike, Flittering Charge, Ravenous Rabble, Gone In A Flash, Consign To Cosmos  Shock, Constella Contemplation, Sigil Of Solace, Electrostatic Discharge, Lightning Greaves, Old Knocker, Future Sight, Sigil Of Solace | opp: Fate Foreseen, Sigil Of Solace, Steelblade Shunt, Steelblade Shunt, Quickdodge Flexors, Fiddlers Green, Oasis Respite, Fate Foreseen, Felling Swing
+
+=== BANISH SNAPSHOTS (banni : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=36 opp=26 myDeck=44 oppDeck=49
+
+=== META ===
+schema: v1
+captured_with: TLG v1.12.3
+game_url: https://talishar.net/game/play/1645214
+captured_at: 2026-07-12T20:15:55.419Z
+format: cc
+vs_ai: non
+me: Fortunus
+opponent: owllie
+my_hero: Oscilio, Constella Intelligence (oscilio_constella_intelligence)
+opp_hero: Ser Boltyn Breaker Of Dawn (ser_boltyn_breaker_of_dawn)
+my_start_life: 36
+opp_start_life: 26
+my_start_deck_size: 44
+opp_start_deck_size: 49
+my_equipment: head=Crown Of Providence (crown_of_providence) | arms=Aether Bindings Of The Third Age (aether_bindings_of_the_third_age) | weaponL=Volzar Meteor Storm (volzar_meteor_storm)
+opp_equipment: head=Nullrune Hood (nullrune_hood) | chest=Fyendals Spring Tunic (fyendals_spring_tunic) | arms=Solforge Gauntlet (solforge_gauntlet) | weaponL=Jubeel Spellbane (jubeel_spellbane)
+
+=== TIMESTAMPS ===
+0-139:1783887355
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":1,"byPlayer":{"1":{"gameId":"1645214","deckId":"","turns":3,"result":0,"winner":2,"firstPlayer":1,"opposingHero":"ser_boltyn_breaker_of_dawn","yourHero":"oscilio_constella_intelligence","startingLife":36,"opponentHero":"ser_boltyn_breaker_of_dawn","opponentStartingLife":40,"cardResults":[{"cardId":"aether_flare_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Aether Flare","pitchValue":1,"numCopies":3},{"cardId":"aether_flare_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Aether Flare","pitchValue":2,"numCopies":2},{"cardId":"astral_bridge_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Astral Bridge","pitchValue":1,"numCopies":3},{"cardId":"blink_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Blink","pitchValue":3,"numCopies":3},{"cardId":"comet_collision_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Comet Collision","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"consign_to_cosmos__shock_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Consign To Cosmos // Shock","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"constella_contemplation_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Constella Contemplation","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"constella_uplift_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Constella Uplift","pitchValue":2,"numCopies":3},{"cardId":"echoflash_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Echoflash","pitchValue":2,"numCopies":3},{"cardId":"electrostatic_discharge_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Electrostatic Discharge","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"enlightened_strike_red","played":"2","blocked":"0","pitched":"0","hits":"2","discarded":"0","charged":"0","cardName":"Enlightened Strike","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"entwine_lightning_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Entwine Lightning","pitchValue":1,"numCopies":3},{"cardId":"fate_foreseen_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Fate Foreseen","pitchValue":1,"numCopies":1},{"cardId":"flittering_charge_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Flittering Charge","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"future_sight_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Future Sight","pitchValue":1,"numCopies":3},{"cardId":"gone_in_a_flash_red","played":"5","blocked":"0","pitched":"0","hits":"4","discarded":"0","charged":"0","cardName":"Gone in a Flash","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"ravenous_rabble_red","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Ravenous Rabble","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"second_strike_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Second Strike","pitchValue":1,"numCopies":3},{"cardId":"sigil_of_aether_blue","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sigil of Aether","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_brilliance_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sigil of Brilliance","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sigil_of_solace_red","played":"2","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sigil of Solace","pitchValue":1,"numCopies":3,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"oscilio_constella_intelligence","cardName":"Oscilio, Constella Intelligence","numCopies":1},{"cardId":"volzar_meteor_storm","cardName":"Volzar, Meteor Storm","numCopies":1},{"cardId":"crown_of_providence","cardName":"Crown of Providence","numCopies":1},{"cardId":"old_knocker","cardName":"Old Knocker","numCopies":1},{"cardId":"aether_bindings_of_the_third_age","cardName":"Aether Bindings of the Third Age","numCopies":1},{"cardId":"lightning_greaves","cardName":"Lightning Greaves","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"oscilio_constella_intelligence","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Oscilio, Constella Intelligence","pitchValue":0,"katsuDiscard":"0","activated":"2","passiveTriggered":"0"},{"cardId":"old_knocker","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Old Knocker","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"lightning_greaves","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Lightning Greaves","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"volzar_meteor_storm","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Volzar, Meteor Storm","pitchValue":0,"katsuDiscard":"0","activated":"2","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":1,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"2","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","arcaneDamageDealt":0,"arcaneDamageTaken":0,"lifeGained":"3","lifeLost":"0","lifeAtTurnEnd":39,"opponentLifeAtTurnEnd":40,"turnNo":0},"turn_1":{"cardsUsed":9,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"1","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"22","damageDealt":"12","damageBlocked":"0","damagePrevented":"0","damageTaken":"3","arcaneDamageDealt":2,"arcaneDamageTaken":0,"lifeGained":"3","lifeLost":"0","lifeAtTurnEnd":39,"opponentLifeAtTurnEnd":31,"turnNo":1},"turn_2":{"cardsUsed":4,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"15","damageDealt":"7","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","arcaneDamageDealt":0,"arcaneDamageTaken":0,"lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":39,"opponentLifeAtTurnEnd":24,"turnNo":2},"turn_3":{"cardsUsed":3,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"6","damageDealt":"1","damageBlocked":"0","damagePrevented":"0","damageTaken":"3","arcaneDamageDealt":0,"arcaneDamageTaken":0,"lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":36,"opponentLifeAtTurnEnd":24,"turnNo":3}},"yourTime":"243","totalTime":396,"totalDamageThreatened":43,"totalDamageDealt":20,"totalLifeGained":6,"totalDamageBlocked":0,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":14.33,"averageDamageDealtPerTurn":6.67,"averageDamageThreatenedPerCard":3.91,"averageResourcesUsedPerTurn":0.33,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":14.33,"averageValuePerTurn":15.33,"totalDamageThreatened_NoLast":37,"totalDamageDealt_NoLast":19,"totalLifeGained_NoLast":6,"totalDamageBlocked_NoLast":0,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":18.5,"averageDamageDealtPerTurn_NoLast":9.5,"averageDamageThreatenedPerCard_NoLast":4.63,"averageResourcesUsedPerTurn_NoLast":0.5,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":18.5,"averageValuePerTurn_NoLast":20,"fullLog":""}}}
