@@ -1,28 +1,1265 @@
-=== Talishar game 1957330 — 10/08/2026 23:17:44 ===
+=== Talishar game 1957330 — 10/08/2026 23:26:05 ===
 
 🎲 BigTobacco rolled 10 and you rolled 4.
 BigTobacco chooses who goes first.
+BigTobacco will go first.
+Fortunus: Hello, good luck have fun!
+BigTobacco: Hello, good luck have fun!
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+Fortunus played Saltwater Swell
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Fortunus pitched Tip the Barkeep
+👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog
+Resolving play ability of Saltwater Swell.
+BigTobacco passed
+BigTobacco blocked with Adaptive Alpha Mold
+Fortunus passed
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+Fortunus played Saltwater Swell
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Fortunus pitched Tip the Barkeep
+👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog
+Resolving play ability of Saltwater Swell.
+BigTobacco passed
+BigTobacco blocked with Adaptive Alpha Mold
+Fortunus passed (x2)
+BigTobacco is about to take 0 damage from Saltwater Swell
+BigTobacco took 0 damage
+Combat resolved with no hit
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+BigTobacco passed
+BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest
+Fortunus passed
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+BigTobacco passed
+BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest
+Fortunus passed (x2)
+BigTobacco is about to take 4 damage from Riggermortis
+BigTobacco took 4 damage
+Combat resolved with a hit for 4 damage
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+BigTobacco played Heavy Metal Hardcore
+🎯Gravy Bones, Shipwrecked Looter was chosen as the target.
+Boost banished Evo Steel Soul Tower and gets go again.
+Resolving play ability of Heavy Metal Hardcore.
+Fortunus passed
+Fortunus blocked with Cheating Scoundrel
+BigTobacco passed
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+BigTobacco played Heavy Metal Hardcore
+🎯Gravy Bones, Shipwrecked Looter was chosen as the target.
+Boost banished Evo Steel Soul Tower and gets go again.
+Resolving play ability of Heavy Metal Hardcore.
+Fortunus passed
+Fortunus blocked with Cheating Scoundrel
+BigTobacco passed (x2)
+Fortunus is about to take 1 damage from Heavy Metal Hardcore
+Fortunus took 1 damage
+Combat resolved with a hit for 1 damage
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+BigTobacco activated Teklo Leveler
+🎯Gravy Bones, Shipwrecked Looter was chosen as the target.
+Resolving activated ability of Teklo Leveler.
+Fortunus passed
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+BigTobacco activated Teklo Leveler
+🎯Gravy Bones, Shipwrecked Looter was chosen as the target.
+Resolving activated ability of Teklo Leveler.
+Fortunus passed (x2)
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+BigTobacco activated Teklo Leveler
+🎯Gravy Bones, Shipwrecked Looter was chosen as the target.
+Resolving activated ability of Teklo Leveler.
+Fortunus passed (x3)
+Fortunus is about to take 2 damage from Teklo Leveler
+Fortunus took 2 damage
+Combat resolved with a hit for 2 damage
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+BigTobacco played Ghost Protocol: Architect from arsenal
+🎯Riggermortis was chosen as the target.
+Resolving play ability of Ghost Protocol: Architect.
+Evo Beta Base Arms was banished.
+🔄BigTobacco deck was shuffled
+Fortunus auto-passed
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+BigTobacco played Ghost Protocol: Architect from arsenal
+🎯Riggermortis was chosen as the target.
+Resolving play ability of Ghost Protocol: Architect.
+Evo Beta Base Arms was banished.
+🔄BigTobacco deck was shuffled
+Fortunus auto-passed (x2)
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+BigTobacco played Ghost Protocol: Architect from arsenal
+🎯Riggermortis was chosen as the target.
+Resolving play ability of Ghost Protocol: Architect.
+Evo Beta Base Arms was banished.
+🔄BigTobacco deck was shuffled
+Fortunus auto-passed (x3)
+Combat resolved with a hit for 1 damage
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+LIEN DE CHAÎNE 2 BigTobacco played Ghost Protocol: Architect from arsenal 🎯Riggermortis was chosen as the target. Resolving play ability of Ghost Protocol: Architect. Evo Beta Base Arms was banished. 🔄BigTobacco deck was shuffled Fortunus auto-passed (x3) Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco passed (x2)
+The combat chain was closed.
+BigTobacco passed (x2)
+TOURNER 2 Fortunus
+Fortunus played Call to the Grave from arsenal
+Resolving play ability of Call to the Grave.
+Chum, Friendly First Mate was chosen.
+🔄Fortunus deck was shuffled
+Fortunus played Chum, Friendly First Mate
+Fortunus pitched Scooba, Salty Sea Dog
+Fortunus pitched Anka, Drag Under
+Resolving play ability of Chum, Friendly First Mate.
+Fortunus activated Chum, Friendly First Mate
+Attack was chosen.
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Chum, Friendly First Mate.
+BigTobacco passed
+BigTobacco blocked with Evo Steel Soul Tower
+Fortunus passed
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+LIEN DE CHAÎNE 2 BigTobacco played Ghost Protocol: Architect from arsenal 🎯Riggermortis was chosen as the target. Resolving play ability of Ghost Protocol: Architect. Evo Beta Base Arms was banished. 🔄BigTobacco deck was shuffled Fortunus auto-passed (x3) Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco passed (x2)
+The combat chain was closed.
+BigTobacco passed (x2)
+TOURNER 2 Fortunus
+Fortunus played Call to the Grave from arsenal
+Resolving play ability of Call to the Grave.
+Chum, Friendly First Mate was chosen.
+🔄Fortunus deck was shuffled
+Fortunus played Chum, Friendly First Mate
+Fortunus pitched Scooba, Salty Sea Dog
+Fortunus pitched Anka, Drag Under
+Resolving play ability of Chum, Friendly First Mate.
+Fortunus activated Chum, Friendly First Mate
+Attack was chosen.
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Chum, Friendly First Mate.
+BigTobacco passed
+BigTobacco blocked with Evo Steel Soul Tower
+Fortunus passed (x2)
+BigTobacco is about to take 1 damage from Chum, Friendly First Mate
+BigTobacco took 1 damage
+Combat resolved with a hit for 1 damage
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+LIEN DE CHAÎNE 2 BigTobacco played Ghost Protocol: Architect from arsenal 🎯Riggermortis was chosen as the target. Resolving play ability of Ghost Protocol: Architect. Evo Beta Base Arms was banished. 🔄BigTobacco deck was shuffled Fortunus auto-passed (x3) Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco passed (x2)
+The combat chain was closed.
+BigTobacco passed (x2)
+TOURNER 2 Fortunus
+Fortunus played Call to the Grave from arsenal
+Resolving play ability of Call to the Grave.
+Chum, Friendly First Mate was chosen.
+🔄Fortunus deck was shuffled
+Fortunus played Chum, Friendly First Mate
+Fortunus pitched Scooba, Salty Sea Dog
+Fortunus pitched Anka, Drag Under
+Resolving play ability of Chum, Friendly First Mate.
+LIEN DE CHAÎNE 1 Fortunus activated Chum, Friendly First Mate Attack was chosen. 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Chum, Friendly First Mate. BigTobacco passed BigTobacco blocked with Evo Steel Soul Tower Fortunus passed (x2) BigTobacco is about to take 1 damage from Chum, Friendly First Mate BigTobacco took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 2 BigTobacco
+BigTobacco activated Teklo Leveler
+🎯Chum, Friendly First Mate was chosen as the target.
+BigTobacco pitched T-Bone
+Resolving activated ability of Teklo Leveler.
+Fortunus auto-passed
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+LIEN DE CHAÎNE 2 BigTobacco played Ghost Protocol: Architect from arsenal 🎯Riggermortis was chosen as the target. Resolving play ability of Ghost Protocol: Architect. Evo Beta Base Arms was banished. 🔄BigTobacco deck was shuffled Fortunus auto-passed (x3) Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco passed (x2)
+The combat chain was closed.
+BigTobacco passed (x2)
+TOURNER 2 Fortunus
+Fortunus played Call to the Grave from arsenal
+Resolving play ability of Call to the Grave.
+Chum, Friendly First Mate was chosen.
+🔄Fortunus deck was shuffled
+Fortunus played Chum, Friendly First Mate
+Fortunus pitched Scooba, Salty Sea Dog
+Fortunus pitched Anka, Drag Under
+Resolving play ability of Chum, Friendly First Mate.
+LIEN DE CHAÎNE 1 Fortunus activated Chum, Friendly First Mate Attack was chosen. 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Chum, Friendly First Mate. BigTobacco passed BigTobacco blocked with Evo Steel Soul Tower Fortunus passed (x2) BigTobacco is about to take 1 damage from Chum, Friendly First Mate BigTobacco took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 2 BigTobacco
+BigTobacco activated Teklo Leveler
+🎯Chum, Friendly First Mate was chosen as the target.
+BigTobacco pitched T-Bone
+Resolving activated ability of Teklo Leveler.
+Fortunus auto-passed (x2)
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+LIEN DE CHAÎNE 2 BigTobacco played Ghost Protocol: Architect from arsenal 🎯Riggermortis was chosen as the target. Resolving play ability of Ghost Protocol: Architect. Evo Beta Base Arms was banished. 🔄BigTobacco deck was shuffled Fortunus auto-passed (x3) Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco passed (x2)
+The combat chain was closed.
+BigTobacco passed (x2)
+TOURNER 2 Fortunus
+Fortunus played Call to the Grave from arsenal
+Resolving play ability of Call to the Grave.
+Chum, Friendly First Mate was chosen.
+🔄Fortunus deck was shuffled
+Fortunus played Chum, Friendly First Mate
+Fortunus pitched Scooba, Salty Sea Dog
+Fortunus pitched Anka, Drag Under
+Resolving play ability of Chum, Friendly First Mate.
+LIEN DE CHAÎNE 1 Fortunus activated Chum, Friendly First Mate Attack was chosen. 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Chum, Friendly First Mate. BigTobacco passed BigTobacco blocked with Evo Steel Soul Tower Fortunus passed (x2) BigTobacco is about to take 1 damage from Chum, Friendly First Mate BigTobacco took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 2 BigTobacco
+BigTobacco activated Teklo Leveler
+🎯Chum, Friendly First Mate was chosen as the target.
+BigTobacco pitched T-Bone
+Resolving activated ability of Teklo Leveler.
+Fortunus auto-passed (x3)
+Combat resolved with a hit for 2 damage
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+LIEN DE CHAÎNE 2 BigTobacco played Ghost Protocol: Architect from arsenal 🎯Riggermortis was chosen as the target. Resolving play ability of Ghost Protocol: Architect. Evo Beta Base Arms was banished. 🔄BigTobacco deck was shuffled Fortunus auto-passed (x3) Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco passed (x2)
+The combat chain was closed.
+BigTobacco passed (x2)
+TOURNER 2 Fortunus
+Fortunus played Call to the Grave from arsenal
+Resolving play ability of Call to the Grave.
+Chum, Friendly First Mate was chosen.
+🔄Fortunus deck was shuffled
+Fortunus played Chum, Friendly First Mate
+Fortunus pitched Scooba, Salty Sea Dog
+Fortunus pitched Anka, Drag Under
+Resolving play ability of Chum, Friendly First Mate.
+LIEN DE CHAÎNE 1 Fortunus activated Chum, Friendly First Mate Attack was chosen. 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Chum, Friendly First Mate. BigTobacco passed BigTobacco blocked with Evo Steel Soul Tower Fortunus passed (x2) BigTobacco is about to take 1 damage from Chum, Friendly First Mate BigTobacco took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 2 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Chum, Friendly First Mate was chosen as the target. BigTobacco pitched T-Bone Resolving activated ability of Teklo Leveler. Fortunus auto-passed (x3) Combat resolved with a hit for 2 damage The chain link was resolved.
+BigTobacco played Blast Rig
+🎯Chum, Friendly First Mate was chosen as the target.
+Boost banished Zero to Sixty and gets go again.
+Fortunus activated Compass of Sunken Depths
+Resolving activated ability of Compass of Sunken Depths.
+Compass of Sunken Depths shows your top deck
+Resolving play ability of Blast Rig.
+Fortunus auto-passed
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+LIEN DE CHAÎNE 2 BigTobacco played Ghost Protocol: Architect from arsenal 🎯Riggermortis was chosen as the target. Resolving play ability of Ghost Protocol: Architect. Evo Beta Base Arms was banished. 🔄BigTobacco deck was shuffled Fortunus auto-passed (x3) Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco passed (x2)
+The combat chain was closed.
+BigTobacco passed (x2)
+TOURNER 2 Fortunus
+Fortunus played Call to the Grave from arsenal
+Resolving play ability of Call to the Grave.
+Chum, Friendly First Mate was chosen.
+🔄Fortunus deck was shuffled
+Fortunus played Chum, Friendly First Mate
+Fortunus pitched Scooba, Salty Sea Dog
+Fortunus pitched Anka, Drag Under
+Resolving play ability of Chum, Friendly First Mate.
+LIEN DE CHAÎNE 1 Fortunus activated Chum, Friendly First Mate Attack was chosen. 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Chum, Friendly First Mate. BigTobacco passed BigTobacco blocked with Evo Steel Soul Tower Fortunus passed (x2) BigTobacco is about to take 1 damage from Chum, Friendly First Mate BigTobacco took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 2 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Chum, Friendly First Mate was chosen as the target. BigTobacco pitched T-Bone Resolving activated ability of Teklo Leveler. Fortunus auto-passed (x3) Combat resolved with a hit for 2 damage The chain link was resolved.
+BigTobacco played Blast Rig
+🎯Chum, Friendly First Mate was chosen as the target.
+Boost banished Zero to Sixty and gets go again.
+Fortunus activated Compass of Sunken Depths
+Resolving activated ability of Compass of Sunken Depths.
+Compass of Sunken Depths shows your top deck
+Resolving play ability of Blast Rig.
+Fortunus auto-passed (x2)
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+LIEN DE CHAÎNE 2 BigTobacco played Ghost Protocol: Architect from arsenal 🎯Riggermortis was chosen as the target. Resolving play ability of Ghost Protocol: Architect. Evo Beta Base Arms was banished. 🔄BigTobacco deck was shuffled Fortunus auto-passed (x3) Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco passed (x2)
+The combat chain was closed.
+BigTobacco passed (x2)
+TOURNER 2 Fortunus
+Fortunus played Call to the Grave from arsenal
+Resolving play ability of Call to the Grave.
+Chum, Friendly First Mate was chosen.
+🔄Fortunus deck was shuffled
+Fortunus played Chum, Friendly First Mate
+Fortunus pitched Scooba, Salty Sea Dog
+Fortunus pitched Anka, Drag Under
+Resolving play ability of Chum, Friendly First Mate.
+LIEN DE CHAÎNE 1 Fortunus activated Chum, Friendly First Mate Attack was chosen. 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Chum, Friendly First Mate. BigTobacco passed BigTobacco blocked with Evo Steel Soul Tower Fortunus passed (x2) BigTobacco is about to take 1 damage from Chum, Friendly First Mate BigTobacco took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 2 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Chum, Friendly First Mate was chosen as the target. BigTobacco pitched T-Bone Resolving activated ability of Teklo Leveler. Fortunus auto-passed (x3) Combat resolved with a hit for 2 damage The chain link was resolved.
+BigTobacco played Blast Rig
+🎯Chum, Friendly First Mate was chosen as the target.
+Boost banished Zero to Sixty and gets go again.
+Fortunus activated Compass of Sunken Depths
+Resolving activated ability of Compass of Sunken Depths.
+Compass of Sunken Depths shows your top deck
+Resolving play ability of Blast Rig.
+Fortunus auto-passed (x3)
+Combat resolved with a hit for 4 damage
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+LIEN DE CHAÎNE 2 BigTobacco played Ghost Protocol: Architect from arsenal 🎯Riggermortis was chosen as the target. Resolving play ability of Ghost Protocol: Architect. Evo Beta Base Arms was banished. 🔄BigTobacco deck was shuffled Fortunus auto-passed (x3) Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco passed (x2)
+The combat chain was closed.
+BigTobacco passed (x2)
+TOURNER 2 Fortunus
+Fortunus played Call to the Grave from arsenal
+Resolving play ability of Call to the Grave.
+Chum, Friendly First Mate was chosen.
+🔄Fortunus deck was shuffled
+Fortunus played Chum, Friendly First Mate
+Fortunus pitched Scooba, Salty Sea Dog
+Fortunus pitched Anka, Drag Under
+Resolving play ability of Chum, Friendly First Mate.
+LIEN DE CHAÎNE 1 Fortunus activated Chum, Friendly First Mate Attack was chosen. 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Chum, Friendly First Mate. BigTobacco passed BigTobacco blocked with Evo Steel Soul Tower Fortunus passed (x2) BigTobacco is about to take 1 damage from Chum, Friendly First Mate BigTobacco took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 2 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Chum, Friendly First Mate was chosen as the target. BigTobacco pitched T-Bone Resolving activated ability of Teklo Leveler. Fortunus auto-passed (x3) Combat resolved with a hit for 2 damage The chain link was resolved.
+BigTobacco played Blast Rig
+🎯Chum, Friendly First Mate was chosen as the target.
+Boost banished Zero to Sixty and gets go again.
+LIEN DE CHAÎNE 2 Fortunus activated Compass of Sunken Depths Resolving activated ability of Compass of Sunken Depths. Compass of Sunken Depths shows your top deck Resolving play ability of Blast Rig. Fortunus auto-passed (x3) Combat resolved with a hit for 4 damage The chain link was resolved.
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Evo Beta Base Legs
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Arms
+Resolving play ability of Evo Beta Base Arms.
+BigTobacco played War Machine from arsenal
+🎯Gravy Bones, Shipwrecked Looter was chosen as the target.
+BigTobacco pitched Evo Steel Soul Processor
+Resolving play ability of War Machine.
+Fortunus passed
+Fortunus blocked with Avast Ye!
+BigTobacco passed
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+LIEN DE CHAÎNE 2 BigTobacco played Ghost Protocol: Architect from arsenal 🎯Riggermortis was chosen as the target. Resolving play ability of Ghost Protocol: Architect. Evo Beta Base Arms was banished. 🔄BigTobacco deck was shuffled Fortunus auto-passed (x3) Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco passed (x2)
+The combat chain was closed.
+BigTobacco passed (x2)
+TOURNER 2 Fortunus
+Fortunus played Call to the Grave from arsenal
+Resolving play ability of Call to the Grave.
+Chum, Friendly First Mate was chosen.
+🔄Fortunus deck was shuffled
+Fortunus played Chum, Friendly First Mate
+Fortunus pitched Scooba, Salty Sea Dog
+Fortunus pitched Anka, Drag Under
+Resolving play ability of Chum, Friendly First Mate.
+LIEN DE CHAÎNE 1 Fortunus activated Chum, Friendly First Mate Attack was chosen. 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Chum, Friendly First Mate. BigTobacco passed BigTobacco blocked with Evo Steel Soul Tower Fortunus passed (x2) BigTobacco is about to take 1 damage from Chum, Friendly First Mate BigTobacco took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 2 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Chum, Friendly First Mate was chosen as the target. BigTobacco pitched T-Bone Resolving activated ability of Teklo Leveler. Fortunus auto-passed (x3) Combat resolved with a hit for 2 damage The chain link was resolved.
+BigTobacco played Blast Rig
+🎯Chum, Friendly First Mate was chosen as the target.
+Boost banished Zero to Sixty and gets go again.
+LIEN DE CHAÎNE 2 Fortunus activated Compass of Sunken Depths Resolving activated ability of Compass of Sunken Depths. Compass of Sunken Depths shows your top deck Resolving play ability of Blast Rig. Fortunus auto-passed (x3) Combat resolved with a hit for 4 damage The chain link was resolved.
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Evo Beta Base Legs
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Arms
+Resolving play ability of Evo Beta Base Arms.
+BigTobacco played War Machine from arsenal
+🎯Gravy Bones, Shipwrecked Looter was chosen as the target.
+BigTobacco pitched Evo Steel Soul Processor
+Resolving play ability of War Machine.
+Fortunus passed
+Fortunus blocked with Avast Ye!
+BigTobacco passed (x2)
+Fortunus is about to take 6 damage from War Machine
+Fortunus took 6 damage
+Combat resolved with a hit for 6 damage
+Processing hit effect for War Machine
+Prismatic Leyline was destroyed from the arsenal
+Selected mode for is: None
+Selected mode for is: Arms
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Singularity
+BigTobacco pitched Ghost Protocol: Mainframe
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Head
+Resolving play ability of Evo Beta Base Head.
+BigTobacco played Evo Beta Base Chest
+Resolving play ability of Evo Beta Base Chest.
+BigTobacco auto-passed (x2)
+TOURNER 1 Fortunus
+LIEN DE CHAÎNE 1 Fortunus played Saltwater Swell 🎯Teklovossen, Esteemed Magnate was chosen as the target. Fortunus pitched Tip the Barkeep 👁️‍🗨️Fortunus reveals Scooba, Salty Sea Dog Resolving play ability of Saltwater Swell. BigTobacco passed BigTobacco blocked with Adaptive Alpha Mold Fortunus passed (x2) BigTobacco is about to take 0 damage from Saltwater Swell BigTobacco took 0 damage Combat resolved with no hit The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus activated Carrion Crown
+Riggermortis was discarded
+Resolving activated ability of Carrion Crown.
+Fortunus played Riggermortis
+Resolving play ability of Riggermortis.
+Fortunus activated Riggermortis
+🎯Teklovossen, Esteemed Magnate was chosen as the target.
+Resolving activated ability of Riggermortis.
+Fortunus requests to undo the last action
+BigTobacco allowed undoing the last action
+LIEN DE CHAÎNE 1 Fortunus activated Riggermortis 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Riggermortis. BigTobacco passed BigTobacco blocked with Evo Beta Base Head and Evo Beta Base Chest Fortunus passed (x2) BigTobacco is about to take 4 damage from Riggermortis BigTobacco took 4 damage Combat resolved with a hit for 4 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 1 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco played Heavy Metal Hardcore 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Boost banished Evo Steel Soul Tower and gets go again. Resolving play ability of Heavy Metal Hardcore. Fortunus passed Fortunus blocked with Cheating Scoundrel BigTobacco passed (x2) Fortunus is about to take 1 damage from Heavy Metal Hardcore Fortunus took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco activated Cogwerx Base Legs
+BigTobacco pitched Evo Beta Base Head
+Resolving activated ability of Cogwerx Base Legs.
+BigTobacco passed
+The combat chain was closed.
+BigTobacco played Evo Steel Soul Tower
+BigTobacco pitched Evo Steel Soul Controller
+Resolving play ability of Evo Steel Soul Tower.
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. Resolving activated ability of Teklo Leveler. Fortunus passed (x3) Fortunus is about to take 2 damage from Teklo Leveler Fortunus took 2 damage Combat resolved with a hit for 2 damage The chain link was resolved.
+LIEN DE CHAÎNE 2 BigTobacco played Ghost Protocol: Architect from arsenal 🎯Riggermortis was chosen as the target. Resolving play ability of Ghost Protocol: Architect. Evo Beta Base Arms was banished. 🔄BigTobacco deck was shuffled Fortunus auto-passed (x3) Combat resolved with a hit for 1 damage The chain link was resolved.
+BigTobacco passed (x2)
+The combat chain was closed.
+BigTobacco passed (x2)
+TOURNER 2 Fortunus
+Fortunus played Call to the Grave from arsenal
+Resolving play ability of Call to the Grave.
+Chum, Friendly First Mate was chosen.
+🔄Fortunus deck was shuffled
+Fortunus played Chum, Friendly First Mate
+Fortunus pitched Scooba, Salty Sea Dog
+Fortunus pitched Anka, Drag Under
+Resolving play ability of Chum, Friendly First Mate.
+LIEN DE CHAÎNE 1 Fortunus activated Chum, Friendly First Mate Attack was chosen. 🎯Teklovossen, Esteemed Magnate was chosen as the target. Resolving activated ability of Chum, Friendly First Mate. BigTobacco passed BigTobacco blocked with Evo Steel Soul Tower Fortunus passed (x2) BigTobacco is about to take 1 damage from Chum, Friendly First Mate BigTobacco took 1 damage Combat resolved with a hit for 1 damage The chain link was resolved.
+Fortunus passed (x2)
+The combat chain was closed.
+Fortunus passed (x2)
+TOURNER 2 BigTobacco
+LIEN DE CHAÎNE 1 BigTobacco activated Teklo Leveler 🎯Chum, Friendly First Mate was chosen as the target. BigTobacco pitched T-Bone Resolving activated ability of Teklo Leveler. Fortunus auto-passed (x3) Combat resolved with a hit for 2 damage The chain link was resolved.
+BigTobacco played Blast Rig
+🎯Chum, Friendly First Mate was chosen as the target.
+Boost banished Zero to Sixty and gets go again.
+LIEN DE CHAÎNE 2 Fortunus activated Compass of Sunken Depths Resolving activated ability of Compass of Sunken Depths. Compass of Sunken Depths shows your top deck Resolving play ability of Blast Rig. Fortunus auto-passed (x3) Combat resolved with a hit for 4 damage The chain link was resolved.
+BigTobacco activated Teklovossen, Esteemed Magnate
+BigTobacco pitched Evo Beta Base Legs
+Resolving activated ability of Teklovossen, Esteemed Magnate.
+BigTobacco played Evo Beta Base Arms
+Resolving play ability of Evo Beta Base Arms.
+LIEN DE CHAÎNE 3 BigTobacco played War Machine from arsenal 🎯Gravy Bones, Shipwrecked Looter was chosen as the target. BigTobacco pitched Evo Steel Soul Processor Resolving play ability of War Machine. Fortunus passed Fortunus blocked with Avast Ye! BigTobacco passed (x2) Fortunus is about to take 6 damage from War Machine Fortunus took 6 damage Combat resolved with a hit for 6 damage Processing hit effect for War Machine Prismatic Leyline was destroyed from the arsenal The chain link was resolved.
+BigTobacco auto-passed (x2)
+The combat chain was closed.
+BigTobacco auto-passed (x2)
+TOURNER 3 Fortunus
+Fortunus played Loan Shark
+Resolving play ability of Loan Shark.
+Fortunus activated Gravy Bones, Shipwrecked Looter
+Resolving activated ability of Gravy Bones, Shipwrecked Looter.
+Chum, Friendly First Mate was discarded
+Fortunus played Sawbones, Dock Hand
+Fortunus pitched Last Ditch Effort
+Resolving play ability of Sawbones, Dock Hand.
+Fortunus passed (x2)
+TOURNER 3 BigTobacco
+BigTobacco activated Teklo Leveler
+🎯Sawbones, Dock Hand was chosen as the target.
+BigTobacco pitched Firewall
+Resolving activated ability of Teklo Leveler.
+Fortunus conceded the game.
+BigTobacco (BigTobacco) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Tip The Barkeep, Saltwater Swell, Riggermortis, Call To The Grave
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+
+=== FIELD SNAPSHOTS (permanents/tokens en jeu : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+
+=== GRAVEYARD SNAPSHOTS (cimetière : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+
+=== BANISH SNAPSHOTS (banni : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=40 opp=40 myDeck=56 oppDeck=56
 
 === META ===
 schema: v1
 captured_with: TLG v1.12.3
-game_url: https://talishar.net/game/lobby/1957330
+game_url: https://talishar.net/game/play/1957330
 captured_at: 2026-08-10T21:17:44.769Z
 format: compcc
 vs_ai: non
-me: (non capté)
+me: Fortunus
 opponent: BigTobacco
 my_hero: Gravy Bones, Shipwrecked Looter (gravy_bones_shipwrecked_looter)
 opp_hero: Gravy Bones, Shipwrecked Looter (katsu_the_wanderer)
-my_start_life: (non capté)
-opp_start_life: (non capté)
-my_start_deck_size: (non capté)
-opp_start_deck_size: (non capté)
-my_equipment: (non capté)
-opp_equipment: (non capté)
+my_start_life: 40
+opp_start_life: 40
+my_start_deck_size: 60
+opp_start_deck_size: 60
+my_equipment: head=Carrion Crown (carrion_crown) | chest=Dead Threads (dead_threads) | arms=Gold Baited Hook (gold_baited_hook) | legs=Mage Master Boots (mage_master_boots) | weaponR=Compass Of Sunken Depths (compass_of_sunken_depths)
+opp_equipment: head=Synapse Sparkcap (synapse_sparkcap) | chest=Cogwerx Base Chest (cogwerx_base_chest) | arms=Adaptive Alpha Mold (adaptive_alpha_mold) | legs=Cogwerx Base Legs (cogwerx_base_legs) | weaponL=Teklo Leveler (teklo_leveler)
 
 === TIMESTAMPS ===
-0-1:1786396664
+0-1:1786396664,2-2:1786396668,3-3:1786396712,4-4:1786396716,5-5:1786396743,6-6:1786396744,7-8:1786396749,9-9:1786396750,10-10:1786396757,11-11:1786396758,12-12:1786396764,13-13:1786396765,14-15:1786396772,16-16:1786396778,17-18:1786396788,19-19:1786396789,20-21:1786396791,22-23:1786396797,24-24:1786396805,25-47:1786396808,48-60:1786396812,61-61:1786396836,62-62:1786396838,63-64:1786396840,65-65:1786396842,66-66:1786396845,67-67:1786396847,68-69:1786396850,70-70:1786396851,71-71:1786396854,72-72:1786396855,73-74:1786396859,75-75:1786396860,76-77:1786396863,78-112:1786396865,113-139:1786396867,140-140:1786396868,141-141:1786396869,142-142:1786396871,143-143:1786396874,144-145:1786396876,146-146:1786396881,147-148:1786396911,149-149:1786396914,150-189:1786396915,190-220:1786396917,221-221:1786396918,222-222:1786396919,223-223:1786396921,224-224:1786396923,225-225:1786396925,226-226:1786396926,227-227:1786396927,228-229:1786396929,230-230:1786396930,231-231:1786396933,232-232:1786396935,233-321:1786396937,322-362:1786396939,363-363:1786396940,364-364:1786396944,365-367:1786396949,368-413:1786396951,414-460:1786396953,461-501:1786396957,502-502:1786396958,503-503:1786396959,504-504:1786396960,505-505:1786396963,506-506:1786396964,507-507:1786396966,508-509:1786396970,510-510:1786396973,511-512:1786396974,513-513:1786396977,514-516:1786396978,517-517:1786396979,518-519:1786396982,520-520:1786396984,521-583:1786396985,584-637:1786396986,638-639:1786396987,640-640:1786396988,641-641:1786396991,642-642:1786396993,643-643:1786396994,644-644:1786396996,645-645:1786397000,646-646:1786397001,647-709:1786397003,710-773:1786397004,774-832:1786397005,833-833:1786397006,834-834:1786397007,835-835:1786397008,836-836:1786397021,837-838:1786397026,839-839:1786397050,840-840:1786397051,841-907:1786397054,908-975:1786397056,976-1038:1786397059,1039-1039:1786397060,1040-1040:1786397061,1041-1041:1786397062,1042-1042:1786397063,1043-1043:1786397065,1044-1045:1786397071,1046-1046:1786397072,1047-1047:1786397080,1048-1049:1786397096,1050-1128:1786397099,1129-1130:1786397100,1131-1200:1786397101,1201-1202:1786397102,1203-1203:1786397105,1204-1204:1786397106,1205-1205:1786397107,1206-1206:1786397109,1207-1207:1786397111,1208-1208:1786397137,1209-1210:1786397148,1211-1211:1786397150,1212-1212:1786397153,1213-1213:1786397155,1214-1214:1786397156,1215-1215:1786397157,1216-1216:1786397158,1217-1217:1786397160,1218-1220:1786397165
 
 === END GAME STATS (Talishar, JSON) ===
-{"myPlayerID":2,"byPlayer":{"1":{"gameId":"1957267","deckId":"","turns":1,"result":0,"winner":2,"firstPlayer":0,"opposingHero":"katsu_the_wanderer","yourHero":"gravy_bones_shipwrecked_looter","startingLife":40,"opponentHero":"katsu_the_wanderer","opponentStartingLife":40,"cardResults":[{"cardId":"anka_drag_under_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Anka, Drag Under","pitchValue":2,"numCopies":3},{"cardId":"avast_ye_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Avast Ye!","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"blood_in_the_water_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Blood in the Water","pitchValue":1,"numCopies":3},{"cardId":"call_to_the_grave_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Call to the Grave","pitchValue":3,"numCopies":3},{"cardId":"cheating_scoundrel_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Cheating Scoundrel","pitchValue":1,"numCopies":2},{"cardId":"chum_friendly_first_mate_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Chum, Friendly First Mate","pitchValue":2,"numCopies":3},{"cardId":"conqueror_of_the_high_seas_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Conqueror of the High Seas","pitchValue":1,"numCopies":3},{"cardId":"eye_of_ophidia_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Eye of Ophidia","pitchValue":3,"numCopies":1},{"cardId":"fearless_confrontation_blue","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"0","charged":"0","cardName":"Fearless Confrontation","pitchValue":3,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"fiddlers_green_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Fiddler's Green","pitchValue":1,"numCopies":1},{"cardId":"golden_tipple_blue","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Golden Tipple","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"jittery_bones_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Jittery Bones","pitchValue":3,"numCopies":3},{"cardId":"loan_shark_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Loan Shark","pitchValue":2,"numCopies":2},{"cardId":"loot_the_hold_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Loot the Hold","pitchValue":3,"numCopies":2},{"cardId":"murderous_rabble_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Murderous Rabble","pitchValue":3,"numCopies":3},{"cardId":"portside_exchange_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Portside Exchange","pitchValue":3,"numCopies":3},{"cardId":"prismatic_leyline_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Prismatic Leyline","pitchValue":2,"numCopies":3},{"cardId":"riches_of_tropal_dhani_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Riches of Trōpal-Dhani","pitchValue":2,"numCopies":1},{"cardId":"riggermortis_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Riggermortis","pitchValue":2,"numCopies":3},{"cardId":"saltwater_swell_blue","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Saltwater Swell","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"saltwater_swell_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Saltwater Swell","pitchValue":1,"numCopies":1},{"cardId":"sawbones_dock_hand_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sawbones, Dock Hand","pitchValue":2,"numCopies":3},{"cardId":"sunken_treasure_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sunken Treasure","pitchValue":3,"numCopies":3},{"cardId":"tip_the_barkeep_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Tip the Barkeep","pitchValue":3,"numCopies":3}],"character":[{"cardId":"gravy_bones_shipwrecked_looter","cardName":"Gravy Bones, Shipwrecked Looter","numCopies":1},{"cardId":"compass_of_sunken_depths","cardName":"Compass of Sunken Depths","numCopies":1},{"cardId":"balance_of_justice","cardName":"Balance of Justice","numCopies":1},{"cardId":"dead_threads","cardName":"Dead Threads","numCopies":1},{"cardId":"gold_baited_hook","cardName":"Gold-Baited Hook","numCopies":1},{"cardId":"quickdodge_flexors","cardName":"Quickdodge Flexors","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"compass_of_sunken_depths","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Compass of Sunken Depths","pitchValue":0,"katsuDiscard":"0","activated":"2","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"1","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"1","damagePrevented":"0","damageTaken":"0","arcaneDamageDealt":0,"arcaneDamageTaken":0,"lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":40,"opponentLifeAtTurnEnd":40,"turnNo":0},"turn_1":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"0","resourcesUsed":"4","resourcesLeft":"2","cardsLeft":"0","damageThreatened":"6","damageDealt":"5","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","arcaneDamageDealt":0,"arcaneDamageTaken":0,"lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":40,"opponentLifeAtTurnEnd":35,"turnNo":1}},"yourTime":"69","totalTime":142,"totalDamageThreatened":6,"totalDamageDealt":5,"totalLifeGained":0,"totalDamageBlocked":1,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":6,"averageDamageDealtPerTurn":5,"averageDamageThreatenedPerCard":2,"averageResourcesUsedPerTurn":4,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":6,"averageValuePerTurn":6,"totalDamageThreatened_NoLast":0,"totalDamageDealt_NoLast":0,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":1,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":0,"averageDamageDealtPerTurn_NoLast":0,"averageDamageThreatenedPerCard_NoLast":0,"averageResourcesUsedPerTurn_NoLast":0,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":0,"averageValuePerTurn_NoLast":0,"fullLog":""}}}
+{"myPlayerID":2,"byPlayer":{"2":{"gameId":"1957330","deckId":"","turns":3,"result":0,"winner":1,"firstPlayer":0,"opposingHero":"teklovossen_esteemed_magnate","yourHero":"gravy_bones_shipwrecked_looter","startingLife":40,"opponentHero":"teklovossen_esteemed_magnate","opponentStartingLife":40,"cardResults":[{"cardId":"anka_drag_under_yellow","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Anka, Drag Under","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"avast_ye_blue","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Avast Ye!","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"back_alley_breakline_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Back Alley Breakline","pitchValue":3,"numCopies":1},{"cardId":"call_to_the_grave_blue","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Call to the Grave","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"cheating_scoundrel_red","played":"0","blocked":"1","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Cheating Scoundrel","pitchValue":1,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"chum_friendly_first_mate_yellow","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"1","charged":"0","cardName":"Chum, Friendly First Mate","pitchValue":2,"numCopies":3,"activated":"1","passiveTriggered":"0"},{"cardId":"conqueror_of_the_high_seas_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Conqueror of the High Seas","pitchValue":1,"numCopies":3},{"cardId":"eye_of_ophidia_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Eye of Ophidia","pitchValue":3,"numCopies":1},{"cardId":"fearless_confrontation_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Fearless Confrontation","pitchValue":3,"numCopies":2},{"cardId":"golden_tipple_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Golden Tipple","pitchValue":3,"numCopies":3},{"cardId":"jittery_bones_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Jittery Bones","pitchValue":3,"numCopies":3},{"cardId":"last_ditch_effort_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Last Ditch Effort","pitchValue":3,"numCopies":1,"activated":"0","passiveTriggered":"0"},{"cardId":"loan_shark_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Loan Shark","pitchValue":2,"numCopies":2,"activated":"0","passiveTriggered":"0"},{"cardId":"murderous_rabble_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Murderous Rabble","pitchValue":3,"numCopies":3},{"cardId":"portside_exchange_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Portside Exchange","pitchValue":3,"numCopies":3},{"cardId":"prismatic_leyline_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Prismatic Leyline","pitchValue":2,"numCopies":3},{"cardId":"riches_of_tropal_dhani_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Riches of Trōpal-Dhani","pitchValue":2,"numCopies":1},{"cardId":"riggermortis_yellow","played":"1","blocked":"0","pitched":"0","hits":"1","discarded":"1","charged":"0","cardName":"Riggermortis","pitchValue":2,"numCopies":3,"activated":"1","passiveTriggered":"0"},{"cardId":"saltwater_swell_blue","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Saltwater Swell","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sawbones_dock_hand_yellow","played":"1","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Sawbones, Dock Hand","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"scooba_salty_sea_dog_yellow","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Scooba, Salty Sea Dog","pitchValue":2,"numCopies":3,"activated":"0","passiveTriggered":"0"},{"cardId":"sunken_treasure_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Sunken Treasure","pitchValue":3,"numCopies":3},{"cardId":"swiftwater_sloop_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Swiftwater Sloop","pitchValue":1,"numCopies":2},{"cardId":"tip_the_barkeep_blue","played":"0","blocked":"0","pitched":"1","hits":"0","discarded":"0","charged":"0","cardName":"Tip the Barkeep","pitchValue":3,"numCopies":3,"activated":"0","passiveTriggered":"0"}],"character":[{"cardId":"gravy_bones_shipwrecked_looter","cardName":"Gravy Bones, Shipwrecked Looter","numCopies":1},{"cardId":"compass_of_sunken_depths","cardName":"Compass of Sunken Depths","numCopies":1},{"cardId":"carrion_crown","cardName":"Carrion Crown","numCopies":1},{"cardId":"dead_threads","cardName":"Dead Threads","numCopies":1},{"cardId":"gold_baited_hook","cardName":"Gold-Baited Hook","numCopies":1},{"cardId":"mage_master_boots","cardName":"Mage Master Boots","numCopies":1}],"tokenResults":[],"arenaCardResults":[{"cardId":"carrion_crown","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Carrion Crown","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"compass_of_sunken_depths","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Compass of Sunken Depths","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"},{"cardId":"gravy_bones_shipwrecked_looter","played":"0","blocked":"0","pitched":"0","hits":"0","discarded":"0","charged":"0","cardName":"Gravy Bones, Shipwrecked Looter","pitchValue":0,"katsuDiscard":"0","activated":"1","passiveTriggered":"0"}],"turnResults":{"turn_0":{"cardsUsed":0,"cardsBlocked":"0","cardsPitched":"0","cardsDiscarded":"0","resourcesUsed":"0","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"0","damagePrevented":"0","damageTaken":"0","arcaneDamageDealt":0,"arcaneDamageTaken":0,"lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":40,"opponentLifeAtTurnEnd":40,"turnNo":0},"turn_1":{"cardsUsed":2,"cardsBlocked":"0","cardsPitched":"1","cardsDiscarded":"1","resourcesUsed":"3","resourcesLeft":"0","cardsLeft":"1","damageThreatened":"7","damageDealt":"4","damageBlocked":"0","damagePrevented":"0","damageTaken":"4","arcaneDamageDealt":0,"arcaneDamageTaken":0,"lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":37,"opponentLifeAtTurnEnd":36,"turnNo":1},"turn_2":{"cardsUsed":2,"cardsBlocked":"1","cardsPitched":"2","cardsDiscarded":"0","resourcesUsed":"4","resourcesLeft":"0","cardsLeft":"0","damageThreatened":"4","damageDealt":"1","damageBlocked":"3","damagePrevented":"1","damageTaken":"12","arcaneDamageDealt":0,"arcaneDamageTaken":0,"lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":31,"opponentLifeAtTurnEnd":35,"turnNo":2},"turn_3":{"cardsUsed":2,"cardsBlocked":"1","cardsPitched":"1","cardsDiscarded":"1","resourcesUsed":"2","resourcesLeft":"1","cardsLeft":"0","damageThreatened":"0","damageDealt":"0","damageBlocked":"3","damagePrevented":"6","damageTaken":"0","arcaneDamageDealt":0,"arcaneDamageTaken":0,"lifeGained":"0","lifeLost":"0","lifeAtTurnEnd":31,"opponentLifeAtTurnEnd":35,"turnNo":3}},"yourTime":"284","totalTime":423,"totalDamageThreatened":11,"totalDamageDealt":5,"totalLifeGained":0,"totalDamageBlocked":6,"totalDamagePrevented":7,"totalLifeLost":0,"averageDamageThreatenedPerTurn":3.67,"averageDamageDealtPerTurn":1.67,"averageDamageThreatenedPerCard":1.1,"averageResourcesUsedPerTurn":3,"averageCardsLeftOverPerTurn":0.33,"averageCombatValuePerTurn":5.67,"averageValuePerTurn":8,"totalDamageThreatened_NoLast":11,"totalDamageDealt_NoLast":5,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":3,"totalDamagePrevented_NoLast":1,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":5.5,"averageDamageDealtPerTurn_NoLast":2.5,"averageDamageThreatenedPerCard_NoLast":1.57,"averageResourcesUsedPerTurn_NoLast":3.5,"averageCardsLeftOverPerTurn_NoLast":0.5,"averageCombatValuePerTurn_NoLast":7,"averageValuePerTurn_NoLast":7.5,"fullLog":""}}}
