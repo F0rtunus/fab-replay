@@ -1,0 +1,47 @@
+=== Talishar game 2062664 — 20/08/2026 00:02:03 ===
+
+Fortunus conceded the game.
+Dysame (Dysame) won! 🎉
+📊 Sending game result to Fabrary and FaB Insights
+
+=== HAND SNAPSHOTS (ta main, captée depuis le DOM — jamais celle de l'adversaire) ===
+[OUVERTURE] Jack Be Nimble, Enlightened Strike, Lightning Press, Current Funnel
+
+=== ARSENAL SNAPSHOTS (ton arsenal, capté depuis le DOM — jamais celui de l'adversaire) ===
+[OUVERTURE] (vide)
+
+=== FIELD SNAPSHOTS (permanents/tokens en jeu : toi | adversaire) ===
+[OUVERTURE] me: Gold | opp: (vide)
+
+=== GRAVEYARD SNAPSHOTS (cimetière : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+
+=== BANISH SNAPSHOTS (banni : toi | adversaire) ===
+[OUVERTURE] me: (vide) | opp: (vide)
+
+=== LIFE SNAPSHOTS (vie et taille de deck : toi / adversaire) ===
+[OUVERTURE] me=40 opp=40 myDeck=56 oppDeck=56
+
+=== META ===
+schema: v1
+captured_with: TLG v1.12.3
+game_url: https://talishar.net/game/play/2062664
+captured_at: 2026-08-19T22:01:41.594Z
+format: cc
+vs_ai: non
+me: Fortunus
+opponent: Dysame
+my_hero: Aurora, Legacy of Tempest (aurora_legacy_of_tempest)
+opp_hero: Hala Bladesaint Of The Vow (hala_bladesaint_of_the_vow)
+my_start_life: 40
+opp_start_life: 40
+my_start_deck_size: 56
+opp_start_deck_size: 56
+my_equipment: head=Crown Of Dominion (crown_of_dominion) | chest=Aether Ironweave (aether_ironweave) | arms=Grasp Of The Arknight (grasp_of_the_arknight) | legs=Snapdragon Scalers (snapdragon_scalers) | weaponL=Scorpio Comet Tail (scorpio_comet_tail)
+opp_equipment: head=Kabuto Of Imperial Authority (kabuto_of_imperial_authority) | chest=Fyendals Spring Tunic (fyendals_spring_tunic) | arms=Braveforge Bracers (braveforge_bracers) | legs=Valiant Dynamo (valiant_dynamo) | weaponL=Zenith Blade (zenith_blade)
+
+=== TIMESTAMPS ===
+0-2:1787176922
+
+=== END GAME STATS (Talishar, JSON) ===
+{"myPlayerID":2,"byPlayer":{"2":{"gameId":"2062664","deckId":"","turns":0,"result":0,"winner":1,"firstPlayer":1,"opposingHero":"hala_bladesaint_of_the_vow","yourHero":"aurora_legacy_of_tempest","startingLife":40,"opponentHero":"hala_bladesaint_of_the_vow","opponentStartingLife":40,"cardResults":[{"cardId":"arc_lightning_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Arc Lightning","pitchValue":2,"numCopies":3},{"cardId":"current_funnel_blue","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Current Funnel","pitchValue":3,"numCopies":3},{"cardId":"enlightened_strike_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Enlightened Strike","pitchValue":1,"numCopies":3},{"cardId":"fry_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Fry","pitchValue":1,"numCopies":3},{"cardId":"jack_be_nimble_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Jack Be Nimble","pitchValue":1,"numCopies":2},{"cardId":"lightning_surge_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Lightning Surge","pitchValue":1,"numCopies":3},{"cardId":"nimblism_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Nimblism","pitchValue":1,"numCopies":3},{"cardId":"nimby_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Nimby","pitchValue":1,"numCopies":3},{"cardId":"path_of_same_ends_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Path of Same Ends","pitchValue":1,"numCopies":3},{"cardId":"quick_succession_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Quick Succession","pitchValue":1,"numCopies":3},{"cardId":"ravenous_rabble_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Ravenous Rabble","pitchValue":1,"numCopies":3},{"cardId":"second_strike_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Second Strike","pitchValue":1,"numCopies":3},{"cardId":"skyward_serenade_yellow","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Skyward Serenade","pitchValue":2,"numCopies":3},{"cardId":"skyzyk_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Skyzyk","pitchValue":1,"numCopies":3},{"cardId":"snatch_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Snatch","pitchValue":1,"numCopies":3},{"cardId":"voltbound_duality_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Voltbound Duality","pitchValue":1,"numCopies":2},{"cardId":"exude_confidence_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Exude Confidence","pitchValue":1,"numCopies":3},{"cardId":"lightning_press_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Lightning Press","pitchValue":1,"numCopies":3},{"cardId":"scar_for_a_scar_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Scar for a Scar","pitchValue":1,"numCopies":3},{"cardId":"revel_in_runeblood_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Revel in Runeblood","pitchValue":1,"numCopies":2},{"cardId":"stinging_sprite_red","played":0,"blocked":0,"pitched":0,"hits":0,"discarded":0,"charged":0,"cardName":"Stinging Sprite","pitchValue":1,"numCopies":3}],"character":[{"cardId":"aurora_legacy_of_tempest","cardName":"Aurora, Legacy of Tempest","numCopies":1},{"cardId":"scorpio_comet_tail","cardName":"Scorpio, Comet Tail","numCopies":1},{"cardId":"crown_of_dominion","cardName":"Crown of Dominion","numCopies":1},{"cardId":"aether_ironweave","cardName":"Aether Ironweave","numCopies":1},{"cardId":"grasp_of_the_arknight","cardName":"Grasp of the Arknight","numCopies":1},{"cardId":"snapdragon_scalers","cardName":"Snapdragon Scalers","numCopies":1}],"tokenResults":[],"arenaCardResults":[],"yourTime":"0","totalTime":0,"totalDamageThreatened":0,"totalDamageDealt":0,"totalLifeGained":0,"totalDamageBlocked":0,"totalDamagePrevented":0,"totalLifeLost":0,"averageDamageThreatenedPerTurn":0,"averageDamageDealtPerTurn":0,"averageDamageThreatenedPerCard":0,"averageResourcesUsedPerTurn":0,"averageCardsLeftOverPerTurn":0,"averageCombatValuePerTurn":0,"averageValuePerTurn":0,"totalDamageThreatened_NoLast":0,"totalDamageDealt_NoLast":0,"totalLifeGained_NoLast":0,"totalDamageBlocked_NoLast":0,"totalDamagePrevented_NoLast":0,"totalLifeLost_NoLast":0,"averageDamageThreatenedPerTurn_NoLast":0,"averageDamageDealtPerTurn_NoLast":0,"averageDamageThreatenedPerCard_NoLast":0,"averageResourcesUsedPerTurn_NoLast":0,"averageCardsLeftOverPerTurn_NoLast":0,"averageCombatValuePerTurn_NoLast":0,"averageValuePerTurn_NoLast":0,"fullLog":""}}}
